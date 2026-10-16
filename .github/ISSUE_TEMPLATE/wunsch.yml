@@ -1,0 +1,34 @@
+name: Wunsch / Feature request
+description: Eine Idee, was die App besser machen würde. / An idea to make the app better.
+title: "Wunsch: "
+labels: ["wunsch"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Schön, dass du eine Idee hast! Schau bitte kurz, ob es den Wunsch schon gibt – ein 👍 auf einem bestehenden Eintrag zählt auch.
+        *Please check whether the wish already exists – a 👍 on an existing issue counts too.*
+  - type: textarea
+    id: wunsch
+    attributes:
+      label: Was wünschst du dir? / What would you like?
+      placeholder: "Eine Statistik, wie oft ich Durch angesagt habe …"
+    validations:
+      required: true
+  - type: textarea
+    id: wofuer
+    attributes:
+      label: Wofür? / Why?
+      description: In welcher Situation würde dir das helfen? Wie macht ihr das am echten Stammtisch?
+  - type: dropdown
+    id: bereich
+    attributes:
+      label: Bereich / Area
+      options:
+        - Spiel am Tisch / at the table
+        - Bots
+        - Online, Lobby, Stammtisch
+        - Wertung, Turnier, Tagesblatt
+        - Wiedergabe & Auswertung / replay & analysis
+        - Aussehen, Bedienung / look & controls
+        - Etwas anderes / something else

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Direkt in der App melden / Report from inside the app
+    url: https://binokel.tail108204.ts.net
+    about: "Einstellungen → Über die App → Fehler melden: Version, Gerät und Partie gehen automatisch mit – ohne GitHub-Konto."
+  - name: Neueste Version / Latest version
+    url: https://github.com/AscendancyDotA/binokel/releases/tag/latest-test
+    about: Vielleicht ist der Fehler schon behoben – Android-App und Windows-App hier herunterladen.
+  - name: Datenschutz / Privacy
+    url: https://binokel.tail108204.ts.net/datenschutz
+    about: Was gespeichert wird und wie du Einträge löschen lassen kannst.

@@ -1,0 +1,27 @@
+name: Regelfrage / Rules question
+description: Eine Spielregel ist unklar oder die App rechnet anders als ihr am Stammtisch. / A rule is unclear.
+title: "Regelfrage: "
+labels: ["regelfrage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Die Regeln, nach denen die App spielt, stehen auch in der **Regelhilfe** („?“ in der App). Binokel wird von Ort zu Ort verschieden gespielt – erzähl gern, wie ihr es haltet.
+        *The rules the app plays by are in the in-app rules help ("?"). House rules vary – tell us how you play.*
+  - type: textarea
+    id: frage
+    attributes:
+      label: Deine Frage / Your question
+      placeholder: "Darf man nach dem Abgehen noch melden?"
+    validations:
+      required: true
+  - type: textarea
+    id: beispiel
+    attributes:
+      label: Beispiel / Example
+      description: Welche Karten, welches Gebot, was hat die App gemacht? Partie-ID und Zug aus der Wiedergabe helfen sehr.
+  - type: textarea
+    id: bei-uns
+    attributes:
+      label: Wie spielt ihr das? / How do you play it?
+      description: Euer Ort / eure Runde und eure Regel.

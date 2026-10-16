@@ -1,0 +1,52 @@
+name: Fehler / Bug
+description: Etwas funktioniert nicht wie erwartet. / Something does not work as expected.
+title: "Fehler: "
+labels: ["fehler"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Melden! Am einfachsten geht's direkt in der App (*Einstellungen → Über die App → Fehler melden* oder die Fahne am Tisch) – dann gehen Version, Gerät und Partie automatisch mit.
+        Bitte keine persönlichen Daten (E-Mail, Telefonnummer …) eintragen: dieser Eintrag ist öffentlich.
+        *Thanks for reporting! The easiest way is inside the app (Settings → About → Report a problem). This issue is public – please don't post personal data.*
+  - type: textarea
+    id: was
+    attributes:
+      label: Was ist passiert? / What happened?
+      description: Was hast du gemacht, was ist passiert, und was hättest du erwartet?
+      placeholder: "Ich wollte im Hochformat … und dann …"
+    validations:
+      required: true
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Wie kann man es nachstellen? / Steps to reproduce
+      placeholder: |
+        1. Gegen Bots, 3 Spieler, bis 1000
+        2. …
+  - type: dropdown
+    id: plattform
+    attributes:
+      label: Wo spielst du? / Platform
+      options:
+        - Android-App (APK)
+        - Windows-App
+        - Browser am Handy / phone browser
+        - Browser am Computer / desktop browser
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Steht in der App unter *Einstellungen → Über die App* (z. B. „0.1.0 · Build 140“).
+  - type: input
+    id: partie
+    attributes:
+      label: Partie-ID und Zug (falls bekannt) / Match id and move
+      description: Aus der Wiedergabe („Link kopiera“), z. B. `MDUdqArDrm6b`, Zug 237.
+  - type: textarea
+    id: bilder
+    attributes:
+      label: Bildschirmfotos / Screenshots
+      description: Gern hier hineinziehen. Namen anderer Spieler bitte unkenntlich machen.
