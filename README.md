@@ -18,6 +18,23 @@
 Alle Versionen mit Änderungen: [Releases](https://github.com/AscendancyDotA/binokel/releases) (`latest-test` ist immer die neueste Test-Version).
 Die Apps sagen selbst Bescheid, wenn es eine neue Version gibt.
 
+<!-- stats:start (tools/public-readme-stats.ts, GitHub #28) -->
+## Gerade im Wirtshaus
+
+<p>
+  <img alt="Partien gesamt" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.matches.total&label=Partien%20gesamt&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300">
+  <img alt="Partien diesen Monat" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.matches.month&label=Partien%20diesen%20Monat&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300">
+  <img alt="Spieler diesen Monat" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.players.month&label=Spieler%20diesen%20Monat&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300">
+  <img alt="gerade online" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.online.now&label=gerade%20online&color=d9a648&labelColor=21170d&style=flat-square&cacheSeconds=300">
+</p>
+
+<p align="center">
+  <a href="https://binokel.tail108204.ts.net"><img src="https://binokel.tail108204.ts.net/stats.svg" alt="Binokel Wirtshaus – Zahlen live: Partien, Spieler, online" width="640"></a>
+</p>
+
+<sub>Live vom Spielserver (<a href="https://binokel.tail108204.ts.net/stats.json">stats.json</a>), alle paar Minuten neu. Gezählt werden fertige Partien mit mindestens einem Menschen am Tisch (keine reinen Bot-Tische), Spieler = Konten mit mindestens einer Partie im Zeitraum. Nur Summen – keine Namen, keine IP-Adressen.</sub>
+<!-- stats:end -->
+
 ## Was ist Binokel?
 
 Binokel ist das schwäbische Wirtshaus-Kartenspiel mit dem württembergischen Blatt (Eichel, Grün, Herz, Schellen; 48 Karten, jede doppelt).
@@ -81,6 +98,10 @@ Three players, or four in two teams, up to 1000 or 1500 points.
 
 **Download:** [Android APK](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel.apk) · [Windows installer](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel-setup.exe) (unsigned: SmartScreen → *More info → Run anyway*) · **play in the browser: <https://binokel.tail108204.ts.net>** · [all releases](https://github.com/AscendancyDotA/binokel/releases)
 
+<!-- stats-en:start -->
+**Live:** <img alt="matches" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.matches.total&label=matches&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300"> <img alt="players this month" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.players.month&label=players%20this%20month&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300"> <img alt="online now" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.online.now&label=online%20now&color=d9a648&labelColor=21170d&style=flat-square&cacheSeconds=300"> · [picture](https://binokel.tail108204.ts.net/stats.svg?lang=en) · [stats.json](https://binokel.tail108204.ts.net/stats.json)
+
+<!-- stats-en:end -->
 **Features:** six bot characters, offline play, guided first game and illustrated rules · online tables (rated or practice), ratings, spectators, chat, voice & video · Stammtisch groups · daily deal, weekly tournament, honour and loyalty instead of pay-to-win – no money, no ads · Wirtshaus-TV (bot tables to watch) · replay of every match with move-by-move **analysis** · house rules · three looks incl. high contrast, big cards · Swabian, German and English.
 
 **Report a problem / wish / rules question:** in the app via *Settings → About → Report a problem* or the small **flag** at the table and in the replay viewer – version, device and match are attached automatically, a screenshot and the app log only if you tick the box. It becomes a public issue here **without your player name or IP address**. Or open an [issue](https://github.com/AscendancyDotA/binokel/issues/new/choose) with your GitHub account.
