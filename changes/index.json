@@ -18,5 +18,27 @@
    }
   ],
   "sha": "28a6a4d"
+ },
+ {
+  "id": "onb69-one-round",
+  "date": "2026-10-23T21:40:41.398Z",
+  "title": "Lernspiel: eine Runde statt Partie bis 1000 (ab 0.1.0-338)",
+  "text": "Festes Blatt, alle Tipps in einer Runde (Reizen → Dabb → Meldungen → Stich → Ausspielen → Abrechnung). Am Ende führt „Jetzt richtig spielen“ in eine normale Partie gegen Bots.",
+  "issue": "wirtshaus#69",
+  "rows": [
+   {
+    "label": "Tipp beim Reizen",
+    "img": "changes/2026-10-23-onb69-one-round/01-img-p390-de-tip-bid.webp"
+   },
+   {
+    "label": "Tipp beim Dabb (inkl. ‚die zwei anderen spielen zusammen‘)",
+    "img": "changes/2026-10-23-onb69-one-round/02-img-p390-de-tip-dabb.webp"
+   },
+   {
+    "label": "Ende: Jetzt richtig spielen",
+    "img": "changes/2026-10-23-onb69-one-round/03-img-p390-de-end.webp"
+   }
+  ],
+  "sha": "28a6a4d"
  }
 ]
