@@ -40,5 +40,54 @@
    }
   ],
   "sha": "28a6a4d"
+ },
+ {
+  "id": "pub11-ui",
+  "date": "2026-10-23T21:51:52.341Z",
+  "title": "Handy: Taverne-Reiter, Fehler-melden-Knopf, Dabb und Stich (#11)",
+  "text": "Die Taverne zeigt mit einem Pfeil am Rand, dass es weitere Räume gibt (Tippen scrollt weiter). Der „Ansehen“-Knopf nach dem Fehler-Melden ist jetzt gut sichtbar. Im Querformat liegt der Dabb unter den Karten des Partners, der Stich ist größer und enger gestapelt, und jede Karte trägt ihr Eckzeichen wie eine echte Karte auf zwei Ecken.",
+  "issue": "binokel#11",
+  "rows": [
+   {
+    "label": "1 · Taverne-Räume, hochkant 508×624",
+    "before": "changes/2026-10-23-pub11-ui/01-before-b-lobby-508x624-wirtshaus-s1.webp",
+    "after": "changes/2026-10-23-pub11-ui/02-after-a-lobby-508x624-wirtshaus-s1.webp"
+   },
+   {
+    "label": "1 · nach Tippen auf den Pfeil (Aussehen Klar)",
+    "img": "changes/2026-10-23-pub11-ui/03-img-a-lobby-508x624-klar-s1-scrolled.webp"
+   },
+   {
+    "label": "2 · Fehler melden – Erfolgsmeldung, 508×624",
+    "before": "changes/2026-10-23-pub11-ui/04-before-b-bugdone-508x624-wirtshaus.webp",
+    "after": "changes/2026-10-23-pub11-ui/05-after-a-bugdone-508x624-wirtshaus.webp"
+   },
+   {
+    "label": "3 · Dabb, Meistertisch, quer 1130×508",
+    "before": "changes/2026-10-23-pub11-ui/06-before-t-m4-dabb-1130x508.webp",
+    "after": "changes/2026-10-23-pub11-ui/07-after-t-m4-dabb-1130x508.webp"
+   },
+   {
+    "label": "3 · Dabb beim Reizen, quer 1130×324",
+    "before": "changes/2026-10-23-pub11-ui/08-before-b-m4-dabb-1130x324.webp",
+    "after": "changes/2026-10-23-pub11-ui/09-after-a-m4-dabb-1130x324.webp"
+   },
+   {
+    "label": "4 · Stich, Meistertisch, quer 1130×508",
+    "before": "changes/2026-10-23-pub11-ui/10-before-b-m4-only-1130x508.webp",
+    "after": "changes/2026-10-23-pub11-ui/11-after-a-m4-only-1130x508.webp"
+   },
+   {
+    "label": "4 · Stich, quer 1130×324",
+    "before": "changes/2026-10-23-pub11-ui/12-before-b-m4-only-1130x324.webp",
+    "after": "changes/2026-10-23-pub11-ui/13-after-a-m4-only-1130x324.webp"
+   },
+   {
+    "label": "4 · Stich, quer 915×412 (untere Karte liegt drunter, Eckzeichen unten rechts bleibt frei)",
+    "before": "changes/2026-10-23-pub11-ui/14-before-b-m4-only-915x412.webp",
+    "after": "changes/2026-10-23-pub11-ui/15-after-a-m4-only-915x412.webp"
+   }
+  ],
+  "sha": "25b4b65"
  }
 ]
