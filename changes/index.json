@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pub10-phone-layout",
+  "date": "2026-10-23T21:40:21.845Z",
+  "title": "Handy-Layout: Reiz-Fenster und Rundenabrechnung (ab 0.1.0-338)",
+  "text": "Querformat: Phasen-Fenster (Reizen, Dabb, Melden …) liegen über der Hand statt darauf, die Hand rückt dafür etwas nach unten. Hochkant: die Rundenabrechnung passt in die Breite, „Weiter“ ist immer sichtbar.",
+  "issue": "binokel#10",
+  "rows": [
+   {
+    "label": "Handy quer 844×390, Reizen",
+    "before": "changes/2026-10-23-pub10-phone-layout/01-before-before-bid-p3-844x390-s1.35.webp",
+    "after": "changes/2026-10-23-pub10-phone-layout/02-after-a-bid-p3-844x390-s1.35.webp"
+   },
+   {
+    "label": "Handy hochkant 411×879, Rundenabrechnung",
+    "before": "changes/2026-10-23-pub10-phone-layout/03-before-before-roundend-p3-411x879-s1.35.webp",
+    "after": "changes/2026-10-23-pub10-phone-layout/04-after-a-roundend-p3-411x879-s1.35.webp"
+   }
+  ],
+  "sha": "28a6a4d"
+ }
+]
