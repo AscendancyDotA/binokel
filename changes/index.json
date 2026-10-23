@@ -43,7 +43,7 @@
  },
  {
   "id": "pub11-ui",
-  "date": "2026-10-23T21:51:52.341Z",
+  "date": "2026-10-23T21:53:01.986Z",
   "title": "Handy: Taverne-Reiter, Fehler-melden-Knopf, Dabb und Stich (#11)",
   "text": "Die Taverne zeigt mit einem Pfeil am Rand, dass es weitere Räume gibt (Tippen scrollt weiter). Der „Ansehen“-Knopf nach dem Fehler-Melden ist jetzt gut sichtbar. Im Querformat liegt der Dabb unter den Karten des Partners, der Stich ist größer und enger gestapelt, und jede Karte trägt ihr Eckzeichen wie eine echte Karte auf zwei Ecken.",
   "issue": "binokel#11",
@@ -69,7 +69,7 @@
    },
    {
     "label": "3 · Dabb beim Reizen, quer 1130×324",
-    "before": "changes/2026-10-23-pub11-ui/08-before-b-m4-dabb-1130x324.webp",
+    "before": "changes/2026-10-23-pub11-ui/08-before-bd-m4-dabb-1130x324.webp",
     "after": "changes/2026-10-23-pub11-ui/09-after-a-m4-dabb-1130x324.webp"
    },
    {
