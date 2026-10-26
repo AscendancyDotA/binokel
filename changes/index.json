@@ -89,5 +89,40 @@
    }
   ],
   "sha": "25b4b65"
+ },
+ {
+  "id": "layout-a",
+  "date": "2026-10-26T10:22:23.968Z",
+  "title": "Tisch: größere Karten am Tablet/Handy, größere Reiz-Knöpfe, Hand unten abschneiden",
+  "text": "Am Tablet hochkant liegt die Hand jetzt in einer Reihe über die ganze Breite, und die Stichkarten sind am Tablet und am Handy hochkant größer (etwa 16 % der Bildschirmhöhe). Beim Reizen sind „Reizen“ (grünlich) und „Weg“ (gedämpft rot) große eigene Knöpfe. Neu in den Einstellungen: „Hand unten abschneiden“ – quer ist es an, hochkant aus; dann zeigt die Hand nur den oberen Teil mit der Ecke und der Tisch bekommt den Platz.",
+  "issue": "wirtshaus#71",
+  "rows": [
+   {
+    "label": "Tablet hochkant 800×1280, Stich",
+    "before": "changes/2026-10-26-layout-a/01-before-b-trick-p3-800x1280-s1.webp",
+    "after": "changes/2026-10-26-layout-a/02-after-a-trick-p3-800x1280-s1.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987, Stich",
+    "before": "changes/2026-10-26-layout-a/03-before-b-trick-p3-444x987-s1.webp",
+    "after": "changes/2026-10-26-layout-a/04-after-a-trick-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987, Reizen",
+    "before": "changes/2026-10-26-layout-a/05-before-b-bid-p3-444x987-s1.webp",
+    "after": "changes/2026-10-26-layout-a/06-after-a-bid-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Handy quer 987×444: Hand unten abschneiden aus (vorher) / an (neu, Standard quer)",
+    "before": "changes/2026-10-26-layout-a/07-before-lcut0-trick-p3-987x444-s1.webp",
+    "after": "changes/2026-10-26-layout-a/08-after-lcut1-trick-p3-987x444-s1.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987: Hand unten abschneiden aus (Standard) / an (zweite Reihe halb unter der ersten)",
+    "before": "changes/2026-10-26-layout-a/09-before-a-trick-p3-444x987-s1.webp",
+    "after": "changes/2026-10-26-layout-a/10-after-pcut1-trick-p3-444x987-s1.webp"
+   }
+  ],
+  "sha": "12e2722"
  }
 ]
