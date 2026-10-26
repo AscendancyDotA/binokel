@@ -407,5 +407,125 @@
    }
   ],
   "sha": "5a6ea66"
+ },
+ {
+  "id": "settings110",
+  "date": "2026-10-26T23:51:27.559Z",
+  "title": "Einstellungen aufräumen: Entwurf (Item 110)",
+  "text": "Entwurf von Claude Code via Arena-Router. Vorher = origin/main (lange Liste), nachher = Prototyp im Branch feat/settings110 (Variante A: Häufig + Kacheln + Unterseiten + Suche; Variante B: Seitenleiste am Desktop). Geöffnet über dem laufenden Tisch, damit die Live-Vorschau dahinter echt ist. Nicht gemergt.",
+  "issue": "wirtshaus#76",
+  "rows": [
+   {
+    "label": "So lang ist die alte Liste (Handy hochkant, 6 Bildschirme nebeneinander)",
+    "img": "changes/2026-10-26-settings110/01-img-before-liste-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "So lang ist die alte Liste (Desktop, 7 Ausschnitte)",
+    "img": "changes/2026-10-26-settings110/02-img-before-liste-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Startseite · wirtshaus · 444x987 (Variante A)",
+    "before": "changes/2026-10-26-settings110/03-before-before-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-26-settings110/04-after-after-a-start-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Startseite · wirtshaus · 844x390 (Variante A)",
+    "before": "changes/2026-10-26-settings110/05-before-before-wirtshaus-844x390.webp",
+    "after": "changes/2026-10-26-settings110/06-after-after-a-start-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Startseite · wirtshaus · 1280x800 (Variante A)",
+    "before": "changes/2026-10-26-settings110/07-before-before-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-26-settings110/08-after-after-a-start-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Startseite · klar · 444x987 (Variante A)",
+    "before": "changes/2026-10-26-settings110/09-before-before-klar-444x987.webp",
+    "after": "changes/2026-10-26-settings110/10-after-after-a-start-klar-444x987.webp"
+   },
+   {
+    "label": "Startseite · klar · 844x390 (Variante A)",
+    "before": "changes/2026-10-26-settings110/11-before-before-klar-844x390.webp",
+    "after": "changes/2026-10-26-settings110/12-after-after-a-start-klar-844x390.webp"
+   },
+   {
+    "label": "Startseite · klar · 1280x800 (Variante A)",
+    "before": "changes/2026-10-26-settings110/13-before-before-klar-1280x800.webp",
+    "after": "changes/2026-10-26-settings110/14-after-after-a-start-klar-1280x800.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · wirtshaus · 444x987",
+    "img": "changes/2026-10-26-settings110/15-img-after-a-karten-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · wirtshaus · 844x390",
+    "img": "changes/2026-10-26-settings110/16-img-after-a-karten-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · wirtshaus · 1280x800",
+    "img": "changes/2026-10-26-settings110/17-img-after-a-karten-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · klar · 444x987",
+    "img": "changes/2026-10-26-settings110/18-img-after-a-karten-klar-444x987.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · klar · 844x390",
+    "img": "changes/2026-10-26-settings110/19-img-after-a-karten-klar-844x390.webp"
+   },
+   {
+    "label": "Unterseite „Karten & Aussehen“ · klar · 1280x800",
+    "img": "changes/2026-10-26-settings110/20-img-after-a-karten-klar-1280x800.webp"
+   },
+   {
+    "label": "Suche „ton“ · wirtshaus · 444x987",
+    "img": "changes/2026-10-26-settings110/21-img-after-a-suche-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Suche „ton“ · wirtshaus · 844x390",
+    "img": "changes/2026-10-26-settings110/22-img-after-a-suche-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Suche „ton“ · wirtshaus · 1280x800",
+    "img": "changes/2026-10-26-settings110/23-img-after-a-suche-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Suche „ton“ · klar · 444x987",
+    "img": "changes/2026-10-26-settings110/24-img-after-a-suche-klar-444x987.webp"
+   },
+   {
+    "label": "Suche „ton“ · klar · 844x390",
+    "img": "changes/2026-10-26-settings110/25-img-after-a-suche-klar-844x390.webp"
+   },
+   {
+    "label": "Suche „ton“ · klar · 1280x800",
+    "img": "changes/2026-10-26-settings110/26-img-after-a-suche-klar-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · wirtshaus · start",
+    "img": "changes/2026-10-26-settings110/27-img-after-b-start-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · wirtshaus · karten",
+    "img": "changes/2026-10-26-settings110/28-img-after-b-karten-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · wirtshaus · suche",
+    "img": "changes/2026-10-26-settings110/29-img-after-b-suche-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · klar · start",
+    "img": "changes/2026-10-26-settings110/30-img-after-b-start-klar-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · klar · karten",
+    "img": "changes/2026-10-26-settings110/31-img-after-b-karten-klar-1280x800.webp"
+   },
+   {
+    "label": "Variante B (Seitenleiste, Desktop) · klar · suche",
+    "img": "changes/2026-10-26-settings110/32-img-after-b-suche-klar-1280x800.webp"
+   }
+  ],
+  "sha": "5d3a98e"
  }
 ]
