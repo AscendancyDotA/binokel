@@ -224,5 +224,44 @@
    }
   ],
   "sha": "ac3ede9"
+ },
+ {
+  "id": "seats72b",
+  "date": "2026-10-26T16:22:52.174Z",
+  "title": "4er: Partner-Karten groß oben am Tischrand, Tisch-Info als ein Feld",
+  "text": "Die verdeckten Karten des Partners liegen jetzt als Fächer mittig ganz oben am Tischrand – ganz sichtbar und größer, nicht mehr von der Kopfzeile abgeschnitten. Trumpf, Gereizt und „Punkte / Gebot“ stehen in einem kleinen Feld rechts daneben; Antippen öffnet alle Angaben ausgeschrieben (mit Erklärung) und die Tischregeln. Dazu: die Zeile unter den Namen ist kleiner und ruhiger (trotzdem ≥ 4,5 : 1 Kontrast in allen drei Stilen), und die Punktetafel zeigt vor jedem Namen den Farbpunkt des Platzes. Standard für hochkant und quer, 3er unverändert (nur Zeile + Farbpunkte).",
+  "issue": "wirtshaus#72",
+  "rows": [
+   {
+    "label": "Handy hochkant 444×987 – Spielen",
+    "before": "changes/2026-10-26-seats72b/01-before-before-playing-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72b/02-after-after-playing-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Reizen (das Feld zeigt das höchste Gebot, die Gegner rücken für ihre Gebots-Blase etwas tiefer)",
+    "before": "changes/2026-10-26-seats72b/03-before-before-bid-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72b/04-after-after-bid-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Neu: Feld angetippt – alle Angaben ausgeschrieben, Tischregeln und Runde",
+    "img": "changes/2026-10-26-seats72b/05-img-after-tinfo-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Stil „Klar“ hochkant",
+    "before": "changes/2026-10-26-seats72b/06-before-before-playing-klar-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72b/07-after-after-playing-klar-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Handy quer 844×390 – Fächer mittig oben, Stich bleibt gleich groß",
+    "before": "changes/2026-10-26-seats72b/08-before-before-playing-p4-844x390-s1.webp",
+    "after": "changes/2026-10-26-seats72b/09-after-after-playing-p4-844x390-s1.webp"
+   },
+   {
+    "label": "Zeile unter dem Namen ruhiger, Farbpunkte in der Punktetafel (3er, vergrößert)",
+    "before": "changes/2026-10-26-seats72b/10-before-before-detail-p3.webp",
+    "after": "changes/2026-10-26-seats72b/11-after-after-detail-p3.webp"
+   }
+  ],
+  "sha": "bd675c4"
  }
 ]
