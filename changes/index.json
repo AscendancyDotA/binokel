@@ -263,5 +263,35 @@
    }
   ],
   "sha": "bd675c4"
+ },
+ {
+  "id": "guided-chips",
+  "date": "2026-10-26T16:23:17.593Z",
+  "title": "Lernspiel erklärt die Schilder am Tisch",
+  "text": "Die geführte erste Runde hat fünf neue kurze Tipps, je ein Gedanke: V/M/H an den Namen beim Reizen, das Trumpf-Schild und die Spielerfarben beim ersten Stich, „Punkte / Gebot“ (z. B. 207 / 150) und die Kartenzahl beim ersten Ausspielen. Nach „Verstanden“ kommt der nächste Tipp desselben Moments; „Keine Tipps mehr“ schaltet alle ab. Gleich in Schwäbisch, Deutsch und Englisch.",
+  "issue": "wirtshaus#72",
+  "rows": [
+   {
+    "label": "Reizen: V / M / H",
+    "img": "changes/2026-10-26-guided-chips/01-img-g-roles.webp"
+   },
+   {
+    "label": "Erster Stich: Trumpf-Schild",
+    "img": "changes/2026-10-26-guided-chips/02-img-g-trump.webp"
+   },
+   {
+    "label": "Erster Stich: Spielerfarben",
+    "img": "changes/2026-10-26-guided-chips/03-img-g-colors.webp"
+   },
+   {
+    "label": "Ausspielen: Punkte / Gebot",
+    "img": "changes/2026-10-26-guided-chips/04-img-g-counter.webp"
+   },
+   {
+    "label": "Ausspielen: Kartenzahl",
+    "img": "changes/2026-10-26-guided-chips/05-img-g-count.webp"
+   }
+  ],
+  "sha": "2d4fb01"
  }
 ]
