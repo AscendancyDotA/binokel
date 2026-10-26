@@ -152,5 +152,37 @@
    }
   ],
   "sha": "e973176"
+ },
+ {
+  "id": "issue-notify",
+  "date": "2026-10-26T11:06:35.798Z",
+  "title": "Meldungen: Nachricht, wenn deine Fehlermeldung beantwortet wird",
+  "text": "Wer in der App einen Fehler gemeldet hat, bekommt jetzt eine Nachricht, sobald wir im GitHub-Eintrag antworten oder ihn schließen („Deine Meldung „…“ ist behoben (ab Version …)“): Hinweis unten in der Lobby, Glocke „Meldungen“ mit Zähler im Kopf (nur wenn es Nachrichten gibt), Liste mit Link zum Eintrag, Schalter in den Einstellungen (Standard an). Der Server schaut alle 15 Minuten nach, nur bei offenen Einträgen mit eigener Meldung; die Verbindung Konto ↔ Eintrag bleibt auf dem Server. Bilder mit nachgestelltem GitHub (Test-Server). Ab dem nächsten Server-Neustart.",
+  "issue": "wirtshaus#73",
+  "rows": [
+   {
+    "label": "Handy hochkant: neue Antwort (Hinweis + Glocke)",
+    "img": "changes/2026-10-26-issue-notify/01-img-lobby-toast-444x987.webp"
+   },
+   {
+    "label": "Liste (Wirtshaus)",
+    "img": "changes/2026-10-26-issue-notify/02-img-list-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Liste (Klar · Arena)",
+    "before": "changes/2026-10-26-issue-notify/03-before-list-klar-444x987.webp",
+    "after": "changes/2026-10-26-issue-notify/04-after-list-arena-444x987.webp"
+   },
+   {
+    "label": "Einstellungen: Schalter",
+    "img": "changes/2026-10-26-issue-notify/05-img-settings-444x987.webp"
+   },
+   {
+    "label": "Desktop 1366×800: Hinweis · Liste",
+    "before": "changes/2026-10-26-issue-notify/06-before-lobby-toast-1366x800.webp",
+    "after": "changes/2026-10-26-issue-notify/07-after-list-1366x800.webp"
+   }
+  ],
+  "sha": "e973176"
  }
 ]
