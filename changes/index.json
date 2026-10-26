@@ -293,5 +293,53 @@
    }
   ],
   "sha": "2d4fb01"
+ },
+ {
+  "id": "seats72c",
+  "date": "2026-10-26T17:53:08.161Z",
+  "title": "4er: einheitliche Fächer, Spielmacher hervorgehoben, quer mehr Tisch",
+  "text": "Dritter Durchgang am 4er-Tisch: Alle drei Mitspieler halten jetzt dieselbe Hand – einen gebogenen Fächer in gleicher Kartengröße (die Gegner um 90° gedreht, am Bildschirmrand angeschnitten, mit Kartenzahl). Das Info-Feld zeigt den Spielmacher (★, Farbpunkt, Name); die Punktetafel rahmt seine Partei in seiner Platzfarbe mit dem gleichen ★-Abzeichen wie am Sitzschild (4er mit dem Wort „Spielmacher“, 3er ★ vor dem Namen), vor dem Ende des Reizens bleibt alles unmarkiert. Quer sitzt der Partner jetzt in Höhe der Kopfzeile (deren Mitte frei ist): der Stich wird mit der Standard-Einstellung um 19 % höher (844×390: 124 → 148 px, 915×412: 131 → 157, 987×444: 141 → 169; mit den größten Karten +9 bis +15 %), Dabb und Meldungen wachsen mit. Hochkant habe ich den Fächer nicht unter die Kopfzeile geschoben: dort begrenzen die Breite (Gegnerspalten) und die 15,5-%-Höhengrenze den Stich, nicht die Höhe (gemessen: +0 px), und der Fächer hätte die Chips „Uba“ und „Runde“ verdeckt. Meine Bewertung: klar besser als der Stand davor, weil die Hände jetzt wie an einem Tisch aussehen und man den Spielmacher auf einen Blick sieht; schwächer bleibt, dass die Rand-Fächer quer klein ausfallen und der Tischname auf 844 px breiten Handys gekürzt wird.",
+  "issue": "wirtshaus#72",
+  "rows": [
+   {
+    "label": "Hochkant 444×987 – Spielen",
+    "before": "changes/2026-10-26-seats72c/01-before-b-playing-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72c/02-after-s-playing-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Hochkant 444×987 – Reizen",
+    "before": "changes/2026-10-26-seats72c/03-before-b-bid-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72c/04-after-s-bid-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Quer 844×390 – Spielen (Stich 124 → 148 px hoch)",
+    "before": "changes/2026-10-26-seats72c/05-before-b-playing-p4-844x390-s1.webp",
+    "after": "changes/2026-10-26-seats72c/06-after-s-playing-p4-844x390-s1.webp"
+   },
+   {
+    "label": "Quer 987×444 – Meldungen (Stich 141 → 169 px hoch)",
+    "before": "changes/2026-10-26-seats72c/07-before-b-melds-p4-987x444-s1.webp",
+    "after": "changes/2026-10-26-seats72c/08-after-s-melds-p4-987x444-s1.webp"
+   },
+   {
+    "label": "Punktetafel 4er: Zeile des Spielmachers hervorgehoben (vergrößert)",
+    "before": "changes/2026-10-26-seats72c/09-before-score4-before.webp",
+    "after": "changes/2026-10-26-seats72c/10-after-score4-after.webp"
+   },
+   {
+    "label": "Punktetafel 3er: Spielmacher hervorgehoben (vergrößert)",
+    "before": "changes/2026-10-26-seats72c/11-before-score3-before.webp",
+    "after": "changes/2026-10-26-seats72c/12-after-score3-after.webp"
+   },
+   {
+    "label": "Stil Arena hochkant – Spielen",
+    "img": "changes/2026-10-26-seats72c/13-img-s-playing-arena-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Stil Klar quer – Spielen",
+    "img": "changes/2026-10-26-seats72c/14-img-s-playing-klar-p4-844x390-s1.webp"
+   }
+  ],
+  "sha": "0014d68"
  }
 ]
