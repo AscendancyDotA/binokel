@@ -127,7 +127,7 @@
  },
  {
   "id": "roundend-dabb",
-  "date": "2026-10-26T11:05:55.725Z",
+  "date": "2026-10-26T11:06:16.791Z",
   "title": "Rundenabrechnung: Dabb und gedrückte Karten als Karten",
   "text": "Antwort 9: Die Rundenabrechnung zeigt jetzt den Dabb und die gedrückten Karten des Spielmachers als kleine Karten, die Augen stehen daneben (vorher nur „+18 druckt“). Für alle am Tisch und Zuschauer erst beim Abrechnen sichtbar – vorher kennt die gedrückten Karten weiter nur der Spielmacher. Ab der nächsten Version (Server-Neustart nötig).",
   "issue": "wirtshaus#71",
@@ -143,9 +143,12 @@
     "after": "changes/2026-10-26-roundend-dabb/04-after-after-roundend-p3-987x444-s1.webp"
    },
    {
-    "label": "Klein hochkant 360×740 (Klar) · Desktop 1366×800 (Arena)",
-    "before": "changes/2026-10-26-roundend-dabb/05-before-after-roundend-klar-p3-360x740-s1.webp",
-    "after": "changes/2026-10-26-roundend-dabb/06-after-after-roundend-arena-p3-1366x800-s1.webp"
+    "label": "Neu: klein hochkant 360×740 (Klar)",
+    "img": "changes/2026-10-26-roundend-dabb/05-img-after-roundend-klar-p3-360x740-s1.webp"
+   },
+   {
+    "label": "Neu: Desktop 1366×800 (Arena)",
+    "img": "changes/2026-10-26-roundend-dabb/06-img-after-roundend-arena-p3-1366x800-s1.webp"
    }
   ],
   "sha": "e973176"
