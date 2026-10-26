@@ -341,5 +341,31 @@
    }
   ],
   "sha": "0014d68"
+ },
+ {
+  "id": "taler0a",
+  "date": "2026-10-26T20:19:23.590Z",
+  "title": "Taler Phase 0a: Geldbörse, Verdienen, Profil-Chip, Ranglisten",
+  "text": "Treue ist durch Taler ersetzt (GOLD.md §4.0/§9). Verdienst: aktive Online-Spielzeit (20/Std., max. 4 Std./Tag), tägliches Anmelden mit Gnadentag, Lernspiel (einmalig 100), Tagesblatt, Turnier, Ehre. Auch Gäste verdienen (WALLET_REQUIRE_GOOGLE=1 schaltet später die Google-Pflicht ein). Kein Echtgeld, keine Werbung, keine Einsätze; Kosmetik vorerst frei. Bilder mit Testdaten. Live ab 0.1.0-NNN (siehe Release).",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Lobby-Chip + So verdienst du Taler (444×987)",
+    "img": "changes/2026-10-26-taler0a/01-img-profile-wirtshaus-mobile.webp"
+   },
+   {
+    "label": "Profil: Taler-Stand + Buchungen",
+    "img": "changes/2026-10-26-taler0a/02-img-profile-detail-wirtshaus-mobile.webp"
+   },
+   {
+    "label": "Taler-Ranglisten",
+    "img": "changes/2026-10-26-taler0a/03-img-rankings-wirtshaus-mobile.webp"
+   },
+   {
+    "label": "Desktop",
+    "img": "changes/2026-10-26-taler0a/04-img-profile-wirtshaus-desktop.webp"
+   }
+  ],
+  "sha": "6514fb5"
  }
 ]
