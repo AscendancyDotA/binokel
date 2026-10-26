@@ -190,5 +190,39 @@
    }
   ],
   "sha": "e973176"
+ },
+ {
+  "id": "seats72",
+  "date": "2026-10-26T12:01:55.384Z",
+  "title": "4er-Tisch: Sitzplätze wie am echten Tisch",
+  "text": "Partner oben an der Tischkante, Gegner links und rechts auf Höhe des Stichs, ihre verdeckten Karten als kleiner Fächer am Rand mit Kartenzahl. Handy hochkant: die 9 Karten liegen in einer Reihe. „Kompakt“ (das alte Layout) bleibt in den Einstellungen wählbar.",
+  "issue": "wirtshaus#72",
+  "rows": [
+   {
+    "label": "Handy hochkant 444×987 – Stich",
+    "before": "changes/2026-10-26-seats72/01-before-before-playing-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72/02-after-after-playing-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Handy hochkant – Reizen mit Dabb (Gebote der Gegner sichtbar)",
+    "before": "changes/2026-10-26-seats72/03-before-before-dabbrow-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-seats72/04-after-after-dabbrow-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Handy hochkant 390×844 – Meldungen vor jedem Platz",
+    "before": "changes/2026-10-26-seats72/05-before-before-melds-p4-390x844-s1.webp",
+    "after": "changes/2026-10-26-seats72/06-after-after-melds-p4-390x844-s1.webp"
+   },
+   {
+    "label": "Handy quer 844×390 – Partner direkt unter der Kopfzeile, Gegner neben dem Stich",
+    "before": "changes/2026-10-26-seats72/07-before-before-playing-p4-844x390-s1.webp",
+    "after": "changes/2026-10-26-seats72/08-after-after-playing-p4-844x390-s1.webp"
+   },
+   {
+    "label": "Einstellung „Sitzplätze am 4er-Tisch“ mit Skizze",
+    "img": "changes/2026-10-26-seats72/09-img-after-seatsopt-p4-444x987-s1.webp"
+   }
+  ],
+  "sha": "ac3ede9"
  }
 ]
