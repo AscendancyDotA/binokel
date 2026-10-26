@@ -387,5 +387,25 @@
    }
   ],
   "sha": "5a6ea66"
+ },
+ {
+  "id": "i75",
+  "date": "2026-10-26T21:50:43.291Z",
+  "title": "Meldungen: „Gesehen“-Leiste verdeckt nichts mehr",
+  "text": "Beim Meldungen-Zeigen saß die Leiste „Meldungen · Gesehen“ fest in der Mitte des Stichbereichs – im 4er liegen dort die Meldungen der Seitenspieler, die Leiste verdeckte sie. Jetzt wandert sie zum nächsten freien Platz in der Nähe der Mitte (weg von Meldungen, Namensschildern, Punktetafel, Tasten); dieselbe Regel für Spieler und Zuschauer, 3er und 4er, hochkant und quer. Das blasse untere Schild und die blasse Punktetafel in dieser Phase sind gewollt: die eigenen Meldungen liegen darüber, deshalb werden beide kurz ausgeblendet.",
+  "issue": "wirtshaus#75",
+  "rows": [
+   {
+    "label": "Zuschauen, 4er Meistertisch, 444×987",
+    "before": "changes/2026-10-26-i75/01-before-sb-m4-meld-444x987.webp",
+    "after": "changes/2026-10-26-i75/02-after-sa-m4-meld-444x987.webp"
+   },
+   {
+    "label": "Spieler, 4er, 444×987",
+    "before": "changes/2026-10-26-i75/03-before-mb-melds-p4-444x987-s1.webp",
+    "after": "changes/2026-10-26-i75/04-after-ma-melds-p4-444x987-s1.webp"
+   }
+  ],
+  "sha": "5a6ea66"
  }
 ]
