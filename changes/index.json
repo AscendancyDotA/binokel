@@ -367,5 +367,25 @@
    }
   ],
   "sha": "6514fb5"
+ },
+ {
+  "id": "i74",
+  "date": "2026-10-26T21:49:56.206Z",
+  "title": "Profil: nichts liegt mehr übereinander",
+  "text": "Beim Zuschauen am 4er-Tisch das Profil eines Bots (Oma Berta) geöffnet: die Wertungs-Kacheln lagen unter „Letzte Partien“, darunter wieder Kartenglück und Erklärtext. Ursache: das Profil ist ein Raster mit fester Höhe, dessen Zeilen auf Bildschirmhöhe zusammengedrückt wurden, sodass die Karten der Spalte in die nächste Zeile ragten. Jetzt sind die Zeilen nie kleiner als ihr Inhalt (hochkant eine Zeile je Karte, quer mindestens so hoch wie die längere Spalte) – das ganze Profil scrollt normal, in Lobby, am Tisch und beim Zuschauen, für Bots und Menschen, in allen 3 Skins. Die leere „2er“-Kachel entfällt: es gibt nur 3er- und 4er-Tische, die Kachel erscheint nur noch, wenn es dort Partien gibt. Vorher = Stand wie auf dem Handy (nachgestellt), nachher = neuer Stand.",
+  "issue": "wirtshaus#74",
+  "rows": [
+   {
+    "label": "Profil von Oma Berta, 444×987 hochkant",
+    "before": "changes/2026-10-26-i74/01-before-l-spec3-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-26-i74/02-after-a-spec3-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Querformat 844×390, Skin Arena",
+    "before": "changes/2026-10-26-i74/03-before-b-spec3-wirtshaus-844x390.webp",
+    "after": "changes/2026-10-26-i74/04-after-a-spec3-arena-844x390.webp"
+   }
+  ],
+  "sha": "5a6ea66"
  }
 ]
