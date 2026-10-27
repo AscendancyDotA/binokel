@@ -878,5 +878,39 @@
    }
   ],
   "sha": "3673050"
+ },
+ {
+  "id": "weitere-spiele",
+  "date": "2026-10-27T19:23:50.681Z",
+  "title": "Entwurf: „Weitere Spiele“ – aus der Play-App ins Web, mit demselben Konto",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high). Was: In der Play-App „Binokel“ gibt es unter Einstellungen → Hilfe & Über einen ruhigen Eintrag „Weitere Spiele“ (kein Popup, kein Banner, nie am Tisch; nur spielbare Spiele, heute Schnapsen). Tippen holt vom Server einen Einmal-Code (60 Sekunden, nur einmal, nicht tippbar) und öffnet den Web-Client im externen Browser (…/#login=…&game=schnapsen&src=play). Dort landet man mit demselben Konto und im richtigen Spiel; die Adresszeile ist sofort wieder sauber. Ist der Browser schon mit einem anderen Konto (mit Fortschritt) angemeldet, wird einmal gefragt „Als <Name> weiterspielen?“. Spiele, die es noch nicht gibt, zeigt nur die Web-Seite als „im Bau“ – in der App-Liste stehen sie nie. Das Menü sieht man erst mit dem nächsten Play-Release; der Web-Teil (Landung, im Bau) ist mit dem nächsten Web-Deploy da. Die Bilder sind aus der Test-Umgebung (Handy 444×987, Desktop 1280×800).",
+  "issue": "wirtshaus#83",
+  "rows": [
+   {
+    "label": "Play-App: Menüeintrag „Weitere Spiele“ (Einstellungen → Hilfe & Über)",
+    "img": "changes/2026-10-27-weitere-spiele/01-img-play-menu-more-games-phone.webp"
+   },
+   {
+    "label": "Web, Desktop: Landung per Link, Konto der App, Schnapsen gewählt",
+    "img": "changes/2026-10-27-weitere-spiele/02-img-web-landing-schnapsen-desktop.webp"
+   },
+   {
+    "label": "Web, Handy: anderes Konto im Browser → einmal fragen",
+    "img": "changes/2026-10-27-weitere-spiele/03-img-web-landing-ask-account-phone.webp"
+   },
+   {
+    "label": "Web, Handy: nach „Ja“ – jetzt das Konto aus der App",
+    "img": "changes/2026-10-27-weitere-spiele/04-img-web-landing-switched-phone.webp"
+   },
+   {
+    "label": "Web, Desktop: Link abgelaufen oder schon benutzt",
+    "img": "changes/2026-10-27-weitere-spiele/05-img-web-landing-link-used-desktop.webp"
+   },
+   {
+    "label": "Web, Handy: Spiel im Bau (nur Web, nie in der App)",
+    "img": "changes/2026-10-27-weitere-spiele/06-img-web-building-skat-phone.webp"
+   }
+  ],
+  "sha": "9fc3a76"
  }
 ]
