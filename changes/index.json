@@ -1213,5 +1213,52 @@
    }
   ],
   "sha": "5fe210a"
+ },
+ {
+  "id": "tables130-open-first",
+  "date": "2026-10-27T21:31:11.625Z",
+  "title": "Spielen → Tische: offene Tische zuerst, Suche + Filter, „Tisch aufmachen“ im Fenster",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Unter Spielen → Online → Tisch steht jetzt zuerst die Liste der offenen Tische (vorher kam erst das lange Formular). Darüber: Namenssuche (Tisch, Gastgeber, Mitspieler), Filter (Leute, gewertet/Übung, freier Platz, Sprachchat, Regeln, Mindesteinsatz-Regler mit zwei Griffen + Zahlenfeldern, „Nur Tische ohne Einsatz“ = Regler auf höchstens 0), Sortierung (neueste, freie Plätze, Wertung, Einsatz), „12 von 30 Tischen“ und „Filter zurücksetzen“; die Filter bleiben pro Gerät gespeichert. Am Handy öffnet „Filter (n)“ ein Fenster von unten. „Tisch aufmachen“ ist der große Knopf und öffnet das bekannte Formular als Fenster (Handy: von unten). Beim Hinsetzen an einem Tisch mit Mindesteinsatz kommt die Warnung „Hier brauchst du mindestens X Taler – du hast Y“ oder die Bestätigung „An diesem Tisch wird um mindestens X Taler gespielt“ → Beitreten. Die Einsatz-Bedienelemente erscheinen nur, wenn der Server Einsätze anbietet (STAKES=1); gilt für Binokel und Schnapsen.",
+  "issue": "wirtshaus#89",
+  "rows": [
+   {
+    "label": "Vorher / nachher Desktop 1280×800 (10 gesäte Tische)",
+    "before": "changes/2026-10-27-tables130-open-first/01-before-before-play-desktop.webp",
+    "after": "changes/2026-10-27-tables130-open-first/02-after-after-play-desktop.webp"
+   },
+   {
+    "label": "Vorher / nachher Handy 444×987",
+    "before": "changes/2026-10-27-tables130-open-first/03-before-before-play-phone.webp",
+    "after": "changes/2026-10-27-tables130-open-first/04-after-after-play-phone.webp"
+   },
+   {
+    "label": "Filter am Desktop (Regler + Zahlenfelder)",
+    "img": "changes/2026-10-27-tables130-open-first/05-img-after-filters-desktop.webp"
+   },
+   {
+    "label": "„Nur Tische ohne Einsatz“ angehakt: 4 von 10 Tischen",
+    "img": "changes/2026-10-27-tables130-open-first/06-img-after-nostake-desktop.webp"
+   },
+   {
+    "label": "Handy: Filter-Fenster",
+    "before": "changes/2026-10-27-tables130-open-first/07-before-after-filter-sheet-phone.webp",
+    "after": "changes/2026-10-27-tables130-open-first/08-after-after-filter-nostake-phone.webp"
+   },
+   {
+    "label": "Handy: Liste mit aktivem Filter",
+    "img": "changes/2026-10-27-tables130-open-first/09-img-after-nostake-list-phone.webp"
+   },
+   {
+    "label": "Tisch aufmachen als Fenster (Desktop) und von unten (Handy)",
+    "before": "changes/2026-10-27-tables130-open-first/10-before-after-create-desktop.webp",
+    "after": "changes/2026-10-27-tables130-open-first/11-after-after-create-sheet-phone.webp"
+   },
+   {
+    "label": "Mindesteinsatz: Bestätigung (Desktop, genug Taler) und Warnung (Handy, zu wenig Taler)",
+    "before": "changes/2026-10-27-tables130-open-first/12-before-after-join-confirm-desktop.webp",
+    "after": "changes/2026-10-27-tables130-open-first/13-after-after-join-warning-phone.webp"
+   }
+  ],
+  "sha": "9c1707a"
  }
 ]
