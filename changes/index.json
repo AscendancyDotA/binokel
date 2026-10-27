@@ -1035,5 +1035,29 @@
    }
   ],
   "sha": "d312803"
+ },
+ {
+  "id": "stakes-vortisch-minstake",
+  "date": "2026-10-27T20:38:06.032Z",
+  "title": "Entwurf: Vortisch – Einsatzfrage vor Warteschlangen-/Turnierpartien; Tische mit Mindesteinsatz",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Einsätze gibt es jetzt an jedem Online-Tisch mit mindestens zwei Menschen (Bots dürfen auffüllen) – auch in Warteschlange (Solo/Party) und Turnier. Dort startet die Partie ohne Warteraum, darum kommt die Frage als kurzer „Vortisch“ auf dem Tisch selbst: Plätze, Wertung, Siegchance, Vorschläge aus dem eigenen Standard, Countdown 15 s (+15 s einmal), drei Kneipen-Sätze als Sprechblasen am Platz. „Mit“ und „Ohne Einsatz“ sind gleich gewichtet; steht bei allen Standard 0, gibt es gar keine Phase. Ein Nein, keine Antwort oder Trennen = ohne Einsatz, die Partie startet trotzdem (Wertung/Turnierpunkte unverändert). Neu außerdem: gekaufte Taler sind setzbar (nur in der App, in der sie gekauft wurden), und Gastgeber können einen Mindesteinsatz festlegen (Tisch-Optionen → Mindesteinsatz; Chip in Liste/Warteraum; wer zu wenig Taler hat, bekommt vor dem Hinsetzen einen Hinweis; ein Nein in der Einsatzfrage heißt dort: Platz räumen). Alles hinter STAKES=1, Play-App weiter ausgenommen.",
+  "issue": "wirtshaus#80",
+  "rows": [
+   {
+    "label": "Vortisch am Tisch (Desktop 1280×800, Handy 444×987, Schwäbisch)",
+    "before": "changes/2026-10-27-stakes-vortisch-minstake/01-before-vortisch-desktop.webp",
+    "after": "changes/2026-10-27-stakes-vortisch-minstake/02-after-vortisch-phone.webp"
+   },
+   {
+    "label": "Mindesteinsatz: Tisch-Formular (Desktop) und Hinweis vor dem Hinsetzen (Handy)",
+    "before": "changes/2026-10-27-stakes-vortisch-minstake/03-before-minstake-create-desktop.webp",
+    "after": "changes/2026-10-27-stakes-vortisch-minstake/04-after-minstake-join-warning-phone.webp"
+   },
+   {
+    "label": "Warteraum mit Mindesteinsatz-Chip",
+    "img": "changes/2026-10-27-stakes-vortisch-minstake/05-img-minstake-waiting-desktop.webp"
+   }
+  ],
+  "sha": "53da634"
  }
 ]
