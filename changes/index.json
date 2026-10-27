@@ -912,5 +912,47 @@
    }
   ],
   "sha": "9fc3a76"
+ },
+ {
+  "id": "gold0c-stakes",
+  "date": "2026-10-27T19:37:18.542Z",
+  "title": "Entwurf: Um Taler spielen – Einsätze am Tisch (Schalter STAKES, aus)",
+  "text": "Neu, aber ausgeschaltet (Server-Schalter STAKES=1 in data/server.env; die Play-App bekommt es erst mit STAKES_PLAY=1). Im Warteraum eines freien Online-Tischs (auch privat/Freunde, Binokel 3er/4er und Schnapsen) schlägt jeder einen Betrag vor (0/10/50/100 oder eigener, Standard aus den Einstellungen, 0 = nie). Beim Start: 20 s Countdown, einmal +20 s je Spieler, alle sagen „Mit Einsatz“ oder „Ohne Einsatz“ – ein Nein oder Zeitablauf = ganze Partie ohne Einsatz. Fairer Einsatz: jeder setzt Basis × Siegchance laut Wertung (4er: Teamchance), niemand mehr als sein Vorschlag, Sieger(team) nimmt den ganzen Topf, keine Gebühr – Erwartungswert 0 für alle. Nur erspielte Taler; Bots setzen aus eigenem Konto bis 50. Wer geht, verliert seinen Einsatz an die anderen; Abbruch oder Server-Neustart = Rückbuchung. Selbst-Grenzen (Höchsteinsatz, Tagesverlust, Pause 7/30 Tage) in den Einstellungen, Rangliste „Am Tisch gewonnen (Monat)“, Buchungen im Profil, admin.ts stake-flows für Einbahn-Flüsse. Bilder aus tools/e2e-stakes.mjs (echte Gäste, Partie bis zum Ende). Gebaut von Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#80",
+  "rows": [
+   {
+    "label": "Handy (swb): Warteraum mit Vorschlägen",
+    "img": "changes/2026-10-27-gold0c-stakes/01-img-stk-phone-waiting.webp"
+   },
+   {
+    "label": "Handy: Einsatz-Phase mit Countdown, Mit/Ohne Einsatz",
+    "img": "changes/2026-10-27-gold0c-stakes/02-img-stk-phone-phase.webp"
+   },
+   {
+    "label": "Desktop: Einsatz-Phase (+20 s schon genutzt vom Mitspieler)",
+    "img": "changes/2026-10-27-gold0c-stakes/03-img-stk-desktop-phase.webp"
+   },
+   {
+    "label": "Partie-Ende: Gewinner bekommt den Topf",
+    "img": "changes/2026-10-27-gold0c-stakes/04-img-stk-phone-matchend.webp"
+   },
+   {
+    "label": "Partie-Ende Desktop: verlorener Einsatz",
+    "img": "changes/2026-10-27-gold0c-stakes/05-img-stk-desktop-matchend.webp"
+   },
+   {
+    "label": "Profil: Buchungen Einsatz am Tisch / Aus dem Topf",
+    "img": "changes/2026-10-27-gold0c-stakes/06-img-stk-phone-journal.webp"
+   },
+   {
+    "label": "Ranglisten → Taler: Am Tisch gewonnen (Monat)",
+    "img": "changes/2026-10-27-gold0c-stakes/07-img-stk-desktop-ranks.webp"
+   },
+   {
+    "label": "Einstellungen → Spiel & Tisch: Standard-Vorschlag und eigene Grenzen",
+    "img": "changes/2026-10-27-gold0c-stakes/08-img-stk-desktop-settings.webp"
+   }
+  ],
+  "sha": "892535f"
  }
 ]
