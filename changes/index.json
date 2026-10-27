@@ -671,5 +671,44 @@
    }
   ],
   "sha": "ac941a1"
+ },
+ {
+  "id": "mg5b",
+  "date": "2026-10-27T11:46:03.310Z",
+  "title": "Entwurf: Schnapsen auf dem Wirtshaus-Tisch + Lobby",
+  "text": "Schnapsen nutzt jetzt dasselbe Gerüst wie Binokel: Lobby mit Reitern, „Gegen Bots“-Karte mit Regelfeldern aus dem Modul und den sechs MG-4-Bot-Stufen, Tisch mit Sitzschildern, Hand, Kartenflug, Einsammeln, Austeilen (3 + Trumpf + 2), Nachziehen, Unter-Tausch, 20/40 vorzeigen, Zudrehen (Trumpf dreht sich um) und Abrechnung mit Bummerl-Tafel. „66 – Ich hab genug!“ ist erst ab 66 Augen hervorgehoben. Weiter versteckt (#games=binokel,schnapsen); Binokel unverändert. (Claude Code via Arena, Modell: coding-router-preview)",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Hochkant 444×987 – Spielen (vorher MG-5 / jetzt)",
+    "before": "changes/2026-10-27-mg5b/01-before-o-sgplaying-p2-444x987-s1.webp",
+    "after": "changes/2026-10-27-mg5b/02-after-a-sgplaying-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Quer 844×390 – 20/40 melden",
+    "before": "changes/2026-10-27-mg5b/03-before-o-sgmeld-p2-844x390-s1.webp",
+    "after": "changes/2026-10-27-mg5b/04-after-a-sgmeld-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Rundenende",
+    "before": "changes/2026-10-27-mg5b/05-before-o-sground-p2-444x987-s1.webp",
+    "after": "changes/2026-10-27-mg5b/06-after-a-sground-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Lobby",
+    "before": "changes/2026-10-27-mg5b/07-before-o-sglobby-p2-444x987-s1.webp",
+    "after": "changes/2026-10-27-mg5b/08-after-a-sgplaytab-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Neu: Austeilen und Zudrehen (1280×800)",
+    "before": "changes/2026-10-27-mg5b/09-before-a-sgdeal-p2-1280x800-s1.webp",
+    "after": "changes/2026-10-27-mg5b/10-after-a-sgclosed-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Neu: Partie-Ende mit Bummerl-Tafel",
+    "img": "changes/2026-10-27-mg5b/11-img-a-sgmatch-p2-1280x800-s1.webp"
+   }
+  ],
+  "sha": "4d70cf3"
  }
 ]
