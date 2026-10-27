@@ -1380,5 +1380,43 @@
    }
   ],
   "sha": "9ddc2ab"
+ },
+ {
+  "id": "i131-glas-skin",
+  "date": "2026-10-27T23:48:27.023Z",
+  "title": "Entwurf: Glas-Skin (Prototyp, versteckt)",
+  "text": "Beweis, dass ein ganzer Skin jetzt nur noch aus Werten besteht: der Prototyp „Glas“ setzt ausschließlich die neuen Gruppen-Werte (60 % durchsichtig + Milchglas auf allen Gruppen, helle Haarlinien, große Ecken, in der Lobby ein paar Farbflecken im Hintergrund) – keine einzige Komponente wurde dafür geändert. Nicht in der Skin-Auswahl, nur zum Anschauen über den Dev-Link #theme=glas (oder #skin=glas&theme=arena). Was für einen echten Glas-Skin noch fehlt (Innenflächen in Fenstern, Kopfleiste): docs/SKINS.md. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#95",
+  "rows": [
+   {
+    "label": "Binokel: Reizen, 1280×800",
+    "img": "changes/2026-10-27-i131-glas-skin/01-img-bk-bid-p3-1280x800-s1.webp"
+   },
+   {
+    "label": "Binokel: Meldungen, Handy",
+    "img": "changes/2026-10-27-i131-glas-skin/02-img-bk-melds-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Binokel: Rundenende, 1280×800",
+    "img": "changes/2026-10-27-i131-glas-skin/03-img-bk-roundend-p3-1280x800-s1.webp"
+   },
+   {
+    "label": "Schnapsen: Spiel, 1280×800",
+    "img": "changes/2026-10-27-i131-glas-skin/04-img-sg-sgplaying-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Schnapsen: Melden, Handy",
+    "img": "changes/2026-10-27-i131-glas-skin/05-img-sg-sgmeld-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Lobby, 1280×800",
+    "img": "changes/2026-10-27-i131-glas-skin/06-img-sg-sglobby-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Lobby, Handy",
+    "img": "changes/2026-10-27-i131-glas-skin/07-img-sg-sglobby-p2-444x987-s1.webp"
+   }
+  ],
+  "sha": "9ddc2ab"
  }
 ]
