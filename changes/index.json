@@ -770,5 +770,69 @@
    }
   ],
   "sha": "f1d9dc9"
+ },
+ {
+  "id": "mt48d",
+  "date": "2026-10-27T17:05:23.645Z",
+  "title": "Tische nebeneinander am Desktop",
+  "text": "Am Desktop (breite Bildschirme) hat die Reiterleiste rechts einen Schalter: ein Tisch · zwei nebeneinander · vier (2 × 2). Jeder Tisch rechnet Karten- und Schriftgröße aus seinem eigenen Rahmen (Binokel 3er/4er und Schnapsen); ein Klick macht ihn aktiv – nur er bekommt Tastatur, Töne, Animationen und Sprachchat. Bist du an einem anderen Tisch dran, leuchtet und pulsiert dessen Rahmen. Die Ein-Tisch-Ansicht bleibt unverändert. (Hermes-Subagent claude-opus-5-5)",
+  "issue": "wirtshaus#78",
+  "rows": [
+   {
+    "label": "1920 × 1080 · Wirtshaus: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/01-before-before-wirtshaus-1920x1080-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/02-after-after-wirtshaus-1920x1080-two.webp"
+   },
+   {
+    "label": "1920 × 1080 · Wirtshaus: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/03-img-after-wirtshaus-1920x1080-four.webp"
+   },
+   {
+    "label": "1920 × 1080 · Arena: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/04-before-before-arena-1920x1080-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/05-after-after-arena-1920x1080-two.webp"
+   },
+   {
+    "label": "1920 × 1080 · Arena: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/06-img-after-arena-1920x1080-four.webp"
+   },
+   {
+    "label": "1920 × 1080 · Klar: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/07-before-before-klar-1920x1080-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/08-after-after-klar-1920x1080-two.webp"
+   },
+   {
+    "label": "1920 × 1080 · Klar: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/09-img-after-klar-1920x1080-four.webp"
+   },
+   {
+    "label": "1366 × 768 · Wirtshaus: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/10-before-before-wirtshaus-1366x768-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/11-after-after-wirtshaus-1366x768-two.webp"
+   },
+   {
+    "label": "1366 × 768 · Wirtshaus: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/12-img-after-wirtshaus-1366x768-four.webp"
+   },
+   {
+    "label": "1366 × 768 · Arena: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/13-before-before-arena-1366x768-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/14-after-after-arena-1366x768-two.webp"
+   },
+   {
+    "label": "1366 × 768 · Arena: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/15-img-after-arena-1366x768-four.webp"
+   },
+   {
+    "label": "1366 × 768 · Klar: vorher nur Reiter → jetzt zwei nebeneinander",
+    "before": "changes/2026-10-27-mt48d/16-before-before-klar-1366x768-tabs.webp",
+    "after": "changes/2026-10-27-mt48d/17-after-after-klar-1366x768-two.webp"
+   },
+   {
+    "label": "1366 × 768 · Klar: vier Tische (2 × 2)",
+    "img": "changes/2026-10-27-mt48d/18-img-after-klar-1366x768-four.webp"
+   }
+  ],
+  "sha": "816c5fe"
  }
 ]
