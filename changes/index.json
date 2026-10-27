@@ -954,5 +954,51 @@
    }
   ],
   "sha": "892535f"
+ },
+ {
+  "id": "sn-rest-124",
+  "date": "2026-10-27T19:47:05.830Z",
+  "title": "Schnapsen: eigenes Tagesblatt, Wochen-Turnier, Ruhmeshalle, Zuschauer-Umschalter, Namen öffnen das Profil",
+  "text": "Im Schnapsen-Kontext der Lobby (Spiel-Umschalter oben links) gibt es jetzt ein eigenes Tagesblatt (jeden Tag dasselbe Blatt für alle, ein Bummerl bis 7 gegen den Meister, gewertet wird der Bummerl-Vorsprung, eigene Tagesrangliste), ein eigenes Wochen-Turnier am Wochenende (Sieg 3, Niederlage 1 Punkt, eigene Rangliste und Pokale) und eine eigene Ruhmeshalle (Partien, Glückspilz/Pechvogel aus einem eigenen Schnapsen-Glücksthermometer, Tempo; Ehre und Daumen sind kontoweit). Am Schnapsen-Tisch haben Zuschauer jetzt denselben Umschalter wie bei Binokel (Alle Karten / Sicht von <Spieler>, vom Server erzwungen: offene Karten nur an Schautischen und Übungstischen mit offenem Zuschauen), und ein Klick auf einen Namen öffnet das Profil. Binokel bleibt unverändert; die Play-App sieht von Schnapsen weiterhin nichts. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#81",
+  "rows": [
+   {
+    "label": "Spielen → Tagesblatt (Handy 444×987)",
+    "before": "changes/2026-10-27-sn-rest-124/01-before-b-daily-444x987.webp",
+    "after": "changes/2026-10-27-sn-rest-124/02-after-a-daily-444x987.webp"
+   },
+   {
+    "label": "Turniere (1280×800)",
+    "before": "changes/2026-10-27-sn-rest-124/03-before-b-tourn-1280x800.webp",
+    "after": "changes/2026-10-27-sn-rest-124/04-after-a-tourn-1280x800.webp"
+   },
+   {
+    "label": "Ranglisten → Ruhmeshalle (1280×800)",
+    "before": "changes/2026-10-27-sn-rest-124/05-before-b-hof-1280x800.webp",
+    "after": "changes/2026-10-27-sn-rest-124/06-after-a-hof-1280x800.webp"
+   },
+   {
+    "label": "Zuschauer am Schnapsen-Schautisch, Alle Karten (1280×800)",
+    "before": "changes/2026-10-27-sn-rest-124/07-before-b-watch-open-1280x800.webp",
+    "after": "changes/2026-10-27-sn-rest-124/08-after-a-watch-open-1280x800.webp"
+   },
+   {
+    "label": "Neu: Sicht von einem Spieler (1280×800)",
+    "img": "changes/2026-10-27-sn-rest-124/09-img-a-watch-seat-1280x800.webp"
+   },
+   {
+    "label": "Neu: Handy hochkant, Umschalter im Menü",
+    "img": "changes/2026-10-27-sn-rest-124/10-img-a-watch-seat-444x987.webp"
+   },
+   {
+    "label": "Neu: Turnier-Rangliste Schnapsen (Handy)",
+    "img": "changes/2026-10-27-sn-rest-124/11-img-a-tourn-page-444x987.webp"
+   },
+   {
+    "label": "Neu: Klick auf einen Namen am Tisch öffnet das Profil",
+    "img": "changes/2026-10-27-sn-rest-124/12-img-a-profile-1280x800.webp"
+   }
+  ],
+  "sha": "7d6b7a8"
  }
 ]
