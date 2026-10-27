@@ -1166,7 +1166,7 @@
  },
  {
   "id": "gold3-taler-kaufen",
-  "date": "2026-10-27T21:29:57.329Z",
+  "date": "2026-10-27T21:30:27.554Z",
   "title": "Entwurf: Taler kaufen (Google Play / Stripe), alles noch aus",
   "text": "Hermes-Subagent (claude-opus-5-5, effort high). Was: Taler lassen sich kaufen – in der Play-App über Google Play, im Browser / in der Windows-App / in der GitHub-APK über Stripe. Wo: in der Geldbörse (Profil) und im Taler-Shop ein ruhiger Knopf „Taler kaufen“; Dialog mit 5 Paketen (Preis in €, Taler inkl. Bonus 5–20 %), Häkchen für den sofortigen Beginn (Widerrufsrecht erlischt), dann Bezahlseite im Browser, Erfolg, Buchung „Taler gekauft“. Der Shop zeigt dann auch den €-Gegenwert jedes Artikels. Neue Seite agb.html (Taler-Bedingungen + Widerrufsbelehrung), Datenschutz um Zahlungsdienste ergänzt. Warum: GOLD Phase 3. Alles hinter Server-Schaltern (PURCHASES_STRIPE / PURCHASES_PLAY, Standard aus); die Play-App enthält Play Billing erst mit BINOKEL_BILLING=1. Bilder mit dem Stripe-Ersatz (Stub, kein echtes Geld). Einrichtung: docs/PURCHASES.md. Nebenbei behoben: die Aufteilung gekauft/erspielt läuft jetzt chronologisch (vorher konnten früher im Shop ausgegebene erspielte Taler einen späteren Kauf verkleinern).",
   "issue": "wirtshaus#90",
@@ -1180,9 +1180,12 @@
     "img": "changes/2026-10-27-gold3-taler-kaufen/02-img-buy-waiting-phone.webp"
    },
    {
-    "label": "Handy: Bezahlseite (hier der Test-Ersatz für Stripe) und Rückkehrseite",
-    "before": "changes/2026-10-27-gold3-taler-kaufen/03-before-buy-stub-checkout-phone.webp",
-    "after": "changes/2026-10-27-gold3-taler-kaufen/04-after-buy-return-page-phone.webp"
+    "label": "Handy: Bezahlseite (hier der Test-Ersatz für Stripe)",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/03-img-buy-stub-checkout-phone.webp"
+   },
+   {
+    "label": "Handy: Rückkehrseite nach dem Bezahlen",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/04-img-buy-return-page-phone.webp"
    },
    {
     "label": "Handy: gutgeschrieben",
