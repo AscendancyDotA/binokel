@@ -1059,5 +1059,51 @@
    }
   ],
   "sha": "53da634"
+ },
+ {
+  "id": "gold1-taler-shop",
+  "date": "2026-10-27T20:50:38.835Z",
+  "title": "Entwurf: Taler-Shop mit Spielmacher-Effekt (Schalter SHOP=1, aus)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Neu hinter dem Server-Schalter SHOP=1 (Standard aus, ohne Schalter bleibt alles wie heute: alle Motive frei): Kartenrücken und Tischtücher kosten Taler (Preise sind Vorschläge, 100–1.000), dazu ein neuer Platz „Spielmacher-Effekt“: wer in einer Binokel-Runde das Spiel macht, bekommt einen ruhigen Effekt um sein Bild (Glut 300, Lichtkranz 1.000, Wappen 2.500, Funkenflug 5.000), alle am Tisch sehen ihn, abschaltbar mit „Spielmacher-Effekte anderer ausblenden“, bei reduzierter Bewegung steht er still. Nur erspielbar (nicht kaufbar): Meisterrücken ab 5.000 insgesamt verdienten Talern, Goldene Krone für einen Turniersieg. Kaufen in zwei Schritten (Kaufen → Ja, kaufen), Doppelklick kauft nur einmal; was heute angelegt ist, bleibt beim Öffnen des Shops deins. Erreichbar über Profil → Taler → „Taler-Shop“ und Einstellungen → Karten & Aussehen. Ruhig: kein Countdown, keine Popups; nur ein Hinweis-Link „So verdienst du Taler“, wenn etwas knapp nicht reicht. Die Übersicht „So verdienst du Taler“ kommt vom Server (Werbung/Steinbruch können sich dort später eintragen). €-Preise sind vorbereitet, aber ausgeblendet, solange man Taler nicht kaufen kann. Schnapsen hat noch keinen Effekt (nur Binokel).",
+  "issue": "wirtshaus#87",
+  "rows": [
+   {
+    "label": "Einstellungen → Aussehen (Desktop): Preise, Kaufen, nur erspielbar",
+    "img": "changes/2026-10-27-gold1-taler-shop/01-img-shop-settings-desktop.webp"
+   },
+   {
+    "label": "Spielmacher-Effekte (Desktop), Glut gekauft und angelegt",
+    "img": "changes/2026-10-27-gold1-taler-shop/02-img-shop-settings-fx-bought-desktop.webp"
+   },
+   {
+    "label": "Kaufen in zwei Schritten",
+    "img": "changes/2026-10-27-gold1-taler-shop/03-img-shop-buy-confirm-desktop.webp"
+   },
+   {
+    "label": "Taler-Shop (Desktop) mit dem ruhigen Hinweis",
+    "img": "changes/2026-10-27-gold1-taler-shop/04-img-shop-screen-desktop.webp"
+   },
+   {
+    "label": "Taler-Shop + Effekte (Handy 444×987)",
+    "before": "changes/2026-10-27-gold1-taler-shop/05-before-shop-screen-phone.webp",
+    "after": "changes/2026-10-27-gold1-taler-shop/06-after-shop-screen-fx-phone.webp"
+   },
+   {
+    "label": "So verdienst du Taler (Desktop / Handy)",
+    "before": "changes/2026-10-27-gold1-taler-shop/07-before-shop-earn-desktop.webp",
+    "after": "changes/2026-10-27-gold1-taler-shop/08-after-shop-earn-phone.webp"
+   },
+   {
+    "label": "Am Tisch: Funkenflug beim Spielmacher, Stil Wirtshaus (Desktop / Handy)",
+    "before": "changes/2026-10-27-gold1-taler-shop/09-before-shop-table-wirtshaus-desktop.webp",
+    "after": "changes/2026-10-27-gold1-taler-shop/10-after-shop-table-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Am Tisch: Lichtkranz, Stil Klar (Desktop / Handy)",
+    "before": "changes/2026-10-27-gold1-taler-shop/11-before-shop-table-klar-desktop.webp",
+    "after": "changes/2026-10-27-gold1-taler-shop/12-after-shop-table-klar-phone.webp"
+   }
+  ],
+  "sha": "e41e9bd"
  }
 ]
