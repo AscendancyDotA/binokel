@@ -1018,5 +1018,22 @@
    }
   ],
   "sha": "c277e30"
+ },
+ {
+  "id": "lobby-tables-before",
+  "date": "2026-10-27T20:12:25.131Z",
+  "title": "Entwurf: Spielen → Tische, heutiger Stand",
+  "text": "So sieht der Tisch-Bereich heute aus: zuerst das Erstell-Formular, die offenen Tische erst weit unten.",
+  "issue": "wirtshaus#89",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 / Handy 444×987",
+    "img": "changes/2026-10-27-lobby-tables-before/01-img-lobby-play-desk.webp"
+   },
+   {
+    "img": "changes/2026-10-27-lobby-tables-before/02-img-lobby-play-phone.webp"
+   }
+  ],
+  "sha": "d312803"
  }
 ]
