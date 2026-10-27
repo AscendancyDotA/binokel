@@ -1108,40 +1108,58 @@
  },
  {
   "id": "gold2-werbung",
-  "date": "2026-10-27T21:08:49.016Z",
+  "date": "2026-10-27T21:09:23.132Z",
   "title": "Entwurf: Freiwillige Werbung (Steinbruch, Angebot nach der Partie, Booster, Banner) – ausgeschaltet",
   "text": "Gebaut von Hermes-Subagent (claude-opus-5-5, effort high). Alles hinter dem Server-Schalter ADS=1 (Standard aus) UND dem Schalter „Freiwillige Werbung“ in den Einstellungen jedes Spielers (Standard aus). Taler gibt es nur für selbst gestartete Videos (Steinbruch, Angebot nach der Partie mit „Überspringen“, Booster = 1 h doppelte Spielzeit-Taler) und erst, wenn Googles Server die Ansicht bestätigt hat (AdMob-SSV, Signatur geprüft, keine Doppelbuchung); kein Tagesdeckel, dafür keine Taler bei unplausibel schnellen Folgen + Moderations-Hinweis. Banner (Lobby-Seitenleiste, quer am Tischrand – der Tisch wird schmaler, nichts wird verdeckt) und Vollbild-Werbung geben nie Taler. Die Play-App enthält weder Werbe-Code noch das AdMob-SDK (geprüft); die GitHub-APK hat das Plugin mit Googles Test-IDs. Bilder: Platzhalter-Anbieter aus dem e2e-Test (echte Anzeigen erst mit AdMob-Konto). Was für Play zu klicken ist: docs/PLAY-STORE.md Abschnitt 12, Schalter: docs/ADS.md.",
   "issue": "wirtshaus#88",
   "rows": [
    {
-    "label": "Einstellungen → Freiwillige Werbung (Handy / Desktop)",
-    "before": "changes/2026-10-27-gold2-werbung/01-before-ads-phone-settings-on.webp",
-    "after": "changes/2026-10-27-gold2-werbung/02-after-ads-desktop-settings-on.webp"
+    "label": "Einstellungen → Freiwillige Werbung (Handy)",
+    "img": "changes/2026-10-27-gold2-werbung/01-img-ads-phone-settings-on.webp"
    },
    {
-    "label": "So verdienst du Taler → Steinbruch (Desktop / Handy)",
-    "before": "changes/2026-10-27-gold2-werbung/03-before-ads-desktop-overview.webp",
-    "after": "changes/2026-10-27-gold2-werbung/04-after-ads-phone-quarry.webp"
+    "label": "Einstellungen → Freiwillige Werbung (Desktop)",
+    "img": "changes/2026-10-27-gold2-werbung/02-img-ads-desktop-settings-on.webp"
    },
    {
-    "label": "Steinbruch: Platzhalter-Video, danach +2 Taler und „heute verdient“",
-    "before": "changes/2026-10-27-gold2-werbung/05-before-ads-phone-video.webp",
-    "after": "changes/2026-10-27-gold2-werbung/06-after-ads-desktop-quarry-after.webp"
+    "label": "So verdienst du Taler mit den Werbe-Quellen und „Zum Steinbruch“",
+    "img": "changes/2026-10-27-gold2-werbung/03-img-ads-desktop-overview.webp"
    },
    {
-    "label": "Angebot nach der Partie (Desktop / Handy quer)",
-    "before": "changes/2026-10-27-gold2-werbung/07-before-ads-desktop-matchend-offer.webp",
-    "after": "changes/2026-10-27-gold2-werbung/08-after-ads-phone-landscape-matchend-offer.webp"
+    "label": "Steinbruch (Handy)",
+    "img": "changes/2026-10-27-gold2-werbung/04-img-ads-phone-quarry.webp"
    },
    {
-    "label": "Banner in der Lobby (Desktop Seitenleiste / Handy)",
-    "before": "changes/2026-10-27-gold2-werbung/09-before-ads-desktop-lobby-banner.webp",
-    "after": "changes/2026-10-27-gold2-werbung/10-after-ads-phone-lobby-banner.webp"
+    "label": "Platzhalter-Video (Handy)",
+    "img": "changes/2026-10-27-gold2-werbung/05-img-ads-phone-video.webp"
    },
    {
-    "label": "Banner am Rand während der Partie, nur quer (Desktop / Handy quer)",
-    "before": "changes/2026-10-27-gold2-werbung/11-before-ads-desktop-match-banner.webp",
-    "after": "changes/2026-10-27-gold2-werbung/12-after-ads-phone-landscape-match-banner.webp"
+    "label": "Steinbruch nach dem Video: +2 Taler, heute verdient (Desktop)",
+    "img": "changes/2026-10-27-gold2-werbung/06-img-ads-desktop-quarry-after.webp"
+   },
+   {
+    "label": "Angebot nach der Partie (Desktop)",
+    "img": "changes/2026-10-27-gold2-werbung/07-img-ads-desktop-matchend-offer.webp"
+   },
+   {
+    "label": "Angebot nach der Partie (Handy quer)",
+    "img": "changes/2026-10-27-gold2-werbung/08-img-ads-phone-landscape-matchend-offer.webp"
+   },
+   {
+    "label": "Banner in der Lobby-Seitenleiste (Desktop)",
+    "img": "changes/2026-10-27-gold2-werbung/09-img-ads-desktop-lobby-banner.webp"
+   },
+   {
+    "label": "Banner in der Lobby (Handy)",
+    "img": "changes/2026-10-27-gold2-werbung/10-img-ads-phone-lobby-banner.webp"
+   },
+   {
+    "label": "Banner am Rand während der Partie (Desktop quer)",
+    "img": "changes/2026-10-27-gold2-werbung/11-img-ads-desktop-match-banner.webp"
+   },
+   {
+    "label": "Banner am Rand während der Partie (Handy quer)",
+    "img": "changes/2026-10-27-gold2-werbung/12-img-ads-phone-landscape-match-banner.webp"
    }
   ],
   "sha": "4e69c93"
