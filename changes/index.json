@@ -1300,5 +1300,25 @@
    }
   ],
   "sha": "0bdde94"
+ },
+ {
+  "id": "glass-test",
+  "date": "2026-10-27T22:27:21.688Z",
+  "title": "Entwurf: Fenster am Tisch durchsichtig",
+  "text": "Links aus (wie bisher), rechts 30 % + Milchglas. Am Handy 45 % + Milchglas.",
+  "issue": "wirtshaus#91",
+  "rows": [
+   {
+    "label": "Desktop 1920×905: aus / 30 % + Milchglas",
+    "before": "changes/2026-10-27-glass-test/01-before-glass-off-desk.webp",
+    "after": "changes/2026-10-27-glass-test/02-after-glass-30blur-desk.webp"
+   },
+   {
+    "label": "Handy 444×987: aus / 45 % + Milchglas",
+    "before": "changes/2026-10-27-glass-test/03-before-glass-off-phone.webp",
+    "after": "changes/2026-10-27-glass-test/04-after-glass-45blur-phone.webp"
+   }
+  ],
+  "sha": "ce70333"
  }
 ]
