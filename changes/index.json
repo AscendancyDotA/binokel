@@ -858,5 +858,25 @@
    }
   ],
   "sha": "77d000a"
+ },
+ {
+  "id": "sn-release",
+  "date": "2026-10-27T18:20:52.889Z",
+  "title": "Schnapsen im Wirtshaus freigegeben",
+  "text": "Oben links neben dem Logo gibt es jetzt den Spiel-Umschalter (Binokel / Schnapsen) im Web, in der GitHub-APK und der Windows-App. Die Play-App „Binokel“ bleibt ohne Umschalter.",
+  "issue": "wirtshaus#79",
+  "rows": [
+   {
+    "label": "Desktop 1240×880: vorher / nachher (live)",
+    "before": "changes/2026-10-27-sn-release/01-before-live-lobby.webp",
+    "after": "changes/2026-10-27-sn-release/02-after-live-after.webp"
+   },
+   {
+    "label": "Handy 444×987: Schnapsen-Willkommen / Schautisch",
+    "before": "changes/2026-10-27-sn-release/03-before-after-sn-welcome-444x987.webp",
+    "after": "changes/2026-10-27-sn-release/04-after-after-sn-watch-444x987.webp"
+   }
+  ],
+  "sha": "3673050"
  }
 ]
