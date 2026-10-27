@@ -633,5 +633,43 @@
    }
   ],
   "sha": "176b5e4"
+ },
+ {
+  "id": "mg5-schnapsen",
+  "date": "2026-10-27T05:16:26.100Z",
+  "title": "Entwurf: Schnapsen-Tisch (offline, noch versteckt)",
+  "text": "Versteckter Entwurf: über #games=binokel,schnapsen wählbar, offline gegen den Bot. Zwei Sitze, Talon und Trumpf, 20/40, Zudrehen, Bummerl, Regelhilfe und Lernpartie; noch keine Online-Tische oder Freigabe. Claude Code via Arena-Router → GPT/OpenAI Responses (resp_).",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Einstieg · Wirtshaus · 444×987",
+    "img": "changes/2026-10-27-mg5-schnapsen/01-img-mg5-entry2-sglobby-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Spielszene · Wirtshaus · 444×987",
+    "img": "changes/2026-10-27-mg5-schnapsen/02-img-mg5-phone-fixed-sgplaying-p2-444x987-s1.35.webp"
+   },
+   {
+    "label": "20/40 ansagen · Klar · 844×390",
+    "img": "changes/2026-10-27-mg5-schnapsen/03-img-mg5-approved-sgmeld-klar-p2-844x390-s1.35.webp"
+   },
+   {
+    "label": "Zudrehen · Klar · 1280×800",
+    "img": "changes/2026-10-27-mg5-schnapsen/04-img-mg5-approved-sgclose-klar-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Bummerl-Ende · Wirtshaus · 444×987",
+    "img": "changes/2026-10-27-mg5-schnapsen/05-img-mg5-phone-fixed-sgmatch-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Regelhilfe · Wirtshaus · 844×390",
+    "img": "changes/2026-10-27-mg5-schnapsen/06-img-mg5-approved-sghelp-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Arena-Tablet · 800×1280",
+    "img": "changes/2026-10-27-mg5-schnapsen/07-img-mg5-arena-tablet-sgplaying-arena-p2-800x1280-s1.35.webp"
+   }
+  ],
+  "sha": "ac941a1"
  }
 ]
