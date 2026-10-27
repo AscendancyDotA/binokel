@@ -710,5 +710,35 @@
    }
   ],
   "sha": "4d70cf3"
+ },
+ {
+  "id": "mg6",
+  "date": "2026-10-27T13:05:48.187Z",
+  "title": "Entwurf: Schnapsen online (versteckt)",
+  "text": "Schnapsen läuft jetzt auch online – noch versteckt (Server GAMES_ENABLED=binokel,schnapsen und #games=binokel,schnapsen): dieselbe Lobby mit offenen Schnapsen-Tischen, Warteschlange und eigenem Tisch, der Online-Tisch auf dem gemeinsamen Gerüst (Zuschauer verzögert ohne Handkarten) und die eigene 2er-Wertung schnapsen:p2. Ohne Schalter ändert sich für Spieler nichts. (Hermes-Subagent claude-opus-5-5)",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Lobby: offene Schnapsen-Tische",
+    "img": "changes/2026-10-27-mg6/01-img-mg6-tablelist.webp"
+   },
+   {
+    "label": "Eigener Tisch (Regeln aus ruleFields)",
+    "img": "changes/2026-10-27-mg6/02-img-mg6-create.webp"
+   },
+   {
+    "label": "Online-Tisch (zwei Menschen)",
+    "img": "changes/2026-10-27-mg6/03-img-mg6-table.webp"
+   },
+   {
+    "label": "Zuschauer (verzögert, keine Handkarten)",
+    "img": "changes/2026-10-27-mg6/04-img-mg6-spectator.webp"
+   },
+   {
+    "label": "Rangliste: 2er-Wertung schnapsen:p2",
+    "img": "changes/2026-10-27-mg6/05-img-mg6-leaderboard.webp"
+   }
+  ],
+  "sha": "fc40e3f"
  }
 ]
