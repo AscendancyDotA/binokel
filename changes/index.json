@@ -1320,5 +1320,65 @@
    }
   ],
   "sha": "ce70333"
+ },
+ {
+  "id": "i131-glas15",
+  "date": "2026-10-27T23:47:45.653Z",
+  "title": "Fenster am Tisch: 15 % durchsichtig als Standard, jetzt auch Meldungen-Pille, Punktetafel und Popups",
+  "text": "Die Einstellung „Fenster am Tisch durchsichtig“ steht jetzt für alle auf 15 % (ohne Milchglas); wer schon etwas gewählt hat, behält seine Wahl. Sie wirkt nicht mehr nur auf die Aktionsfenster (Reizen, Drücken, Melden), sondern auf alles, was auf dem Tisch schwebt: Meldungen-Pille, Info-Pillen, Gebots-Blasen, Meld-Schilder, Punktetafel, Tisch-Info, Knöpfe am Rand, Gsehe-Popups und Rundenende. Nicht betroffen: Lobby, Einstellungen, Dialoge, Meldungs-Toasts und „Hoher Kontrast“ (bleibt deckend). Dafür ist jede schwebende Fläche jetzt einer Gruppe mit eigenen Farb-/Ecken-/Durchsichtigkeits-Werten zugeordnet (docs/SKINS.md) – neue Skins brauchen dann nur noch diese Werte. Mit „Aus“ ist alles pixelgleich wie vorher (Vergleich über 216 Bilder, 3 Skins, 4 Größen, Binokel + Schnapsen). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#95",
+  "rows": [
+   {
+    "label": "Meldungen-Pille, Handy (Wirtshaus) – vorher / nachher",
+    "before": "changes/2026-10-27-i131-glas15/01-before-bk-melds-p3-444x987-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/02-after-bk-melds-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Meldungen, 1920×1080 (Arena)",
+    "before": "changes/2026-10-27-i131-glas15/03-before-bk-melds-arena-p3-1920x1080-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/04-after-bk-melds-arena-p3-1920x1080-s1.webp"
+   },
+   {
+    "label": "Dabb-Fenster, Handy (Wirtshaus)",
+    "before": "changes/2026-10-27-i131-glas15/05-before-bk-dabb-p3-444x987-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/06-after-bk-dabb-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Reizen, 1920×1080 (Wirtshaus)",
+    "before": "changes/2026-10-27-i131-glas15/07-before-bk-bid-p3-1920x1080-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/08-after-bk-bid-p3-1920x1080-s1.webp"
+   },
+   {
+    "label": "Gsehe-Popup „Letzter Stich“, 1920×1080",
+    "before": "changes/2026-10-27-i131-glas15/09-before-before-1920x1080.webp",
+    "after": "changes/2026-10-27-i131-glas15/10-after-after-1920x1080.webp"
+   },
+   {
+    "label": "Gsehe-Popup, Handy",
+    "before": "changes/2026-10-27-i131-glas15/11-before-before-444x987.webp",
+    "after": "changes/2026-10-27-i131-glas15/12-after-after-444x987.webp"
+   },
+   {
+    "label": "Rundenende, Handy (Klar)",
+    "before": "changes/2026-10-27-i131-glas15/13-before-bk-roundend-klar-p3-444x987-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/14-after-bk-roundend-klar-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Spiel mit Punktetafel, 1920×1080 (Arena)",
+    "before": "changes/2026-10-27-i131-glas15/15-before-bk-playing-arena-p3-1920x1080-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/16-after-bk-playing-arena-p3-1920x1080-s1.webp"
+   },
+   {
+    "label": "Reizen, Handy (Klar)",
+    "before": "changes/2026-10-27-i131-glas15/17-before-bk-bid-klar-p3-444x987-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/18-after-bk-bid-klar-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Schnapsen, 1920×1080 (Wirtshaus)",
+    "before": "changes/2026-10-27-i131-glas15/19-before-sg-sgplaying-p2-1920x1080-s1.webp",
+    "after": "changes/2026-10-27-i131-glas15/20-after-sg-sgplaying-p2-1920x1080-s1.webp"
+   }
+  ],
+  "sha": "9ddc2ab"
  }
 ]
