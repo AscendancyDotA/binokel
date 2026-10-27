@@ -589,5 +589,20 @@
    }
   ],
   "sha": "8ad3bf9"
+ },
+ {
+  "id": "mg2-switcher",
+  "date": "2026-10-27T03:05:28.712Z",
+  "title": "Entwurf: Spiel-Umschalter (unsichtbar bei 1 Spiel)",
+  "text": "Der Spiel-Umschalter sitzt links oben in der Lobby. Mit nur Binokel bleibt das bisherige Schild unverändert; #games=binokel,demo zeigt eine reine Vorschau mit nicht spielbarem Demo-Eintrag.",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Handy 444×987 · Dev-Vorschau",
+    "before": "changes/2026-10-27-mg2-switcher/01-before-lobby-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-27-mg2-switcher/02-after-switcher-open-444x987.webp"
+   }
+  ],
+  "sha": "3ec7429"
  }
 ]
