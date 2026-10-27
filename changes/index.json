@@ -1000,5 +1000,23 @@
    }
   ],
   "sha": "7d6b7a8"
+ },
+ {
+  "id": "mg7-new-game",
+  "date": "2026-10-27T19:59:45.478Z",
+  "title": "Entwurf: Gerüst für neue Spiele (MG-7)",
+  "text": "Für Spieler unsichtbar. Bot-Suche und Partie-Auswertung von Binokel und Schnapsen laufen jetzt über ein gemeinsames Paket packages/game-kit (Suche über gezogene Welten, Zufall, Stufen, Noten, Auswertungs-Worker, Testkit); beide Spiele sind dünne Adapter. Kein Bot spielt anders: 170 von 170 Fingerprint-Szenarien gleich, Golden-Korpus 63/63, Schnapsen-Stufen mit Hashes von vorher gepinnt. Zeit je Entscheidung vorher → nachher (ms): Binokel Profi 0,48 → 0,48, Experte 0,86 → 0,86, Großmeister 6,3 → 6,1; Schnapsen Profi 0,73 → 0,78, Experte 1,76 → 1,72, Großmeister 3,08 → 3,02; Auswertung Binokel 124 → 120, Schnapsen 10,0 → 9,7 (alles im Rauschen). Neu: bun tools/new-game.ts <id> [--players 2|3|4] erzeugt Regel-Paket, Bots, Auswertung, Vertragstests und einen schlanken Offline-Tisch nur aus dem gemeinsamen Tisch-Gerüst mit markierter Spielbrett-Stelle; sichtbar nur mit #games=binokel,<id>, auf dem Server nur mit GAMES_ENABLED. Was ein neues Spiel dann noch braucht: echte Regeln, Bot-Feinschliff + Ladder, eigene Tischteile, Tempo, Regelhilfe, Texte; Online-Tisch nach docs/NEW-GAME.md. Profil, Sprache, Zuschauer, Abzeichen, Sitzfarben, Taverne, Tisch-Info und Tipps bringt der kommende gemeinsame Tischrahmen. Bilder: erzeugtes Platzhalter-Spiel (3 Spieler) am Tisch. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#82",
+  "rows": [
+   {
+    "label": "Erzeugter Tisch, Desktop 1280×800",
+    "img": "changes/2026-10-27-mg7-new-game/01-img-table3-1280.webp"
+   },
+   {
+    "label": "Erzeugter Tisch, Handy 444×987",
+    "img": "changes/2026-10-27-mg7-new-game/02-img-table3-444.webp"
+   }
+  ],
+  "sha": "c277e30"
  }
 ]
