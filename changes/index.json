@@ -527,5 +527,67 @@
    }
   ],
   "sha": "5d3a98e"
+ },
+ {
+  "id": "settings110b",
+  "date": "2026-10-27T02:20:22.834Z",
+  "title": "Einstellungen neu: Häufig mit Vorschau, Kacheln, Suche, Zurücksetzen",
+  "text": "Fertig gebaut nach deinen Entscheidungen vom 27.10.: Oben „Häufig“ mit Live-Vorschau (Hand auf dem Tuch + Beispieltext) und direkt darunter Kartengröße, Schriftgröße und Eckzeichen-Größe (Schriftgröße ist jetzt ein eigener Regler), dann Stil, Sprache, Ton, Vibration, Tempo. Darunter Kacheln für sechs Gruppen mit Unterseiten; am Desktop ab 900 px eine Seitenleiste. Kartenrücken/Tischdecke stehen sichtbar unter „Karten & Aussehen“, Sprachchat unter „Ton & Vibration“, „Hinweise“ unter „Spiel & Tisch“. Eigene Symbole statt Emoji, nur ✕ oben. Neu: „Alles auf Standard zurücksetzen“ mit Bestätigung (Konto, Profilbild und Freunde bleiben). Vorher war die Liste am Handy 5,5 Bildschirme lang, jetzt 1,3. Nicht deployt. (Claude Code via Arena-Router → Claude/Vertex, Session 873d3834)",
+  "issue": "wirtshaus#76",
+  "rows": [
+   {
+    "label": "Startseite · Wirtshaus · Handy hochkant 444×987",
+    "before": "changes/2026-10-27-settings110b/01-before-before-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-27-settings110b/02-after-after-start-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Startseite · Klar · Handy hochkant 444×987",
+    "before": "changes/2026-10-27-settings110b/03-before-before-klar-444x987.webp",
+    "after": "changes/2026-10-27-settings110b/04-after-after-start-klar-444x987.webp"
+   },
+   {
+    "label": "Karten & Aussehen · Wirtshaus · 444×987",
+    "before": "changes/2026-10-27-settings110b/05-before-before-karten-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-27-settings110b/06-after-after-karten-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Karten & Aussehen · Klar · 444×987",
+    "before": "changes/2026-10-27-settings110b/07-before-before-karten-klar-444x987.webp",
+    "after": "changes/2026-10-27-settings110b/08-after-after-karten-klar-444x987.webp"
+   },
+   {
+    "label": "Startseite · Wirtshaus · Handy quer 844×390",
+    "before": "changes/2026-10-27-settings110b/09-before-before-wirtshaus-844x390.webp",
+    "after": "changes/2026-10-27-settings110b/10-after-after-start-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Startseite · Klar · Handy quer 844×390",
+    "before": "changes/2026-10-27-settings110b/11-before-before-klar-844x390.webp",
+    "after": "changes/2026-10-27-settings110b/12-after-after-start-klar-844x390.webp"
+   },
+   {
+    "label": "Desktop mit Seitenleiste · Wirtshaus · 1280×800",
+    "before": "changes/2026-10-27-settings110b/13-before-before-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-27-settings110b/14-after-after-start-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Desktop mit Seitenleiste · Klar · 1280×800",
+    "before": "changes/2026-10-27-settings110b/15-before-before-klar-1280x800.webp",
+    "after": "changes/2026-10-27-settings110b/16-after-after-start-klar-1280x800.webp"
+   },
+   {
+    "label": "Neu: Zurücksetzen mit Bestätigung · Wirtshaus · 444×987",
+    "img": "changes/2026-10-27-settings110b/17-img-after-reset-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Neu: Zurücksetzen mit Bestätigung · Klar · 444×987",
+    "img": "changes/2026-10-27-settings110b/18-img-after-reset-klar-444x987.webp"
+   },
+   {
+    "label": "Neu: Suche „ton“ · Wirtshaus · 1280×800",
+    "img": "changes/2026-10-27-settings110b/19-img-after-suche-wirtshaus-1280x800.webp"
+   }
+  ],
+  "sha": "8ad3bf9"
  }
 ]
