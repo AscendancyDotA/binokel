@@ -1163,5 +1163,52 @@
    }
   ],
   "sha": "4e69c93"
+ },
+ {
+  "id": "gold3-taler-kaufen",
+  "date": "2026-10-27T21:29:57.329Z",
+  "title": "Entwurf: Taler kaufen (Google Play / Stripe), alles noch aus",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Was: Taler lassen sich kaufen – in der Play-App über Google Play, im Browser / in der Windows-App / in der GitHub-APK über Stripe. Wo: in der Geldbörse (Profil) und im Taler-Shop ein ruhiger Knopf „Taler kaufen“; Dialog mit 5 Paketen (Preis in €, Taler inkl. Bonus 5–20 %), Häkchen für den sofortigen Beginn (Widerrufsrecht erlischt), dann Bezahlseite im Browser, Erfolg, Buchung „Taler gekauft“. Der Shop zeigt dann auch den €-Gegenwert jedes Artikels. Neue Seite agb.html (Taler-Bedingungen + Widerrufsbelehrung), Datenschutz um Zahlungsdienste ergänzt. Warum: GOLD Phase 3. Alles hinter Server-Schaltern (PURCHASES_STRIPE / PURCHASES_PLAY, Standard aus); die Play-App enthält Play Billing erst mit BINOKEL_BILLING=1. Bilder mit dem Stripe-Ersatz (Stub, kein echtes Geld). Einrichtung: docs/PURCHASES.md. Nebenbei behoben: die Aufteilung gekauft/erspielt läuft jetzt chronologisch (vorher konnten früher im Shop ausgegebene erspielte Taler einen späteren Kauf verkleinern).",
+  "issue": "wirtshaus#90",
+  "rows": [
+   {
+    "label": "Handy: Dialog, Häkchen gesetzt",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/01-img-buy-dialog-consent-phone.webp"
+   },
+   {
+    "label": "Handy: Bezahlseite offen (wartet auf Bestätigung)",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/02-img-buy-waiting-phone.webp"
+   },
+   {
+    "label": "Handy: Bezahlseite (hier der Test-Ersatz für Stripe) und Rückkehrseite",
+    "before": "changes/2026-10-27-gold3-taler-kaufen/03-before-buy-stub-checkout-phone.webp",
+    "after": "changes/2026-10-27-gold3-taler-kaufen/04-after-buy-return-page-phone.webp"
+   },
+   {
+    "label": "Handy: gutgeschrieben",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/05-img-buy-success-phone.webp"
+   },
+   {
+    "label": "Handy: Buchung in der Geldbörse",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/06-img-buy-journal-phone.webp"
+   },
+   {
+    "label": "Desktop: Dialog",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/07-img-buy-dialog-desktop.webp"
+   },
+   {
+    "label": "Desktop: Shop mit €-Gegenwert und „Taler kaufen“",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/08-img-buy-shop-desktop.webp"
+   },
+   {
+    "label": "Desktop: Schwäbisch",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/09-img-buy-dialog-swb-desktop.webp"
+   },
+   {
+    "label": "Handy: Taler-Bedingungen und Widerruf (agb.html)",
+    "img": "changes/2026-10-27-gold3-taler-kaufen/10-img-buy-agb-phone.webp"
+   }
+  ],
+  "sha": "5fe210a"
  }
 ]
