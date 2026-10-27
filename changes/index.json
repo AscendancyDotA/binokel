@@ -834,5 +834,29 @@
    }
   ],
   "sha": "816c5fe"
+ },
+ {
+  "id": "sn-welcome",
+  "date": "2026-10-27T17:09:15.490Z",
+  "title": "Entwurf: Schnapsen – Willkommen mit Taverne und 2 Schautischen",
+  "text": "Willkommen im Schnapsen-Kontext zeigt jetzt die gemeinsame Taverne und das Wirtshaus-TV mit zwei eigenen Schnapsen-Schautischen (Meischter-Bummerl: Großmeister gegen Experte; Gmüatlicher Bummerl), zuschaubar mit offenen Karten. Live auf dem Server, sichtbar nur mit #games=binokel,schnapsen. (Hermes-Subagent claude-opus-5-5, effort medium; geprüft vom Hauptagenten)",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-10-27-sn-welcome/01-before-before-sn-welcome-444x987.webp",
+    "after": "changes/2026-10-27-sn-welcome/02-after-after-sn-welcome-444x987.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-27-sn-welcome/03-before-before-sn-welcome-1280x800.webp",
+    "after": "changes/2026-10-27-sn-welcome/04-after-after-sn-welcome-1280x800.webp"
+   },
+   {
+    "label": "Zuschauen am Schautisch",
+    "after": "changes/2026-10-27-sn-welcome/05-after-after-sn-watch-1280x800.webp"
+   }
+  ],
+  "sha": "77d000a"
  }
 ]
