@@ -1260,5 +1260,45 @@
    }
   ],
   "sha": "9c1707a"
+ },
+ {
+  "id": "sn-tischrahmen",
+  "date": "2026-10-27T22:12:11.609Z",
+  "title": "Schnapsen-Tisch mit allen Tisch-Funktionen wie beim Binokel",
+  "text": "Der Schnapsen-Tisch läuft jetzt im gemeinsamen Tischrahmen (eine Stelle für alle Spiele). Neu am Schnapsen-Tisch: Mikro- und Kamera-Knopf (mit Push-to-talk), Freitext-Chat, Taverne-Seitenleiste, Tisch in die Lobby teilen, Zuschauerliste (Auge oben), Verbindungs-Chip, Spielerfarben (Punkt am Namen, Ring am Bild), am Partie-Ende das Kartenglück und online die Wertungszeile. Zuschauer sehen dieselbe Kopfzeile wie beim Binokel. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#84",
+  "rows": [
+   {
+    "label": "Online am Tisch, Handy hochkant 444×987",
+    "before": "changes/2026-10-27-sn-tischrahmen/01-before-snf-play-444x987.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/02-after-snf-play-444x987.webp"
+   },
+   {
+    "label": "Online am Tisch, Handy quer 844×390",
+    "before": "changes/2026-10-27-sn-tischrahmen/03-before-snf-play-844x390.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/04-after-snf-play-844x390.webp"
+   },
+   {
+    "label": "Online am Tisch, Desktop 1280×800",
+    "before": "changes/2026-10-27-sn-tischrahmen/05-before-snf-play-1280x800.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/06-after-snf-play-1280x800.webp"
+   },
+   {
+    "label": "Zuschauer, Desktop 1280×800",
+    "before": "changes/2026-10-27-sn-tischrahmen/07-before-snf-watch-1280x800.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/08-after-snf-watch-1280x800.webp"
+   },
+   {
+    "label": "Zuschauer, Handy hochkant 444×987",
+    "before": "changes/2026-10-27-sn-tischrahmen/09-before-snf-watch-444x987.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/10-after-snf-watch-444x987.webp"
+   },
+   {
+    "label": "Partie-Ende mit Kartenglück, Handy hochkant",
+    "before": "changes/2026-10-27-sn-tischrahmen/11-before-sg-sgmatch-p2-444x987-s1.webp",
+    "after": "changes/2026-10-27-sn-tischrahmen/12-after-sg-sgmatch-p2-444x987-s1.webp"
+   }
+  ],
+  "sha": "0bdde94"
  }
 ]
