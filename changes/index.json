@@ -604,5 +604,34 @@
    }
   ],
   "sha": "3ec7429"
+ },
+ {
+  "id": "i118",
+  "date": "2026-10-27T04:27:51.962Z",
+  "title": "Partie-Ende: Partie analysieren + Gleichstand-Hinweis",
+  "text": "Im Partie-Ende-Fenster sitzt jetzt der Knopf „Partie analysieren“ (schwäbisch „Partie aschaua“) gleich neben „Nochmal“/„Zur Lobby“. Er öffnet die Wiederholung dieser Partie mit laufender Auswertung – ohne Umweg, auch offline gegen Bots und für Zuschauer (nicht beim Tagesblatt). Bei Punktgleichstand wie 700:700 steht unter dem Ergebnis: „Gleichstand – die Partei des letzten Spielmachers gewinnt.“ (3er: „der letzte Spielmacher“). (Claude Code via Arena-Router → Claude/Vertex)",
+  "issue": "binokel#12",
+  "rows": [
+   {
+    "label": "Desktop 1707×759 (Wirtshaus, de)",
+    "before": "changes/2026-10-27-i118/01-before-before-desk.webp",
+    "after": "changes/2026-10-27-i118/02-after-after-desk.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987 (Arena, schwäbisch)",
+    "before": "changes/2026-10-27-i118/03-before-before-port.webp",
+    "after": "changes/2026-10-27-i118/04-after-after-port.webp"
+   },
+   {
+    "label": "Handy quer 844×390 (Klar, en)",
+    "before": "changes/2026-10-27-i118/05-before-before-land.webp",
+    "after": "changes/2026-10-27-i118/06-after-after-land.webp"
+   },
+   {
+    "label": "Neu: nach dem Klick – Auswertung läuft sofort",
+    "img": "changes/2026-10-27-i118/07-img-after-desk-analysis.webp"
+   }
+  ],
+  "sha": "176b5e4"
  }
 ]
