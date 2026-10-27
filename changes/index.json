@@ -740,5 +740,35 @@
    }
   ],
   "sha": "fc40e3f"
+ },
+ {
+  "id": "sn-analysis",
+  "date": "2026-10-27T15:40:21.170Z",
+  "title": "Entwurf: Schnapsen – Wiederholung und Partie-Analyse",
+  "text": "Schnapsen-Partien lassen sich jetzt nachspielen und auswerten wie Binokel – auf dem normalen Spieltisch (Sitzschilder, Hand, Stich, Talon mit Trumpf, Zudrehen, 20/40, Spielstand). Wählbar: alle Karten oder die Sicht eines Spielers; Schritt, Abspielen, Sprung je Stich und Runde, Bummerl-Tafel. Die Auswertung bewertet jeden Zug mit der Suche des Großmeister-Bots nur aus dem, was der Spieler in dem Moment wissen konnte (96 mögliche Kartenverteilungen), in Spielpunkten der Runde, und benennt Fehler wie zu früh abgemeldet, Zudrehen zu riskant/verpasst, 20/40 verpasst, Ass/Zehner verschenkt. Rechenzeit ~1 s je Partie. Knöpfe: „Partie analysieren“ am Partie-Ende (offline + online), „Wiederholung“ im Profil und am Online-Partie-Ende. Binokels Wiederholung/Auswertung unverändert. Weiter nur mit #games=binokel,schnapsen sichtbar. (Hermes-Subagent claude-opus-5-5)",
+  "issue": "wirtshaus#22",
+  "rows": [
+   {
+    "label": "Breit 1280×800: Auswertung mit Urteil und Zusammenfassung",
+    "img": "changes/2026-10-27-sn-analysis/01-img-fs-sgrpana-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Online-Partie gegeneinander, gleich nach dem Ende ausgewertet",
+    "img": "changes/2026-10-27-sn-analysis/02-img-mg6-replay-analysis.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987",
+    "img": "changes/2026-10-27-sn-analysis/03-img-fs-sgrpana-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Auswertung neben dem Tisch",
+    "img": "changes/2026-10-27-sn-analysis/04-img-fs-sgrpana-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Partie-Ende mit „Partie analysieren“",
+    "img": "changes/2026-10-27-sn-analysis/05-img-fs-sgmatch-p2-444x987-s1.webp"
+   }
+  ],
+  "sha": "f1d9dc9"
  }
 ]
