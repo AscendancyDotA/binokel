@@ -1418,5 +1418,38 @@
    }
   ],
   "sha": "9ddc2ab"
+ },
+ {
+  "id": "i132-schnapsen-tisch",
+  "date": "2026-10-28T00:05:03.214Z",
+  "title": "Schnapsen: Punkte groß, Aufgeben, Querformat",
+  "text": "Was: Am Schnapsen-Tisch stehen die Augen der laufenden Runde jetzt groß neben beiden Namen (noch nicht gültige 20/40 als kleines +20, ab 66 in Akzentfarbe) – wie in deinem Referenzbild oben. Neu ist der Knopf „Aufgeben“ (Papierkorb) rechts neben der Hand, am Handy hochkant links über deinem Schild; er geht nur, wenn du dran bist, und fragt nach („Lehrbua Lukas kriagt 3 Spielpunkt“). Wertung: der Gegner bekommt die Runde, als hätte er gerade richtig 66 angesagt (3 ohne eigenen Stich, 2 unter 33 Augen, sonst 1; nach dem Zudrehen gelten die Zudreh-Regeln) – Aufgeben ist damit nie billiger als Weiterspielen und Verlieren. Bots geben nie auf, die Partie-Auswertung bewertet eine Aufgabe („zu früh aufgegeben“). Querformat: eigene Hand größer (Handy ×1,3, Desktop ×1,25), dein Schild direkt links der Hand, am Handy quer stehen 20/40 und Zudrehen als Spalte neben der Hand (über der Hand verdeckten sie die untere Stichkarte). Talon/Trumpf bleiben links, weil rechts Spielstand, Chat und Werkzeuge sitzen. Überlappungen: alle Phasen bei 444×987, 390×844, 844×390, 1280×800, 1920×1080 in drei Skins geprüft, zwei Funde behoben. Binokel ist unverändert. Vergleich: docs/compare/SCHNAPSEN-QUER.md. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#85",
+  "rows": [
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-10-28-i132-schnapsen-tisch/01-before-sg-sgmeld-p2-844x390-s1.webp",
+    "after": "changes/2026-10-28-i132-schnapsen-tisch/02-after-sg-sgmeld-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-28-i132-schnapsen-tisch/03-before-sg-sgmeld-p2-1280x800-s1.webp",
+    "after": "changes/2026-10-28-i132-schnapsen-tisch/04-after-sg-sgmeld-p2-1280x800-s1.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987",
+    "before": "changes/2026-10-28-i132-schnapsen-tisch/05-before-sg-sgplaying-p2-444x987-s1.webp",
+    "after": "changes/2026-10-28-i132-schnapsen-tisch/06-after-sg-sgplaying-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Aufgeben: Rückfrage",
+    "img": "changes/2026-10-28-i132-schnapsen-tisch/07-img-sg-sggiveup-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Aufgeben: Rundenende",
+    "img": "changes/2026-10-28-i132-schnapsen-tisch/08-img-sg-sggaveup-p2-844x390-s1.webp"
+   }
+  ],
+  "sha": "d61fbea"
  }
 ]
