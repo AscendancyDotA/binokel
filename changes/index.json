@@ -3084,5 +3084,20 @@
    }
   ],
   "sha": "f0e5c24"
+ },
+ {
+  "id": "pc162-129-balance",
+  "date": "2026-10-28T09:28:32.708Z",
+  "title": "Profil zeigt nach dem Kauf sofort das neue Guthaben",
+  "text": "Ein offenes Profil übernimmt jetzt jede Guthaben-Meldung des Servers (Kauf, Einsatz, Belohnung) – dieselbe Zahl wie die Kopfzeile – und lädt „Letzte Buchungen“ neu, sobald sich das Guthaben ändert. Im Bild: Kauf aus dem offenen Profil, nach „Fertig“ steht das neue Guthaben samt Buchung „Taler gekauft“ da, ohne Profil neu zu öffnen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#129",
+  "rows": [
+   {
+    "label": "Nach dem Kauf, Profil offen",
+    "before": "changes/2026-10-28-pc162-129-balance/01-before-i129-profile.webp",
+    "after": "changes/2026-10-28-pc162-129-balance/02-after-pc-129-profile-after-desktop.webp"
+   }
+  ],
+  "sha": "f0e5c24"
  }
 ]
