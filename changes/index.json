@@ -3625,5 +3625,43 @@
    }
   ],
   "sha": "cccacc9"
+ },
+ {
+  "id": "lupfen-spielende-177",
+  "date": "2026-10-28T18:44:28.327Z",
+  "title": "Entwurf: Lupfen – Spielende",
+  "text": "Lupfen am echten Tisch: Gespielt wird, bis der Pott leer ist. Dann stimmt der Tisch ab (alle sehen alle Stimmen): Weiterspielen, Finale Runde (jeder spendet 2×/5×/10× den Mischeinsatz, angeboten nur was der eigene Stapel deckt), Spiel beenden oder mit dem Stapel den Tisch verlassen. Mehrheit entscheidet, Gleichstand = weiter, bei der Finalen gilt der kleinste genannte Einsatz. Zwischen den Runden kann jeder 'Spiel beenden und Pott teilen' vorschlagen (Mehrheit nötig). Neue Hausregel als Standard: 'Sperren wie im Allgäu' – U-U-O und drei Unter sind reine Sperr-Blätter: wer gepasst hat, ruft nach dem letzten Stich 'Sperren!', kein Stich zahlt aus, wer tot ist zahlt trotzdem. Alternativen (Wikipedia-Regel, Mischformen, 'Verworfen kostet den Pott') sind Tisch-Schalter; Vergleichstabelle in docs/rules/LUPFEN.md. Partner-/Team-Variante: in keiner Quelle gefunden, daher keine. Online und offline. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#157",
+  "rows": [
+   {
+    "label": "Abstimmung, Handy",
+    "img": "changes/2026-10-28-lupfen-spielende-177/01-img-vote-phone.webp"
+   },
+   {
+    "label": "Abstimmung, Desktop",
+    "img": "changes/2026-10-28-lupfen-spielende-177/02-img-vote-desk.webp"
+   },
+   {
+    "label": "Rundenende mit 'Pott teilen'",
+    "img": "changes/2026-10-28-lupfen-spielende-177/03-img-roundend-phone.webp"
+   },
+   {
+    "label": "Pott teilen – Abstimmung",
+    "img": "changes/2026-10-28-lupfen-spielende-177/04-img-split-desk.webp"
+   },
+   {
+    "label": "Sperren-Frage (nur wer gepasst hat und ein Sperr-Blatt hält)",
+    "img": "changes/2026-10-28-lupfen-spielende-177/05-img-sperren-phone.webp"
+   },
+   {
+    "label": "Finale Runde ×2 läuft",
+    "img": "changes/2026-10-28-lupfen-spielende-177/06-img-final-desk.webp"
+   },
+   {
+    "label": "Online, drei Spieler: Abstimmung",
+    "img": "changes/2026-10-28-lupfen-spielende-177/07-img-online-B-vote-decide-0.webp"
+   }
+  ],
+  "sha": "41c23cd"
  }
 ]
