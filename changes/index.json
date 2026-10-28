@@ -2494,5 +2494,17 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-02-lang",
+  "date": "2026-10-28T08:16:58.965Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Browser en-GB: Einrichtung auf Deutsch",
+    "img": "changes/2026-10-28-pt157-02-lang/01-img-lisa-01-first.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
