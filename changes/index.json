@@ -2566,5 +2566,25 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-07-botnames",
+  "date": "2026-10-28T08:17:30.394Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Am Tisch: Schorsch / Sepp (im Formular: Stammtisch-Schorsch / II)",
+    "img": "changes/2026-10-28-pt157-07-botnames/01-img-erna-12-table-start.webp"
+   },
+   {
+    "label": "Warteschlangen-Tisch: Profi-Gerdle + Profi-Paule",
+    "img": "changes/2026-10-28-pt157-07-botnames/02-img-jonas-05-table.webp"
+   },
+   {
+    "label": "Wiederholung derselben Partie: „Profi-Paule II“",
+    "img": "changes/2026-10-28-pt157-07-botnames/03-img-jonas-07-analysis.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
