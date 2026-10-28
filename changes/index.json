@@ -2506,5 +2506,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-03-link",
+  "date": "2026-10-28T08:17:04.615Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Freundin kommt per Link: „Gast 3011“",
+    "img": "changes/2026-10-28-pt157-03-link/01-img-lore-01-arrive.webp"
+   },
+   {
+    "label": "Ernas Sicht",
+    "img": "changes/2026-10-28-pt157-03-link/02-img-erna-23-friendjoined.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
