@@ -2828,5 +2828,25 @@
    }
   ],
   "sha": "c146cca"
+ },
+ {
+  "id": "pt161-131-botnames",
+  "date": "2026-10-28T09:10:06.746Z",
+  "title": "Bots heißen überall gleich",
+  "text": "Der zweite Bot einer Stufe hat jetzt im Formular „Gegen Bots“, am Tisch, im Wartezimmer, in der Wiederholung und in den Partienlisten denselben Namen (z. B. „Stammtisch-Sepp“ statt vorn „… II“ und am Tisch ein anderer). Die Namen werden nicht mehr pro Tisch ausgelost, sondern sind je Bot-Platz fest. Gebaut von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#131",
+  "rows": [
+   {
+    "label": "Formular „Gegen Bots“",
+    "before": "changes/2026-10-28-pt161-131-botnames/01-before-131-before-form.webp",
+    "after": "changes/2026-10-28-pt161-131-botnames/02-after-131-after-form.webp"
+   },
+   {
+    "label": "Am Tisch",
+    "before": "changes/2026-10-28-pt161-131-botnames/03-before-131-before-table.webp",
+    "after": "changes/2026-10-28-pt161-131-botnames/04-after-131-after-table.webp"
+   }
+  ],
+  "sha": "c146cca"
  }
 ]
