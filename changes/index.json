@@ -2425,5 +2425,58 @@
    }
   ],
   "sha": "78861f9"
+ },
+ {
+  "id": "item158-kosmetik",
+  "date": "2026-10-28T07:58:24.502Z",
+  "title": "Entwurf: neue Kosmetik",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Im Taler-Shop: 9 neue Kartenrücken (Loden, Kachelofen, Hirsch; fürs französische Blatt Lilie, Rosette, Salon – gelten nur bei Skat und Doppelkopf), 7 Platzdeckchen als eigene Zeichnungen, neue Rahmen, Namensschilder, Schimmer (Opal/Kupfer mit eigenem Aufblitzen im Stich) und Spielmacher-Effekte (Laterne, Hopfenkranz). Saison-Sätze Wasen, Fasnet, Weihnachtsmarkt: nicht zu kaufen, man bekommt sie mit 3 Online-Partien in der Saison, jedes Jahr wieder, ohne Countdown. Zwei neue Klassen: Stammtisch-Wimpel am eigenen Bild und Siegesjubel am Partie-Ende (gut 1 Sekunde, antippen beendet ihn, bei reduzierter Bewegung nur das Bild). Wer 'Kosmetik der anderen: Ruhig' wählt, sieht Wimpel und Jubel der anderen nicht. Mit nichts angelegt bleibt der Tisch pixelgleich (Vergleich unten). Weitere Klassen-Ideen (Klopf-Ton, Trumpf-Schnörkel) stehen in docs/COSMETICS.md §4.2.",
+  "issue": "wirtshaus#119",
+  "rows": [
+   {
+    "label": "Shop: neue Kartenrücken (Desktop)",
+    "img": "changes/2026-10-28-item158-kosmetik/01-img-c158-shop-owned-desktop.webp"
+   },
+   {
+    "label": "Shop: Platzdeckchen",
+    "img": "changes/2026-10-28-item158-kosmetik/02-img-c158-shop-mat-desktop.webp"
+   },
+   {
+    "label": "Neu: Stammtisch-Wimpel, Anprobieren in der Vorschau",
+    "img": "changes/2026-10-28-item158-kosmetik/03-img-c158-shop-pennant-desktop.webp"
+   },
+   {
+    "label": "Neu: Siegesjubel (Handy)",
+    "img": "changes/2026-10-28-item158-kosmetik/04-img-c158-shop-cheer-phone.webp"
+   },
+   {
+    "label": "Saison: Wasen läuft (2 von 3 Partien), die anderen mit Datum",
+    "img": "changes/2026-10-28-item158-kosmetik/05-img-c158-shop-season-desktop.webp"
+   },
+   {
+    "label": "Am Tisch: Wimpel, Kupferrahmen, Kachelofen-Rücken, Vesperbrett + Edelweiß (Wirtshaus)",
+    "img": "changes/2026-10-28-item158-kosmetik/06-img-c158-table-wirtshaus-desktop.webp"
+   },
+   {
+    "label": "Arena / Klar am Handy",
+    "before": "changes/2026-10-28-item158-kosmetik/07-before-c158-table-arena-phone.webp",
+    "after": "changes/2026-10-28-item158-kosmetik/08-after-c158-table-klar-phone.webp"
+   },
+   {
+    "label": "Skat online: Lilie-Rücken der Mitspielerin (französisches Blatt)",
+    "img": "changes/2026-10-28-item158-kosmetik/09-img-c158-skat-lilie-desktop.webp"
+   },
+   {
+    "label": "Siegesjubel am Partie-Ende (Desktop / Handy)",
+    "before": "changes/2026-10-28-item158-kosmetik/10-before-c158-matchend-desktop.webp",
+    "after": "changes/2026-10-28-item158-kosmetik/11-after-c158-matchend-phone.webp"
+   },
+   {
+    "label": "Nichts angelegt: vorher / nachher identisch (Binokel 4er, 1280×800)",
+    "before": "changes/2026-10-28-item158-kosmetik/12-before-bk-playing-p4-1280x800-s1.webp",
+    "after": "changes/2026-10-28-item158-kosmetik/13-after-bk-playing-p4-1280x800-s1.webp"
+   }
+  ],
+  "sha": "f4230e6"
  }
 ]
