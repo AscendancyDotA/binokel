@@ -1700,5 +1700,55 @@
    }
   ],
   "sha": "382336f"
+ },
+ {
+  "id": "tables142-entry-page",
+  "date": "2026-10-28T02:45:37.877Z",
+  "title": "Spielen: „Offene Tische (n)“ ganz oben + alle Tische im Vollbild",
+  "text": "Auf dem Handy steht jetzt als Erstes unter „Spielen“ ein Feld „Offene Tische (n)“: mit Zahl, hervorgehoben (Akzentfarbe + Gesichter der Wartenden), sobald mindestens ein Tisch offen ist, ruhig bei 0. Die Zahl zählt live mit. Ein Tipp öffnet eine eigene Seite nur mit den Tischen: Suche, Filter, Sortierung, Hinsetzen (mit Mindesteinsatz-Prüfung) und unten groß „Tisch aufmachen“. Zurück geht per Pfeil, Browser-Zurück oder Android-Zurück-Taste. Gilt pro Spiel (Binokel und Schnapsen). Am Desktop sitzt das Feld unter den vier Spielarten (die Liste steht dort eh rechts daneben) und öffnet dieselbe Seite. Die Solo-Warteschlange bleibt der große Startknopf unten; die Liste unter der Warteschlange fällt am Handy weg, weil das Feld oben sie ersetzt. Warum so und nicht anders: genau deine Idee – ich hab nur die Zahl direkt ins Feld genommen und die Gesichter der Wartenden dazu, damit man ohne Lesen sieht, dass jemand wartet. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#89",
+  "rows": [
+   {
+    "label": "Handy 360×780, 8 offene Tische",
+    "before": "changes/2026-10-28-tables142-entry-page/01-before-before-p360-8.webp",
+    "after": "changes/2026-10-28-tables142-entry-page/02-after-after-p360-8.webp"
+   },
+   {
+    "label": "Handy, „Gegen Bots“ gewählt: Tische trotzdem sichtbar",
+    "before": "changes/2026-10-28-tables142-entry-page/03-before-before-p360-bots.webp",
+    "after": "changes/2026-10-28-tables142-entry-page/04-after-after-p360-bots.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-28-tables142-entry-page/05-before-before-desktop-8.webp",
+    "after": "changes/2026-10-28-tables142-entry-page/06-after-after-desktop-8.webp"
+   },
+   {
+    "label": "Handy: kein Tisch offen (ruhig)",
+    "img": "changes/2026-10-28-tables142-entry-page/07-img-after-p360-0.webp"
+   },
+   {
+    "label": "Handy: die Tische-Seite",
+    "img": "changes/2026-10-28-tables142-entry-page/08-img-after-p360-page.webp"
+   },
+   {
+    "label": "Handy: Tisch aufmachen von der Seite aus",
+    "img": "changes/2026-10-28-tables142-entry-page/09-img-after-p360-page-create.webp"
+   },
+   {
+    "label": "Handy 444×987: Mindesteinsatz-Warnung auf der Seite",
+    "img": "changes/2026-10-28-tables142-entry-page/10-img-after-p444-page-stakewarn.webp"
+   },
+   {
+    "label": "Desktop: die Tische-Seite",
+    "img": "changes/2026-10-28-tables142-entry-page/11-img-after-desktop-page.webp"
+   },
+   {
+    "label": "Schnapsen: eigene Zahl, eigene Seite",
+    "before": "changes/2026-10-28-tables142-entry-page/12-before-after-sn360.webp",
+    "after": "changes/2026-10-28-tables142-entry-page/13-after-after-sn360-page.webp"
+   }
+  ],
+  "sha": "0a598d1"
  }
 ]
