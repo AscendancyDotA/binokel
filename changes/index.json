@@ -2026,5 +2026,27 @@
    }
   ],
   "sha": "d52e307"
+ },
+ {
+  "id": "cosmetics-k3-art-entwurf",
+  "date": "2026-10-28T04:51:09.842Z",
+  "title": "Entwurf: Zeichnungen für Schimmer, Rahmen, Schilder und Platzdeckchen",
+  "text": "Die Motive sind eigene CSS-Zeichnungen (keine fremden Bilder), gebaut und im Shop – sag, was dir nicht gefällt, dann tausche ich es aus: Schimmer in 5 Farben + Perlmutt + Gold-Glanz, Rahmen Holz/Kordel/Messing/Silber/Efeu/Gold, Schilder Holz/Kreide/Messing/Emaille, Deckchen Leinen kariert/Filz-Untersetzer/Bierdeckel/Spitzendeckchen/Arena-Metall. Preise fest (150–1 500 Taler), Vorschläge. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Bilderrahmen (oben: Vorschau mit Smaragd, Bierdeckel, Efeu, Kreidetafel anprobiert)",
+    "img": "changes/2026-10-28-cosmetics-k3-art-entwurf/01-img-shop-k3-frames-desktop.webp"
+   },
+   {
+    "label": "Platzdeckchen",
+    "img": "changes/2026-10-28-cosmetics-k3-art-entwurf/02-img-shop-k3-mats-desktop.webp"
+   },
+   {
+    "label": "Schimmer",
+    "img": "changes/2026-10-28-cosmetics-k3-art-entwurf/03-img-shop-k3-gems-desktop.webp"
+   }
+  ],
+  "sha": "d52e307"
  }
 ]
