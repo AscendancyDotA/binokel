@@ -2634,5 +2634,25 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-11-overlap",
+  "date": "2026-10-28T08:17:59.263Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "(a) Stichkarte über Reiz-Chip",
+    "img": "changes/2026-10-28-pt157-11-overlap/01-img-erna-erna-m1-play1.webp"
+   },
+   {
+    "label": "(b) Schnapsen quer",
+    "img": "changes/2026-10-28-pt157-11-overlap/02-img-franz-franz-sn-play1.webp"
+   },
+   {
+    "label": "(c) Warteraum",
+    "img": "changes/2026-10-28-pt157-11-overlap/03-img-erna-22-waiting.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
