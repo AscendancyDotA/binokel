@@ -2478,5 +2478,21 @@
    }
   ],
   "sha": "f4230e6"
+ },
+ {
+  "id": "pt157-01-text",
+  "date": "2026-10-28T08:15:07.493Z",
+  "title": "Entwurf: Playtest-Beleg – Schriftgröße",
+  "rows": [
+   {
+    "label": "Einstieg: „Groß“ verspricht größere Schrift",
+    "img": "changes/2026-10-28-pt157-01-text/01-img-erna-05-ob3-gross.webp"
+   },
+   {
+    "label": "Tisch mit „Groß“ (444×987): Sitz-Zeilen 10 px, Chips 12 px, Punktetafel 11,7 px",
+    "img": "changes/2026-10-28-pt157-01-text/02-img-erna-30-measure.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
