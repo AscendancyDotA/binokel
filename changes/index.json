@@ -3553,5 +3553,35 @@
    }
   ],
   "sha": "04cb35e"
+ },
+ {
+  "id": "lupfen-offline-tisch",
+  "date": "2026-10-28T17:20:19.726Z",
+  "title": "Entwurf: Lupfen – Offline-Tisch (3–6 Spieler)",
+  "text": "Lupfen gegen Bots, nur über #games=binokel,lupfen (versteckt, Spielchips ohne Wert). Pott mit Chip-Stapeln und Stapel mit gelupfter Trumpfkarte in der Mitte, große Knöpfe Lupfen/Weiter, Mit!/Passe, Verworfen/Behalten (gesperrt mit Grund, wenn der Stapel den Pott nicht deckt oder die Sau-Regel greift), Status je Platz (lupft/mit/passt/weiter/draußen, Ständer!-Schild), Rundenabrechnung (wer bekommt Drittel, wer geht tot, neuer Pott). 5 und 6 Plätze: zusätzliche Plätze oben, am Handy in zwei Reihen. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#157",
+  "rows": [
+   {
+    "label": "Lupfen? (Desktop, 4 Spieler)",
+    "img": "changes/2026-10-28-lupfen-offline-tisch/01-img-lift-d.webp"
+   },
+   {
+    "label": "Mit oder Passe (Handy)",
+    "img": "changes/2026-10-28-lupfen-offline-tisch/02-img-join-p.webp"
+   },
+   {
+    "label": "Ausspielen, 6 Spieler (Handy)",
+    "img": "changes/2026-10-28-lupfen-offline-tisch/03-img-play6-p.webp"
+   },
+   {
+    "label": "Ausspielen, 5 Spieler (Desktop)",
+    "img": "changes/2026-10-28-lupfen-offline-tisch/04-img-play5-d.webp"
+   },
+   {
+    "label": "Rundenabrechnung",
+    "img": "changes/2026-10-28-lupfen-offline-tisch/05-img-round-d.webp"
+   }
+  ],
+  "sha": "8a7512a"
  }
 ]
