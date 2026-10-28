@@ -1924,5 +1924,19 @@
    }
   ],
   "sha": "56fbe3d"
+ },
+ {
+  "id": "qa148-resign",
+  "date": "2026-10-28T04:50:14.926Z",
+  "title": "Entwurf: QA-Befund – Aufgeben, Partie-Ende",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), QA-Durchgang wirtshaus#105. Bild zum Befund oben (kein ausgelieferter Stand).",
+  "issue": "wirtshaus#108",
+  "rows": [
+   {
+    "label": "Handy 390×844: der Aufgebende (Gast 2587) steht als Sieger da",
+    "img": "changes/2026-10-28-qa148-resign/01-img-r21-a-end.webp"
+   }
+  ],
+  "sha": "63bc586"
  }
 ]
