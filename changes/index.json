@@ -2963,5 +2963,25 @@
    }
   ],
   "sha": "efd0d8c"
+ },
+ {
+  "id": "pt160-125-textscale",
+  "date": "2026-10-28T09:17:20.322Z",
+  "title": "„Groß“ macht auch die Schrift größer",
+  "text": "Schritt 3 der Einrichtung setzt mit „Groß“ / „Arg groß“ jetzt auch die Schriftgröße (vorher nur die Karten). Die Schriftgröße wirkt mit vollem Faktor (Groß = 20 % größer) und wird nicht mehr von der Kartenpassung gedeckelt. Bei großer Darstellung bleiben Sitz-Zweitzeile, Punktetafel, Kartenzahl und „Letschter Stich“ mindestens 14 px (Handy quer 12 px). Normalgröße sieht aus wie bisher. Gemessen am Handy 444×987 mit Groß: vorher Zweitzeile 10 px, Punktetafel 11,7 px – jetzt ≥ 13 px. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#125",
+  "rows": [
+   {
+    "label": "Handy hochkant 444×987, Groß (vorher → nachher)",
+    "before": "changes/2026-10-28-pt160-125-textscale/01-before-before-big-table-p.webp",
+    "after": "changes/2026-10-28-pt160-125-textscale/02-after-after-big-table-p.webp"
+   },
+   {
+    "label": "Handy quer 915×412, Groß",
+    "before": "changes/2026-10-28-pt160-125-textscale/03-before-before-big-table-l.webp",
+    "after": "changes/2026-10-28-pt160-125-textscale/04-after-after-big-table-l.webp"
+   }
+  ],
+  "sha": "503c8f1"
  }
 ]
