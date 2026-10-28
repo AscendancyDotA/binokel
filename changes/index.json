@@ -2224,5 +2224,31 @@
    }
   ],
   "sha": "5b181fc"
+ },
+ {
+  "id": "k5-skins",
+  "date": "2026-10-28T05:35:45.591Z",
+  "title": "Entwurf: Stile als Shop-Artikel (Arena, Glas)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Im Taler-Shop gibt es jetzt den Abschnitt „Stil“ – Wirtshaus und Klar bleiben gratis, Arena 300 und Glas 500 Taler. Jede Kachel zeigt den kleinen Raum im jeweiligen Stil, „Anprobieren“ ändert nur die Vorschau. In den Einstellungen zeigt ein gesperrtes Arena ein Schloss und öffnet den Shop bei den Stilen; Glas ist dort ein Schalter über dem Stil. Konten, die es schon gab, bekommen Arena einmalig geschenkt; ohne Shop (offline, Play-Build) bleibt alles wie bisher.",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Shop, Glas anprobiert (Desktop)",
+    "img": "changes/2026-10-28-k5-skins/01-img-shop-k5-skins-glas-tried-desktop.webp"
+   },
+   {
+    "label": "Shop, Handy hochkant",
+    "img": "changes/2026-10-28-k5-skins/02-img-shop-k5-skins-phone.webp"
+   },
+   {
+    "label": "Einstellungen: Arena gesperrt, Glas-Schalter",
+    "img": "changes/2026-10-28-k5-skins/03-img-shop-k5-settings-locked-desktop.webp"
+   },
+   {
+    "label": "Glas angelegt",
+    "img": "changes/2026-10-28-k5-skins/04-img-shop-k5-skins-glas-on-desktop.webp"
+   }
+  ],
+  "sha": "2a58586"
  }
 ]
