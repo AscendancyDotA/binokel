@@ -2983,5 +2983,25 @@
    }
   ],
   "sha": "503c8f1"
+ },
+ {
+  "id": "pt160-133-gamechoice",
+  "date": "2026-10-28T09:18:01.498Z",
+  "title": "Einrichtung: „Was spielst du?“ – Spielname immer im Lobby-Kopf",
+  "text": "Schritt 4 der Einrichtung fragt in der Wirtshaus-App „Was spielst du?“ (Binokel / Schnapsen, nur Spiele, die der Server freigibt). Die Wahl wird das Lobby-Spiel, und „Erste Runde mit Erklärungen“ startet die Lernpartie des gewählten Spiels (Schnapsen: gegen den Lehrling). Im Lobby-Kopf weicht bei Platzmangel jetzt das Wirtshaus-Schild, nicht der Spielname – „Binokel ▾“ bleibt lesbar. Versteckte Spiele (Skat, Doppelkopf) bleiben versteckt; die Binokel-Play-App und offline bleibt Schritt 4 wie bisher. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#133",
+  "rows": [
+   {
+    "label": "Einrichtung Schritt 4, Handy hochkant",
+    "before": "changes/2026-10-28-pt160-133-gamechoice/01-before-before-ob4-p.webp",
+    "after": "changes/2026-10-28-pt160-133-gamechoice/02-after-after-ob4-p.webp"
+   },
+   {
+    "label": "Lobby-Kopf Handy quer 915×412",
+    "before": "changes/2026-10-28-pt160-133-gamechoice/03-before-before-lobby-l.webp",
+    "after": "changes/2026-10-28-pt160-133-gamechoice/04-after-after-lobby-l.webp"
+   }
+  ],
+  "sha": "503c8f1"
  }
 ]
