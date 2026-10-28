@@ -2364,5 +2364,66 @@
    }
   ],
   "sha": "7d25d27"
+ },
+ {
+  "id": "dk152-online",
+  "date": "2026-10-28T07:25:31.812Z",
+  "title": "Entwurf: Doppelkopf online",
+  "text": "Doppelkopf spielt jetzt online in der Web-Oberfläche (noch versteckt hinter #games=binokel,doppelkopf und GAMES_ENABLED): Solo-Warteschlange, eigener Tisch mit Spielen + Hausregeln und Bot-Füllung, Tischliste (Chips nur für Abweichungen), Warteraum, Zuschauen, Revanche, Wiederholung mit Partie-Auswertung (offline und online). Wirtshaus-TV hat einen Doppelkopf-Meistertisch. Handy hochkant: Seitennamen lesbar (Partei-Marke am Avatar, BOT-Schild weg, da Unterzeile „Bot · Meister“ es sagt), Punkte nur als „Spielliste“-Knopf (überdeckte den Chat-Knopf). Desktop: Vorbehalt-Fenster bleibt zwischen den Seitenschildern. Armut im Browser per festem Spiel durchgespielt. Partie-Ende von Doppelkopf und Skat zeigt aufgegebene Plätze wie Binokel. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#101",
+  "rows": [
+   {
+    "label": "Handy hochkant: Seitennamen (vorher/nachher)",
+    "before": "changes/2026-10-28-dk152-online/01-before-L-play-phone.webp",
+    "after": "changes/2026-10-28-dk152-online/02-after-A-play-phone.webp"
+   },
+   {
+    "label": "Handy: Punkte-Box über dem Chat-Knopf (vorher/nachher)",
+    "before": "changes/2026-10-28-dk152-online/03-before-L-sheet-phone.webp",
+    "after": "changes/2026-10-28-dk152-online/04-after-A-sheet-phone.webp"
+   },
+   {
+    "label": "Desktop: Vorbehalt-Fenster (vorher/nachher)",
+    "before": "changes/2026-10-28-dk152-online/05-before-L-vorbehalt-desk.webp",
+    "after": "changes/2026-10-28-dk152-online/06-after-A-vorbehalt-desk.webp"
+   },
+   {
+    "label": "Online: Tisch eröffnen mit Hausregeln",
+    "img": "changes/2026-10-28-dk152-online/07-img-online-create.webp"
+   },
+   {
+    "label": "Online: Tischliste",
+    "img": "changes/2026-10-28-dk152-online/08-img-online-tablelist.webp"
+   },
+   {
+    "label": "Online am Handy",
+    "img": "changes/2026-10-28-dk152-online/09-img-online-B-play.webp"
+   },
+   {
+    "label": "Zuschauer",
+    "img": "changes/2026-10-28-dk152-online/10-img-online-spectator.webp"
+   },
+   {
+    "label": "Partie-Ende online mit Revanche",
+    "img": "changes/2026-10-28-dk152-online/11-img-online-matchend.webp"
+   },
+   {
+    "label": "Wiederholung + Auswertung",
+    "img": "changes/2026-10-28-dk152-online/12-img-online-replay.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Doppelkopf-Meistertisch",
+    "img": "changes/2026-10-28-dk152-online/13-img-online-welcome-tv.webp"
+   },
+   {
+    "label": "Armut: Karten abgeben (Handy)",
+    "img": "changes/2026-10-28-dk152-online/14-img-armut-give-phone.webp"
+   },
+   {
+    "label": "Armut: Angebot annehmen (Desktop)",
+    "img": "changes/2026-10-28-dk152-online/15-img-armut-offer-desk.webp"
+   }
+  ],
+  "sha": "78861f9"
  }
 ]
