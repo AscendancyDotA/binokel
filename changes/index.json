@@ -3243,7 +3243,7 @@
  },
  {
   "id": "liga-170",
-  "date": "2026-10-28T13:05:48.016Z",
+  "date": "2026-10-28T13:06:14.984Z",
   "title": "Liga pro Spiel: Monatsgruppen, Auf- und Abstieg, Wimpel, Stammtisch-Monatstabelle",
   "text": "Neuer Lobby-Reiter „Liga“ (am Handy unter „Mehr“), je Spiel: jeden Monat Gruppen von etwa 20 Spielern in fünf Klassen (Kreisklasse → Bezirksliga → Landesliga → Oberliga → Wirtshaus-Meister). Ligapunkte gibt es nur in der Solo-Warteschlange (Sieg 3, Zweiter von drei 1, nur Bots am Tisch = halb, dieselbe Person mehr als dreimal im Monat = immer weniger, gegen Absprachen). Ab 5 Partien ist man gewertet; am Monatsende (Berliner Zeit) steigen die besten 20 % auf, die letzten 20 % ab. Belohnung nur Kosmetik: Liga-Wimpel für das Sitzbild, keine Taler. Das Monatsergebnis kommt einmal als Fenster, das Partie-Ende zeigt die Ligapunkte, und jeder Stammtisch hat eine Monatstabelle (der Wirt kann sie ausschalten). Regeln: docs/LEAGUE.md. Server-Schalter LEAGUE=0 schaltet alles ab, Standard an. Hermes-Subagent (claude-opus-5-5, effort high).",
   "issue": "wirtshaus#146",
@@ -3257,14 +3257,20 @@
     "img": "changes/2026-10-28-liga-170/02-img-liga-side-1280x800.webp"
    },
    {
-    "label": "Handy 444×987: Liga-Reiter und Monatsergebnis",
-    "before": "changes/2026-10-28-liga-170/03-before-liga-444x987.webp",
-    "after": "changes/2026-10-28-liga-170/04-after-result-444x987.webp"
+    "label": "Handy 444×987: Liga-Reiter",
+    "img": "changes/2026-10-28-liga-170/03-img-liga-444x987.webp"
    },
    {
-    "label": "Handy: Gruppe und Wimpel",
-    "before": "changes/2026-10-28-liga-170/05-before-liga-table-444x987.webp",
-    "after": "changes/2026-10-28-liga-170/06-after-liga-pennants-444x987.webp"
+    "label": "Handy: Monatsergebnis (einmal, nach dem Monatswechsel)",
+    "img": "changes/2026-10-28-liga-170/04-img-result-444x987.webp"
+   },
+   {
+    "label": "Handy: Gruppe mit Aufstiegszone",
+    "img": "changes/2026-10-28-liga-170/05-img-liga-table-444x987.webp"
+   },
+   {
+    "label": "Handy: Wimpel und Regeln",
+    "img": "changes/2026-10-28-liga-170/06-img-liga-pennants-444x987.webp"
    },
    {
     "label": "Partie-Ende nach einer Solo-Partie (hier verloren: keine Ligapunkte)",
