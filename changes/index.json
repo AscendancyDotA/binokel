@@ -2048,5 +2048,55 @@
    }
   ],
   "sha": "d52e307"
+ },
+ {
+  "id": "doppelkopf-tisch-frz",
+  "date": "2026-10-28T04:57:18.750Z",
+  "title": "Entwurf: Doppelkopf – Tisch mit französischem Blatt, Lobby-Karte mit Hausregeln",
+  "text": "Was: Der Doppelkopf-Tisch spielt jetzt mit dem französischen Blatt (48 Karten 9–Ass doppelt, ohne Neunen 40). In der Lobby hat die Karte „Gegen Bots“ Spiele (4–48, Standard 8) und die Hausregeln zum Anklicken: ohne Neunen, zweite Dulle (+ nicht im letzten Stich), Armut, Schweinchen/Hyperschweinchen, Pflichtsolo – ohne Haken gelten die DDV-Turnierregeln. Am Tisch: Gesund/Vorbehalt mit Solo-Auswahl, Hochzeit, Armut-Tausch, Ansage-Knopf (weitere Absagen hinter „…“) mit Rückfrage, Re/Kontra-Marken an den Sitzen, Abrechnung mit allen Posten, Spielliste, Partie-Ende. Online: eigene Wertung „Doppelkopf 4er“ mit Bot-Vorgaben aus der Stärke-Messung. Wo: nur über den Entwickler-Link (#games=binokel,doppelkopf), noch nicht für Spieler freigeschaltet. Bilder: links Handy hochkant 444×987, rechts Desktop 1280×800. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#101",
+  "rows": [
+   {
+    "label": "Lobby-Karte „Gegen Bots“",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/01-img-combo-lobby.webp"
+   },
+   {
+    "label": "Gesund oder Vorbehalt",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/02-img-combo-reservation.webp"
+   },
+   {
+    "label": "Vorbehalt: Solo-Auswahl",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/03-img-combo-vorbehalt.webp"
+   },
+   {
+    "label": "Hochzeit",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/04-img-combo-hochzeit.webp"
+   },
+   {
+    "label": "Armut: 3 Karten abgeben",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/05-img-combo-armut.webp"
+   },
+   {
+    "label": "Ansage mit Rückfrage",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/06-img-combo-ansage.webp"
+   },
+   {
+    "label": "Spiel (Kreuz-Solo eines Bots, Parteien an den Sitzen)",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/07-img-combo-spiel.webp"
+   },
+   {
+    "label": "Abrechnung",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/08-img-combo-abrechnung.webp"
+   },
+   {
+    "label": "Spielliste",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/09-img-combo-spielliste.webp"
+   },
+   {
+    "label": "Partie-Ende",
+    "img": "changes/2026-10-28-doppelkopf-tisch-frz/10-img-combo-partieende.webp"
+   }
+  ],
+  "sha": "e9a592a"
  }
 ]
