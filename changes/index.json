@@ -2686,5 +2686,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-14-purchase",
+  "date": "2026-10-28T08:18:20.529Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Kauf-Dialog (Handy quer)",
+    "img": "changes/2026-10-28-pt157-14-purchase/01-img-franz-06-buy.webp"
+   },
+   {
+    "label": "Bestätigung nach dem Kauf",
+    "img": "changes/2026-10-28-pt157-14-purchase/02-img-franz-10-sn-create.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
