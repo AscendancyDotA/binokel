@@ -3476,5 +3476,32 @@
    }
   ],
   "sha": "d1e9479"
+ },
+ {
+  "id": "item173-wuerfel",
+  "date": "2026-10-28T16:14:05.451Z",
+  "title": "Entwurf: Fünf Würfel – Würfeltisch, Online 2–6, Auswertung",
+  "text": "Neues Würfelspiel „Fünf Würfel“ (eigener Name, kein Kniffel/Yahtzee): Holzwürfel mit Lederbecher, Bierdeckel-Zettel mit Vorschau, optimaler Solver (Erwartung 245,87 Punkte solo) für Tipp, Bots und die Auswertung jedes Zugs. Offline gegen Bots/Solo mit Bestenliste, online 2–6 (Pools wuerfel:p2…p6), Wiederholung, Schautisch. Versteckt: #games=binokel,wuerfel bzw. GAMES_ENABLED=…,wuerfel. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#151",
+  "rows": [
+   {
+    "label": "Handy, 6 am Tisch",
+    "img": "changes/2026-10-28-item173-wuerfel/01-img-p6-r9.webp"
+   },
+   {
+    "label": "Desktop, 6 am Tisch",
+    "img": "changes/2026-10-28-item173-wuerfel/02-img-d6.webp"
+   },
+   {
+    "label": "Tipp aus dem Solver",
+    "img": "changes/2026-10-28-item173-wuerfel/03-img-hint.webp"
+   },
+   {
+    "label": "Auswertung: zu früh eingetragen (Handy / Desktop)",
+    "before": "changes/2026-10-28-item173-wuerfel/04-before-rp-p2.webp",
+    "after": "changes/2026-10-28-item173-wuerfel/05-after-rp-d2.webp"
+   }
+  ],
+  "sha": "6306111"
  }
 ]
