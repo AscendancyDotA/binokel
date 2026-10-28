@@ -2270,5 +2270,24 @@
    }
   ],
   "sha": "2a58586"
+ },
+ {
+  "id": "qa151-minstake-humans-only",
+  "date": "2026-10-28T05:48:26.624Z",
+  "title": "Mindesteinsatz über 50 Taler: nur Menschen am Tisch, ehrlicher Warteraum",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Ab einem Mindesteinsatz über dem Bot-Höchsteinsatz (50 Taler) versprechen freie Plätze keine Bots mehr (\"frei – nur für Menschen\"), \"Bot hinsetzen\" fehlt, ein Hinweis über \"Los geht's\" nennt den Grund, und \"Los geht's\" bleibt aus, bis alle Plätze von Menschen besetzt sind. Der Server füllt dort keine Bots mehr auf. Das Tisch-Aufmachen-Formular zeigt denselben Hinweis statt des Bot-Schalters. Bis 50 Taler bleibt alles wie bisher.",
+  "issue": "wirtshaus#110",
+  "rows": [
+   {
+    "label": "Handy 390×844: Warteraum ab 1.000 Taler",
+    "before": "changes/2026-10-28-qa151-minstake-humans-only/01-before-01-img-r12-a-stake.webp",
+    "after": "changes/2026-10-28-qa151-minstake-humans-only/02-after-qa151-waiting-humans-only-phone.webp"
+   },
+   {
+    "label": "Handy: Tisch aufmachen mit Mindesteinsatz 1.000",
+    "img": "changes/2026-10-28-qa151-minstake-humans-only/03-img-qa151-create-humans-only-phone.webp"
+   }
+  ],
+  "sha": "7d25d27"
  }
 ]
