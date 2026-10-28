@@ -3214,5 +3214,31 @@
    }
   ],
   "sha": "af77a51"
+ },
+ {
+  "id": "item167-practice",
+  "date": "2026-10-28T12:52:49.345Z",
+  "title": "Üben: Zug zurück bei Skat/Doppelkopf, gleiche Karten von jedem Platz",
+  "text": "Offline gegen Bots: Skat und Doppelkopf haben jetzt „Zug zurück“ oben in der Leiste (nimmt den eigenen letzten Zug im laufenden Spiel samt Antwort der Bots zurück). Am Partie-Ende gibt es bei Schnapsen, Skat und Doppelkopf „Mit meinen Karten“ und „Als <Mitspieler>“ – dieselbe Verteilung noch einmal, auf Wunsch vom Platz eines Bots aus. Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#143",
+  "rows": [
+   {
+    "label": "Skat: Zug zurück (Desktop)",
+    "img": "changes/2026-10-28-item167-practice/01-img-skat-undo-on-desktop.webp"
+   },
+   {
+    "label": "Skat Handy: Zug-zurück-Pfeil oben",
+    "img": "changes/2026-10-28-item167-practice/02-img-skat-undo-on-phone.webp"
+   },
+   {
+    "label": "Doppelkopf Partie-Ende: gleiche Karten von jedem Platz",
+    "img": "changes/2026-10-28-item167-practice/03-img-dk-samecards-phone.webp"
+   },
+   {
+    "label": "Schnapsen: als Gegner weiterspielen",
+    "img": "changes/2026-10-28-item167-practice/04-img-sn-as-opponent-desktop.webp"
+   }
+  ],
+  "sha": "af77a51"
  }
 ]
