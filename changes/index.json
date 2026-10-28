@@ -2868,5 +2868,25 @@
    }
   ],
   "sha": "c146cca"
+ },
+ {
+  "id": "pt161-134-tabs",
+  "date": "2026-10-28T09:10:31.458Z",
+  "title": "Mehrere Tische: eigene Reiter-Titel, Lobby-Reiter fragt nur wenn es zählt",
+  "text": "Jeder Tisch-Reiter heißt jetzt nach seinen Mitspielern („Christoph, Lukas“ / „Dora, Lukas“), zweite Zeile: Spiel · Runde · Stand – nicht mehr alle „Tisch von …“. Der Lobby-Reiter wechselt nur die Ansicht; er fragt „Partie verlassen?“ nur, wenn du am Tisch gerade dran bist, und dann mit dem Haken „Beim Wechsel in die Lobby nicht mehr fragen“ (auch in den Einstellungen unter „Mehrere Tische gleichzeitig“ wieder einschaltbar). Gebaut von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#134",
+  "rows": [
+   {
+    "label": "Reiterleiste",
+    "before": "changes/2026-10-28-pt161-134-tabs/01-before-134-before-tabs.webp",
+    "after": "changes/2026-10-28-pt161-134-tabs/02-after-134-after-tabs.webp"
+   },
+   {
+    "label": "Lobby-Reiter, wenn du dran bist (nachher mit „Nicht mehr fragen“)",
+    "before": "changes/2026-10-28-pt161-134-tabs/03-before-134-before-lobby-ask.webp",
+    "after": "changes/2026-10-28-pt161-134-tabs/04-after-134-after-lobby-ask.webp"
+   }
+  ],
+  "sha": "c146cca"
  }
 ]
