@@ -3663,5 +3663,39 @@
    }
   ],
   "sha": "41c23cd"
+ },
+ {
+  "id": "gaigel-parity-179",
+  "date": "2026-10-28T19:05:13.478Z",
+  "title": "Entwurf: Gaigel – Wiederholung mit Auswertung, Wirtshaus-TV, Rätsel, Üben",
+  "text": "Gaigel kann jetzt, was Doppelkopf/Skat/Schafkopf schon können: jede Partie als Wiederholung (alle Karten oder die Sicht eines Platzes) mit „Partie analysieren“ (Karte, 20/40 und Rauben werden bewertet; Schwellen an der Bot-Leiter geprüft: Großmeister ~99 %, Meister ~95 %). Am Partie-Ende offline „Partie analysieren“ und „Mit meinen Karten“ / „Als <Bot>“, während der Partie „Zug zurück“. Neu im Wirtshaus-TV: der Gaigel-Meistertisch (vier starke Bots über Kreuz, bis 5 Striche). Dazu Rätsel des Tages aus echten Gaigel-Partien, Kartenglück (Trümpfe/Säue/Augen je Platz) und der Misch-Nachweis „Gemischt: nachprüfen“ in der Wiederholung. Alles noch im Bau (🚧). Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#150",
+  "rows": [
+   {
+    "label": "Wiederholung + Auswertung (Desktop)",
+    "img": "changes/2026-10-28-gaigel-parity-179/01-img-gg-replay-desk.webp"
+   },
+   {
+    "label": "Wiederholung (Handy hochkant)",
+    "img": "changes/2026-10-28-gaigel-parity-179/02-img-gg-replay-phone.webp"
+   },
+   {
+    "label": "Online-Partie: gespeicherte Partie mit Auswertung und Misch-Nachweis",
+    "img": "changes/2026-10-28-gaigel-parity-179/03-img-online-analysis.webp"
+   },
+   {
+    "label": "Partie-Ende offline: Partie analysieren, gleiche Karten von jedem Platz",
+    "img": "changes/2026-10-28-gaigel-parity-179/04-img-matchend-desk.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Gaigel-Meistertisch",
+    "img": "changes/2026-10-28-gaigel-parity-179/05-img-online-tv-mini.webp"
+   },
+   {
+    "label": "Rätsel des Tages (Gaigel, Handy)",
+    "img": "changes/2026-10-28-gaigel-parity-179/06-img-pz-gaigel-phone.webp"
+   }
+  ],
+  "sha": "afa852e"
  }
 ]
