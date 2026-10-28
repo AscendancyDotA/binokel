@@ -2602,5 +2602,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-09-discover",
+  "date": "2026-10-28T08:17:45.298Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Spielauswahl hinter „▾“ (Handy quer)",
+    "img": "changes/2026-10-28-pt157-09-discover/01-img-franz-02-switcher.webp"
+   },
+   {
+    "label": "Einrichtung Schritt 4: nur Binokel",
+    "img": "changes/2026-10-28-pt157-09-discover/02-img-franz-00-ob4.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
