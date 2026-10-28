@@ -1451,5 +1451,28 @@
    }
   ],
   "sha": "d61fbea"
+ },
+ {
+  "id": "item133-topbar",
+  "date": "2026-10-28T00:07:23.408Z",
+  "title": "Obere Leiste der Lobby: nichts wird mehr abgeschnitten",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Bei großer Schrift und schmalem Handy rutschte der Einstellungen-Knopf aus dem Bild. Jetzt gibt der Kopf Schritt für Schritt nach: leere Medaillen-Lücke im Konto-Chip entfällt, der Konto-Chip wird schlanker, zuletzt wandert „Freunde“ ins Mehr-Menü (⋯, mit Zähler-Badge). Der Einstellungen-Knopf bleibt immer sichtbar. Geprüft bei 508, 412, 390, 360 und 320 Pixel Breite mit Taler-Chip, Freundschaftsanfrage und großer Schrift.",
+  "issue": "binokel#13",
+  "rows": [
+   {
+    "label": "Handy hoch, Konto mit Taler",
+    "before": "changes/2026-10-28-item133-topbar/01-before-topbar-412x915-s1.35.webp",
+    "after": "changes/2026-10-28-item133-topbar/02-after-topbar-412x915-s1.35.webp"
+   },
+   {
+    "before": "changes/2026-10-28-item133-topbar/03-before-topbar-390x844-s1.35.webp",
+    "after": "changes/2026-10-28-item133-topbar/04-after-topbar-390x844-s1.35.webp"
+   },
+   {
+    "before": "changes/2026-10-28-item133-topbar/05-before-topbar-320x640-s1.35.webp",
+    "after": "changes/2026-10-28-item133-topbar/06-after-topbar-320x640-s1.35.webp"
+   }
+  ],
+  "sha": "cce3112"
  }
 ]
