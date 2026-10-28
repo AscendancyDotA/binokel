@@ -1620,5 +1620,25 @@
    }
   ],
   "sha": "7978f77"
+ },
+ {
+  "id": "untendurch-palast-schalter",
+  "date": "2026-10-28T01:51:23.664Z",
+  "title": "Untendurch zu viert: neue Regel + Schalter „wie im Binokel-Palast“",
+  "text": "Tisch aufmachen / Gegen Bots, 4 Leute, Untendurch erlaubt: neuer Schalter „Untendurch wie im Binokel-Palast“. Aus (Standard) heißt: Zu viert darf die ganze Partei keinen Stich machen, und der Spielmacher kommt raus. An heißt: Der Partner darf stechen, wie bisher und wie im Palast; dazu erscheint ein Hinweis. Warum: Mit der alten Regel war der Untendurch zu viert in rund 60 % der Runden das beste Spiel (Zahlen im Kommentar oben). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#97",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-28-untendurch-palast-schalter/01-before-before-desk-on.webp",
+    "after": "changes/2026-10-28-untendurch-palast-schalter/02-after-after-desk-on.webp"
+   },
+   {
+    "label": "Handy 444×987, Schalter an",
+    "before": "changes/2026-10-28-untendurch-palast-schalter/03-before-before-phone-on.webp",
+    "after": "changes/2026-10-28-untendurch-palast-schalter/04-after-after-phone-on.webp"
+   }
+  ],
+  "sha": "01fddb6"
  }
 ]
