@@ -1640,5 +1640,31 @@
    }
   ],
   "sha": "01fddb6"
+ },
+ {
+  "id": "cosmetics-stammplatz-entwurf",
+  "date": "2026-10-28T01:59:32.546Z",
+  "title": "Entwurf: Stammplatz (Anziehraum) mit Kosmetik-Slots",
+  "text": "Wegwerf-Mock, nicht im Spiel: dein reservierter Tisch im Wirtshaus, jeder Gegenstand ist ein Slot (Kartenrücken + Schimmer, Tischtuch, Bilderrahmen, Namensschild, Haustier, Spielmacher-Lampe, Sprüche-Tafel, Stil). Antippen = anprobieren, rechts bzw. unten die Auswahl mit Kaufen/Anlegen. Der Raum wird aus den Farb-Tokens des Skins gezeichnet und wechselt mit Wirtshaus/Arena/Klar mit. Konzept: docs/COSMETICS.md. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Wirtshaus, Desktop 1280×800: Schimmer „Rubin“ anprobiert",
+    "img": "changes/2026-10-28-cosmetics-stammplatz-entwurf/01-img-desk-wirtshaus-gem.webp"
+   },
+   {
+    "label": "Arena: derselbe Raum im Arena-Stil",
+    "img": "changes/2026-10-28-cosmetics-stammplatz-entwurf/02-img-desk-arena-back.webp"
+   },
+   {
+    "label": "Klar: Karo-Tischdecke anprobiert",
+    "img": "changes/2026-10-28-cosmetics-stammplatz-entwurf/03-img-desk-klar-felt.webp"
+   },
+   {
+    "label": "Handy hoch 444×987: Eule als Haustier anprobiert",
+    "img": "changes/2026-10-28-cosmetics-stammplatz-entwurf/04-img-phone-wirtshaus-pet.webp"
+   }
+  ],
+  "sha": "01fddb6"
  }
 ]
