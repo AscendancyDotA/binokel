@@ -3003,5 +3003,24 @@
    }
   ],
   "sha": "503c8f1"
+ },
+ {
+  "id": "pt160-135-overlaps",
+  "date": "2026-10-28T09:18:50.715Z",
+  "title": "Handy: Warteraum-Text und Stichkarten überdecken nichts mehr",
+  "text": "(c) Warteraum: „frei – sonscht spielt …“ bricht jetzt in seiner Spalte um, statt unter „Bot nasetza“ zu laufen (gemessen: vorher 13 px unter dem Knopf, jetzt 11 px Abstand). (a) Stich hochkant: die Stichkarten rücken unter die Info-Chips, auch wenn sich nur der Chip-Inhalt ändert (Reiz-Chip → „Gsteigert · Spielmacher“); in Messläufen (444×987 / 390×844, Groß, je 25 s Autoplay) liegt keine ruhende Stichkarte mehr auf einem Chip – nur fliegende Karten queren ihn kurz. (b) Schnapsen quer: die ruhende Gegnerkarte liegt unter seinem Fächer (Online-Partie 915×412 nachgestellt); das Bild im Playtest zeigt die Karte im Flug vom Fächer zum Stichplatz. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#135",
+  "rows": [
+   {
+    "label": "(c) Warteraum 444×987, Schwäbisch",
+    "before": "changes/2026-10-28-pt160-135-overlaps/01-before-waiting-phone.webp",
+    "after": "changes/2026-10-28-pt160-135-overlaps/02-after-waiting-phone.webp"
+   },
+   {
+    "label": "(b) Schnapsen online 915×412: ruhende Gegnerkarte unter dem Fächer",
+    "img": "changes/2026-10-28-pt160-135-overlaps/03-img-mg6-table.webp"
+   }
+  ],
+  "sha": "503c8f1"
  }
 ]
