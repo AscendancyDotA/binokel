@@ -3815,5 +3815,30 @@
    }
   ],
   "sha": "3f7125b"
+ },
+ {
+  "id": "i182-turnring",
+  "date": "2026-10-28T20:37:55.009Z",
+  "title": "Zeit-Ring sitzt wieder um das Bild (Hochformat, Plätze oben links/rechts)",
+  "text": "Was: Im Hochformat hing der Zug-Ring samt roter Sekunden-Zahl unter dem Bild der Mitspieler oben links/rechts statt drumherum (dein Screenshot aus 568). Warum: Diese Plaketten sind oben ausgerichtet – Kartenrücken, „kommt raus“ und „kurz weg“ hängen unter dem Bild –, der Ring war aber auf die Mitte der ganzen Plakette gesetzt. Jetzt sitzt er mittig auf dem Bild; gemessen an allen Plätzen aller Spiele (Binokel 3er/4er, Schnapsen, Doppelkopf, Skat, Schafkopf, Gaigel, Lupfen, Fünf Würfel) bei 444×987, 987×444 und 1280×800: 0 px Versatz, Querformat und Desktop unverändert. Fünf Würfel: Ring auch am großen Streifen-Bild mittig (vorher 9 px daneben). Die Ringe in den Bildern sind für den Vergleich an jedem Platz eingeblendet. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#147",
+  "rows": [
+   {
+    "label": "Binokel 3er, Telefon 444×987",
+    "before": "changes/2026-10-28-i182-turnring/01-before-before-b3dabb-p.webp",
+    "after": "changes/2026-10-28-i182-turnring/02-after-after-b3dabb-p.webp"
+   },
+   {
+    "label": "Schafkopf 4er, Telefon 444×987",
+    "before": "changes/2026-10-28-i182-turnring/03-before-before-schafkopf-p.webp",
+    "after": "changes/2026-10-28-i182-turnring/04-after-after-schafkopf-p.webp"
+   },
+   {
+    "label": "Fünf Würfel, Desktop 1280×800",
+    "before": "changes/2026-10-28-i182-turnring/05-before-before-wuerfel-d.webp",
+    "after": "changes/2026-10-28-i182-turnring/06-after-after-wuerfel-d.webp"
+   }
+  ],
+  "sha": "9282c0a"
  }
 ]
