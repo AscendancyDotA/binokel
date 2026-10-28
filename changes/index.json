@@ -2586,5 +2586,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-08-ownname",
+  "date": "2026-10-28T08:17:38.457Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Bot-Tisch: „Gascht 9298“ obwohl Konto „Erna“",
+    "img": "changes/2026-10-28-pt157-08-ownname/01-img-erna-12-table-start.webp"
+   },
+   {
+    "label": "Skat: „You“ / „Y“",
+    "img": "changes/2026-10-28-pt157-08-ownname/02-img-lisa-08-skat-start.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
