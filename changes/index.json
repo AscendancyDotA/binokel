@@ -2098,5 +2098,25 @@
    }
   ],
   "sha": "e9a592a"
+ },
+ {
+  "id": "qa148-fixes",
+  "date": "2026-10-28T04:59:14.402Z",
+  "title": "QA-Durchgang: kleine Fehler behoben",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high) hat die Änderungen der Nacht lokal durchgespielt (Handy hoch/quer, Desktop, 3 Stile, de/swb/en; Binokel 3er online mit 2 Gästen bis zum Ende, Schnapsen online, Verlassen auf allen 3 Wegen, Mindesteinsatz, Tische-Seite, Shop, Wiederholung + Auswertung) und den Code seit 27.10. 18 Uhr gelesen. Behoben (je mit Test): 1) Konto-Dialog aus der Einrichtung und Desktop-Dialog zeigen das Wirtshaus-Schild statt fest „Binokel“. 2) Die Tischliste schreibt nicht mehr „1 Tisch“ über die leere Liste, wenn der einzige Tisch schon läuft. 3) „Partie aufgeben“ bringt im Turnier keine Siegpunkte mehr, auch wenn der Autopilot gewinnt. 4) Taler-Beträge an Tisch-Chips und Mindesteinsatz-Hinweisen mit Tausenderpunkt (1.000). 5) „Tisch verlassen“ sagt bei Einsatz, dass er ohne Rückkehr bis zum Ende weg ist. 6) Der Hinweis „Neue Version verfügbar“ kam ohne gespeicherte Sprache auf Schwäbisch – jetzt Hochdeutsch wie die App. Größere Befunde als eigene Issues: #108 #109 #110 #111 #112 #113.",
+  "issue": "wirtshaus#105",
+  "rows": [
+   {
+    "label": "Konto-Dialog in der Einrichtung (Handy 390×844)",
+    "before": "changes/2026-10-28-qa148-fixes/01-before-r2-have.webp",
+    "after": "changes/2026-10-28-qa148-fixes/02-after-after-account-dialog.webp"
+   },
+   {
+    "label": "Spielen → Offene Tische, einziger Tisch läuft schon (Desktop 1280×800)",
+    "before": "changes/2026-10-28-qa148-fixes/03-before-r17-b-lobby.webp",
+    "after": "changes/2026-10-28-qa148-fixes/04-after-after-tables-count.webp"
+   }
+  ],
+  "sha": "82d0786"
  }
 ]
