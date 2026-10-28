@@ -2205,5 +2205,24 @@
    }
   ],
   "sha": "5b181fc"
+ },
+ {
+  "id": "item150-resigned-link",
+  "date": "2026-10-28T05:34:33.130Z",
+  "title": "Tisch-Link nach „Partie aufgeben“: zuschauen statt nur Hinweis",
+  "text": "Öffnest du den Link einer Partie, die du aufgegeben hast (Verlauf, geteilter Link), schaust du jetzt den Rest der Partie zu, mit dem Hinweis „Du schaust zu – die Partie hast du aufgegeben.“ Ist Zuschauen an dem Tisch aus, kommt wie bisher nur der Hinweis. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#113",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 vorher (QA-Bild) / Handy 444×987 nachher",
+    "before": "changes/2026-10-28-item150-resigned-link/01-before-before113.webp",
+    "after": "changes/2026-10-28-item150-resigned-link/02-after-resign-link-spectate-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800 nachher",
+    "img": "changes/2026-10-28-item150-resigned-link/03-img-resign-link-spectate-desktop.webp"
+   }
+  ],
+  "sha": "5b181fc"
  }
 ]
