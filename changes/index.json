@@ -3840,5 +3840,48 @@
    }
   ],
   "sha": "9282c0a"
+ },
+ {
+  "id": "i183-social",
+  "date": "2026-10-28T20:39:24.356Z",
+  "title": "Entwurf: Bots mit Kosmetik, Ansehen, Trinkgeld",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Alles gebaut, Server-Schalter aus (BOT_LOOKS, EMOTES, TIP_TALER). (a+b) Bots tragen Kosmetik nach Stufe: Lehrbua = Stufe 1 … Oma Berta = Stufe 6; je Slot ein Stück, fest aus dem Sitznamen gezogen (jede Partie gleich), 60 % aus der eigenen Stufe, sonst zufällig aus einer niedrigeren; Effekt/Jubel/Schimmer höchstens Stufe 4 (nicht zu flashy); leere Stufe → Stufe darunter. Nur kaufbare Stücke. 'Kosmetik der anderen: Ruhig/Aus' gilt auch für Bots. (c) Ansehen: Bild am Sitz antippen (mit Sprach-Menü: lange drücken) → kleine Karte mit Name, Wertung, jedem Stück samt Stufe (Basis/Fein/Edel/Erspielt) und 'Anprobieren' (öffnet den Shop mit dem Stück anprobiert), dazu Profil und 'Sprüche von … stumm'. (d) Trinkgeld im Schnell-Chat-Rad: Mitte '🍻 Trinkgeld' → Art (Lob, Prost, Ärger, Glück) → Spruch → an wen. Grund-Satz gratis: Guat gspielt, Abklatscha, Prost, Bussi (Bombole gäba), Heilandzack, Des gibt's doch ned, Rot aalaufa, Tomate schmeißa, Glück ket, Des war doch bloß Glück. 'Du Drecksau' habe ich weggelassen: das ist eine gerichtete Beleidigung gegen eine Person (Gemeinschaftsregeln, Melden) – Fluchen auf sich selbst und Tomaten bleiben. Sprüche-Pakete sind eine neue Kosmetik-Klasse im Shop (Stammtisch 400, Tierisch 600 Taler, je 3 Sprüche). Optional '+5 Taler dazu': nur aus erspielten Talern, 1× je Partie, 3 am Tag senden / 10 empfangen, nie an Bots, Zuschauer gar nicht; empfangene Trinkgeld-Taler zählen als Geschenk (setzbar erst nach 5 gewerteten Partien). Stumm je Spieler; 'Ruhig' zeigt Sprüche ohne Bewegung, 'Aus' gar nicht. Details: docs/COSMETICS.md §4.3, docs/GOLD.md §4.9b.",
+  "issue": "wirtshaus#149",
+  "rows": [
+   {
+    "label": "Bot Oma Berta mit Kosmetik (Rücken, Schimmer, Deckchen, Rahmen, Wimpel)",
+    "img": "changes/2026-10-28-i183-social/01-img-s183-table-botlook-desktop.webp"
+   },
+   {
+    "label": "Ansehen: Karte zum Bot (Desktop / Handy)",
+    "before": "changes/2026-10-28-i183-social/02-before-s183-inspect-bot-desktop.webp",
+    "after": "changes/2026-10-28-i183-social/03-after-s183-inspect-bot-phone.webp"
+   },
+   {
+    "label": "Anprobieren aus der Karte öffnet den Shop",
+    "img": "changes/2026-10-28-i183-social/04-img-s183-inspect-tryon-phone.webp"
+   },
+   {
+    "label": "Trinkgeld-Rad: Art → Spruch (mit Stammtisch-Paket)",
+    "before": "changes/2026-10-28-i183-social/05-before-s183-wheel-flavor-desktop.webp",
+    "after": "changes/2026-10-28-i183-social/06-after-s183-wheel-emote-desktop.webp"
+   },
+   {
+    "label": "An wen? + 5 Taler dazu → Bertl sieht es",
+    "before": "changes/2026-10-28-i183-social/07-before-s183-wheel-target-desktop.webp",
+    "after": "changes/2026-10-28-i183-social/08-after-s183-tip-received-desktop.webp"
+   },
+   {
+    "label": "Handy: Ärger → Rot aalaufa (auf sich selbst)",
+    "before": "changes/2026-10-28-i183-social/09-before-s183-wheel-emote-phone.webp",
+    "after": "changes/2026-10-28-i183-social/10-after-s183-selfcast-phone.webp"
+   },
+   {
+    "label": "Karte eines Mitspielers mit 'stumm' / Kosmetik der anderen: Ruhig",
+    "before": "changes/2026-10-28-i183-social/11-before-s183-inspect-human-desktop.webp",
+    "after": "changes/2026-10-28-i183-social/12-after-s183-calm-desktop.webp"
+   }
+  ],
+  "sha": "f385092"
  }
 ]
