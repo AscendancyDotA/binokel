@@ -3286,5 +3286,38 @@
    }
   ],
   "sha": "2d29076"
+ },
+ {
+  "id": "puzzle-of-the-day",
+  "date": "2026-10-28T13:08:44.045Z",
+  "title": "Rätsel des Tages – „Wie hättest du gespielt?“",
+  "text": "Neu auf Willkommen: jeden Tag pro Spiel eine Stellung aus einer echten Partie, in der ein Mensch einen großen Fehler gemacht hat (Partie mindestens 24 h alt, nur was der Spieler damals sehen konnte, keine Namen). Antippen, „So spiele ich“, dann die Auflösung mit Bewertung jeder Möglichkeit, dem tatsächlich gespielten Zug, Lehrer-Tipp (Schnapsen), Serie und Archiv. Ohne Wertung; die erste richtige Antwort des Tages bringt 5 Taler (nur für Konten, die der Server schon spielen sah). Bei Binokel fragt das Rätsel oft „Welches Spiel machst du nach dem Dabb?“. Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#144",
+  "rows": [
+   {
+    "label": "Willkommen (Desktop 1280×800)",
+    "img": "changes/2026-10-28-puzzle-of-the-day/01-img-puzzle-welcome-desktop.webp"
+   },
+   {
+    "label": "Binokel: Spielwahl nach dem Dabb – Frage und Auflösung",
+    "before": "changes/2026-10-28-puzzle-of-the-day/02-before-puzzle-binokel-ask-desktop.webp",
+    "after": "changes/2026-10-28-puzzle-of-the-day/03-after-puzzle-binokel-reveal-desktop.webp"
+   },
+   {
+    "label": "Schnapsen: richtig gelöst, mit Lehrer-Tipp",
+    "img": "changes/2026-10-28-puzzle-of-the-day/04-img-puzzle-schnapsen-reveal-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987: Skat – Frage und Auflösung",
+    "before": "changes/2026-10-28-puzzle-of-the-day/05-before-puzzle-skat-ask-phone.webp",
+    "after": "changes/2026-10-28-puzzle-of-the-day/06-after-puzzle-skat-reveal-phone.webp"
+   },
+   {
+    "label": "Handy: Vier in einer Reihe / Willkommen-Karte",
+    "before": "changes/2026-10-28-puzzle-of-the-day/07-before-puzzle-vier-reveal-phone.webp",
+    "after": "changes/2026-10-28-puzzle-of-the-day/08-after-puzzle-welcome-phone.webp"
+   }
+  ],
+  "sha": "68af59a"
  }
 ]
