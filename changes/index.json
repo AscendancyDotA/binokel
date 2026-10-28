@@ -1666,5 +1666,39 @@
    }
   ],
   "sha": "01fddb6"
+ },
+ {
+  "id": "sn-trump-141",
+  "date": "2026-10-28T02:19:44.465Z",
+  "title": "Schnapsen: Trumpffarbe deutlich am Stapel",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die Trumpffarbe steht jetzt immer groß am Stapel in der Tischmitte: als Schild mit Farbzeichen und Namen (z. B. 'Trumpf Herz'). Das gilt offen, nach dem Zudrehen (dann liegt das Farbzeichen zusätzlich auf dem Stapel, die Karte selbst ist umgedreht – so wie bei den Regeln) und wenn der Talon aufgebraucht ist, und auch für Zuschauer. Vorher gab es nur ein kleines Schild oben links in der Ecke.",
+  "issue": "binokel#14",
+  "rows": [
+   {
+    "label": "Zugedreht – Desktop",
+    "before": "changes/2026-10-28-sn-trump-141/01-before-before-closed-1280x800.webp",
+    "after": "changes/2026-10-28-sn-trump-141/02-after-after-closed-1280x800.webp"
+   },
+   {
+    "label": "Zugedreht – Handy hochkant",
+    "before": "changes/2026-10-28-sn-trump-141/03-before-before-closed-444x987.webp",
+    "after": "changes/2026-10-28-sn-trump-141/04-after-after-closed-444x987.webp"
+   },
+   {
+    "label": "Talon aufgebraucht – Handy",
+    "before": "changes/2026-10-28-sn-trump-141/05-before-before-exhausted-444x987.webp",
+    "after": "changes/2026-10-28-sn-trump-141/06-after-after-exhausted-444x987.webp"
+   },
+   {
+    "label": "Talon offen – Handy",
+    "before": "changes/2026-10-28-sn-trump-141/07-before-before-playing-444x987.webp",
+    "after": "changes/2026-10-28-sn-trump-141/08-after-after-playing-444x987.webp"
+   },
+   {
+    "label": "Zuschauer, Talon aufgebraucht",
+    "img": "changes/2026-10-28-sn-trump-141/09-img-mg6-spectator-trump-empty.webp"
+   }
+  ],
+  "sha": "382336f"
  }
 ]
