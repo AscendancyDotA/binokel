@@ -2554,5 +2554,17 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-06-stakepanel",
+  "date": "2026-10-28T08:17:25.028Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Freundes-Warteraum am Handy",
+    "img": "changes/2026-10-28-pt157-06-stakepanel/01-img-erna-23-friendjoined.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
