@@ -3189,5 +3189,30 @@
    }
   ],
   "sha": "051eb44"
+ },
+ {
+  "id": "item167-talon",
+  "date": "2026-10-28T12:51:59.853Z",
+  "title": "Schnapsen quer: Talon und Trumpf-Schild frei",
+  "text": "Handy im Querformat (844×390) mit großer Schrift: der verdeckte Talon lag unter dem Kartenfächer des Gegners, das Trumpf-Schild stieß an die Zug-Anzeige. Jetzt liegt der Talon weiter außen links und das Trumpf-Schild darüber; hochkant und am Desktop bleibt alles wie es war. Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#143",
+  "rows": [
+   {
+    "label": "844×390, Schrift 1,35 – vorher / nachher",
+    "before": "changes/2026-10-28-item167-talon/01-before-before-l-t135.webp",
+    "after": "changes/2026-10-28-item167-talon/02-after-after-l-t135.webp"
+   },
+   {
+    "label": "844×390, Schrift 1,2 – vorher / nachher",
+    "before": "changes/2026-10-28-item167-talon/03-before-before-l-t12.webp",
+    "after": "changes/2026-10-28-item167-talon/04-after-after-l-t12.webp"
+   },
+   {
+    "label": "Neu: zugedreht (1,35) und 740×360",
+    "before": "changes/2026-10-28-item167-talon/05-before-after-l-closed-t135.webp",
+    "after": "changes/2026-10-28-item167-talon/06-after-after-l740-t135.webp"
+   }
+  ],
+  "sha": "af77a51"
  }
 ]
