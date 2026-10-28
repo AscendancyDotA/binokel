@@ -2714,5 +2714,45 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "vier156-board-game",
+  "date": "2026-10-28T08:22:56.547Z",
+  "title": "Entwurf: Vier in einer Reihe – erstes Brettspiel (versteckt)",
+  "text": "Neues Brettspiel „Vier in einer Reihe“ (eigener Wirtshaus-Look: Holzbrett, Bierdeckel-Steine Natur/Brauerei-Rot), nur mit #games=binokel,vier und GAMES_ENABLED=…,vier. Gegen 6 Bot-Stufen (Lehrling bis Großmeister, Alpha-Beta mit Knoten-Budget, deterministisch), Best of 1/3/5/7. Online: Warteschlange (Wertung vier:p2), eigener Tisch, Tischliste, Zuschauen, Revanche, Wiederholung mit Partie-Auswertung (★ bester Zug, ▼ gespielt), Wirtshaus-TV „Meisterbrett“. Handy: erster Tipp zeigt, wo der Stein landet, zweiter wirft ein; Tastatur: Spalten-Knöpfe. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#117",
+  "rows": [
+   {
+    "label": "Handy hochkant: mitten im Spiel / Querformat",
+    "before": "changes/2026-10-28-vier156-board-game/01-before-fix-phone.webp",
+    "after": "changes/2026-10-28-vier156-board-game/02-after-fix-compact.webp"
+   },
+   {
+    "label": "Spielende / Partie-Ende (offline, Handy)",
+    "before": "changes/2026-10-28-vier156-board-game/03-before-offline-gameend.webp",
+    "after": "changes/2026-10-28-vier156-board-game/04-after-offline-matchend.webp"
+   },
+   {
+    "label": "Online: Tisch / Zuschauer",
+    "before": "changes/2026-10-28-vier156-board-game/05-before-online-table.webp",
+    "after": "changes/2026-10-28-vier156-board-game/06-after-online-spectator.webp"
+   },
+   {
+    "label": "Online: Tisch aufmachen / Tischliste",
+    "before": "changes/2026-10-28-vier156-board-game/07-before-online-create.webp",
+    "after": "changes/2026-10-28-vier156-board-game/08-after-online-tablelist.webp"
+   },
+   {
+    "label": "Partie-Ende online / Wiederholung mit Auswertung",
+    "before": "changes/2026-10-28-vier156-board-game/09-before-online-matchend.webp",
+    "after": "changes/2026-10-28-vier156-board-game/10-after-online-replay.webp"
+   },
+   {
+    "label": "Wirtshaus-TV mit Mini-Brett / Regelhilfe",
+    "before": "changes/2026-10-28-vier156-board-game/11-before-online-welcome-tv.webp",
+    "after": "changes/2026-10-28-vier156-board-game/12-after-help-desk.webp"
+   }
+  ],
+  "sha": "2a2a790"
  }
 ]
