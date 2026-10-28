@@ -1590,5 +1590,20 @@
    }
   ],
   "sha": "7978f77"
+ },
+ {
+  "id": "item140-own-nickname",
+  "date": "2026-10-28T01:49:17.625Z",
+  "title": "Eigener Nickname statt „Du“ am Tisch",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Der eigene Platz, die Punktetafel, die „Raus kommt“-Zeile und die Banner zeigen jetzt deinen Spielernamen statt „Du“ (online: dein Name bzw. Gastname; offline gegen Bots: der Name vom ersten Start, sonst „Gast <Nummer>“). Das gilt für alle Spiele am gemeinsamen Tisch. Bewusst so gelassen: die gestrichelte Karten-Fläche heißt weiter „Du“ (sie sagt, wo deine Karte hinkommt), im Warteraum bleibt das kleine „Du“-Schild neben dem Namen als Orientierung. Vorher links, nachher rechts (Name hier: Gretel).",
+  "issue": "wirtshaus#98",
+  "rows": [
+   {
+    "label": "Tisch / Namen",
+    "before": "changes/2026-10-28-item140-own-nickname/01-before-nm-before-desk.webp",
+    "after": "changes/2026-10-28-item140-own-nickname/02-after-nm-after-desk.webp"
+   }
+  ],
+  "sha": "7978f77"
  }
 ]
