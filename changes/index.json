@@ -2289,5 +2289,24 @@
    }
   ],
   "sha": "7d25d27"
+ },
+ {
+  "id": "qa151-host-handover",
+  "date": "2026-10-28T05:48:36.224Z",
+  "title": "Gastgeber verlässt den Warteraum: nächster Mensch wird Gastgeber",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Steht der Gastgeber im Warteraum auf, bekommt der am längsten sitzende Mensch die Gastgeber-Rolle (Start-Knopf, Bot hinsetzen, Entfernen wandern mit). Alle am Tisch sehen \"X ist jetzt Gastgeber.\", der neue Gastgeber \"Du bist jetzt Gastgeber …\". Ist kein Mensch mehr da, wird der Raum geschlossen.",
+  "issue": "wirtshaus#111",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Warteraum nach Aufstehen des Gastgebers",
+    "before": "changes/2026-10-28-qa151-host-handover/01-before-01-img-r13-b-afterA.webp",
+    "after": "changes/2026-10-28-qa151-host-handover/02-after-qa151-host-left-desktop-guest.webp"
+   },
+   {
+    "label": "Handy: der neue Gastgeber (Start-Knopf da)",
+    "img": "changes/2026-10-28-qa151-host-handover/03-img-qa151-host-left-phone-newhost.webp"
+   }
+  ],
+  "sha": "7d25d27"
  }
 ]
