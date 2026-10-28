@@ -2654,5 +2654,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-12-headers",
+  "date": "2026-10-28T08:18:07.506Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Wiederholung: „Profi-Pa | Profi-Pa“",
+    "img": "changes/2026-10-28-pt157-12-headers/01-img-jonas-07-analysis.webp"
+   },
+   {
+    "label": "Skat-Liste",
+    "img": "changes/2026-10-28-pt157-12-headers/02-img-lisa-10-skat-end.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
