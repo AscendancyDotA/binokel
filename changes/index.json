@@ -2808,5 +2808,25 @@
    }
   ],
   "sha": "dfc6c0a"
+ },
+ {
+  "id": "pt161-127-invite",
+  "date": "2026-10-28T09:09:22.419Z",
+  "title": "Einladungslink: erst nach dem Namen fragen",
+  "text": "Wer über einen Einladungslink an den Tisch kommt und noch keinen Namen hat, wird zuerst gefragt „Wie heißt du?“ (ein Feld, überspringbar, wird pro Gerät nur einmal gefragt) und sitzt dann mit diesem Namen am Tisch – nicht mehr als „Gast 3011“. Wer schon einen Namen hat, setzt sich sofort wie bisher. Gebaut von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#127",
+  "rows": [
+   {
+    "label": "Vorher: Freundin sitzt als „Gascht“ am Tisch → Nachher: die Frage vor dem Hinsetzen",
+    "before": "changes/2026-10-28-pt161-127-invite/01-before-127-before-seated.webp",
+    "after": "changes/2026-10-28-pt161-127-invite/02-after-127-after-ask.webp"
+   },
+   {
+    "label": "Nachher: eingetippt → am Tisch als „Lisa“",
+    "before": "changes/2026-10-28-pt161-127-invite/03-before-127-after-typed.webp",
+    "after": "changes/2026-10-28-pt161-127-invite/04-after-127-after-seated.webp"
+   }
+  ],
+  "sha": "c146cca"
  }
 ]
