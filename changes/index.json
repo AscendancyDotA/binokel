@@ -2522,5 +2522,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-04-stakeask",
+  "date": "2026-10-28T08:17:11.767Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Knöpfe unter dem Rand",
+    "img": "changes/2026-10-28-pt157-04-stakeask/01-img-hias-04-ask-fold.webp"
+   },
+   {
+    "label": "Handy quer: noch 2 s, kein Knopf sichtbar",
+    "img": "changes/2026-10-28-pt157-04-stakeask/02-img-franz-16-ask-fold.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
