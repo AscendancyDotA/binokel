@@ -2182,5 +2182,28 @@
    }
   ],
   "sha": "08426c3"
+ },
+ {
+  "id": "item150-resign-end",
+  "date": "2026-10-28T05:34:17.850Z",
+  "title": "Aufgegeben heißt verloren – auch wenn der Autopilot gewinnt",
+  "text": "Wer „Partie aufgeben“ wählt, steht am Partie-Ende jetzt immer auf dem letzten Platz mit dem Schild „aufgegeben“; gewonnen hat der Beste der anderen (4er: der Partner behält das Ergebnis der Partei). Der Aufgebende fehlt in „Noch eine Partie?“, Verlauf/Profil speichern den letzten Platz, die Ruhmeshalle zählt Runden des Autopiloten nicht für ihn, und die Auswertung bewertet Autopilot-Züge nicht (Schild „Autopilot“). Am Sitz steht nur noch ein Schild (kein „· weg“ neben „Autopilot“/„aufgegeben“). Außerdem (#109): eine Partie, an der nur noch Bots sitzen, wird sofort zu Ende gespielt und gewertet statt nach 10 Minuten verworfen. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#108",
+  "rows": [
+   {
+    "label": "Handy 444×987: Partie-Ende (vorher: QA-Bild, Aufgebender als Sieger)",
+    "before": "changes/2026-10-28-item150-resign-end/01-before-before108.webp",
+    "after": "changes/2026-10-28-item150-resign-end/02-after-resign-matchend-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Partie-Ende",
+    "img": "changes/2026-10-28-item150-resign-end/03-img-resign-matchend-desktop.webp"
+   },
+   {
+    "label": "Sitz des Aufgebenden: ein Schild",
+    "img": "changes/2026-10-28-item150-resign-end/04-img-resign-seatmark-phone.webp"
+   }
+  ],
+  "sha": "5b181fc"
  }
 ]
