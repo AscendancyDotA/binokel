@@ -1536,5 +1536,19 @@
    }
   ],
   "sha": "15a4550"
+ },
+ {
+  "id": "item140-lobby-ask",
+  "date": "2026-10-28T01:24:08.072Z",
+  "title": "Mehrtisch: Lobby-Knopf fragt wie „Verlassen“",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Im Tab-Streifen fragt der „Lobby“-Knopf (ebenso die Zurück-Taste und die freie Zelle der Mehrfach-Ansicht) bei einer laufenden Partie jetzt wie „Verlassen“: Kurz in die Lobby (Tab bleibt, Platz als „kurz weg“ markiert, Uhr läuft) / Tisch verlassen / Partie aufgeben / Weiterspielen. Gefragt wird nur der Tisch, den man gerade sieht; die anderen Tabs bleiben unberührt. Vorher ging der Knopf ohne Frage in die Lobby.",
+  "issue": "wirtshaus#102",
+  "rows": [
+   {
+    "label": "Mehrtisch / Verlassen",
+    "img": "changes/2026-10-28-item140-lobby-ask/01-img-leave-multitable-lobby-button-desktop.webp"
+   }
+  ],
+  "sha": "a1c79a0"
  }
 ]
