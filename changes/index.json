@@ -3503,5 +3503,55 @@
    }
   ],
   "sha": "6306111"
+ },
+ {
+  "id": "xr-demo-174",
+  "date": "2026-10-28T16:35:31.743Z",
+  "title": "Entwurf: XR-Demo – Binokel am Wirtshaustisch in VR (Meta Quest 3)",
+  "text": "Neu und versteckt hinter #xr (die normale App bleibt unverändert, die Bilder der normalen Bildschirme sind pixelgleich): ein Wirtshaus-Raum mit rundem Stammtisch und unserem Filz, drei Platzhalter-Bots am Tisch (Partner gegenüber) mit Namensschild, Geber-Marke und Sprechblasen. Du spielst offline Binokel gegen die Bots: Karten als Fächer vor dir, mit Controller-Abzug oder Pinch greifen und auf den Tisch werfen; eine falsche Karte fliegt zurück und der Grund steht da (z. B. „Du musst Eichel bedienen“). Reizen, Dabb drücken + Trumpf, Meldungen, Rundenende als Tafeln im Raum; Menü links (2D/3D, App-Fenster, Tisch vor mich, neues Spiel, VR beenden), Stand rechts. 2D = flache Karten + große Draufsicht-Tafel. App-Fenster: Lobby (mit Wirtshaus-TV), Rätsel des Tages, Spielblock als echte App an den Wänden. Ausprobieren: in der Quest im Browser https://binokel.tail108204.ts.net/#xr öffnen (nach dem nächsten Web-Deploy) → „VR starten“, oder die Sideload-APK binokel-xr-quest.apk (Anleitung in docs/XR.md). Bilder: Vorschau ohne Brille (Headless-Browser), auf echter Brille noch ungetestet. Gebaut von Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#156",
+  "rows": [
+   {
+    "label": "Reizen am Tisch (Vorschau 1280×800)",
+    "img": "changes/2026-10-28-xr-demo-174/01-img-xr-desktop-start.webp"
+   },
+   {
+    "label": "Falsche Karte geworfen: fliegt zurück + Grund",
+    "img": "changes/2026-10-28-xr-demo-174/02-img-xr-desktop-illegal.webp"
+   },
+   {
+    "label": "Karten auf der Hand",
+    "img": "changes/2026-10-28-xr-demo-174/03-img-xr-hand-closeup.webp"
+   },
+   {
+    "label": "Dabb gewonnen: Karten antippen, Trumpf wählen, ansagen",
+    "img": "changes/2026-10-28-xr-demo-174/04-img-xr-desktop-dabb.webp"
+   },
+   {
+    "label": "Meldungen liegen auf dem Tisch",
+    "img": "changes/2026-10-28-xr-demo-174/05-img-xr-melds.webp"
+   },
+   {
+    "label": "Rundenende",
+    "img": "changes/2026-10-28-xr-demo-174/06-img-xr-desktop-roundend.webp"
+   },
+   {
+    "label": "2D-Ansicht: Draufsicht-Tafel",
+    "img": "changes/2026-10-28-xr-demo-174/07-img-xr-desktop-2d.webp"
+   },
+   {
+    "label": "App-Fenster in der Welt",
+    "img": "changes/2026-10-28-xr-demo-174/08-img-xr-desktop-windows.webp"
+   },
+   {
+    "label": "Der Raum von außen",
+    "img": "changes/2026-10-28-xr-demo-174/09-img-xr-desktop-overview.webp"
+   },
+   {
+    "label": "Handy hochkant (Vorschau)",
+    "img": "changes/2026-10-28-xr-demo-174/10-img-xr-phone-portrait.webp"
+   }
+  ],
+  "sha": "04cb35e"
  }
 ]
