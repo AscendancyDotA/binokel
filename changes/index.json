@@ -2250,5 +2250,25 @@
    }
   ],
   "sha": "2a58586"
+ },
+ {
+  "id": "k5-pixel-probe",
+  "date": "2026-10-28T05:36:00.776Z",
+  "title": "Pixel-Probe: Tisch ohne Kosmetik sieht aus wie vor den Kosmetik-Slots",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Vergleich Stand vor den Kosmetik-Slots (links) gegen jetzt (rechts), nichts angelegt: Binokel 3/4 Spieler und Schnapsen, 3 Stile, Handy und Desktop, 72 Aufnahmen je Stand plus Kontrolllauf. Dabei fiel ein Fehler auf: die Rahmen-Regel traf auch den Tisch selbst und änderte die Schriftglättung einzelner Zeichen (Hinweis-„i“, Eckzeichen der Schnapsen-Hand). Behoben; übrig sind nur Unterschiede, die auch zwei Läufe des alten Stands zeigen (Meldungen, Stich, Rundenende-Stempel).",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Binokel 4 Spieler, Arena, Handy",
+    "before": "changes/2026-10-28-k5-pixel-probe/01-before-bk-bid-arena-p4-444x987-s1.webp",
+    "after": "changes/2026-10-28-k5-pixel-probe/02-after-bk-bid-arena-p4-444x987-s1.webp"
+   },
+   {
+    "label": "Schnapsen Rundenende, Arena, Handy",
+    "before": "changes/2026-10-28-k5-pixel-probe/03-before-sg-sground-arena-p2-444x987-s1.webp",
+    "after": "changes/2026-10-28-k5-pixel-probe/04-after-sg-sground-arena-p2-444x987-s1.webp"
+   }
+  ],
+  "sha": "2a58586"
  }
 ]
