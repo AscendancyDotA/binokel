@@ -2308,5 +2308,34 @@
    }
   ],
   "sha": "7d25d27"
+ },
+ {
+  "id": "qa151-popup-solid",
+  "date": "2026-10-28T05:48:55.185Z",
+  "title": "Rundenende bleibt auf jeder Glas-Stufe deckend",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Textlastige Fenster (Rundenende, Partie-Ende, Gsehe-Popups, Meldungs-Übersicht, Tisch-Info, Tipp-Blasen = Gruppe popup) nehmen die Einstellung \"Fenster am Tisch durchsichtig\" nicht mehr an – weder beim Standard von 15 % noch bei höheren Stufen. Panel, Pillen, Info und Tool-Knöpfe bleiben durchsichtig. Nur der versteckte Skin \"Glas\" macht die Fenster wieder gläsern (rein über Tokens). Doku: docs/SKINS.md.",
+  "issue": "wirtshaus#112",
+  "rows": [
+   {
+    "label": "Arena, Handy 444×987, Standard 15 %",
+    "before": "changes/2026-10-28-qa151-popup-solid/01-before-g-arena-phone-before.webp",
+    "after": "changes/2026-10-28-qa151-popup-solid/02-after-g-arena-phone-after.webp"
+   },
+   {
+    "label": "Arena, Handy, Glas-Einstellung 60 % + Milchglas (vorher durchsichtig, jetzt deckend)",
+    "before": "changes/2026-10-28-qa151-popup-solid/03-before-g-arena-phone-g60-before.webp",
+    "after": "changes/2026-10-28-qa151-popup-solid/04-after-g-arena-phone-g60-after.webp"
+   },
+   {
+    "label": "Wirtshaus, Desktop 1280×800, 15 %",
+    "before": "changes/2026-10-28-qa151-popup-solid/05-before-g-wirt-desk-before.webp",
+    "after": "changes/2026-10-28-qa151-popup-solid/06-after-g-wirt-desk-after.webp"
+   },
+   {
+    "label": "Versteckter Skin Glas (nur Dev-Hash): bleibt glasig",
+    "img": "changes/2026-10-28-qa151-popup-solid/07-img-g-glas-phone-after.webp"
+   }
+  ],
+  "sha": "7d25d27"
  }
 ]
