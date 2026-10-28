@@ -4048,5 +4048,25 @@
    }
   ],
   "sha": "5f71ded"
+ },
+ {
+  "id": "preis-kleinunternehmer",
+  "date": "2026-10-28T23:43:05.068Z",
+  "title": "Taler kaufen: Preistext für Kleinunternehmer (§ 19 UStG)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Der Kauf-Dialog (Browser/Windows/GitHub-APK) sagt jetzt „Endpreise. Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.“ statt „inkl. 19 % USt.“. Dasselbe in der Stripe-Bezahlseite, in den AGB (Preisklausel) und im Impressum (Satz unter der USt-IdNr.). Ein Server-Schalter PURCHASES_VAT (kleinunternehmer = Standard | de19 | oss) stellt alle Texte gemeinsam um, falls die Kleinunternehmer-Grenze mal überschritten wird; der Preis selbst bleibt gleich. Play-Käufe: nur „Bezahlt wird über Google Play.“ (Google ist Verkäufer). Bilder: Kauf-Dialog Handy, AGB-Preisklausel, Impressum.",
+  "issue": "wirtshaus#138",
+  "rows": [
+   {
+    "label": "Steuer · Item 205",
+    "img": "changes/2026-10-28-preis-kleinunternehmer/01-img-buy-dialog-consent-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-preis-kleinunternehmer/02-img-agb-kauf-klein.webp"
+   },
+   {
+    "img": "changes/2026-10-28-preis-kleinunternehmer/03-img-impressum-klein.webp"
+   }
+  ],
+  "sha": "e89a459"
  }
 ]
