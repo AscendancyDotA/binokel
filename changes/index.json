@@ -2702,5 +2702,17 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-15-endchip",
+  "date": "2026-10-28T08:18:26.753Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Partie-Ende Handy quer",
+    "img": "changes/2026-10-28-pt157-15-endchip/01-img-franz-franz-sn-done.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
