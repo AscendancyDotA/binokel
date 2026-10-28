@@ -2848,5 +2848,25 @@
    }
   ],
   "sha": "c146cca"
+ },
+ {
+  "id": "pt161-132-ownname",
+  "date": "2026-10-28T09:10:21.280Z",
+  "title": "Eigener Name und eigenes Bild an jedem Tisch und in der Taverne",
+  "text": "Am Bot-Tisch steht jetzt der Kontoname (hier „Erna“, nach dem Ändern im Profil) und das gewählte Bild statt „Gast 9028“ mit Buchstaben. In Skat, Doppelkopf und Vier steht offline nicht mehr „You“. Die Taverne-Liste zeigt das neu gewählte Bild sofort (vorher noch das Smiley aus dem 60-Sekunden-Zwischenspeicher). Gebaut von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#132",
+  "rows": [
+   {
+    "label": "Bot-Tisch, eigener Platz unten links",
+    "before": "changes/2026-10-28-pt161-132-ownname/01-before-132-before-bottable.webp",
+    "after": "changes/2026-10-28-pt161-132-ownname/02-after-132-after-bottable.webp"
+   },
+   {
+    "label": "Taverne „Im Raum“ nach dem Bildwechsel",
+    "before": "changes/2026-10-28-pt161-132-ownname/03-before-132-before-taverne.webp",
+    "after": "changes/2026-10-28-pt161-132-ownname/04-after-132-after-taverne.webp"
+   }
+  ],
+  "sha": "c146cca"
  }
 ]
