@@ -1894,5 +1894,35 @@
    }
   ],
   "sha": "6aa14db"
+ },
+ {
+  "id": "cosmetics-k2-anprobieren",
+  "date": "2026-10-28T04:28:56.752Z",
+  "title": "Kosmetik: Vorschau und Anprobieren",
+  "text": "Im Taler-Shop und unter Einstellungen → Aussehen steht oben eine Vorschau: ein kleiner Tisch mit deinem Tuch, deinen Kartenrücken und deinem Sitz-Schild – so sehen dich die anderen. Nicht gekaufte Sachen haben „Anprobieren“: Die Vorschau zeigt sie sofort, gekauft oder angelegt wird erst mit dem Knopf. „Zurück zu deinem“ nimmt alles wieder ab. Die Vorschau bleibt beim Blättern oben stehen (am Handy kompakt). Im Warteraum siehst du bei jedem Spieler seinen Kartenrücken, in deiner Zeile führt „Aussehen“ in den Shop. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Goldrand + Lichtkranz anprobiert",
+    "img": "changes/2026-10-28-cosmetics-k2-anprobieren/01-img-shop-tryon-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987: Tischtuch „Weinrot“ anprobiert",
+    "img": "changes/2026-10-28-cosmetics-k2-anprobieren/02-img-shop-tryon-phone.webp"
+   },
+   {
+    "label": "Einstellungen → Aussehen",
+    "img": "changes/2026-10-28-cosmetics-k2-anprobieren/03-img-shop-settings-desktop.webp"
+   },
+   {
+    "label": "Warteraum: Kartenrücken je Spieler, eigene Zeile mit „Aussehen“",
+    "img": "changes/2026-10-28-cosmetics-k2-anprobieren/04-img-shop-waiting-desktop.webp"
+   },
+   {
+    "label": "Warteraum Handy",
+    "img": "changes/2026-10-28-cosmetics-k2-anprobieren/05-img-shop-waiting-phone.webp"
+   }
+  ],
+  "sha": "56fbe3d"
  }
 ]
