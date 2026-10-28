@@ -1966,5 +1966,19 @@
    }
   ],
   "sha": "63bc586"
+ },
+ {
+  "id": "qa148-glass-roundend",
+  "date": "2026-10-28T04:50:29.991Z",
+  "title": "Entwurf: QA-Befund – Rundenende bei 15 %",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), QA-Durchgang wirtshaus#105. Bild zum Befund oben (kein ausgelieferter Stand).",
+  "issue": "wirtshaus#112",
+  "rows": [
+   {
+    "label": "Arena, Handy 444×987, 4 Spieler",
+    "img": "changes/2026-10-28-qa148-glass-roundend/01-img-r39-arena-roundEnd.webp"
+   }
+  ],
+  "sha": "63bc586"
  }
 ]
