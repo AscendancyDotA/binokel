@@ -2928,5 +2928,40 @@
    }
   ],
   "sha": "2eae256"
+ },
+ {
+  "id": "doko-kneipenregeln",
+  "date": "2026-10-28T09:15:40.089Z",
+  "title": "Entwurf: Doppelkopf-Kneipenregeln – Bockrunden, Schmeißen, mehr Soli",
+  "text": "Doppelkopf (noch versteckt) hat jetzt Kneipenregeln als Hausregeln, alle standardmäßig aus: Bockrunden (nach 120:120, verlorenem Solo oder verlorener Ansage – je abschaltbar; vier Spiele zählen doppelt, ohne Sonderpunkte), Schmeißen als Vorbehalt (5 Neunen, 4 Neunen + 4 Könige, 7 Volle, optional wenige Augen – Karten zeigen, neu geben) und mehr Soli (Königsolo, Buben-Damen-Solo, Köhler). Die stille Hochzeit zählte schon vorher als stilles Solo. Ohne Optionen spielt Doppelkopf unverändert nach DDV (Golden-Partien identisch). Regeln + Quellen: docs/rules/DOPPELKOPF.md, Abschnitt Kneipenregeln. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#142",
+  "rows": [
+   {
+    "label": "Vorbehalt: Schmeißen + zehn Soli (Desktop · Handy)",
+    "before": "changes/2026-10-28-doko-kneipenregeln/01-before-dkpub-schmeissen-1280x800.webp",
+    "after": "changes/2026-10-28-doko-kneipenregeln/02-after-dkpub-schmeissen-444x987.webp"
+   },
+   {
+    "label": "Geschmissen: wer und warum, es wird neu gegeben",
+    "before": "changes/2026-10-28-doko-kneipenregeln/03-before-dkpub-thrown-1280x800.webp",
+    "after": "changes/2026-10-28-doko-kneipenregeln/04-after-dkpub-thrown-444x987.webp"
+   },
+   {
+    "label": "Bockspiel läuft: Kopfzeile 'Bock', Chip 'Bock ×2 · noch 3 Bock'",
+    "before": "changes/2026-10-28-doko-kneipenregeln/05-before-dkpub-bock-1280x800.webp",
+    "after": "changes/2026-10-28-doko-kneipenregeln/06-after-dkpub-bock-444x987.webp"
+   },
+   {
+    "label": "Abrechnung eines Bockspiels",
+    "before": "changes/2026-10-28-doko-kneipenregeln/07-before-dkpub-bock-summary-1280x800.webp",
+    "after": "changes/2026-10-28-doko-kneipenregeln/08-after-dkpub-bock-summary-444x987.webp"
+   },
+   {
+    "label": "Lobby-Karte: Hausregeln mit Bock-Auslösern",
+    "before": "changes/2026-10-28-doko-kneipenregeln/09-before-dkpub-lobby-card-1280x800.webp",
+    "after": "changes/2026-10-28-doko-kneipenregeln/10-after-dkpub-lobby-card-444x987.webp"
+   }
+  ],
+  "sha": "efd0d8c"
  }
 ]
