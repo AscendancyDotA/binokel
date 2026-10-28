@@ -3022,5 +3022,20 @@
    }
   ],
   "sha": "503c8f1"
+ },
+ {
+  "id": "pt160-136-headers",
+  "date": "2026-10-28T09:19:15.751Z",
+  "title": "Spaltenköpfe mit Namen bleiben unterscheidbar",
+  "text": "Gekürzte Namen in Spaltenköpfen behalten bei Gleichstand Anfang und Ende („Profi…le“ / „Profi…II“), der volle Name steht im Tooltip. Gilt für die Runden-Tabelle der Wiederholung, die Kartenglück-Tabelle, die Skat-Liste und das Doppelkopf-Blatt. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#136",
+  "rows": [
+   {
+    "label": "Wiederholung → Runden, zwei Bots derselben Stufe (vorher: Playtest-Bild)",
+    "before": "changes/2026-10-28-pt160-136-headers/01-before-before-rounds-issue.webp",
+    "after": "changes/2026-10-28-pt160-136-headers/02-after-after-rounds-d.webp"
+   }
+  ],
+  "sha": "503c8f1"
  }
 ]
