@@ -1952,5 +1952,19 @@
    }
   ],
   "sha": "63bc586"
+ },
+ {
+  "id": "qa148-host-left",
+  "date": "2026-10-28T04:50:25.323Z",
+  "title": "Entwurf: QA-Befund – Gastgeber weg",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), QA-Durchgang wirtshaus#105. Bild zum Befund oben (kein ausgelieferter Stand).",
+  "issue": "wirtshaus#111",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Warteraum nach Aufstehen des Gastgebers",
+    "img": "changes/2026-10-28-qa148-host-left/01-img-r13-b-afterA.webp"
+   }
+  ],
+  "sha": "63bc586"
  }
 ]
