@@ -1994,5 +1994,37 @@
    }
   ],
   "sha": "63bc586"
+ },
+ {
+  "id": "cosmetics-k3-slots",
+  "date": "2026-10-28T04:50:45.517Z",
+  "title": "Kosmetik: Schimmer, Rahmen, Namensschild und Platzdeckchen",
+  "text": "Neue Dinge im Taler-Shop, alle sehen sie am Tisch: Schimmer (färbt den Rand deiner Kartenrücken, deine Karte glänzt kurz, wenn sie im Stich landet), Bilderrahmen ums Bild, Namensschild hinter dem Namen und – dein Wunsch – ein persönliches Platzdeckchen auf deiner Tischseite vor deinem Platz. Das Deckchen liegt ganz unten auf dem Tuch, unter Karten, Stich und Fenstern, und kommt automatisch in jedem Spiel (auch Schnapsen, später Skat/Doppelkopf). Unter Aussehen: „Kosmetik der anderen: Alles · Ruhig · Aus“ (Ruhig = keine Effekte, kein Schimmer, keine Deckchen der anderen). Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#96",
+  "rows": [
+   {
+    "label": "Tisch Desktop: Bärbel mit Goldrahmen, Messingschild, Rubin-Schimmer, karierter Decke; eigenes Spitzendeckchen",
+    "before": "changes/2026-10-28-cosmetics-k3-slots/01-before-shop-table-wirtshaus-desktop.webp",
+    "after": "changes/2026-10-28-cosmetics-k3-slots/02-after-shop-table-wirtshaus-desktop.webp"
+   },
+   {
+    "label": "Handy hoch",
+    "before": "changes/2026-10-28-cosmetics-k3-slots/03-before-shop-table-wirtshaus-phone.webp",
+    "after": "changes/2026-10-28-cosmetics-k3-slots/04-after-shop-table-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Stil Klar, „Kosmetik der anderen: Ruhig“ – Rahmen/Schild bleiben, Effekt/Schimmer/Deckchen der anderen weg",
+    "img": "changes/2026-10-28-cosmetics-k3-slots/05-img-shop-table-klar-hidden-desktop.webp"
+   },
+   {
+    "label": "Dasselbe Deckchen am Schnapsen-Tisch",
+    "img": "changes/2026-10-28-cosmetics-k3-slots/06-img-shop-schnapsen-mat-desktop.webp"
+   },
+   {
+    "label": "Shop Handy: Deckchen + Schild anprobiert",
+    "img": "changes/2026-10-28-cosmetics-k3-slots/07-img-shop-k3-phone.webp"
+   }
+  ],
+  "sha": "d52e307"
  }
 ]
