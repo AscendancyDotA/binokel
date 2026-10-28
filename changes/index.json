@@ -3123,5 +3123,25 @@
    }
   ],
   "sha": "f0e5c24"
+ },
+ {
+  "id": "pc162-137-minstake",
+  "date": "2026-10-28T09:28:50.384Z",
+  "title": "Schnapsen: Mindesteinsatz beim Tisch-Aufmachen, gedeckelter Topf wird benannt",
+  "text": "Das Schnapsen-Formular hat jetzt dieselbe Mindesteinsatz-Auswahl wie Binokel (Keiner/10/50/100/500/1.000/5.000 und „Eigener“ – auch 100.000 und mehr, bis zur Server-Grenze von 1 Mio.); über dem Bot-Höchsteinsatz sitzen nur Menschen. Die Tischliste filtert schon nach Einsatz. Wird der Topf vom ärmeren Spieler gedeckelt, steht jetzt darunter „X kann nicht mehr setzen – deshalb ist der Topf kleiner als vorgeschlagen“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#137",
+  "rows": [
+   {
+    "label": "Schnapsen: Tisch aufmachen",
+    "before": "changes/2026-10-28-pc162-137-minstake/01-before-i137-sn-create.webp",
+    "after": "changes/2026-10-28-pc162-137-minstake/02-after-pc-137-sn-minstake-desktop.webp"
+   },
+   {
+    "label": "Gedeckelter Topf",
+    "before": "changes/2026-10-28-pc162-137-minstake/03-before-i137-pot.webp",
+    "after": "changes/2026-10-28-pc162-137-minstake/04-after-pc-137-capped-desktop.webp"
+   }
+  ],
+  "sha": "f0e5c24"
  }
 ]
