@@ -3583,5 +3583,47 @@
    }
   ],
   "sha": "8a7512a"
+ },
+ {
+  "id": "all-games-visible-176",
+  "date": "2026-10-28T17:41:45.590Z",
+  "title": "Alle Spiele sichtbar, 🚧 bei denen im Bau",
+  "text": "Im Wirtshaus (Web, GitHub-APK, EXE) steht jetzt jedes Spiel von Haus aus in der Liste – erst die fertigen (Binokel, Schnapsen), dann die, an denen noch gebaut wird, jedes mit einem 🚧 (Tooltip „Im Bau“ / „Em Bau“ / „Under construction“). Das gilt im Spiel-Umschalter, in der Lobby-Karte „Gegen Bots“, im Tisch-Kopf, bei der Frage „Was spielst du?“ beim ersten Start, bei Rätsel-/Liga-Reitern und in der Tischleiste. Gegen Bots spielt man jedes Spiel sofort; online nur dort, wo der Server das Spiel anbietet. Der Server führt einen Status je Spiel (GAMES_RELEASED) und schickt Spiele im Bau nie an die Play-App – die bleibt unverändert nur Binokel (Pixelvergleich Willkommen/Spielen/Rangliste/Liga/Einführung: identisch). Umgesetzt von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#158",
+  "rows": [
+   {
+    "label": "Handy: Spiel-Umschalter (vorher: nur Binokel / nachher: alle, 🚧 bei den im Bau)",
+    "before": "changes/2026-10-28-all-games-visible-176/01-before-before-switch-444x987.webp",
+    "after": "changes/2026-10-28-all-games-visible-176/02-after-after-switch-444x987.webp"
+   },
+   {
+    "label": "Desktop: Spiel-Umschalter",
+    "before": "changes/2026-10-28-all-games-visible-176/03-before-before-switch-1280x800.webp",
+    "after": "changes/2026-10-28-all-games-visible-176/04-after-after-switch-1280x800.webp"
+   },
+   {
+    "label": "Handy: Einführung „Was spielst du?“",
+    "before": "changes/2026-10-28-all-games-visible-176/05-before-before-ob4-444x987.webp",
+    "after": "changes/2026-10-28-all-games-visible-176/06-after-after-ob4-444x987.webp"
+   },
+   {
+    "label": "Desktop: Einführung „Was spielst du?“",
+    "before": "changes/2026-10-28-all-games-visible-176/07-before-before-ob4-1280x800.webp",
+    "after": "changes/2026-10-28-all-games-visible-176/08-after-after-ob4-1280x800.webp"
+   },
+   {
+    "label": "Neu: Lobby eines Spiels im Bau (Handy, 🚧 im Kopf und auf der Karte)",
+    "img": "changes/2026-10-28-all-games-visible-176/09-img-after-wipwelcome-444x987.webp"
+   },
+   {
+    "label": "Neu: dasselbe am Desktop",
+    "img": "changes/2026-10-28-all-games-visible-176/10-img-after-wipwelcome-1280x800.webp"
+   },
+   {
+    "label": "Neu: Tisch eines Spiels im Bau (🚧 in der Kopfzeile statt Text „Im Bau“)",
+    "img": "changes/2026-10-28-all-games-visible-176/11-img-after-skattable-1280x800.webp"
+   }
+  ],
+  "sha": "cccacc9"
  }
 ]
