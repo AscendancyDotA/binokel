@@ -2754,5 +2754,25 @@
    }
   ],
   "sha": "2a2a790"
+ },
+ {
+  "id": "pt157-textfix",
+  "date": "2026-10-28T08:27:02.727Z",
+  "title": "Einladungstext passt zu jedem Spiel, Einrichtungs-Hinweise klarer",
+  "text": "Aus dem Persona-Playtest gleich mitgenommen (nur Texte): Der Einladungstext im Warteraum nannte fest „Binokel-Tisch“, auch am Schnapsen-Tisch – jetzt „Setz dich zu mir an „…“ im Wirtshaus!“ (swb/de/en). Englische Einrichtung: der Hinweis nennt den Knopf „Continue“ statt „Next“. Die Einrichtung sagt jetzt, dass die Regelhilfe am Handy unter „•••“ steckt. Doppelkopf (en) heißt „Under construction“ wie Skat. Lobby-Reiter haben einen Namen als title (Symbol-Reiter im Querformat). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#118",
+  "rows": [
+   {
+    "label": "Schnapsen-Warteraum, Handy quer 915×412",
+    "before": "changes/2026-10-28-pt157-textfix/01-before-franz-13-sn-wait.webp",
+    "after": "changes/2026-10-28-pt157-textfix/02-after-franz2-after-sn-wait.webp"
+   },
+   {
+    "label": "Einrichtung Englisch, Desktop 1440×900",
+    "before": "changes/2026-10-28-pt157-textfix/03-before-lisa-02-ob4.webp",
+    "after": "changes/2026-10-28-pt157-textfix/04-after-lisa2-after-ob1.webp"
+   }
+  ],
+  "sha": "591c46e"
  }
 ]
