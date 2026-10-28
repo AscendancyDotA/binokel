@@ -3697,5 +3697,39 @@
    }
   ],
   "sha": "afa852e"
+ },
+ {
+  "id": "queue-prefs",
+  "date": "2026-10-28T19:08:05.013Z",
+  "title": "Solo-Warteschlange: „Format egal“ + Wunschliste (1./2./3. Wahl über alle Spiele)",
+  "text": "Neu in jeder Solo-Warteschlange (Spielen › Online › Solo): der Schalter „Format egal“ (du kommst als Auffüller auch an andere Spiele/Tischgrößen) und die Wunschliste: alle Formate als Liste, Haken pro Format, Ziehen oder Pfeile zum Ordnen, oben = 1. Wahl; gemerkt pro Gerät und Konto. Beim Warten siehst du jede Wahl mit „2/3 da · ab 0:20 · Bots ab …“ und vorab „Gleich: Binokel 3er mit 3 Menschen“ bzw. „… + 1 Bot“. Regel: erst reine Menschentische, dann deine Reihenfolge, dann Wertungsnähe und Wartezeit; 2. Wahl nach 20 s, 3. nach 40 s, „egal“ einen Schritt nach der letzten eigenen Wahl, Bots 75 s nachdem du ein Format annimmst. Beispiel Bruder (Lupfen 6er › 4er › egal) mit zwei 3er-Lupfern: nach 40 s gemeinsamer 3er-Tisch; allein: 6er mit 5 Bots nach 75 s. Simulation (bun tools/queue-sim.ts): ruhiger Abend ohne „egal“ 10,7 % reine Menschentische, mit 40 % „egal“-Spielern 28,3 % und kürzere Wartezeit. Lupfen und Würfel jetzt bis 6 Spieler in der Warteschlange. Gebaut von Hermes-Subagent (claude-opus-5-5, effort high); Details docs/QUEUE.md.",
+  "issue": "wirtshaus#159",
+  "rows": [
+   {
+    "label": "Solo-Karte (Desktop): Format egal + Wunschliste",
+    "img": "changes/2026-10-28-queue-prefs/01-img-qp-card-list-desk-de.webp"
+   },
+   {
+    "label": "Wunschliste (Desktop, Lupfen 3er als 2. Wahl hochgeschoben)",
+    "img": "changes/2026-10-28-queue-prefs/02-img-qp-dialog-desk-de.webp"
+   },
+   {
+    "label": "Wunschliste (Handy 444×987)",
+    "img": "changes/2026-10-28-queue-prefs/03-img-qp-dialog-phone-de.webp"
+   },
+   {
+    "label": "Warten (Desktop): Vorhersage + Formate",
+    "img": "changes/2026-10-28-queue-prefs/04-img-qp-wait-desk-de.webp"
+   },
+   {
+    "label": "Warten (Handy, en): Any format",
+    "img": "changes/2026-10-28-queue-prefs/05-img-qp-wait-phone-en.webp"
+   },
+   {
+    "label": "Warten (Handy): gleich Lupfen 3er mit 3 Menschen",
+    "img": "changes/2026-10-28-queue-prefs/06-img-qp-wait-phone-de.webp"
+   }
+  ],
+  "sha": "7e72f98"
  }
 ]
