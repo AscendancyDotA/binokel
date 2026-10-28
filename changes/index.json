@@ -4015,5 +4015,38 @@
    }
   ],
   "sha": "e93b1c2"
+ },
+ {
+  "id": "item203-table-banner",
+  "date": "2026-10-28T22:26:54.390Z",
+  "title": "Entwurf: Seitenbanner am Tisch + Haustiere",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Während einer Partie gibt es nur noch eine Werbung: das Seitenbanner, wenn man es selbst einschaltet. Der Tisch rückt dafür zur Seite (quer: Spalte rechts oder links, hochkant: schmaler Streifen oben oder unten), nichts vom Spiel liegt darunter, mit ✕ ist es für die Partie weg, am Partie-Ende verschwindet es. Ab und zu schaut ein Haustier (sonst die Wirtshauskatze) am Rand vorbei. In den Einstellungen hat jetzt jede Werbeart ihren eigenen Schalter (alle aus), mit einer Zeile was/wann/Taler; zwei Häkchen für Mini-Spiele/Umfragen und zwei Videos am Stück. Vor jedem Video sagt ein Blatt genau, was kommt. Die Werbepause-Deko gibt es nur noch zwischen Partien.",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: vorher / nachher",
+    "before": "changes/2026-10-28-item203-table-banner/01-before-b203-desktop-before.webp",
+    "after": "changes/2026-10-28-item203-table-banner/02-after-b203-desktop-after.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987: vorher / nachher mit Haustier",
+    "before": "changes/2026-10-28-item203-table-banner/03-before-b203-phone-before.webp",
+    "after": "changes/2026-10-28-item203-table-banner/04-after-b203-phone-pet.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Spalte links mit Katze",
+    "img": "changes/2026-10-28-item203-table-banner/05-img-b203-phone-landscape-pet.webp"
+   },
+   {
+    "label": "2×2: ein Banner pro Fenster",
+    "img": "changes/2026-10-28-item203-table-banner/06-img-b203-split4.webp"
+   },
+   {
+    "label": "Einstellungen (schwäbisch) / Blatt vor dem Video",
+    "before": "changes/2026-10-28-item203-table-banner/07-before-ads-phone-settings-on.webp",
+    "after": "changes/2026-10-28-item203-table-banner/08-after-ads-desktop-intro.webp"
+   }
+  ],
+  "sha": "5f71ded"
  }
 ]
