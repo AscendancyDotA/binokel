@@ -3370,5 +3370,53 @@
    }
   ],
   "sha": "db80a47"
+ },
+ {
+  "id": "sk171-schafkopf-online",
+  "date": "2026-10-28T15:20:29.289Z",
+  "title": "Entwurf: Schafkopf online",
+  "text": "Schafkopf Teil 2 (weiter verborgen: Server nur mit GAMES_ENABLED=…,schafkopf, Browser mit #games=binokel,schafkopf). Neu: Solo-Warteschlange mit eigener Schafkopf-Wertung, eigener Tisch mit Spielen, Schaltern und Tarif, Tischliste (Chips nennen nur Abweichungen), Warteraum, Zuschauen, Revanche, Aufgeben; Zuschauer sehen nie, wer die gerufene Sau hat, bevor der Tisch es weiß – auch nicht beim verzögerten Zuschauen mit allen Karten. Wirtshaus-TV: Schafkopf-Meistertisch mit den vier stärksten Bots. Wiederholung + Partie-Auswertung (offline und online), Üben: Zug zurück und dieselben Karten von jedem Platz. Aus Teil 1 behoben: Stoß/Retour steht jetzt in der Spielzeile statt als Pille auf dem Stich, die Sprechblase des oberen Platzes liegt neben seinem Fächer statt über dem Partei-Abzeichen. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#141",
+  "rows": [
+   {
+    "label": "Handy: Stoß/Retour in der Spielzeile (vorher auf dem Stich)",
+    "before": "changes/2026-10-28-sk171-schafkopf-online/01-before-play-phone.webp",
+    "after": "changes/2026-10-28-sk171-schafkopf-online/02-after-hochzeit-play-phone.webp"
+   },
+   {
+    "label": "Eigener Tisch: Spiele, Schalter, Tarif",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/03-img-online-create.webp"
+   },
+   {
+    "label": "Tischliste: nur Abweichungen als Chips",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/04-img-online-tablelist.webp"
+   },
+   {
+    "label": "Online am Handy",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/05-img-online-B-play.webp"
+   },
+   {
+    "label": "Zuschauer: keine Handkarten, Partner bleibt verdeckt",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/06-img-online-spectator.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Schafkopf-Meistertisch",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/07-img-online-welcome-tv.webp"
+   },
+   {
+    "label": "Wiederholung + Partie-Auswertung",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/08-img-online-replay.webp"
+   },
+   {
+    "label": "Üben: dieselben Karten von jedem Platz",
+    "img": "changes/2026-10-28-sk171-schafkopf-online/09-img-practice-matchend-desk.webp"
+   },
+   {
+    "label": "Ramsch und Hochzeit (Handy)",
+    "before": "changes/2026-10-28-sk171-schafkopf-online/10-before-ramsch-roundend-phone.webp",
+    "after": "changes/2026-10-28-sk171-schafkopf-online/11-after-hochzeit-roundend-phone.webp"
+   }
+  ],
+  "sha": "175d0f6"
  }
 ]
