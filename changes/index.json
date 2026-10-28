@@ -3989,5 +3989,31 @@
    }
   ],
   "sha": "db41e11"
+ },
+ {
+  "id": "item202-table-pets",
+  "date": "2026-10-28T22:18:51.178Z",
+  "title": "Tischhaustier sitzt fest am Platz – in allen Spielen",
+  "text": "Was: Wer ein Tischhaustier angelegt hat (Katze, Dackel, Eule, Igel), hat es jetzt in jedem Spiel dauernd neben seinem Sitz-Bild auf dem Tisch – Binokel, Schnapsen, Doppelkopf, Würfel usw., für Mitspieler und Zuschauer, am Handy hoch/quer und am PC. Es sitzt neben dem Bild auf dem Filz (zuerst zur Tischmitte hin) und deckt nie Karten, Kartenfächer, Namen, Uhr-Ring, Stichfeld, Knöpfe oder die Punktetafel zu; ist nirgends Platz (z. B. Würfel-Block am PC), steht nur ein kleines 🐾 an der Bild-Ecke. Es blinzelt und wedelt ruhig, hüpft kurz, wenn sein Besitzer einen Stich macht, und sitzt aufrecht, solange er Spielmacher ist. „Kosmetik der anderen: Ruhig“ = die Tiere der anderen sitzen still, „Aus“ = weg; in der Werbepause laufen sie vom Platz weg zur Parade und kommen danach zurück. Bots tragen Tiere je nach Stufe. Ohne Tier ändert sich am Tisch nichts. Bilder: Binokel 4 Spieler PC + Handy, Doppelkopf, Würfel 6 Spieler Handy, Zuschauer. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Item 202 · Teil 2",
+    "img": "changes/2026-10-28-item202-table-pets/01-img-s202-pets-binokel4-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-table-pets/02-img-s202-pets-binokel4-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-table-pets/03-img-s202-pets-doppelkopf-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-table-pets/04-img-s202-pets-wuerfel6-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-table-pets/05-img-s202-pets-spectator-desktop.webp"
+   }
+  ],
+  "sha": "e93b1c2"
  }
 ]
