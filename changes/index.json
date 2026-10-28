@@ -1780,5 +1780,56 @@
    }
   ],
   "sha": "ebbfe4e"
+ },
+ {
+  "id": "i139-app-brands",
+  "date": "2026-10-28T03:12:17.604Z",
+  "title": "Entwurf: Logos + Intro je App (Wirtshaus, Schnapsen, Binokel unverändert)",
+  "text": "Wie gewünscht aus dem vorhandenen Binokel-Schild gemacht: gleiche Schild-Familie, je App eigene Farbe, Karten, Motiv und Schriftzug. **Wirtshaus** (Web, GitHub-APK, Windows): rot, Eichel · Pik · Herz · Karo, Bierkrug im Holz, App-Symbol Bierkrug vor zwei Karten. **Schnapsen**: blau, die vier Asse des 20-Karten-Blatts, goldene „66“, Untertitel „Wirtshaus“, Symbol „66“. **Binokel** (Play-App) bleibt Bild für Bild gleich. Das Intro nimmt automatisch das Schild der App; Schnapsen hat noch keine eigene App und ist zum Anschauen im Browser über `#intro&brand=schnapsen` erreichbar. Neu ab dem nächsten GitHub-/Web-Release: Wirtshaus-Intro, App-Symbol und Browser-Symbol; der App-Name bleibt vorerst „Binokel“.\n\n**Videos** (Intro 4,7 s mit Abschlusskarte „Jetzt spielen“, Promo 30 s für den YouTube-Link im Play-Eintrag):\n- Wirtshaus: [Hochkant 1080×1920](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/wirtshaus-intro-1080x1920-de.mp4) · [Quer 1920×1080](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/wirtshaus-intro-1920x1080-de.mp4) · [Promo 30 s](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/wirtshaus-promo-1920x1080-de.mp4)\n- Schnapsen: [Hochkant](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/schnapsen-intro-1080x1920-de.mp4) · [Quer](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/schnapsen-intro-1920x1080-de.mp4) · [Promo 30 s](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/schnapsen-promo-1920x1080-de.mp4)\n- Binokel: [Hochkant](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/binokel-intro-1080x1920-de.mp4) · [Quer](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/binokel-intro-1920x1080-de.mp4) · [Promo 30 s](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/video/2026-10-28/binokel-promo-1920x1080-de.mp4)\n(WebM-Fassungen gleich daneben, Endung .webm.) Neu erzeugen: `bun tools/render-intro.mjs --promo`. Wo was hochgeladen wird, steht in docs/HUMAN-TODO.md.\n\nAntwort reicht hier: „passt“ oder was anders sein soll (Farbe, Motiv, Symbol). Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#100",
+  "rows": [
+   {
+    "label": "App-Symbole 512 / 96 / 48 px + Browser-Symbol 32 / 16 px",
+    "img": "changes/2026-10-28-i139-app-brands/01-img-icons-all.webp"
+   },
+   {
+    "label": "Schilder: mit Wandarm (Desktop, Store) und rund (Handy, Lobby); rechts Symbol 256/96/48 und 48 px vergrößert",
+    "img": "changes/2026-10-28-i139-app-brands/02-img-sheet-binokel-wirtshaus-schnapsen.webp"
+   },
+   {
+    "label": "Play-Vorstellungsgrafik Wirtshaus (1024×500)",
+    "img": "changes/2026-10-28-i139-app-brands/03-img-feature-graphic-de.webp"
+   },
+   {
+    "label": "Play-Vorstellungsgrafik Schnapsen (1024×500)",
+    "img": "changes/2026-10-28-i139-app-brands/04-img-feature-graphic-de.webp"
+   },
+   {
+    "label": "Intro Wirtshaus – Handy (0,6 / 1,2 / 1,5 / 2,1 s)",
+    "img": "changes/2026-10-28-i139-app-brands/05-img-kf-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Intro Wirtshaus – Desktop",
+    "img": "changes/2026-10-28-i139-app-brands/06-img-kf-wirtshaus-desk.webp"
+   },
+   {
+    "label": "Intro Schnapsen – Handy",
+    "img": "changes/2026-10-28-i139-app-brands/07-img-kf-schnapsen-phone.webp"
+   },
+   {
+    "label": "Intro Schnapsen – Desktop",
+    "img": "changes/2026-10-28-i139-app-brands/08-img-kf-schnapsen-desk.webp"
+   },
+   {
+    "label": "Binokel-Intro der Play-App: vorher / nachher identisch (1,5 s)",
+    "before": "changes/2026-10-28-i139-app-brands/09-before-intro-444x987-1500.webp",
+    "after": "changes/2026-10-28-i139-app-brands/10-after-intro-444x987-1500.webp"
+   },
+   {
+    "label": "Android (GitHub-APK): Symbol-Ebenen + Startbild Wirtshaus",
+    "img": "changes/2026-10-28-i139-app-brands/11-img-android-wirtshaus.webp"
+   }
+  ],
+  "sha": "75ae5df"
  }
 ]
