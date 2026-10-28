@@ -3328,5 +3328,47 @@
    }
   ],
   "sha": "17f0f5e"
+ },
+ {
+  "id": "spielblock-169",
+  "date": "2026-10-28T13:11:31.133Z",
+  "title": "Spielblock: Punkte am echten Kartentisch aufschreiben (offline)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Neu ist der Spielblock für Binokel, Schnapsen, Skat und Doppelkopf – zu finden als Karte „Spielblock für den echten Tisch“ auf dem Willkommen-Tab. Block anlegen (Spiel, Mitspieler, Regeln wie am Online-Tisch), nach jeder Runde eintragen: Binokel mit Reizwert/Meldungen/Stichpunkten oder nur Punkte, Schnapsen mit Spielpunkten je Bummerl, Skat mit Spiel/Hand/Schneider/Schwarz/Ouvert/Spitzen (inkl. Ramsch und Bockrunden), Doppelkopf mit Re-Partei/Augen/Ansagen/Doppelköpfen/Füchsen (inkl. Bock). Der Wert kommt aus den Wertungsfunktionen der Spiele selbst. Runden lassen sich ändern, löschen und zurücknehmen, die Summen rechnen sich immer neu. Alles bleibt auf dem Gerät (geht ohne Netz), mit Statistik je Block und je Person, Verlauf, Sichern/Übertragen als Text und Teilen als Text oder Bild. Skat und Doppelkopf erscheinen im Spielblock nur dort, wo die Spiele selbst angeboten werden.",
+  "issue": "wirtshaus#145",
+  "rows": [
+   {
+    "label": "Willkommen-Karte (Handy)",
+    "img": "changes/2026-10-28-spielblock-169/01-img-sp-welcome-card.webp"
+   },
+   {
+    "label": "Skat: Runde eintragen mit Vorschau (Handy)",
+    "img": "changes/2026-10-28-spielblock-169/02-img-sp-skat-sheet.webp"
+   },
+   {
+    "label": "Binokel: Block mit Statistik",
+    "img": "changes/2026-10-28-spielblock-169/03-img-sp-bn-block.webp"
+   },
+   {
+    "label": "Skat zu viert mit Bockrunde (Handy)",
+    "img": "changes/2026-10-28-spielblock-169/04-img-spielblock-skat-bock.webp"
+   },
+   {
+    "label": "Doppelkopf: Re-Partei eintragen",
+    "img": "changes/2026-10-28-spielblock-169/05-img-sp-dk-sheet.webp"
+   },
+   {
+    "label": "Schnapsen: Zudrehen misslungen",
+    "img": "changes/2026-10-28-spielblock-169/06-img-sp-sn-sheet.webp"
+   },
+   {
+    "label": "Skat, helles Aussehen",
+    "img": "changes/2026-10-28-spielblock-169/07-img-sp-skat-bright.webp"
+   },
+   {
+    "label": "Skat am Desktop",
+    "img": "changes/2026-10-28-spielblock-169/08-img-sp-skat-block-desk.webp"
+   }
+  ],
+  "sha": "db80a47"
  }
 ]
