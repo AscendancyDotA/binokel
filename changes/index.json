@@ -1750,5 +1750,20 @@
    }
   ],
   "sha": "0a598d1"
+ },
+ {
+  "id": "item140-glass-inset",
+  "date": "2026-10-28T03:11:19.589Z",
+  "title": "Entwurf: Glas-Skin – Innenflächen in Fenstern (Token-Gruppe „inset“)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Innenflächen in Fenstern (Rundenende-Zeilen, Gebots-Knöpfe, Bummerl-Tafel, Live-Zeile, Meld-Chips) haben jetzt eine eigene Token-Gruppe „inset“ (docs/SKINS.md). Der versteckte Glas-Skin (#theme=glas) ist dort jetzt auch glasig (Bild: Partie-Ende Schnapsen, links vorher: dunkler Kasten, rechts nachher: das Grün scheint durch). Normale Optik unverändert: Pixelvergleich Standard (15 %) und #glass=0, 3 Skins, Handy + Desktop – übrig bleiben nur Animations-Rauschen (≤ 60 Pixel, auch Vorher-gegen-Vorher).",
+  "issue": "wirtshaus#102",
+  "rows": [
+   {
+    "label": "Skin / Glas",
+    "before": "changes/2026-10-28-item140-glass-inset/01-before-gl-before-sgmatch.webp",
+    "after": "changes/2026-10-28-item140-glass-inset/02-after-gl-after-sgmatch.webp"
+   }
+  ],
+  "sha": "ebbfe4e"
  }
 ]
