@@ -3766,5 +3766,54 @@
    }
   ],
   "sha": "931b53c"
+ },
+ {
+  "id": "medal-progress-185",
+  "date": "2026-10-28T20:24:39.490Z",
+  "title": "Medaillen-Fortschritt bei Wertungsänderung: Balken, Aufstiegs-Jubel, Abstiegs-Bruch",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Am Partieende zeigt unter der Wertungszeile ein Balken, wie weit du bis zur nächsten Medaille (Stern/Rang) bist – links die Stufe, auf der du stehst, rechts die nächste; der Balken läuft vom alten zum neuen Wert. Beim Aufstieg füllt er sich, die neue Medaille dreht sich ein, glänzt, Konfetti + Fanfare. Beim Abstieg leert er sich, die Medaille bekommt einen Riss und bricht entzwei, darunter erscheint die niedrigere. Antippen überspringt. Bei ausgeschalteten/sanften Animationen (oder wenn das System weniger Bewegung wünscht und nichts gewählt ist) gibt es nur den Endzustand. Im Profil zeigt jede Wertung (Solo/Party, 3er/4er) ihren eigenen Fortschrittsbalken. Gilt wie die Ränge nur, wenn die Rang-Abzeichen am Server eingeschaltet sind. Bilder: Handy 444×987 und Desktop 1280×800 (Entwicklungs-Szene #ratingscene=up|down|…).",
+  "issue": "wirtshaus#152",
+  "rows": [
+   {
+    "label": "Aufstieg: Start → Ende (Handy)",
+    "before": "changes/2026-10-28-medal-progress-185/01-before-up-phone-1-start.webp",
+    "after": "changes/2026-10-28-medal-progress-185/02-after-up-phone-6-end.webp"
+   },
+   {
+    "label": "Aufstieg: Konfetti (Handy)",
+    "img": "changes/2026-10-28-medal-progress-185/03-img-up-phone-5-confetti.webp"
+   },
+   {
+    "label": "Abstieg: Riss → Bruch (Handy)",
+    "before": "changes/2026-10-28-medal-progress-185/04-before-down-phone-3-crack.webp",
+    "after": "changes/2026-10-28-medal-progress-185/05-after-down-phone-4-split.webp"
+   },
+   {
+    "label": "Abstieg: Endzustand (Handy)",
+    "img": "changes/2026-10-28-medal-progress-185/06-img-down-phone-6-end.webp"
+   },
+   {
+    "label": "Aufstieg Desktop (Medaille dreht sich ein)",
+    "img": "changes/2026-10-28-medal-progress-185/07-img-up-desk-3-flip.webp"
+   },
+   {
+    "label": "Abstieg Desktop (Bruch)",
+    "img": "changes/2026-10-28-medal-progress-185/08-img-down-desk-4-split.webp"
+   },
+   {
+    "label": "Ohne Animation: Abstieg (Handy)",
+    "img": "changes/2026-10-28-medal-progress-185/09-img-down-phone-static.webp"
+   },
+   {
+    "label": "Gleiche Stufe: nur der Balken bewegt sich",
+    "before": "changes/2026-10-28-medal-progress-185/10-before-same-phone.webp",
+    "after": "changes/2026-10-28-medal-progress-185/11-after-sameDown-phone.webp"
+   },
+   {
+    "label": "Profil: Fortschritt je Wertung (Handy)",
+    "img": "changes/2026-10-28-medal-progress-185/12-img-profile-phone.webp"
+   }
+  ],
+  "sha": "3f7125b"
  }
 ]
