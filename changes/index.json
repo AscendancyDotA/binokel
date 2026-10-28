@@ -2538,5 +2538,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-05-balance",
+  "date": "2026-10-28T08:17:18.421Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Nach dem Kauf: Profil zeigt 5",
+    "img": "changes/2026-10-28-pt157-05-balance/01-img-franz-11-profile-after.webp"
+   },
+   {
+    "label": "Kopfzeile zeigt 4.290",
+    "img": "changes/2026-10-28-pt157-05-balance/02-img-franz-08-afterpay.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
