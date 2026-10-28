@@ -1506,5 +1506,35 @@
    }
   ],
   "sha": "cce3112"
+ },
+ {
+  "id": "item134-leave3",
+  "date": "2026-10-28T00:39:08.297Z",
+  "title": "Partie verlassen: drei Wege, Autopilot so stark wie du",
+  "text": "Wer eine laufende Online-Partie verlässt (Verlassen oben rechts, Android-Zurück, beim Mehrtisch-Spiel das X am Reiter), wählt jetzt: **Kurz in die Lobby** – der Platz bleibt deiner, Uhr und Zeitbank laufen weiter; ist die Zeit um, macht der Autopilot einen Zug. Nach **3 verpassten Zügen hintereinander** übernimmt er ganz (wie beim Aufstehen), damit kein Tisch hängt. Oben in der Lobby steht, wer dran ist und deine Restzeit. **Tisch verlassen** – wie bisher Aufstehen, Rückkehr jederzeit. **Partie aufgeben** – mit Rückfrage; keine Rückkehr, Einsatz weg. Fair bei 4 Spielern: nur der Aufgebende bekommt die Niederlage (Wertung: letzter Platz bzw. Partei verloren); der Partner spielt mit dem Autopilot weiter und wird nach dem gespielten Ergebnis gewertet – der Autopilot ist ja etwa so stark wie der Aufgebende. Bei 3 Spielern genauso: die anderen nach dem Ergebnis, der Aufgebende als Letzter. **Autopilot-Stärke:** die Bot-Stufe, deren Wertung deiner im Pool des Tisches am nächsten liegt (Schnapsen mit eigenen Stufen-Werten, ohne Wertung: Meister). Weggehen bringt also nichts mehr. **Zu deiner Mehrtisch-Frage:** Es gab eine Lücke – beim Wiederverbinden hat der Server dich an *allen* laufenden Partien wieder hingesetzt, auch an denen, die du absichtlich verlassen hattest; nur das Browser-Fenster wusste noch, dass du weg wolltest (nach einem App-Neustart nicht mehr). Jetzt merkt sich der Server das: zurück kommen nur die Tische, an denen du noch sitzt, auch „kurz in der Lobby“ bleibt nach einem kurzen Verbindungsabbruch erhalten. Automatisch getestet (Server-Tests + neuer Browser-Test mit drei Tischen). Offline-Partien: ohne Uhr gibt es nichts zu wählen, Verlassen bleibt dort direkt. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#94",
+  "rows": [
+   {
+    "label": "Handy: der Dialog",
+    "img": "changes/2026-10-28-item134-leave3/01-img-leave-dialog-phone.webp"
+   },
+   {
+    "label": "Desktop",
+    "img": "changes/2026-10-28-item134-leave3/02-img-leave-dialog-desktop.webp"
+   },
+   {
+    "label": "Kurz in der Lobby: wer dran ist + deine Restzeit",
+    "img": "changes/2026-10-28-item134-leave3/03-img-leave-away-banner-phone.webp"
+   },
+   {
+    "label": "Partie aufgeben: Rückfrage",
+    "img": "changes/2026-10-28-item134-leave3/04-img-leave-resign-confirm-phone.webp"
+   },
+   {
+    "label": "Mehrtisch: X am Reiter fragt genauso",
+    "img": "changes/2026-10-28-item134-leave3/05-img-leave-multitable-close-desktop.webp"
+   }
+  ],
+  "sha": "15a4550"
  }
 ]
