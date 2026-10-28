@@ -1605,5 +1605,20 @@
    }
   ],
   "sha": "7978f77"
+ },
+ {
+  "id": "item140-own-nickname-phone",
+  "date": "2026-10-28T01:49:24.311Z",
+  "title": "Eigener Nickname statt „Du“ (Handy)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): dasselbe am Handy (444×987), vorher/nachher.",
+  "issue": "wirtshaus#98",
+  "rows": [
+   {
+    "label": "Tisch / Namen",
+    "before": "changes/2026-10-28-item140-own-nickname-phone/01-before-nm-before-phone.webp",
+    "after": "changes/2026-10-28-item140-own-nickname-phone/02-after-nm-after-phone.webp"
+   }
+  ],
+  "sha": "7978f77"
  }
 ]
