@@ -2618,5 +2618,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-10-multitable",
+  "date": "2026-10-28T08:17:51.897Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "„Lobby“-Reiter → Verlassen-Dialog",
+    "img": "changes/2026-10-28-pt157-10-multitable/01-img-jonas-13-lobbytab.webp"
+   },
+   {
+    "label": "Zwei Tische: Reiter gleich beschriftet",
+    "img": "changes/2026-10-28-pt157-10-multitable/02-img-jonas-14-two.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
