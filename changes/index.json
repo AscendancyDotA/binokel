@@ -1550,5 +1550,25 @@
    }
   ],
   "sha": "a1c79a0"
+ },
+ {
+  "id": "vortisch-chance-141",
+  "date": "2026-10-28T01:47:16.232Z",
+  "title": "Vortisch: Siegchance immer sichtbar, Unsicherheit markiert",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die Siegchance wird jetzt immer aus der Wertung berechnet (OpenSkill inkl. Unsicherheit/Sigma, 3 Spieler = Platzierung, 4 Spieler = Team gegen Team) und angezeigt. Ist die Wertung noch unsicher (wenige Partien) oder ein Platz noch frei, steht die Zahl trotzdem da: 'Siegchance ≈ 30 % (15–47 %)' mit gedämpfter Schrift, gepunktetem Unterstrich (Tooltip erklärt es) und dem Hinweis '⚠ unsicher: wenige Partien'. Vorher stand nur 'Siegchance noch unsicher'. Die Spanne ist die Chance, wenn die Wertung um ±1 Sigma nach unten/oben läuft.",
+  "issue": "wirtshaus#80",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-28-vortisch-chance-141/01-before-vortisch-desktop.webp",
+    "after": "changes/2026-10-28-vortisch-chance-141/02-after-vortisch-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987 (Schwäbisch)",
+    "before": "changes/2026-10-28-vortisch-chance-141/03-before-vortisch-phone.webp",
+    "after": "changes/2026-10-28-vortisch-chance-141/04-after-vortisch-phone.webp"
+   }
+  ],
+  "sha": "7abb1c3"
  }
 ]
