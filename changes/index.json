@@ -3951,5 +3951,25 @@
    }
   ],
   "sha": "79144e4"
+ },
+ {
+  "id": "item202-tip-commend",
+  "date": "2026-10-28T21:48:55.508Z",
+  "title": "Entwurf: Trinkgeld = kostenloses Lob, der Wirt zahlt",
+  "text": "Was: Trinkgeld kostet den Tipper nichts mehr. Ein Lob-Spruch (Gut gspielt, Abklatschen, Prost, Hut ab, Schnaps, Hirschruf) an einen Mitspieler ist das Trinkgeld – der Wirt bucht dem Gelobten +5 Taler, am Tisch steht bei ihm „🍻 +5 von <Name>“. Sticheleien (Tomate, „bloß Glück“ …) bleiben Spaß ohne Taler. Im Rad tragen die Lob-Sprüche ein 🍻, im letzten Schritt steht „dich kostet's nichts“; das Taler-Häkchen ist weg. Gegen Farming: einmal je Mitspieler und Partie, 5 belohnte Trinkgelder je Tipper und Tag, höchstens 50 Taler je Empfänger und Tag, erst nach dem ersten fertigen Spiel am Tisch, nie zwischen gleicher IP/Party oder Paaren, die sich ständig gegenseitig loben, nie an Bots; neue Konten können die Taler im Shop ausgeben, setzen erst nach 5 gewerteten Partien. Der Spruch geht immer raus, ohne Taler sagt das Rad dem Tipper einmal still warum (Bild 3). Wo: Schnell-Chat-Rad → 🍻 Trinkgeld, an allen Online-Tischen. Warum: Besitzer-Wunsch „Tippen ist free, aber der Getippte bekommt was – wie ein Commend“. Alle Zahlen Server-Einstellungen (docs/GOLD.md §4.9b), Schalter TIP_TALER bleibt aus. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#149",
+  "rows": [
+   {
+    "label": "Item 202 · Teil 1",
+    "img": "changes/2026-10-28-item202-tip-commend/01-img-s183-wheel-target-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-tip-commend/02-img-s183-tip-received-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item202-tip-commend/03-img-s202-tip-early-desktop.webp"
+   }
+  ],
+  "sha": "b5f1c22"
  }
 ]
