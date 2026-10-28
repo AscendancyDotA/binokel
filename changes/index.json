@@ -2670,5 +2670,21 @@
    }
   ],
   "sha": "19c085a"
+ },
+ {
+  "id": "pt157-13-highroller",
+  "date": "2026-10-28T08:18:14.119Z",
+  "title": "Entwurf: Playtest-Beleg",
+  "rows": [
+   {
+    "label": "Schnapsen: Tisch aufmachen ohne Mindesteinsatz",
+    "img": "changes/2026-10-28-pt157-13-highroller/01-img-franz-12-sn-create.webp"
+   },
+   {
+    "label": "Topf auf 10 gedeckelt",
+    "img": "changes/2026-10-28-pt157-13-highroller/02-img-hias-02-stakes.webp"
+   }
+  ],
+  "sha": "19c085a"
  }
 ]
