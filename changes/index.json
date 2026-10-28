@@ -2118,5 +2118,35 @@
    }
   ],
   "sha": "82d0786"
+ },
+ {
+  "id": "sn-teacher-tips",
+  "date": "2026-10-28T05:05:27.700Z",
+  "title": "Schnapsen: Tipps vom Lehrer am Tisch und geführte Lernpartie",
+  "text": "Was: Am Schnapsen-Tisch gegen den Bot gibt es jetzt kurze Tipps vom Lehrer – zudrehen (mit deinen Augen und Trumpf-Sau/-Zehn), 20/40 ansagen, Trumpf-Unter tauschen, mit 66 abmelden, Farb- und Stichzwang nach dem Zudrehen oder bei leerem Talon, Sau/Zehn abtrumpfen, Trümpfe aufheben, welche Karte ausspielen. Die Tipps rechnet die Suche nur aus dem, was du selbst siehst – nie aus verdeckten Karten. Wo: Offline gegen den Bot und online an ungewerteten Tischen mit Bot; Schalter „Tipps vom Lehrer“ im Bot-Formular (Standard an), „Keine Tipps mehr“ in der Blase. Die Lernpartie ist jetzt eine geführte erste Runde gegen den Lehrling: Begrüßung, alle Tipps in fester Reihenfolge, die vorgeschlagene Karte leuchtet in der Hand, am Ende „Jetzt richtig spielen“. Warum: Gleiche Hilfe wie bei Binokel. Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#106",
+  "rows": [
+   {
+    "label": "Tipp vom Lehrer (Desktop)",
+    "img": "changes/2026-10-28-sn-teacher-tips/01-img-teach-closed-1280.webp"
+   },
+   {
+    "label": "Tipp vom Lehrer (Handy)",
+    "img": "changes/2026-10-28-sn-teacher-tips/02-img-teach-closed-444.webp"
+   },
+   {
+    "label": "Lernpartie: Begrüßung, Vorschlagskarte leuchtet",
+    "img": "changes/2026-10-28-sn-teacher-tips/03-img-sn-e2e-guided-welcome-444x987.webp"
+   },
+   {
+    "label": "Lernpartie: Zudrehen-Tipp",
+    "img": "changes/2026-10-28-sn-teacher-tips/04-img-sn-e2e-guided-close-1280x800.webp"
+   },
+   {
+    "label": "Lernpartie: Ende mit „Jetzt richtig spielen“",
+    "img": "changes/2026-10-28-sn-teacher-tips/05-img-sn-e2e-guided-end-444x987.webp"
+   }
+  ],
+  "sha": "5331d5a"
  }
 ]
