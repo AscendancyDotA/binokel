@@ -3927,5 +3927,29 @@
    }
   ],
   "sha": "79144e4"
+ },
+ {
+  "id": "werbepause",
+  "date": "2026-10-28T21:01:31.201Z",
+  "title": "Lustige Werbepause am Tisch",
+  "text": "Schaut jemand am Online-Tisch freiwillig eine belohnte Werbung (Steinbruch, Verdoppler, Angebot nach der Partie), sehen alle anderen: die Tisch-Haustiere aller Spieler laufen am Werbe-Banner entlang (neben der Anzeige, nie darüber) bzw. ohne Banner quer über den Filz – wer keins hat, bekommt die Wirtshauskatze; die Bots machen Bierpause („Werbepause – i hol mr a Bier“); am Platz des Zuschauers steht „schaut Werbung“; ist die Werbung fertig, fällt eine Münze ins Werbe-Kässle auf dem Tisch und es gibt „Prost!“. Alles nur Deko: Taler bekommt weiter nur der Zuschauer, nach der Bestätigung durchs Netzwerk – deshalb richtlinienkonform (Prüfung in docs/ADS.md). Spruch im Steinbruch: „Ohne freiwillige Werbung verpasst du was.“ Abschaltbar unter Einstellungen → Werbung & Taler → „Lustige Werbepausen“. Nicht in der Play-App. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Zuschauer Desktop (mit Seiten-Banner)",
+    "img": "changes/2026-10-28-werbepause/01-img-adfun-desktop-parade.webp"
+   },
+   {
+    "img": "changes/2026-10-28-werbepause/02-img-adfun-desktop-cheers.webp"
+   },
+   {
+    "label": "Zuschauer Handy",
+    "img": "changes/2026-10-28-werbepause/03-img-adfun-phone-parade.webp"
+   },
+   {
+    "img": "changes/2026-10-28-werbepause/04-img-adfun-phone-cheers.webp"
+   }
+  ],
+  "sha": "79144e4"
  }
 ]
