@@ -3442,5 +3442,39 @@
    }
   ],
   "sha": "25862d1"
+ },
+ {
+  "id": "gaigel-online",
+  "date": "2026-10-28T16:05:31.538Z",
+  "title": "Entwurf: Gaigel online (versteckt)",
+  "text": "Gaigel kann jetzt online gespielt werden, aber nur mit #games=binokel,gaigel und GAMES_ENABLED=…,gaigel. Neu sind die Warteschlange je Spielerzahl, ein eigener Tisch mit Regel-Auswahl, die Tischliste und Zuschauer. Zuschauer sehen weder Handkarten noch verdeckte Eröffnungskarten. Gewertet wird in den Pools gaigel:p2, gaigel:p3 und gaigel:p4. Die Bots sind neu kalibriert. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#150",
+  "rows": [
+   {
+    "label": "Online-Karte",
+    "after": "changes/2026-10-28-gaigel-online/01-after-online-queue.webp"
+   },
+   {
+    "label": "Neuer Tisch",
+    "after": "changes/2026-10-28-gaigel-online/02-after-online-create.webp"
+   },
+   {
+    "label": "Tischliste (Handy)",
+    "after": "changes/2026-10-28-gaigel-online/03-after-online-tablelist.webp"
+   },
+   {
+    "label": "Zuschauer",
+    "after": "changes/2026-10-28-gaigel-online/04-after-online-spectator.webp"
+   },
+   {
+    "label": "20 melden (Handy)",
+    "after": "changes/2026-10-28-gaigel-online/05-after-online-B-meld.webp"
+   },
+   {
+    "label": "Partie-Ende",
+    "after": "changes/2026-10-28-gaigel-online/06-after-online-matchend.webp"
+   }
+  ],
+  "sha": "d1e9479"
  }
 ]
