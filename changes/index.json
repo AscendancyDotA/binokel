@@ -3731,5 +3731,40 @@
    }
   ],
   "sha": "7e72f98"
+ },
+ {
+  "id": "wuerfel-parity-179",
+  "date": "2026-10-28T19:20:43.675Z",
+  "title": "Entwurf: Fünf Würfel – Rätsel des Tages, eigene Ruhmeshalle, online im Browser geprüft",
+  "text": "Fünf Würfel bekommt ein tägliches Rätsel aus echten Partien: Würfel antippen und „Würfeln“ oder ein freies Kästchen wählen. Der Löser rechnet jede Möglichkeit genau aus, die Auflösung sagt z. B. „Behalte 5 5 5 – erwarteter Wert 234,4 Punkte“ für den besten und den echten Zug und listet die acht besten Züge. Neue Ruhmeshalle nur für Fünf Würfel: Bester Spielzettel, Meiste Fünflinge, Bonus oben (gewertete Zettel, ohne Autopilot). Dazu ein Browser-Test für einen Online-Tisch: zwei Spieler würfeln den ganzen Zettel, ein Zuschauer sieht alles mit, kann aber nichts drücken; danach Partie analysieren und Ruhmeshalle. Noch im Bau (🚧). Gebaut von Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#151",
+  "rows": [
+   {
+    "label": "Rätsel: Würfel halten oder Kästchen wählen (Desktop)",
+    "img": "changes/2026-10-28-wuerfel-parity-179/01-img-pz-wf-ask-desk.webp"
+   },
+   {
+    "label": "Rätsel (Handy hochkant)",
+    "img": "changes/2026-10-28-wuerfel-parity-179/02-img-pz-wf-ask-phone.webp"
+   },
+   {
+    "label": "Auflösung mit Erklärung aus dem Löser",
+    "before": "changes/2026-10-28-wuerfel-parity-179/03-before-pz-wf-reveal-desk.webp",
+    "after": "changes/2026-10-28-wuerfel-parity-179/04-after-pz-wf-reveal-phone.webp"
+   },
+   {
+    "label": "Ruhmeshalle: Bester Spielzettel",
+    "img": "changes/2026-10-28-wuerfel-parity-179/05-img-wf-online-ruhmeshalle.webp"
+   },
+   {
+    "label": "Online-Tisch aus Sicht des Zuschauers",
+    "img": "changes/2026-10-28-wuerfel-parity-179/06-img-wf-online-spectator.webp"
+   },
+   {
+    "label": "Gespeicherte Online-Partie mit Auswertung",
+    "img": "changes/2026-10-28-wuerfel-parity-179/07-img-wf-online-analysis.webp"
+   }
+  ],
+  "sha": "931b53c"
  }
 ]
