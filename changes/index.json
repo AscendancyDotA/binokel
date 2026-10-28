@@ -1938,5 +1938,19 @@
    }
   ],
   "sha": "63bc586"
+ },
+ {
+  "id": "qa148-minstake-bots",
+  "date": "2026-10-28T04:50:20.377Z",
+  "title": "Entwurf: QA-Befund – Mindesteinsatz und Bots",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), QA-Durchgang wirtshaus#105. Bild zum Befund oben (kein ausgelieferter Stand).",
+  "issue": "wirtshaus#110",
+  "rows": [
+   {
+    "label": "Handy 390×844: Tisch ab 1.000 Taler, Start scheitert",
+    "img": "changes/2026-10-28-qa148-minstake-bots/01-img-r12-a-stake.webp"
+   }
+  ],
+  "sha": "63bc586"
  }
 ]
