@@ -2337,5 +2337,32 @@
    }
   ],
   "sha": "7d25d27"
+ },
+ {
+  "id": "qa151-small-notes",
+  "date": "2026-10-28T05:49:09.105Z",
+  "title": "Kleinigkeiten aus dem QA-Durchgang: Titel in der Kopfleiste, Links schließen Dialoge, Handoff-Limit",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): (1) Handy-Kopfleiste am Tisch: die Runde heißt dort \"R. 1/4\", der Tischname bekommt den Platz (vorher \"Ti…\"). (2) Ein Link in der Adresszeile (#replay=, #t=, #friend=, #stammtisch=, #raum=) schließt jetzt offene Dialoge wie Shop, Einstellungen, Hilfe und Fehler melden – vorher blieb der Shop über der Wiederholung stehen (Server-e2e: tools/e2e-qa151.mjs). (3) Handoff-Code (Server, ohne Bild): 10 Fehlversuche je IP und 5 je Code pro Stunde; die serverweite Grenze von 300 sperrt nicht mehr alle aus, sondern senkt nur die Fehlversuche je IP auf 2, wer noch keinen Fehlversuch hat, kommt weiter durch.",
+  "issue": "wirtshaus#112",
+  "rows": [
+   {
+    "label": "Handy 390×844: oben vorher, unten nachher (Titel Tisch von Gast 7295)",
+    "img": "changes/2026-10-28-qa151-small-notes/01-img-cmp-tb-390.webp"
+   },
+   {
+    "label": "Handy 360×740",
+    "img": "changes/2026-10-28-qa151-small-notes/02-img-cmp-tb-360.webp"
+   },
+   {
+    "label": "Arena 390×844",
+    "img": "changes/2026-10-28-qa151-small-notes/03-img-cmp-tb-390-arena.webp"
+   },
+   {
+    "label": "Shop offen, dann Link zu einer Wiederholung: Shop ist zu",
+    "before": "changes/2026-10-28-qa151-small-notes/04-before-qa151-shop-open-before-link.webp",
+    "after": "changes/2026-10-28-qa151-small-notes/05-after-qa151-after-replay-link.webp"
+   }
+  ],
+  "sha": "7d25d27"
  }
 ]
