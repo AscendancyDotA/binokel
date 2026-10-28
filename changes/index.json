@@ -3099,5 +3099,29 @@
    }
   ],
   "sha": "f0e5c24"
+ },
+ {
+  "id": "pc162-130-stakefold",
+  "date": "2026-10-28T09:28:39.811Z",
+  "title": "Freundes-Warteraum: Einsatz-Feld nur noch eine Zeile",
+  "text": "Solange niemand einen Einsatz vorschlägt, ist „Um Taler spielen?“ eine einzige zugeklappte Zeile („freiwillig ▸“) – Einladungslink und Tisch-Gespräch bleiben oben. Erst beim Antippen (oder sobald jemand etwas vorschlägt) klappt es mit Siegchancen und Vorschlägen auf. Vorschlags-Knöpfe über dem eigenen Guthaben sind ausgegraut. „Ohne Einsatz“ bleibt so sichtbar wie „mit“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#130",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-10-28-pc162-130-stakefold/01-before-i130-friend.webp",
+    "after": "changes/2026-10-28-pc162-130-stakefold/02-after-pc-130-folded-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-10-28-pc162-130-stakefold/03-before-stk-desktop-waiting.webp",
+    "after": "changes/2026-10-28-pc162-130-stakefold/04-after-pc-130-folded-desktop.webp"
+   },
+   {
+    "label": "Aufgeklappt: 50/100 ausgegraut bei wenig Guthaben",
+    "img": "changes/2026-10-28-pc162-130-stakefold/05-img-pc-137-capped-phone.webp"
+   }
+  ],
+  "sha": "f0e5c24"
  }
 ]
