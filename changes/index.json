@@ -1831,5 +1831,30 @@
    }
   ],
   "sha": "75ae5df"
+ },
+ {
+  "id": "item144-wirtshaus-marke",
+  "date": "2026-10-28T04:02:38.567Z",
+  "title": "Wirtshaus-Schild überall in der App (Willkommen, Lobby-Kopf, Einrichtung)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): In der Wirtshaus-App (Web, GitHub-APK, Windows) zeigten Lobby-Kopf, Willkommen-Karte und die Einrichtung noch das Binokel-Schild. Jetzt folgen alle Logos in der App der App-Variante, genau wie Intro und Favicon: Wirtshaus-Schild und Name „Wirtshaus“; der Spielumschalter im Kopf trägt das App-Schild (vorher Binokel-Schild bzw. ein Herz bei Schnapsen). Die Play-App „Binokel“ bleibt Pixel für Pixel gleich (vorher/nachher-Vergleich in 3 Größen, nur die zufällige Gast-Nummer unterscheidet sich). Nebenbei: Server-Tests brechen unter Last nicht mehr an der 5-Sekunden-Grenze ab, und die LiveKit-e2e startet zuverlässig.",
+  "issue": "wirtshaus#104",
+  "rows": [
+   {
+    "label": "Willkommen 1280×800",
+    "before": "changes/2026-10-28-item144-wirtshaus-marke/01-before-wb-wel-1280.webp",
+    "after": "changes/2026-10-28-item144-wirtshaus-marke/02-after-wa-wel-1280.webp"
+   },
+   {
+    "label": "Einrichtung 444×987",
+    "before": "changes/2026-10-28-item144-wirtshaus-marke/03-before-wb-ob-444.webp",
+    "after": "changes/2026-10-28-item144-wirtshaus-marke/04-after-wa-ob-444.webp"
+   },
+   {
+    "label": "Lobby-Kopf mit Spielumschalter (Schnapsen aktiv) 444×987",
+    "before": "changes/2026-10-28-item144-wirtshaus-marke/05-before-before-sn-welcome-444x987.webp",
+    "after": "changes/2026-10-28-item144-wirtshaus-marke/06-after-after-sn-welcome-444x987.webp"
+   }
+  ],
+  "sha": "f2b533c"
  }
 ]
