@@ -3052,5 +3052,37 @@
    }
   ],
   "sha": "503c8f1"
+ },
+ {
+  "id": "pc162-128-stakeask",
+  "date": "2026-10-28T09:27:59.206Z",
+  "title": "Mit Einsatz spielen?: Antwort immer sichtbar, nie still ohne Einsatz",
+  "text": "Die Frage „Mit Einsatz spielen?“ steht jetzt als feste Leiste am unteren Bildrand (Topf, Countdown, Mit/Ohne Einsatz, +20 s) – am Desktop und am Handy quer in einer Zeile, nie mehr unter dem Rand. Antwortet jemand nicht, fängt die Partie NICHT an: der Warteraum sagt „X hat nicht rechtzeitig geantwortet“, der Host startet einfach nochmal. Sagt jemand „Ohne Einsatz“ (oder kann jemand nicht setzen), läuft die Partie ohne – aber alle sehen es: Chip „ohne Einsatz“ in der Tischleiste (bzw. „Topf N“ bei Einsatz) und ein Satz am Partie-Ende mit dem Grund. Warteschlange/Turnier (Vortisch) starten wie bisher immer. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#128",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: vorher Knöpfe unter dem Rand – jetzt Leiste unten",
+    "before": "changes/2026-10-28-pc162-128-stakeask/01-before-i128-ask-desktop.webp",
+    "after": "changes/2026-10-28-pc162-128-stakeask/02-after-pc-128-dock-desktop.webp"
+   },
+   {
+    "label": "Handy quer 915×412",
+    "before": "changes/2026-10-28-pc162-128-stakeask/03-before-i128-ask-phone.webp",
+    "after": "changes/2026-10-28-pc162-128-stakeask/04-after-pc-128-dock-phone-landscape.webp"
+   },
+   {
+    "label": "Keine Antwort: Partie startet nicht, Grund im Warteraum",
+    "img": "changes/2026-10-28-pc162-128-stakeask/05-img-pc-128-timeout-phone.webp"
+   },
+   {
+    "label": "Ohne Einsatz: Chip am Tisch",
+    "img": "changes/2026-10-28-pc162-128-stakeask/06-img-pc-128-chip-desktop.webp"
+   },
+   {
+    "label": "… und am Partie-Ende",
+    "img": "changes/2026-10-28-pc162-128-stakeask/07-img-pc-128-matchend-desktop.webp"
+   }
+  ],
+  "sha": "f0e5c24"
  }
 ]
