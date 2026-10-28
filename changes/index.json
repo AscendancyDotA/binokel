@@ -3143,5 +3143,25 @@
    }
   ],
   "sha": "f0e5c24"
+ },
+ {
+  "id": "pc162-138-purchase",
+  "date": "2026-10-28T09:28:59.947Z",
+  "title": "Taler kaufen: USt-Zeile mit Grund, Quittung, Konto sichern",
+  "text": "USt: 19 % sind richtig – du bist regelbesteuert, und für Käufer in anderen EU-Ländern gilt unter 10.000 € grenzüberschreitendem Umsatz im Jahr die deutsche USt (§ 3a Abs. 5 UStG). Der Dialog sagt das jetzt („Der Anbieter sitzt in Deutschland, deshalb gilt der deutsche Satz – auch bei Käufen aus Österreich“). Server-Schalter PURCHASES_VAT_OSS=1 (aus) stellt auf „inkl. der Umsatzsteuer deines Landes“ um – erst nach OSS-Registrierung + Stripe Tax (steht in docs/HUMAN-TODO.md, dort auch: in Stripe die Kunden-Mails für erfolgreiche Zahlungen einschalten). Quittung: die App fragt nie nach einer E-Mail; vor dem Bezahlen steht „Stripe fragt dort nach deiner E-Mail – nur für die Quittung, wir speichern sie nicht“, danach „Die Quittung schickt Stripe an die E-Mail von der Bezahlseite“ (Play: Google an die Adresse des Google-Kontos). Gast-Konto: leise Zeile vor dem ersten Kauf, nach dem Kauf „Konto sichern?“ mit Google-Knopf (wo Google-Login angeboten wird), kein Zwang. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#138",
+  "rows": [
+   {
+    "label": "Kauf-Dialog",
+    "before": "changes/2026-10-28-pc162-138-purchase/01-before-i138-buy.webp",
+    "after": "changes/2026-10-28-pc162-138-purchase/02-after-pc-138-dialog-desktop.webp"
+   },
+   {
+    "label": "Nach dem Kauf",
+    "before": "changes/2026-10-28-pc162-138-purchase/03-before-i138-done.webp",
+    "after": "changes/2026-10-28-pc162-138-purchase/04-after-pc-138-done-desktop.webp"
+   }
+  ],
+  "sha": "f0e5c24"
  }
 ]
