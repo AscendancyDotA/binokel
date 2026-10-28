@@ -1474,5 +1474,37 @@
    }
   ],
   "sha": "cce3112"
+ },
+ {
+  "id": "item133-onboarding-login",
+  "date": "2026-10-28T00:08:02.150Z",
+  "title": "Erster Start: „Ich habe schon ein Konto“",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Neu auf einem Gerät, aber schon ein Konto (z. B. die Freundin am Handy)? Gleich auf der ersten Seite des Einstiegs steht jetzt „Ich habe schon ein Konto“. Dort meldet man sich mit Google oder mit einem Konto-Code von einem anderen Gerät an (Code zeigt dein anderes Gerät unter Einstellungen → Konto → Konto-Code zeigen). Danach entfallen Name, Bild und die geführte Runde, man landet direkt in der Lobby mit Namen, Taler und Wertung. Das leere Gastkonto, das beim Start schon angelegt war, wird auf dem Server gelöscht. Später gibt es für ein Gastkonto unter Einstellungen → Konto den Knopf „Mit bestehendem Konto anmelden“ – mit ehrlichem Hinweis, was mit dem Gastkonto passiert. Google-Knopf erscheint dort, wo Google-Anmeldung eingerichtet ist (in den Testbildern lokal nicht).",
+  "issue": "wirtshaus#86",
+  "rows": [
+   {
+    "label": "Handy hoch + Desktop",
+    "img": "changes/2026-10-28-item133-onboarding-login/01-img-onboarding-step1-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/02-img-onboarding-login-choice-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/03-img-onboarding-code-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/04-img-onboarding-after-login-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/05-img-settings-login-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/06-img-settings-login-choice-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item133-onboarding-login/07-img-onboarding-step1-desktop.webp"
+   }
+  ],
+  "sha": "cce3112"
  }
 ]
