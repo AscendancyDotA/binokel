@@ -2888,5 +2888,45 @@
    }
   ],
   "sha": "c146cca"
+ },
+ {
+  "id": "trust163",
+  "date": "2026-10-28T09:12:38.425Z",
+  "title": "Vertrauen: ehrlich gemischt mit Nachweis, Kartenglück aller Partien, Abbruch-Banner, Üben offline",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Was: (1) Vor dem Austeilen legt sich der Server fest und zeigt oben am Tisch nur einen Fingerabdruck („Gemischt 6277·cfcf“, antippen = Erklärung). Startwert und Geheimzahl gibt es erst nach der Partie in der Wiederholung; „Gemischt: nachprüfen“ rechnet auf dem Gerät nach (Fingerabdruck + die eigenen Karten jeder Runde). Gilt für Binokel, Schnapsen, Skat, Doppelkopf online. (2) Neue öffentliche Seite „Kartenglück aller Partien“ (Willkommen → Karte „Ehrlich gespielt“, und Reiter „Fair“ in jeder Regelhilfe): Asse/Zehner/Augen bzw. Trümpfe/Buben je Platz und Menschen gegen Bots, neben der Erwartung einer fairen Mischung; nur Summen, keine Namen. (3) Versprechen in Willkommen + Hilfe: keine Werbung außer selbst eingeschaltet, keine gekauften Karten, Bots sehen nur ihr Blatt (auch als Hinweis in der Auswertung eines Bots), Abbrüche nie bestraft. (4) Banner bei Verbindungsabbruch am eigenen Platz. (5) Offline gegen Bots: „Zug zurück“ oben am Tisch und am Partie-Ende „noch einmal mit denselben Karten“ (Binokel auch „Als <Bot>“ = aus Gegnersicht; Schnapsen nur eigene Sicht). Warum: Hauptklage in allen Chip-Apps ist „gezinkte Karten“ – wir können es jetzt belegen (docs/FAIRNESS.md).",
+  "issue": "wirtshaus#140",
+  "rows": [
+   {
+    "label": "Tisch: Fingerabdruck oben (Desktop)",
+    "img": "changes/2026-10-28-trust163/01-img-trust-table-chip.webp"
+   },
+   {
+    "label": "Antippen: Erklärung",
+    "img": "changes/2026-10-28-trust163/02-img-trust-chip-dialog.webp"
+   },
+   {
+    "label": "Wiederholung: Gemischt nachprüfen",
+    "img": "changes/2026-10-28-trust163/03-img-trust-proof.webp"
+   },
+   {
+    "label": "Kartenglück aller Partien (Desktop / Handy)",
+    "before": "changes/2026-10-28-trust163/04-before-trust-luck-page.webp",
+    "after": "changes/2026-10-28-trust163/05-after-trust-luck-phone.webp"
+   },
+   {
+    "label": "Willkommen: Ehrlich gespielt",
+    "img": "changes/2026-10-28-trust163/06-img-trust-welcome-card.webp"
+   },
+   {
+    "label": "Verbindung weg am eigenen Platz",
+    "img": "changes/2026-10-28-trust163/07-img-trust-drop-banner.webp"
+   },
+   {
+    "label": "Offline: Zug zurück (Handy) / gleiche Karten nochmal",
+    "before": "changes/2026-10-28-trust163/08-before-trust-undo-phone.webp",
+    "after": "changes/2026-10-28-trust163/09-after-trust-samecards-phone.webp"
+   }
+  ],
+  "sha": "2eae256"
  }
 ]
