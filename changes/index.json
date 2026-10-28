@@ -1765,5 +1765,20 @@
    }
   ],
   "sha": "ebbfe4e"
+ },
+ {
+  "id": "item140-game-stats",
+  "date": "2026-10-28T03:11:58.370Z",
+  "title": "Statistik je Spiel im Profil (Schnapsen mit eigenen Zahlen)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Im Profil zeigt das gewählte Spiel (Spielumschalter oben links) seine eigenen lokalen Zahlen. Vorher stand bei Schnapsen die Binokel-Statistik. Jetzt für Schnapsen: Bummerl gewonnen/gespielt, Runden gewonnen/verloren, Spielpunkte, 20er/40er, Zudrehen (davon verpatzt), Trumpf-Unter getauscht – plus die letzten Bummerl. Die Zahlen sammeln sich pro Gerät mit jeder Partie (Beispielwerte im Bild).",
+  "issue": "wirtshaus#102",
+  "rows": [
+   {
+    "label": "Profil / Statistik",
+    "before": "changes/2026-10-28-item140-game-stats/01-before-gs-before-desk.webp",
+    "after": "changes/2026-10-28-item140-game-stats/02-after-gs-after-desk.webp"
+   }
+  ],
+  "sha": "ebbfe4e"
  }
 ]
