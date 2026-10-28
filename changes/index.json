@@ -2148,5 +2148,39 @@
    }
   ],
   "sha": "5331d5a"
+ },
+ {
+  "id": "i147-skat-online",
+  "date": "2026-10-28T05:25:20.919Z",
+  "title": "Entwurf: Skat online, Wirtshaus-TV, Wiederholung + Auswertung, stärkere Bots (Item 147)",
+  "text": "Skat (weiter versteckt hinter #games=binokel,skat bzw. GAMES_ENABLED) ist online spielbar: Solo-Warteschlange (skat:p3) oder eigener Tisch mit Skat-Regeln und Bot-Füllung, beitreten aus der Tischliste, zuschauen, Revanche am Listenende. Wirtshaus-TV zeigt eine Skat-Meisterliste und einen Skat-Stammtisch. Wiederholung mit Auswertung (offline und online, 'Partie analysieren'). Die Such-Bots schließen aus dem Reizen auf die Blätter, prüfen ihre Reizwerte und sagen im Handspiel Schneider/Schwarz/Ouvert an (Großmeister gegen Meister 67 % statt 61 %). Handy hochkant: ein kurzer Chip statt abgeschnittener Kopfzeile, Punkte-Box nur noch als Knopf. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#99",
+  "rows": [
+   {
+    "label": "Handy hochkant: vorher / nachher (Kopfzeile, Punkte-Box)",
+    "before": "changes/2026-10-28-i147-skat-online/01-before-before-p-play.webp",
+    "after": "changes/2026-10-28-i147-skat-online/02-after-after2-p-play.webp"
+   },
+   {
+    "label": "Online: Tisch aufmachen / offene Tische",
+    "before": "changes/2026-10-28-i147-skat-online/03-before-online-create.webp",
+    "after": "changes/2026-10-28-i147-skat-online/04-after-online-tablelist.webp"
+   },
+   {
+    "label": "Online: Spieler / Zuschauer",
+    "before": "changes/2026-10-28-i147-skat-online/05-before-online-table.webp",
+    "after": "changes/2026-10-28-i147-skat-online/06-after-online-spectator.webp"
+   },
+   {
+    "label": "Listenende (Revanche, Partie analysieren) / Wiederholung mit Auswertung",
+    "before": "changes/2026-10-28-i147-skat-online/07-before-online-matchend.webp",
+    "after": "changes/2026-10-28-i147-skat-online/08-after-online-replay.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Skat-Schautische",
+    "img": "changes/2026-10-28-i147-skat-online/09-img-online-welcome-tv.webp"
+   }
+  ],
+  "sha": "08426c3"
  }
 ]
