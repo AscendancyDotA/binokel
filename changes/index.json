@@ -3163,5 +3163,31 @@
    }
   ],
   "sha": "f0e5c24"
+ },
+ {
+  "id": "sk164-schafkopf",
+  "date": "2026-10-28T12:21:20.276Z",
+  "title": "Entwurf: Schafkopf – Regeln, Engine, Bots, Offline-Tisch (verborgen)",
+  "text": "Neues Spiel Schafkopf, nur über #games=…,schafkopf erreichbar (Lobby-Karte „Im Bau“). Regeln nach Schafkopfschule 2024 / BSV 1989 (docs/rules/SCHAFKOPF.md): Rufspiel mit verdecktem Partner und Davonlaufen, Wenz, Farbsolo, Tout, Sie, Stoß/Retour, Laufende, Tarif 10/50/10; Farbwenz, Geier, Hochzeit, Ramsch als Tisch-Schalter (aus). Sechs Bot-Stufen, die Suchstufen ziehen nur Welten, die zum Partner-Schluss passen; Ladder streng geordnet (1651 … 1297). Tisch im gemeinsamen Tischrahmen: Spielabsicht, Verhandlung, Ansage, Stoß, Abrechnung mit Tarifzeilen, Spielliste. Die 8er und 9er des Württemberger Blatts kommen aus derselben CC0-Scanserie. Online folgt in Teil 2. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#141",
+  "rows": [
+   {
+    "label": "Handy hoch: Lobby-Karte, Spielabsicht, Verhandlung, Spiel",
+    "img": "changes/2026-10-28-sk164-schafkopf/01-img-cs1.webp"
+   },
+   {
+    "label": "Handy hoch: Stoß, Abrechnung, Spielliste, Partie-Ende",
+    "img": "changes/2026-10-28-sk164-schafkopf/02-img-cs2.webp"
+   },
+   {
+    "label": "Desktop: Spiel mit Parteien auf den Plätzen",
+    "img": "changes/2026-10-28-sk164-schafkopf/03-img-play-desk.webp"
+   },
+   {
+    "label": "Desktop: Abrechnung",
+    "img": "changes/2026-10-28-sk164-schafkopf/04-img-roundend-desk.webp"
+   }
+  ],
+  "sha": "051eb44"
  }
 ]
