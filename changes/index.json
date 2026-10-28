@@ -1570,5 +1570,25 @@
    }
   ],
   "sha": "7abb1c3"
+ },
+ {
+  "id": "item140-seat-markers",
+  "date": "2026-10-28T01:49:10.325Z",
+  "title": "Sitz-Markierung: kurz weg / Autopilot / aufgegeben",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Mitspieler sehen an der Sitzplatte (jedes Spiel, gemeinsames Tischgerüst) ein kleines Chip: „kurz weg“ (Uhr läuft), „Autopilot“ (verlassen oder Verbindung weg) oder „aufgegeben“. Der Hinweis bei einer Aufgabe nennt jetzt den Namen. Bilder: Zuschauer-Sicht, Desktop und Handy.",
+  "issue": "wirtshaus#102",
+  "rows": [
+   {
+    "label": "Tisch / Sitzplatte",
+    "img": "changes/2026-10-28-item140-seat-markers/01-img-seat-marker-away-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item140-seat-markers/02-img-seat-marker-away-phone.webp"
+   },
+   {
+    "img": "changes/2026-10-28-item140-seat-markers/03-img-seat-marker-autopilot-desktop.webp"
+   }
+  ],
+  "sha": "7978f77"
  }
 ]
