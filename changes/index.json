@@ -3037,5 +3037,20 @@
    }
   ],
   "sha": "503c8f1"
+ },
+ {
+  "id": "pt160-139-endchip",
+  "date": "2026-10-28T09:19:51.328Z",
+  "title": "Partie-Ende am Handy quer: Wertungs-Chip verdeckt die Überschrift nicht mehr",
+  "text": "Im Querformat bleibt der schwebende Wertungs-Chip weg, solange das Partie-Ende offen ist – die Wertung steht dort ohnehin in der eigenen Zeile („Schnapsen-Wertung: 1500 → 1395  −105“). Hochkant und am PC unverändert. Nachgestellt mit einer echten Online-Schnapsen-Partie bei 915×412. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#139",
+  "rows": [
+   {
+    "label": "Schnapsen online, Partie-Ende 915×412",
+    "before": "changes/2026-10-28-pt160-139-endchip/01-before-mg6-matchend.webp",
+    "after": "changes/2026-10-28-pt160-139-endchip/02-after-mg6-matchend.webp"
+   }
+  ],
+  "sha": "503c8f1"
  }
 ]
