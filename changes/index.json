@@ -2774,5 +2774,39 @@
    }
   ],
   "sha": "591c46e"
+ },
+ {
+  "id": "skat-kneipenregeln",
+  "date": "2026-10-28T09:02:21.348Z",
+  "title": "Entwurf: Skat-Kneipenregeln – Ramsch, Schieberamsch, Bockrunden, Spitze",
+  "text": "Skat (noch versteckt) hat jetzt Kneipenregeln als Tischoptionen, alle standardmäßig aus: Ramsch oder Schieberamsch, wenn alle passen (Jungfrau ×2, Durchmarsch +120, jedes Schieben ×2), Bockrunden mit abschaltbaren Auslösern (60:60, verlorenes Kontra, verlorener Grand Hand) und optionalen Ramschrunden, Spitze ansagen. Einstellbar auf der Offline-Karte (Kneipenregeln) und im Tisch-Dialog unter Hausregeln; die Kopfzeile zeigt 'Bock', das Ergebnis die Ramsch-Abrechnung. Ohne Optionen spielt Skat unverändert (Golden-Partien identisch). Regeln + Quellen: docs/rules/SKAT.md §10. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#142",
+  "rows": [
+   {
+    "label": "Offline-Karte: Kneipenregeln (Desktop · Handy)",
+    "before": "changes/2026-10-28-skat-kneipenregeln/01-before-skpub-lobby-card-1280x800.webp",
+    "after": "changes/2026-10-28-skat-kneipenregeln/02-after-skpub-lobby-card-444x987.webp"
+   },
+   {
+    "label": "Schieberamsch im Bockspiel: Skat nehmen oder schieben",
+    "before": "changes/2026-10-28-skat-kneipenregeln/03-before-skpub-schieben-1280x800.webp",
+    "after": "changes/2026-10-28-skat-kneipenregeln/04-after-skpub-schieben-444x987.webp"
+   },
+   {
+    "label": "Buben dürfen nicht geschoben werden",
+    "img": "changes/2026-10-28-skat-kneipenregeln/05-img-skpub-push-jack-1280x800.webp"
+   },
+   {
+    "label": "Ramsch läuft: Kopfzeile Bock ×2, Chip Ramsch · 1× geschoben",
+    "before": "changes/2026-10-28-skat-kneipenregeln/06-before-skpub-play-1280x800.webp",
+    "after": "changes/2026-10-28-skat-kneipenregeln/07-after-skpub-play-444x987.webp"
+   },
+   {
+    "label": "Ramsch-Abrechnung: Augen, Stiche, Skat an den letzten Stich, Bockspiel doppelt",
+    "before": "changes/2026-10-28-skat-kneipenregeln/08-before-skpub-ramsch-result-1280x800.webp",
+    "after": "changes/2026-10-28-skat-kneipenregeln/09-after-skpub-ramsch-result-444x987.webp"
+   }
+  ],
+  "sha": "dfc6c0a"
  }
 ]
