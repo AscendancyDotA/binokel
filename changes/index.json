@@ -3883,5 +3883,49 @@
    }
   ],
   "sha": "f385092"
+ },
+ {
+  "id": "kasse-mein-raum",
+  "date": "2026-10-28T21:01:03.215Z",
+  "title": "Kasse als Haupt-Reiter, Mein Raum, Einstellungen „Werbung & Taler“",
+  "text": "Neu in der Wirtshaus-App (Web, GitHub-APK, Windows): Haupt-Reiter „Kasse“ mit Mein Raum · Shop · Steinbruch · Taler · Käufe (Käufe nur, wenn ein Bezahlweg an ist). Mein Raum = dein Platz als Bild: jede Stelle antippen (Rahmen, Lampe/Spielmacher-Effekt, Wimpel, Tuch, Deckchen, Kartenrücken, Schimmer, Namensschild, Haustier, Siegesjubel), anprobieren, dann Anlegen oder Kaufen (zwei Tipps); bei Sachen, die je Spiel abweichen dürfen, „Für alle Spiele / Nur Binokel“; Listen-Ansicht für alle, denen das Bild zu viel ist. Neu: Tisch-Haustiere (Katze, Dackel, Eule, Igel). Auf dem Handy hat die Kasse einen festen Platz unten, Zuschauen ist unter „Mehr“. Einstellungen: neue Gruppe „Werbung & Taler“ (Kasse öffnen, Einwilligung mit „Alles ablehnen“ in einem Tipp, freiwillige Werbung, lustige Werbepausen, Einsätze, Belege). Die Play-App bleibt pixelgleich (14 Bilder Lobby/Profil/Einstellungen/Shop alt gegen neu verglichen: gleich bis auf die zufällige Spieler-ID). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#153",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-10-28-kasse-mein-raum/01-img-kasse-desktop-room-tryon.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/02-img-kasse-desktop-room-equipped.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/03-img-kasse-desktop-shop.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/04-img-kasse-desktop-taler.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/05-img-kasse-desktop-settings-money.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "img": "changes/2026-10-28-kasse-mein-raum/06-img-kasse-phone-room.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/07-img-kasse-phone-more.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/08-img-kasse-phone-quarry.webp"
+   },
+   {
+    "img": "changes/2026-10-28-kasse-mein-raum/09-img-kasse-phone-settings-money.webp"
+   },
+   {
+    "label": "Play-App vorher / nachher (gleich)",
+    "before": "changes/2026-10-28-kasse-mein-raum/10-before-base-phone-settings.webp",
+    "after": "changes/2026-10-28-kasse-mein-raum/11-after-new-phone-settings.webp"
+   }
+  ],
+  "sha": "79144e4"
  }
 ]
