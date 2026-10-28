@@ -3418,5 +3418,29 @@
    }
   ],
   "sha": "175d0f6"
+ },
+ {
+  "id": "gaigel-offline",
+  "date": "2026-10-28T15:39:39.294Z",
+  "title": "Entwurf: Gaigel – Regeln, Bots und Offline-Tisch (versteckt)",
+  "text": "Neues Spiel Gaigel (schwäbisches Sechsundsechzig mit dem doppelten Binokel-Blatt), nur über #games=binokel,gaigel erreichbar: Regeln in docs/rules/GAIGEL.md (württembergische Grundform nach pagat.com + Wikipedia: 2/3/4 Spieler, Kreuzgaigel, Andere Alte / Ge-Elfen / Höher hat im ersten Stich verdeckt, 20/40 erst mit Stich, Rauben mit dem Trumpf-Siebener, 101 = aus, Striche + Gigackel; Hausregeln als Schalter, Standard aus). Sechs Bot-Stufen (2 Heuristik + 4 Suche), Tisch im gemeinsamen Tischrahmen, Lobby-Karte „Im Bau“. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#150",
+  "rows": [
+   {
+    "label": "Lobby-Karte (Desktop) · Eröffnung als Vorhand (Handy, 4 Spieler)",
+    "before": "changes/2026-10-28-gaigel-offline/01-before-lobby-desk.webp",
+    "after": "changes/2026-10-28-gaigel-offline/02-after-v2-open-4-p.webp"
+   },
+   {
+    "label": "Höher hat: verdeckte Karte im ersten Stich (Desktop, Kreuzgaigel)",
+    "img": "changes/2026-10-28-gaigel-offline/03-img-down-4-d.webp"
+   },
+   {
+    "label": "Rauben mit dem Trumpf-Siebener (2 Spieler) · Spielende mit Gigackel-Spalte (Handy)",
+    "before": "changes/2026-10-28-gaigel-offline/04-before-v2-meld-2-d.webp",
+    "after": "changes/2026-10-28-gaigel-offline/05-after-roundEnd-4-p.webp"
+   }
+  ],
+  "sha": "25862d1"
  }
 ]
