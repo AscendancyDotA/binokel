@@ -1980,5 +1980,19 @@
    }
   ],
   "sha": "63bc586"
+ },
+ {
+  "id": "qa148-resigned-link",
+  "date": "2026-10-28T04:50:34.603Z",
+  "title": "Entwurf: QA-Befund – Tisch-Link nach Aufgeben",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), QA-Durchgang wirtshaus#105. Bild zum Befund oben (kein ausgelieferter Stand).",
+  "issue": "wirtshaus#113",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: nur der Hinweis unten",
+    "img": "changes/2026-10-28-qa148-resigned-link/01-img-r20-b-spec.webp"
+   }
+  ],
+  "sha": "63bc586"
  }
 ]
