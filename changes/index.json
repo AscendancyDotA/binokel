@@ -1856,5 +1856,43 @@
    }
   ],
   "sha": "f2b533c"
+ },
+ {
+  "id": "skat-entwurf",
+  "date": "2026-10-28T04:14:02.700Z",
+  "title": "Entwurf: Skat – spielbar am Tisch (Handy hochkant + Desktop)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Skat ist als versteckter Entwurf auf main (nur über GAMES_ENABLED/Vorschau erreichbar). Zu sehen: Reizen (Hand/Skat), Skat drücken, Spielansage inkl. Hand/Schneider/Ouvert, Kartenspiel mit französischem Blatt, Ergebnis je Spiel, Spielliste (Seeger-Fabian) und Spielende, jeweils links Handy 444×987, rechts Desktop 1280×800. Bots auf sechs Stufen, Kontra/Re. Offen: noch keine Online-Tisch-Oberfläche in der Lobby (Server/Protokoll sind vorbereitet), Reiz-Heuristik der Bots noch grob, kein Showcase, keine Analyse-Oberfläche.",
+  "issue": "wirtshaus#99",
+  "rows": [
+   {
+    "label": "Reizen",
+    "img": "changes/2026-10-28-skat-entwurf/01-img-combo-bid.webp"
+   },
+   {
+    "label": "Spiel ansagen",
+    "img": "changes/2026-10-28-skat-entwurf/02-img-combo-declare.webp"
+   },
+   {
+    "label": "Skat drücken",
+    "img": "changes/2026-10-28-skat-entwurf/03-img-combo-push.webp"
+   },
+   {
+    "label": "Kartenspiel",
+    "img": "changes/2026-10-28-skat-entwurf/04-img-combo-play.webp"
+   },
+   {
+    "label": "Ergebnis",
+    "img": "changes/2026-10-28-skat-entwurf/05-img-combo-result.webp"
+   },
+   {
+    "label": "Spielliste",
+    "img": "changes/2026-10-28-skat-entwurf/06-img-combo-result-list.webp"
+   },
+   {
+    "label": "Spielende",
+    "img": "changes/2026-10-28-skat-entwurf/07-img-combo-matchend.webp"
+   }
+  ],
+  "sha": "6aa14db"
  }
 ]
