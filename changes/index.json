@@ -4366,5 +4366,20 @@
    }
   ],
   "sha": "0e1d618a"
+ },
+ {
+  "id": "qa214-queuename",
+  "date": "2026-10-29T04:10:04.317Z",
+  "title": "Entwurf: Warteschlangen-Tische in deiner Sprache",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Der Server sagt nur noch, WELCHER Warteschlangen-Tisch das ist (options.queueTable = Art + Spiel, der deutsche Name bleibt als Rückfall für alte Apps); der Client baut den Titel auf Schwäbisch/Deutsch/Englisch (Kopf, Tabs, Tischliste, Wirtshaus-TV, Dialoge). Alte gespeicherte Daten ohne das Feld werden über queue + game erkannt. Tablet hochkant 800×1280, Englisch: vorher deutsch (Bild aus dem Issue), nachher „Gaigel · Queue“.",
+  "issue": "wirtshaus#163",
+  "rows": [
+   {
+    "label": "Tablet hochkant, Englisch: Tischtitel",
+    "before": "changes/2026-10-29-qa214-queuename/01-before-lena-before.webp",
+    "after": "changes/2026-10-29-qa214-queuename/02-after-title-after-en-800x1280-s1-gaigel.webp"
+   }
+  ],
+  "sha": "0e1d618a"
  }
 ]
