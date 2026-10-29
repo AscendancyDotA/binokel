@@ -5250,5 +5250,30 @@
    }
   ],
   "sha": "fd4b1474"
+ },
+ {
+  "id": "werbung-alle-an-250",
+  "date": "2026-10-29T23:26:24.156Z",
+  "title": "Entwurf: Erstes freiwilliges Video schaltet einmalig alle Werbung an",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Wer zum ersten Mal im Steinbruch (oder beim Booster) freiwillig ein Video startet und an den Werbe-Schaltern noch nie etwas geändert hat, sieht im Blatt vor dem Video eine Zeile: „Damit schaltest du alle Werbearten ein – einzeln abschaltbar unter Einstellungen → Werbung.“ (kein extra Tipp, kein vorangehaktes Kästchen). Sobald das Video läuft, sind Hauptschalter und alle Arten an (Lobby-Banner, Seitenbanner am Tisch, Vollbild zwischen Partien, Angebot nach der Partie, Booster, Deko) – mit den bisherigen Häufigkeiten, Vollbild höchstens jede 3. Partie. Danach der Hinweis „Alle Werbung ist jetzt an …“ mit Knopf zu den Einstellungen (springt zu „Freiwillige Werbung“). Nur einmal je Gerät: jede Hand-Änderung (auch späteres Ausschalten) verbraucht es, bisherige Spieler mit eigenen Einstellungen werden nie umgestellt. Einwilligung (UMP) und die Regeln während der Partie bleiben wie sie sind.",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Blatt vor dem Video: links Handy 444×987, rechts Desktop 1280×800",
+    "before": "changes/2026-10-29-werbung-alle-an-250/01-before-ads-phone-allon-sheet.webp",
+    "after": "changes/2026-10-29-werbung-alle-an-250/02-after-ads-desktop-allon-sheet.webp"
+   },
+   {
+    "label": "Hinweis nach dem Video mit Knopf zu den Einstellungen",
+    "before": "changes/2026-10-29-werbung-alle-an-250/03-before-ads-phone-allon-notice.webp",
+    "after": "changes/2026-10-29-werbung-alle-an-250/04-after-ads-desktop-allon-notice.webp"
+   },
+   {
+    "label": "Einstellungen → Werbung danach: alles an",
+    "before": "changes/2026-10-29-werbung-alle-an-250/05-before-ads-phone-allon-settings.webp",
+    "after": "changes/2026-10-29-werbung-alle-an-250/06-after-ads-desktop-allon-settings.webp"
+   }
+  ],
+  "sha": "378c587d"
  }
 ]
