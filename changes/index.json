@@ -4220,5 +4220,24 @@
    }
   ],
   "sha": "48e2565"
+ },
+ {
+  "id": "i211-dk-farbsoli",
+  "date": "2026-10-29T02:20:19.525Z",
+  "title": "Entwurf: Doppelkopf – Reine Farbsoli als Hausregel, Solo-Liste am Handy zweispaltig",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Geprüft: Die DDV-Soli (Kreuz-, Pik-, Herz-, Karo-Solo mit Dullen/Damen/Buben oben, Damen-, Buben-Solo, Fleischloser) waren schon da – jetzt mit Tests zur Trumpffolge festgehalten. Neu: Hausregel „Reine Farbsoli“ (nur die Farbe ist Trumpf, Ass oben) im Vorbehalt-Fenster und in der Regelhilfe; die Bots melden Soli mit neu kalibrierten Schwellen je Solo-Art (gegen die alten Schwellen +0,017 Punkte je Spiel, mit reinen Farbsoli +0,037); die Partie-Auswertung bewertet jetzt auch die Vorbehalt-Wahl. Am Handy hat die Solo-Liste zwei Spalten statt drei gequetschter. Doppelkopf ist noch versteckt.",
+  "issue": "wirtshaus#101",
+  "rows": [
+   {
+    "label": "Handy 444×987 – vorher (ohne Hausregel, drei Spalten) / nachher (mit reinen Farbsoli, zwei Spalten)",
+    "before": "changes/2026-10-29-i211-dk-farbsoli/01-before-dk-before-phone.webp",
+    "after": "changes/2026-10-29-i211-dk-farbsoli/02-after-dk-after-phone2.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – nachher",
+    "img": "changes/2026-10-29-i211-dk-farbsoli/03-img-dk-after-desk.webp"
+   }
+  ],
+  "sha": "45521cf"
  }
 ]
