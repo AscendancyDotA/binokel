@@ -4949,5 +4949,24 @@
    }
   ],
   "sha": "34ed3153"
+ },
+ {
+  "id": "item235-schocken-bestguess",
+  "date": "2026-10-29T14:06:52.250Z",
+  "title": "Entwurf: Schocken – Best Guess der Regeln (6→1, Herausgelegte bleiben, General über Schock 2)",
+  "text": "Neue Standardwerte am Tisch und auf der Lobby-Karte; die Tisch-Schilder nennen nur noch Abweichungen. Vorher = gleiche Ansicht mit den alten Werten (alle drei aus). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "rows": [
+   {
+    "label": "Lobby-Karte Handy 444×987",
+    "before": "changes/2026-10-29-item235-schocken-bestguess/01-before-01-before-sc-lobby-phone.webp",
+    "after": "changes/2026-10-29-item235-schocken-bestguess/02-after-02-after-sc-lobby-phone.webp"
+   },
+   {
+    "label": "Tisch Desktop 1280×800: Schilder",
+    "before": "changes/2026-10-29-item235-schocken-bestguess/03-before-03-before-sc-table-desk.webp",
+    "after": "changes/2026-10-29-item235-schocken-bestguess/04-after-04-after-sc-table-desk.webp"
+   }
+  ],
+  "sha": "b9a35734"
  }
 ]
