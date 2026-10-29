@@ -4381,5 +4381,27 @@
    }
   ],
   "sha": "0e1d618a"
+ },
+ {
+  "id": "icons216",
+  "date": "2026-10-29T04:30:09.174Z",
+  "title": "Entwurf: Symbole, Store-Grafiken und Bilder aller Wirtshaus-Apps",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 216 – alles nur Entwurf, nichts hochgeladen, nichts veröffentlicht.\n\n**Neu:** Marke, Symbol und Store-Entwurf für alle Einzel-Apps im Wirtshaus-Stil (eigene Vektorzeichnungen, kein fremdes Bildmaterial): Skat, Doppelkopf, Schafkopf, Gaigel, Vier in einer Reihe (Holzbrett mit Bierdeckeln, kein blauer Rahmen / keine rot-gelben Scheiben), Fünf Würfel (Holzwürfel) und Lupfen (nur Spielchips, ohne Werte). Jede App hat eine eigene Farbe, damit sie auf dem Startbildschirm auseinanderzuhalten sind. Unter dem Symbol steht der Spielname (Vier: „Vier in Reihe“, Würfel: „Fünf Würfel“), der Store-Titel ist „<Spiel> Wirtshaus“ (alle ≤ 30 Zeichen, längster: „Vier in einer Reihe Wirtshaus“ = 29).\n\n**Wo:** Symbole/Grafiken `design/logo/<app>/` (+ `store/`: Play-Symbol 512, Vorstellungsgrafik 1024×500 de/en), Android-Ressourcen `apps/mobile/android/app/src/brand-<app>/`, Texte `docs/play/<app>/listing-{de,en}.md`, Register `apps/mobile/scripts/apps.ts`. Übersicht jederzeit: `bun tools/icon-sheet.ts`.\n\n**Sammel-App-Bilder** zeigen jetzt mehrere Spiele (Auswahl, Binokel, Schnapsen, Skat, Doppelkopf, Fünf Würfel, Vier in einer Reihe; Entwurf mit freigegebenen Spielen, die 🚧-Marker sind in den Bildern ausgeblendet). Schnapsen-Bilder: der Chat redet von Schnapsen statt „an Dreier“. „Fair und ohne Druck“ ist für den Build mit freiwilliger Werbung + Taler-Kauf neu gefasst (Taler ohne Geldwert, nie ausgezahlt, gekaufte Taler nur für Schmuck ohne Spielvorteil).\n\n**GitHub-APK:** ist jetzt die Sammel-App „Wirtshaus“ (`io.github.ascendancydota.wirtshaus`, Datei `wirtshaus.apk`); die alte Binokel-GitHub-App zeigt einmalig „Wirtshaus – neue App, hier laden“ mit dem Release-Link, das Konto kommt per Google/Konto-Code mit. Nach dem Release: `bun tools/public-readme-downloads.ts --publish` (öffentliches README).\n\n**Lokal gebaut + geprüft (AAB, Release-Schlüssel, Paket + Name im Bundle geprüft, versionCode 822):** Skat 9,3 MB · Doppelkopf 9,3 · Schafkopf 9,3 · Gaigel 9,3 · Vier 9,3 · Würfel 9,4 · Lupfen 9,2 · Wirtshaus 9,4 · Schnapsen 9,3 · Binokel 12,7; dazu die GitHub-APK der Sammel-App (13,2 MB, mit Werbe-SDK wie bisher).\n\n**Fund:** Am 405-px-Handy überdeckt der Knopf „Aufgeben“ am Schnapsen-Tisch den Trumpf-Chip (`.portrait .sn-giveup`) – in den Store-Bildern ausgeblendet, im Spiel noch nicht behoben.",
+  "issue": "wirtshaus#64",
+  "rows": [
+   {
+    "label": "Alle App-Symbole (rund, abgerundet, klein, Schild)",
+    "img": "changes/2026-10-29-icons216/01-img-app-icons.webp"
+   },
+   {
+    "label": "Vorstellungsgrafiken (de)",
+    "img": "changes/2026-10-29-icons216/02-img-feat-all.webp"
+   },
+   {
+    "label": "Sammel-App: Handy-Bilder mit mehreren Spielen (de)",
+    "img": "changes/2026-10-29-icons216/03-img-hub-de.webp"
+   }
+  ],
+  "sha": "f58b20a1"
  }
 ]
