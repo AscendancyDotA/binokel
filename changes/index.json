@@ -4678,5 +4678,35 @@
    }
   ],
   "sha": "b32ddfae"
+ },
+ {
+  "id": "schocken-entwurf-online",
+  "date": "2026-10-29T09:40:31.034Z",
+  "title": "Entwurf: Schocken online – Aufdecken, Partie-Ende, Auswertung, Tisch eröffnen",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Browser-e2e mit zwei Spielern (Desktop + Handy) und einem Zuschauer, der nie einen verdeckten Würfel sah. Aufdeck-Fenster nach jeder Runde (wer nimmt wie viele Deckel, von wo), Partie-Ende mit Blattschuss/Finale-Text und Wertung, Partie analysieren, Tisch-Dialog.",
+  "issue": "wirtshaus#180",
+  "rows": [
+   {
+    "label": "Aufdecken nach der Runde",
+    "img": "changes/2026-10-29-schocken-entwurf-online/01-img-sc-online-A-next.webp"
+   },
+   {
+    "label": "Partie-Ende (Wertung schocken:p2)",
+    "img": "changes/2026-10-29-schocken-entwurf-online/02-img-sc-online-matchend.webp"
+   },
+   {
+    "label": "Wiederholung + Auswertung",
+    "img": "changes/2026-10-29-schocken-entwurf-online/03-img-sc-online-analysis.webp"
+   },
+   {
+    "label": "Tisch eröffnen (online)",
+    "img": "changes/2026-10-29-schocken-entwurf-online/04-img-sc-online-create.webp"
+   },
+   {
+    "label": "Zuschauer-Sicht: nur die herausgelegten Würfel",
+    "img": "changes/2026-10-29-schocken-entwurf-online/05-img-sc-online-spectator.webp"
+   }
+  ],
+  "sha": "b32ddfae"
  }
 ]
