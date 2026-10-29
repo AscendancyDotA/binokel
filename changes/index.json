@@ -4239,5 +4239,29 @@
    }
   ],
   "sha": "45521cf"
+ },
+ {
+  "id": "item207-app-flavors",
+  "date": "2026-10-29T02:21:25.248Z",
+  "title": "Entwurf: Sammel-App „Wirtshaus“ und Einzel-App „Schnapsen Wirtshaus“ als eigene Android-Apps",
+  "text": "Aus demselben Code entstehen jetzt mehrere Play-Apps: `cd apps/mobile && bun run aab --app wirtshaus` (Paket io.github.ascendancydota.wirtshaus, Name „Wirtshaus“) und `bun run aab --app schnapsen` (io.github.ascendancydota.schnapsen, Name „Schnapsen“, startet direkt in Schnapsen, eigenes Symbol). Beide AABs sind lokal gebaut, signiert und vom Inhalts-Check geprüft (Paket + Name); hochgeladen wurde nichts. Der Server erkennt jede Einzel-App (kein Spiel im Bau, „Weitere Spiele“ mit Binokel), prüft Käufe mit dem Paket der kaufenden App, kennt AdMob-IDs und PLAY_MIN_BUILD je App; gekaufte Taler bleiben in der Kauf-App (Play-Sammel-App = eigener Topf), Schalter TALER_ONE_TITLE=1 macht nach Googles Antwort einen Titel daraus. Die Binokel-App bleibt unverändert: Vorher/Nachher unten pixelgleich bis auf Animations-Rauschen (Kontrolllauf zeigt dasselbe). Store-Texte: docs/play/wirtshaus/ und docs/play/schnapsen/ (Entwürfe, mit Screenshots). Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#64",
+  "rows": [
+   {
+    "label": "Schnapsen-App: Start (Handy)",
+    "img": "changes/2026-10-29-item207-app-flavors/01-img-sn-start-444x987.webp"
+   },
+   {
+    "label": "Schnapsen-App: Spielen (Handy) · Tisch (Desktop)",
+    "before": "changes/2026-10-29-item207-app-flavors/02-before-sn-lobby-444x987.webp",
+    "after": "changes/2026-10-29-item207-app-flavors/03-after-sn-table-1280x800.webp"
+   },
+   {
+    "label": "Binokel-App vorher / nachher (unverändert)",
+    "before": "changes/2026-10-29-item207-app-flavors/04-before-bkbefore-table-444x987.webp",
+    "after": "changes/2026-10-29-item207-app-flavors/05-after-bkafter-table-444x987.webp"
+   }
+  ],
+  "sha": "e582c82"
  }
 ]
