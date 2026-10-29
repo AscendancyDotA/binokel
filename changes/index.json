@@ -4068,5 +4068,23 @@
    }
   ],
   "sha": "e89a459"
+ },
+ {
+  "id": "i211-lupfen-frist",
+  "date": "2026-10-29T01:53:15.900Z",
+  "title": "Entwurf: Lupfen – gemeinsame Frist bei der Abstimmung, Sofort-Auszahlung beim Verlassen, Sperren ohne Verraten",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). (1) Am Taler-Tisch bekommt, wer bei der Abstimmung „Tisch verlassen“ wählt, seinen Stapel SOFORT gutgeschrieben (Geldbörse: „Vom Tisch mitgenommen“), nicht erst beim Tischende – doppelt gebucht wird nie, auch nach einem Server-Neustart nicht. (2) Abstimmung und Sperren-Frage haben online eine gemeinsame Frist für alle (Abstimmung 45 s, Sperren 20 s), im Fenster als „noch N s“; wer nicht antwortet, für den antwortet der Autopilot; Bots warten nicht mehr auf den ersten Wähler. (3) Sperren-Antworten kommen alle zusammen (frühestens nach 4 s) – niemand sieht, wer wann antwortet; ein Server-Test spielt echte Runden mit einem Menschen und prüft das. (4) Die starken Bots entscheiden das Sperren jetzt nach Erwartungswert (Messung in docs/rules/LUPFEN.md). Lupfen ist noch versteckt.",
+  "issue": "wirtshaus#157",
+  "rows": [
+   {
+    "label": "Online-Abstimmung, Desktop 1280×800 (unten: „noch 45 s“)",
+    "img": "changes/2026-10-29-i211-lupfen-frist/01-img-online-A-vote-decide-0.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987",
+    "img": "changes/2026-10-29-i211-lupfen-frist/02-img-online-B-vote-decide-0.webp"
+   }
+  ],
+  "sha": "7600281"
  }
 ]
