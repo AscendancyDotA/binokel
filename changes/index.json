@@ -4176,5 +4176,49 @@
    }
   ],
   "sha": "8810b2d"
+ },
+ {
+  "id": "pets-polish-210",
+  "date": "2026-10-29T02:14:39.830Z",
+  "title": "Entwurf: Haustiere – Feinschliff",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Tischhaustiere – (1) am Spielende hüpfen die Tiere der Gewinner, alle anderen setzen sich traurig hin (alle Spiele); (2) Würfel: jedes Tier hat jetzt einen echten Platz auf der Oberkante des Blocks unter dem Bild seines Platzes (vorher meist nur 🐾; der Streifen entsteht nur, wenn ein Tier am Tisch ist); (3) Platz neben dem Bild: sind Name und Bildschirmrand auf den zwei Seiten, sitzt das Tier neben dem Namen statt darüber/darunter; (4) im geführten Lernspiel (Binokel, Schnapsen) gibt es keine Tiere; (5) neuer Haken je Spiel (petSpot am Tischrahmen); (6) in der Werbepause steht das Tier genau an seinem Platz auf und läuft von dort auf den Weg. e2e: tools/e2e-pets202.mjs (sitzende Tiere: Aufsitzen, Hüpfer, Gewinner-Hüpfer, Hinsetzen), tools/e2e-kasse.mjs (Parade), tools/e2e-banner203.mjs (Banner-Besuch deterministisch).",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Würfel Desktop 1280×800",
+    "before": "changes/2026-10-29-pets-polish-210/01-before-s202-pets-wuerfel6-desktop.webp",
+    "after": "changes/2026-10-29-pets-polish-210/02-after-s202-pets-wuerfel6-desktop.webp"
+   },
+   {
+    "label": "Würfel Handy 444×987",
+    "before": "changes/2026-10-29-pets-polish-210/03-before-s202-pets-wuerfel6-phone.webp",
+    "after": "changes/2026-10-29-pets-polish-210/04-after-s202-pets-wuerfel6-phone.webp"
+   },
+   {
+    "label": "Binokel Handy quer",
+    "before": "changes/2026-10-29-pets-polish-210/05-before-s202-pets-binokel4-landscape.webp",
+    "after": "changes/2026-10-29-pets-polish-210/06-after-s202-pets-binokel4-landscape.webp"
+   },
+   {
+    "label": "Schnapsen Handy",
+    "before": "changes/2026-10-29-pets-polish-210/07-before-s202-pets-schnapsen-phone.webp",
+    "after": "changes/2026-10-29-pets-polish-210/08-after-s202-pets-schnapsen-phone.webp"
+   },
+   {
+    "label": "Doppelkopf Desktop",
+    "before": "changes/2026-10-29-pets-polish-210/09-before-s202-pets-doppelkopf-desktop.webp",
+    "after": "changes/2026-10-29-pets-polish-210/10-after-s202-pets-doppelkopf-desktop.webp"
+   },
+   {
+    "label": "Neu: Spielende – Gewinner hüpfen, die anderen sitzen traurig",
+    "img": "changes/2026-10-29-pets-polish-210/11-img-s210-pets-matchend-desktop.webp"
+   },
+   {
+    "label": "Neu: Werbepause – das Tier steht an seinem Platz auf (links) und läuft los (rechts)",
+    "before": "changes/2026-10-29-pets-polish-210/12-before-adfun-desktop-parade-start.webp",
+    "after": "changes/2026-10-29-pets-polish-210/13-after-adfun-desktop-parade-walk.webp"
+   }
+  ],
+  "sha": "48e2565"
  }
 ]
