@@ -4761,5 +4761,20 @@
    }
   ],
   "sha": "d88eeb63"
+ },
+ {
+  "id": "release228-vier-chip",
+  "date": "2026-10-29T10:11:57.663Z",
+  "title": "Vier in einer Reihe: kein „Gemischt“-Chip mehr am Brett",
+  "text": "Freigabe-Check der versteckten Spiele: Oben am Online-Brett von „Vier in einer Reihe“ stand „Gemischt …“ mit Fingerabdruck – ein Brettspiel mischt nichts, und nachprüfen ließ es sich auch nicht. Der Chip ist für Spiele ohne Zufall jetzt weg (Kartenspiele und Würfel behalten ihn). Im selben Check: Bot-Sprüche ohne Dabb/Reizen bei allen anderen Spielen, Spielnamen in deiner Sprache bei mehreren Tischen/Liga/Kasse/Shop, „Fair“-Abschnitt in der Regelhilfe von Schafkopf und Gaigel. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#172",
+  "rows": [
+   {
+    "label": "Freigabe-Check",
+    "before": "changes/2026-10-29-release228-vier-chip/01-before-vier-online-desk.webp",
+    "after": "changes/2026-10-29-release228-vier-chip/02-after-vier-online-desk.webp"
+   }
+  ],
+  "sha": "adf3c4d5"
  }
 ]
