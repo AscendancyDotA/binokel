@@ -4499,5 +4499,52 @@
    }
   ],
   "sha": "8f517db9"
+ },
+ {
+  "id": "xr1-online-vr-222",
+  "date": "2026-10-29T09:23:17.840Z",
+  "title": "Entwurf: VR am Online-Tisch – ganze Binokel- und Schnapsen-Partie (XR-1)",
+  "text": "Was: Am Online-Tisch (Binokel und Schnapsen) gibt es oben einen Knopf „🥽 VR“ – aber nur, wenn der Server XR_ENABLED=1 hat und der Browser VR kann (Quest-Browser). Er setzt dich mit derselben Verbindung (Chat, Sprache laufen weiter) an den Wirtshaustisch in VR: Mitspieler als Figuren mit ihren Namen, Karten mit dem Controller-Strahl oder den Fingern (Pinch) auf den Tisch werfen, Tafeln für Reizen, Dabb, Melden, 20/40, Tauschen, Zudrehen, 66 (bleibt neutral, bis es stimmt). Menü „Zurück zum 2D-Tisch“ – die Partie läuft einfach weiter. Ohne Schalter sieht der 2D-Tisch aus wie bisher (auch in der Play-App). Getestet ohne Brille mit Metas Emulator IWER (emuliertes Quest 3): eine ganze Binokel-Partie (4 Runden, Controller) und ein ganzes Schnapsen-Bummerl (Hand-Tracking). Auf der echten Brille noch nicht geprüft. Fahrplan mit Meilensteinen XR-1…7: docs/XR-PLAN.md (https://github.com/AscendancyDotA/binokel-wirtshaus/blob/main/docs/XR-PLAN.md). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#156",
+  "rows": [
+   {
+    "label": "2D-Tisch: ohne XR_ENABLED (links) / mit XR_ENABLED + VR-Browser: Knopf „VR“ oben (rechts)",
+    "before": "changes/2026-10-29-xr1-online-vr-222/01-before-xr1-2d-xr-off.webp",
+    "after": "changes/2026-10-29-xr1-online-vr-222/02-after-xr1-2d-chip.webp"
+   },
+   {
+    "label": "Binokel in VR: Reizen",
+    "img": "changes/2026-10-29-xr1-online-vr-222/03-img-xr1-binokel-bidding.webp"
+   },
+   {
+    "label": "Dabb: Karten antippen, Trumpf wählen, ansagen",
+    "img": "changes/2026-10-29-xr1-online-vr-222/04-img-xr1-binokel-dabb.webp"
+   },
+   {
+    "label": "Falsche Karte geworfen: Grund über der Hand",
+    "img": "changes/2026-10-29-xr1-online-vr-222/05-img-xr1-binokel-refused.webp"
+   },
+   {
+    "label": "„Zurück zum 2D-Tisch“ mitten in der Partie – sie läuft weiter",
+    "img": "changes/2026-10-29-xr1-online-vr-222/06-img-xr1-binokel-back-2d.webp"
+   },
+   {
+    "label": "Binokel: Partie-Ende in VR",
+    "img": "changes/2026-10-29-xr1-online-vr-222/07-img-xr1-binokel-matchend.webp"
+   },
+   {
+    "label": "Schnapsen in VR (Hand-Tracking): 20 ansagen – König/Ober heben sich, Talon mit Trumpf links",
+    "img": "changes/2026-10-29-xr1-online-vr-222/08-img-xr1-schnapsen-meld.webp"
+   },
+   {
+    "label": "Schnapsen: Rundenende",
+    "img": "changes/2026-10-29-xr1-online-vr-222/09-img-xr1-schnapsen-roundend.webp"
+   },
+   {
+    "label": "Schnapsen: Bummerl vorbei → zurück zum 2D-Tisch",
+    "img": "changes/2026-10-29-xr1-online-vr-222/10-img-xr1-schnapsen-2d-matchend.webp"
+   }
+  ],
+  "sha": "4c978b7c"
  }
 ]
