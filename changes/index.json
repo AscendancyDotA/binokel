@@ -4815,5 +4815,20 @@
    }
   ],
   "sha": "9e369481"
+ },
+ {
+  "id": "i227-78-2x2",
+  "date": "2026-10-29T10:43:12.205Z",
+  "title": "Entwurf: 2 × 2 auf kleinen Laptops – Reizfeld deckt den Dabb nicht mehr",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 227: Geprüft wurde 1366 × 768 mit vier Tischen (jeder 675 × 353) über alle Spiele (Binokel 3er/4er, Schnapsen, Skat, Doppelkopf, Schafkopf, Gaigel, Vier in Reihe, Würfel, Lupfen) in allen drei Skins. Fund: Das Binokel-Reizfeld lag über dem Dabb (und über den Weg-Marken der Nachbarn); das Dabb-Feld ließ die Info-Pillen dahinter durchscheinen. Behoben nur für kleine Rahmen (Container-Abfrage, Einzeltisch unverändert): Reizfeld flacher und tiefer, Dabb bleibt sichtbar. Alle anderen Spiele: keine Überdeckung von Karten/Knöpfen gefunden (Prüfskript: bun tools/e2e-split78.mjs). Offen: die kleine Beschriftung „Dabb“ unter den Karten liegt weiter hinter dem Reizfeld.",
+  "issue": "wirtshaus#78",
+  "rows": [
+   {
+    "label": "QA / 2×2 klein",
+    "before": "changes/2026-10-29-i227-78-2x2/01-before-s78-a-wirtshaus-1366x768.webp",
+    "after": "changes/2026-10-29-i227-78-2x2/02-after-s78-a-wirtshaus-1366x768.webp"
+   }
+  ],
+  "sha": "b85c73b9"
  }
 ]
