@@ -4282,5 +4282,24 @@
    }
   ],
   "sha": "4953747"
+ },
+ {
+  "id": "item209-android-seitenbanner",
+  "date": "2026-10-29T02:39:55.443Z",
+  "title": "Android-App: freiwilliges Seitenbanner am Tisch",
+  "text": "Was: In der Android-App gibt es das freiwillige Seitenbanner am Tisch jetzt auch (bisher nur im Browser). Wo: am Tisch während der Partie, nur wenn „Freiwillige Werbung“ und „Seitenbanner am Tisch“ eingeschaltet sind. Warum/wie: Das AdMob-Plugin kann Banner nur oben/unten über die App legen. Jetzt macht das Spielfeld wie im Web Platz (quer: Spalte rechts/links, hochkant: Streifen oben/unten), und ein eigenes kleines Plugin legt die Google-Anzeige genau in diesen Platz – nie auf Karten, Hand, Plätze oder Knöpfe. ✕ blendet es für die Partie aus. Geprüft auf dem Android-Emulator mit Google-Testanzeigen: hochkant und quer je 4 Messungen, nichts vom Spiel unter der Anzeige (tools/emu-banner209.ts). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Hochkant (Streifen oben, adaptives Banner)",
+    "img": "changes/2026-10-29-item209-android-seitenbanner/01-img-e209-portrait-s.webp"
+   },
+   {
+    "label": "Quer: vorher (✕ gedrückt) / nachher (Spalte rechts)",
+    "before": "changes/2026-10-29-item209-android-seitenbanner/02-before-e209-closed-s.webp",
+    "after": "changes/2026-10-29-item209-android-seitenbanner/03-after-e209-landscape-s.webp"
+   }
+  ],
+  "sha": "7876c42e"
  }
 ]
