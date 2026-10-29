@@ -4301,5 +4301,27 @@
    }
   ],
   "sha": "7876c42e"
+ },
+ {
+  "id": "i215-tip-verified",
+  "date": "2026-10-29T03:52:03.406Z",
+  "title": "Trinkgeld-Taler nur von bestätigten Tippern",
+  "text": "Was: Ein Lob-Spruch (Trinkgeld) bringt dem Gelobten nur noch Taler, wenn der Lobende mit Google angemeldet ist oder schon 5 gewertete Partien gespielt hat (oder 40 Taler aus Spielzeit) – dieselbe Regel wie bei den Geschenk-Talern. Wo: am Tisch über das Schnell-Chat-Rad. Warum: Wegwerf-Gäste auf immer neuen IPs konnten sich gegenseitig Taler zuschieben (S-15). Loben darf jeder weiter, der Spruch kommt an; ein neuer Gast sieht einmal den Hinweis „Trinkgeld-Taler gibt's, sobald du 5 Partien gespielt hast“. Konto-Code zählt nicht als Bestätigung (den kann jeder Gast gratis erzeugen). Schalter TIP_TIPPER_MIN_GAMES (Standard 5, 0 = aus), alle bisherigen Grenzen bleiben. Angriffstest apps/server/test/tips161.test.ts. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#161",
+  "rows": [
+   {
+    "label": "Handy 444×987: neuer Gast lobt – Hinweis statt Taler",
+    "img": "changes/2026-10-29-i215-tip-verified/01-img-s215-tip-unverified-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800: der Gelobte sieht das Prost, ohne „+5“-Zeile",
+    "img": "changes/2026-10-29-i215-tip-verified/02-img-s215-tip-unverified-received-desktop.webp"
+   },
+   {
+    "label": "Zum Vergleich: bestätigter Tipper – „🍻 +5 von …“",
+    "img": "changes/2026-10-29-i215-tip-verified/03-img-s183-tip-received-desktop.webp"
+   }
+  ],
+  "sha": "fcc93a63"
  }
 ]
