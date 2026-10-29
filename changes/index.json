@@ -4708,5 +4708,34 @@
    }
   ],
   "sha": "b32ddfae"
+ },
+ {
+  "id": "mm225-draft",
+  "date": "2026-10-29T09:41:32.917Z",
+  "title": "Entwurf: Mau-Mau (versteckt, 🚧)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Mau-Mau für 2–5 Spieler am Tisch – offline gegen Bots, Handy hochkant und Desktop. Nur mit Entwickler-Hash sichtbar.",
+  "issue": "wirtshaus#179",
+  "rows": [
+   {
+    "label": "Handy: dein Zug / 7-Strafe",
+    "before": "changes/2026-10-29-mm225-draft/01-before-mm-play-p.webp",
+    "after": "changes/2026-10-29-mm225-draft/02-after-mm-seven-p.webp"
+   },
+   {
+    "label": "Handy: Wunschfarbe nach dem Buben / Rundenende",
+    "before": "changes/2026-10-29-mm225-draft/03-before-mm-wish-p.webp",
+    "after": "changes/2026-10-29-mm225-draft/04-after-mm-roundend-p.webp"
+   },
+   {
+    "label": "Desktop: 4 Spieler / 5 Spieler",
+    "before": "changes/2026-10-29-mm225-draft/05-before-mm-play-d.webp",
+    "after": "changes/2026-10-29-mm225-draft/06-after-mm-five2-d.webp"
+   },
+   {
+    "label": "Handy: 5 Spieler mit Strafe (nach Korrektur)",
+    "img": "changes/2026-10-29-mm225-draft/07-img-mm-five5-p.webp"
+   }
+  ],
+  "sha": "d88eeb63"
  }
 ]
