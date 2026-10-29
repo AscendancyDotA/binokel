@@ -4403,5 +4403,27 @@
    }
   ],
   "sha": "f58b20a1"
+ },
+ {
+  "id": "item217-msstore-galaxy",
+  "date": "2026-10-29T04:30:54.915Z",
+  "title": "Entwurf: Windows-App für den Microsoft Store (MSIX) + Android-App für den Galaxy Store",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium), Item 217. Gebaut, nichts eingereicht. (1) Microsoft Store: 'cd apps/desktop && bun run msix' baut die Windows-App als MSIX (Kanal msstore). Laut Store-Richtlinie 10.8.1 müssen Spiele Käufe über Microsoft abwickeln – darum hat diese Ausgabe keinen Taler-Kauf/Stripe, keinen Update-Hinweis, keine Download-Links und kein 'ins Startmenü'-Angebot; gekaufte Taler bleiben ausgebbar. Lokal mit Testzertifikat installiert, gestartet, Bot-Partie bis zum Ende gespielt (Bilder unten, 1366×768 = Microsofts Mindestgröße für Store-Bilder). (2) Galaxy Store: 'cd apps/mobile && bun run apk --channel galaxy' baut die Wirtshaus-App mit eigenem Paket …wirtshaus.galaxy, ohne Werbe-SDK und Play Billing; Prüfung grün. Server-Schalter je Store (STAKES_/ADS_/SHOP_GALAXY|MSSTORE, PURCHASES_GALAXY) stehen auf sicher (Einsätze/Werbung/Kauf aus). Deine Schritte (Konten, kostenlos): docs/HUMAN-TODO.md; Details + Quellen: docs/MSSTORE.md, docs/GALAXY.md, PLAY-PLAN §5.14/§5.15.",
+  "issue": "wirtshaus#64",
+  "rows": [
+   {
+    "label": "Microsoft-Store-Ausgabe: Lobby (installiertes MSIX)",
+    "img": "changes/2026-10-29-item217-msstore-galaxy/01-img-msstore-1366-lobby-de.webp"
+   },
+   {
+    "label": "Tisch",
+    "img": "changes/2026-10-29-item217-msstore-galaxy/02-img-msstore-1366-table-de.webp"
+   },
+   {
+    "label": "Bot-Partie im installierten MSIX bis zum Ende",
+    "img": "changes/2026-10-29-item217-msstore-galaxy/03-img-msix-botmatch.webp"
+   }
+  ],
+  "sha": "360504ad"
  }
 ]
