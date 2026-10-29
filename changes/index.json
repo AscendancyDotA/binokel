@@ -4596,5 +4596,65 @@
    }
   ],
   "sha": "9e2e7833"
+ },
+ {
+  "id": "item224-bauernschnapsen",
+  "date": "2026-10-29T09:37:07.191Z",
+  "title": "Bauernschnapsen (Entwurf, versteckt): Tisch, Ansagen, Online, Analyse",
+  "text": "Neues verstecktes Spiel Bauernschnapsen (🚧, #games=binokel,bauernschnapsen). Handy 444×987 und Desktop 1280×800 in den Phasen Trumpf ansagen, Ansagen, Kontra, Ausspielen, Bettler (Partner setzt aus), Abrechnung; dazu Lobby, Wirtshaus-TV, Zuschauer und Analyse aus dem e2e. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#175",
+  "rows": [
+   {
+    "label": "Trumpf ansagen",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/01-before-call-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/02-after-call-desk.webp"
+   },
+   {
+    "label": "Ansagen",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/03-before-bid-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/04-after-bid-desk.webp"
+   },
+   {
+    "label": "Kontra",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/05-before-kontra-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/06-after-kontra-desk.webp"
+   },
+   {
+    "label": "Stich + 20/40",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/07-before-follow-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/08-after-meld-desk.webp"
+   },
+   {
+    "label": "Bettler (Partner setzt aus)",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/09-before-bettler-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/10-after-bettler-desk.webp"
+   },
+   {
+    "label": "Spielabrechnung / Bummerl",
+    "before": "changes/2026-10-29-item224-bauernschnapsen/11-before-roundEnd-phone.webp",
+    "after": "changes/2026-10-29-item224-bauernschnapsen/12-after-matchEnd-desk.webp"
+   },
+   {
+    "label": "Lobby-Karte",
+    "img": "changes/2026-10-29-item224-bauernschnapsen/13-img-lobby-desk.webp"
+   },
+   {
+    "label": "Online: Tischliste (Handy)",
+    "img": "changes/2026-10-29-item224-bauernschnapsen/14-img-online-tablelist.webp"
+   },
+   {
+    "label": "Wirtshaus-TV",
+    "img": "changes/2026-10-29-item224-bauernschnapsen/15-img-online-tv-mini.webp"
+   },
+   {
+    "label": "Zuschauer (keine Handkarten)",
+    "img": "changes/2026-10-29-item224-bauernschnapsen/16-img-online-spectator.webp"
+   },
+   {
+    "label": "Partie analysieren",
+    "img": "changes/2026-10-29-item224-bauernschnapsen/17-img-online-analysis.webp"
+   }
+  ],
+  "sha": "d89c8aa9"
  }
 ]
