@@ -4925,5 +4925,29 @@
    }
   ],
   "sha": "591cc5a0"
+ },
+ {
+  "id": "i233-coldstart",
+  "date": "2026-10-29T12:58:09.160Z",
+  "title": "Entwurf: Schneller Start auf schwachen Handys, Binokel-Tisch, 2×2-Reste",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium), Item 233, auf main ab 34ed3153. **Was:** (1) Start: Das Startpaket war in ~100 Skript- und 30 Stylesheet-Dateien zerlegt – jetzt ein Skript + ein Stylesheet; die Doppelkopf-Engine samt Bots hing über die Lobby-Minis im Startpaket (raus); der Service-Worker lädt beim ersten Besuch erst 5 s nach dem Laden und nur 4 Dateien gleichzeitig (vorher ~400 auf einmal, genau während man auf „Spielen“ tippt); bei Updates übernimmt er unveränderte Dateien aus dem alten Speicher statt sie neu zu laden. (2) Binokel-Tisch: die Feld-Platzierung hat nach jedem Neuzeichnen das ganze Layout ausgemessen, auch ohne offenes Feld (größte JS-Selbstzeit im Profil) – jetzt nur bei offenem Feld; auf schwachen Handys merkt sich der Stichflug die Platz-Positionen bis zur nächsten Größenänderung. (3) 2×2 klein: Bilder unten. **Aussehen unverändert** (normale Stufe): Lobby + alle Reiter 12/12 Bilder pixelgleich (Web und Play-Binokel, Handy 444×987 + Desktop 1280×800); berechnete Styles aller Elemente in 10 Zuständen × 2 Varianten gleich (einziger Unterschied: Breite des zufälligen Gastnamens, auch im Kontrolllauf); Tisch-Sweep 94/123 gleich, Rest Animationsrauschen (22 auch im Kontrolllauf, von 7 weiteren sind 4 beim Wiederholen gleich, 3 haben 1–3 Farbstufen an Pillen-/Kartenkanten).\n\n| Messung | vorher | nachher |\n|---|---|---|\n| Dateien im Start (index.html) | 133 (103 JS, 30 CSS) | 2 (1 JS, 1 CSS) |\n| Startpaket gzip | 543 KB | 465 KB |\n| Edge, CPU 6× + Slow 4G (150 ms, 1,6 Mbit/s), Median 5 Läufe – erste Anzeige | 7,0 s | 4,6 s |\n| … erster Knopf | 7,0 s | 4,6 s |\n| … DOMContentLoaded | 5,8 s | 3,6 s |\n| … ruhig (TTI ca.) | 8,4 s | 5,6 s |\n| … Anfragen bis erster Knopf | 149 (109 JS, 32 CSS) | 18 (7 JS, 3 CSS) |\n| … übertragen bis erster Knopf | 5,2 MB (Service-Worker lädt schon mit) | 0,5 MB |\n| Emulator i233 = i227-a14go-720, APK, 2 Läufe – erste Anzeige | 7,8 / 5,1 s | 13,6 / 5,1 s |\n| … erster Knopf | 14,4 / 8,4 s | 18,8 / 11,1 s |\n| … Dateien beim Start | 153–156 | 23–25 |\n| Binokel-Tisch, Edge CPU 4×, 30 s Bot-Partie – Hauptthread belegt | 18,8 / 18,7 s | 17,5 / 15,0 s |\n| … Feld-Platzierung (Selbstzeit) | ≈ 2,0 s | ≈ 0 s |\n| … Stichflug-Messung, schwache Stufe | 2,5 s | 0,7 s |\n\n**Ehrlich:** Im Browser über Netz ist der Gewinn klar (−35 % bis zum ersten Knopf). In der APK liegen die Dateien auf dem Handy – dort zählt die Dateianzahl kaum, und der Emulator schwankt um Faktor 2 (Box ausgelastet): in 2 Läufen keine messbare Verbesserung, im ruhigeren Lauf gleiche erste Anzeige (5,1 s). Die Bildrate im Emulator (11,6/s) ist nicht neu gemessen. Kritisches CSS wurde nicht ins HTML eingebettet (ein Stylesheet statt 30 reicht; Einbetten hätte das HTML um 60 KB vergrößert). Werkzeuge: tools/coldstart233.mjs (Start), tools/tableprof233.mjs (Tisch-Profil).",
+  "issue": "wirtshaus#105",
+  "rows": [
+   {
+    "label": "2×2 klein (675×353), 3er Reizen: „Gsteigert“-Pille lief unter die Sprechblase, „Dabb“ schimmerte durchs Reizfeld",
+    "before": "changes/2026-10-29-i233-coldstart/01-before-cur-a-wirtshaus-1366x768-t0.webp",
+    "after": "changes/2026-10-29-i233-coldstart/02-after-final-a-wirtshaus-1366x768-t0.webp"
+   },
+   {
+    "label": "2×2 klein, Drücken mit „Gebot nicht zu schaffen“: Ansage-Knopf war unter dem Rand, jetzt sichtbar (Hinweis einzeilig, „Abgau“-Reiter direkt darüber)",
+    "before": "changes/2026-10-29-i233-coldstart/03-before-cur-a-wirtshaus-1366x768-t2.webp",
+    "after": "changes/2026-10-29-i233-coldstart/04-after-final-a-wirtshaus-1366x768-t2.webp"
+   },
+   {
+    "label": "Lobby Handy 444×987 – Pixel für Pixel gleich wie vorher",
+    "img": "changes/2026-10-29-i233-coldstart/05-img-lobby-444x987.webp"
+   }
+  ],
+  "sha": "34ed3153"
  }
 ]
