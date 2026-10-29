@@ -4869,5 +4869,39 @@
    }
   ],
   "sha": "733667fa"
+ },
+ {
+  "id": "item232-comfort",
+  "date": "2026-10-29T11:09:31.588Z",
+  "title": "Entwurf: Komfort für alle versteckten Spiele – Tipps fürs erste Spiel, Tagesblatt, Wochen-Turnier, Mindesteinsatz",
+  "text": "Was: Die vier Komfort-Teile, die bisher nur Binokel und Schnapsen hatten, gibt es jetzt für alle versteckten Spiele (Skat, Doppelkopf, Schafkopf, Gaigel, Fünf Würfel, Vier in einer Reihe, Lupfen, Bauernschnapsen, Mau-Mau, Schocken) – gebaut als gemeinsamer Teil, jedes Spiel liefert nur seine Texte/Daten.\n1. Tipps fürs erste Spiel: in den ersten 3 Partien je Spiel eine Tipp-Blase am Tisch (Ziel des Spiels, je Phase ein Tipp wie Reizen/Skat aufnehmen, alle paar Züge ein allgemeiner Tipp). „Verstanden“ / „Keine Tipps mehr“. Nur Regeln und Bedienung, nie Zugempfehlungen.\n2. Tagesblatt je Spiel: alle spielen dieselben Karten (bei Würfeln dieselben Würfe, bei Vier eine „Stellung des Tages“ mit 6 Steinen) gegen Meister-Bots, ein Versuch am Tag, eigene Rangliste. Gewertet wird der Vorsprung auf den besten Gegner (bei Mau-Mau/Schocken zählen weniger Punkte).\n3. Wochen-Turnier je Spiel, rotierend an Wochentag-Abenden 18–23 Uhr (Mo Skat + Mau-Mau, Di Doppelkopf + Fünf Würfel, Mi Schafkopf + Schocken, Do Gaigel + Vier, Fr Bauernschnapsen + Lupfen); Binokel und Schnapsen behalten das Wochenende.\n4. Mindesteinsatz-Zeile im Dialog „Tisch aufmachen“ bei allen Spielen mit Einsätzen (Lupfen hat seinen eigenen Buy-in).\nWo: Spielen → Tagesblatt, Turniere-Tab, Tisch aufmachen, am Tisch. Alles nur in den versteckten Spielen (🚧), Binokel/Schnapsen unverändert.\nGeprüft: neue Server-/Web-Tests (alle Spiele), e2e tools/e2e-comfort232.mjs (Skat + Fünf Würfel, Desktop 1280×800 und Handy 444×987, Vier-Tagesblatt) bestanden.\nHermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#165",
+  "rows": [
+   {
+    "label": "Skat Desktop: Tipp beim ersten Zug",
+    "img": "changes/2026-10-29-item232-comfort/01-img-final-skat-desk-tip.webp"
+   },
+   {
+    "label": "Fünf Würfel Handy: Tipp",
+    "img": "changes/2026-10-29-item232-comfort/02-img-wuerfel-phone-tip-goal.webp"
+   },
+   {
+    "label": "Skat: eigenes Tagesblatt",
+    "img": "changes/2026-10-29-item232-comfort/03-img-skat-desk-daily-card.webp"
+   },
+   {
+    "label": "Vier: Tagesblatt mit Stellung des Tages",
+    "img": "changes/2026-10-29-item232-comfort/04-img-final-vier-daily.webp"
+   },
+   {
+    "label": "Skat Handy: Wochen-Turnier am Montag",
+    "img": "changes/2026-10-29-item232-comfort/05-img-skat-phone-tourn.webp"
+   },
+   {
+    "label": "Fünf Würfel Handy: Mindesteinsatz beim Tisch aufmachen",
+    "img": "changes/2026-10-29-item232-comfort/06-img-wuerfel-phone-create-minstake.webp"
+   }
+  ],
+  "sha": "8c457c3a"
  }
 ]
