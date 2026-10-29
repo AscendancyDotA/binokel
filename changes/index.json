@@ -4981,5 +4981,25 @@
    }
   ],
   "sha": "b9a35734"
+ },
+ {
+  "id": "item237-binokel15",
+  "date": "2026-10-29T14:33:20.692Z",
+  "title": "Eckzeichen lesbar, Wertungen nur einmal im Profil",
+  "text": "Die Eckzeichen auf den französischen Karten (Skat, Doppelkopf, Mau-Mau) sind jetzt in allen Aussehen gut lesbar: schwarz für Kreuz und Pik, rot für Herz und Karo. Im Profil steht jede Wertung nur noch einmal – mit Rang, Punktzahl und Fortschritt in einer Karte; ‚Kalibrierung‘ bricht um statt aus der Karte herauszuragen.",
+  "issue": "binokel#15",
+  "rows": [
+   {
+    "label": "Eckzeichen Doppelkopf 1280×800",
+    "before": "changes/2026-10-29-item237-binokel15/01-before-cards-doppelkopf-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-29-item237-binokel15/02-after-cards-doppelkopf-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Profil 1707×759",
+    "before": "changes/2026-10-29-item237-binokel15/03-before-profile-wirtshaus-1707x759.webp",
+    "after": "changes/2026-10-29-item237-binokel15/04-after-profile-wirtshaus-1707x759.webp"
+   }
+  ],
+  "sha": "4a3fd50a"
  }
 ]
