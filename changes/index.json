@@ -4656,5 +4656,27 @@
    }
   ],
   "sha": "d89c8aa9"
+ },
+ {
+  "id": "schocken-entwurf-tisch",
+  "date": "2026-10-29T09:40:20.889Z",
+  "title": "Entwurf: Schocken – der Tisch (Handy 8 Spieler, Desktop 6 Spieler, Handy quer)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Der Schocken-Tisch auf dem Würfel-Tisch von Fünf Würfel – Deckel-Spalten je Platz, Stapel in der Mitte, die eigenen Würfel unten (antippen = herauslegen, Würfeln, Stehen lassen). Die Würfel der anderen bleiben verdeckt, bis die Runde aufgedeckt wird. Nur als verstecktes Spiel (🚧).",
+  "issue": "wirtshaus#180",
+  "rows": [
+   {
+    "label": "Handy hochkant, 8 am Tisch, nach dem ersten Wurf",
+    "img": "changes/2026-10-29-schocken-entwurf-tisch/01-img-sc-offline-phone-8.webp"
+   },
+   {
+    "label": "Desktop 1280×800, 6 am Tisch",
+    "img": "changes/2026-10-29-schocken-entwurf-tisch/02-img-sc-offline-desktop-6.webp"
+   },
+   {
+    "label": "Handy quer 740×360",
+    "img": "changes/2026-10-29-schocken-entwurf-tisch/03-img-sc-schocken-740x360.webp"
+   }
+  ],
+  "sha": "b32ddfae"
  }
 ]
