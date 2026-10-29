@@ -4776,5 +4776,25 @@
    }
   ],
   "sha": "adf3c4d5"
+ },
+ {
+  "id": "i230-onboarding-google",
+  "date": "2026-10-29T10:17:26.611Z",
+  "title": "Entwurf: Einstiegsdialog – „Weiter mit Google“ direkt im ersten Schritt",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): In der Android-App (Server meldet googleapp, Google-Plugin vorhanden – dieselbe Bedingung wie in den Einstellungen) zeigt der erste Schritt des Einstiegsdialogs jetzt unter „Ich habe schon ein Konto“ den Google-Knopf. Ein Tipp öffnet Googles Konto-Auswahl sofort; Fehler (z. B. kein Google-Konto auf dem Gerät) erscheinen im selben Konto-Dialog wie bisher, ein wiederkehrender Spieler überspringt die Einrichtung wie beim Konto-Code. Im Browser bleibt alles wie vorher. Gezeigt mit einer simulierten Android-Brücke (kein echtes Handy: der Knopf-Tipp liefert dort „kein Google-Konto“). Nicht getestet: echte Anmeldung auf einem Handy mit Google-Konto.",
+  "issue": "wirtshaus#176",
+  "rows": [
+   {
+    "label": "Handy hochkant 444×987: Browser (vorher) → Android-App (nachher)",
+    "before": "changes/2026-10-29-i230-onboarding-google/01-before-ob-browser-444.webp",
+    "after": "changes/2026-10-29-i230-onboarding-google/02-after-ob-native-444.webp"
+   },
+   {
+    "label": "Nach dem Tipp (simulierte Brücke: kein Google-Konto) und Desktop 1280×800",
+    "before": "changes/2026-10-29-i230-onboarding-google/03-before-ob-native-444-tap.webp",
+    "after": "changes/2026-10-29-i230-onboarding-google/04-after-ob-native-1280.webp"
+   }
+  ],
+  "sha": "9e369481"
  }
 ]
