@@ -4465,5 +4465,39 @@
    }
   ],
   "sha": "8d7da16d"
+ },
+ {
+  "id": "i229-lupfen-rest",
+  "date": "2026-10-29T09:15:48.584Z",
+  "title": "Entwurf: Lupfen – Wiederholung mit Auswertung, Wirtshaus-TV, offener Tisch um Taler, online zu fünft und zu sechst",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). (1) Wiederholung + Auswertung: jede Lupfen-Partie lässt sich nachspielen (alle Karten oder die Sicht eines Spielers, 3–6 Plätze) und auswerten – bewertet werden Lupfen/Weiter, Mit!/Passe, Verworfen, Sperren und jede Karte, mit „zu mutig“/„zu vorsichtig“; die Abstimmung am leeren Pott, Nachholen und Aufstehen werden nicht bewertet. Kalibriert über alle 6 Bot-Stufen (Genauigkeit 93,0 / 95,7 / 96,7 / 98,4 / 98,8 / 99,6 %, der Großmeister ohne Patzer; Tabelle in docs/rules/LUPFEN.md). Offline gibt es „Partie analysieren“ am Partie-Ende, online öffnet die gespeicherte Partie. (2) Wirtshaus-TV: ein eigener Schautisch „Lupfen-Stammtisch“ mit vier starken Bots, nur Spielchips, Miniatur auf der Willkommen-Seite. (3) Der offene Tisch (Nachholen) spielt jetzt auch um Taler: Mitbringen wird beim Start zurückgelegt, „+N nachholen“ bucht vorher aus dem Geldbeutel (nie mehr als setzbar), am Ende gibt es den Stapel zurück. In den Store-Versionen (Play, Galaxy, Microsoft) bleibt Lupfen immer Spielchips. (4) Browser-Test online mit 6 und mit 5 Spielern am offenen Taler-Tisch bestanden (Abstimmung, Nachholen, Abrechnung, Auswertung der gespeicherten Partie). Die Kurzer-Stapel-Frage (A/B/C) ist unverändert offen, A bleibt Standard.",
+  "issue": "wirtshaus#157",
+  "rows": [
+   {
+    "label": "Auswertung: markierter Zug (zu vorsichtig), 6 Spieler, Desktop",
+    "img": "changes/2026-10-29-i229-lupfen-rest/01-img-rp-desk-6-fehler.webp"
+   },
+   {
+    "label": "Wiederholung 6 Spieler, Handy",
+    "img": "changes/2026-10-29-i229-lupfen-rest/02-img-rp-phone-6-trick.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Lupfen-Stammtisch auf der Willkommen-Seite",
+    "img": "changes/2026-10-29-i229-lupfen-rest/03-img-tv-mini.webp"
+   },
+   {
+    "label": "Online zu sechst am offenen Taler-Tisch (Topf oben)",
+    "img": "changes/2026-10-29-i229-lupfen-rest/04-img-n6-table-A.webp"
+   },
+   {
+    "label": "Nachholen am Taler-Tisch, Handy",
+    "img": "changes/2026-10-29-i229-lupfen-rest/05-img-n6-rebuy-B.webp"
+   },
+   {
+    "label": "Online zu fünft: Abstimmung am leeren Pott, Handy",
+    "img": "changes/2026-10-29-i229-lupfen-rest/06-img-n5-vote-B.webp"
+   }
+  ],
+  "sha": "8f517db9"
  }
 ]
