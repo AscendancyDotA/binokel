@@ -4122,5 +4122,30 @@
    }
   ],
   "sha": "8810b2d"
+ },
+ {
+  "id": "item208-google-app",
+  "date": "2026-10-29T02:05:51.766Z",
+  "title": "Entwurf: Weiter mit Google in den Android-Apps",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium): Die Android-Apps (Play, GitHub-APK, spätere Einzel-Apps) bekommen unter Einstellungen → Konto & Datenschutz den Knopf „Weiter mit Google“. Er öffnet die Google-Kontoauswahl von Android; der Server prüft das Ergebnis genau wie im Browser, ein Konto vom Konto-Code wird verknüpft, nie doppelt. Ausgeschaltet, bis du in der Google Cloud Console den Android-OAuth-Client anlegst und GOOGLE_ANDROID_CLIENT_ID gesetzt ist (Schritte und SHA-1 in docs/HUMAN-TODO.md). Datenschutz-Text angepasst. Bilder aus dem Browser mit nachgebautem Android-Plugin, nicht vom echten Handy.",
+  "issue": "wirtshaus#64",
+  "rows": [
+   {
+    "label": "Handy 444×987: heute (links) / mit Android-Client (rechts)",
+    "before": "changes/2026-10-29-item208-google-app/01-before-before-phone.webp",
+    "after": "changes/2026-10-29-item208-google-app/02-after-after-phone.webp"
+   },
+   {
+    "label": "Nach dem Anmelden / kein Google-Konto auf dem Handy",
+    "before": "changes/2026-10-29-item208-google-app/03-before-after-linked-phone.webp",
+    "after": "changes/2026-10-29-item208-google-app/04-after-after-noaccount-swb-phone.webp"
+   },
+   {
+    "label": "Desktop-Breite 1280×800",
+    "before": "changes/2026-10-29-item208-google-app/05-before-before-desktop.webp",
+    "after": "changes/2026-10-29-item208-google-app/06-after-after-desktop.webp"
+   }
+  ],
+  "sha": "ead7e32"
  }
 ]
