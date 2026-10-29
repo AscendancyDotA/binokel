@@ -4147,5 +4147,34 @@
    }
   ],
   "sha": "ead7e32"
+ },
+ {
+  "id": "qa212-fixes",
+  "date": "2026-10-29T02:09:23.344Z",
+  "title": "QA-Playtest 212: kleine Fehler gleich behoben",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium): Persona-Playtest mit allen Schaltern. Wertungs-Chip liegt nicht mehr auf dem Partie-Ende (alle Formate), Shop rechnet mit dem aktuellen Guthaben, Trinkgeld im Schnellchat-Rad wieder antippbar, Warteschlange zeigt bei Lupfen die richtige Spielerzahl ohne über Kreuz.",
+  "issue": "wirtshaus#118",
+  "rows": [
+   {
+    "label": "Partie-Ende Desktop 1280x800: vorher Chip über der Siegerzeile / nachher frei",
+    "before": "changes/2026-10-29-qa212-fixes/01-before-karle-m1-end.webp",
+    "after": "changes/2026-10-29-qa212-fixes/02-after-after-karle-end.webp"
+   },
+   {
+    "label": "Shop nach Werbevideo: vorher es fehlen 95 bei 8 Talern / nachher 92 short bei 8 Talern (Tablet, Englisch)",
+    "before": "changes/2026-10-29-qa212-fixes/03-before-karle-18-shop-after-ad.webp",
+    "after": "changes/2026-10-29-qa212-fixes/04-after-after-shop-balance.webp"
+   },
+   {
+    "label": "Schnellchat: vorher Tipp auf Trinkgeld ohne Wirkung / nachher öffnet das Lob-Rad",
+    "before": "changes/2026-10-29-qa212-fixes/05-before-karle-21-tip.webp",
+    "after": "changes/2026-10-29-qa212-fixes/06-after-after-tip-wheel.webp"
+   },
+   {
+    "label": "Warteschlange Lupfen 4: nachher 4 Spieler (ohne Kreuz)",
+    "img": "changes/2026-10-29-qa212-fixes/07-img-after-queue-chip.webp"
+   }
+  ],
+  "sha": "8810b2d"
  }
 ]
