@@ -4737,5 +4737,29 @@
    }
   ],
   "sha": "d88eeb63"
+ },
+ {
+  "id": "mm225-online",
+  "date": "2026-10-29T09:41:55.476Z",
+  "title": "Entwurf: Mau-Mau online (Partie im echten Browser) + Wirtshaus-TV",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): e2e tools/e2e-maumau-online.mjs – Tisch aufmachen, beitreten, zuschauen, ganze Partie spielen (Wunschfarbe, Ziehen, Mau), gespeichert im Pool maumau:p3; unten der Mau-Mau-Meistertisch im Wirtshaus-TV.",
+  "issue": "wirtshaus#179",
+  "rows": [
+   {
+    "label": "Handy: Wunsch-Dialog online / Rundenende online",
+    "before": "changes/2026-10-29-mm225-online/01-before-online-B-wish.webp",
+    "after": "changes/2026-10-29-mm225-online/02-after-online-B-roundend.webp"
+   },
+   {
+    "label": "Tischliste / Partie-Ende (Handy)",
+    "before": "changes/2026-10-29-mm225-online/03-before-online-tablelist.webp",
+    "after": "changes/2026-10-29-mm225-online/04-after-online-matchend-phone.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Mau-Mau-Meistertisch",
+    "img": "changes/2026-10-29-mm225-online/05-img-online-tv-mini.webp"
+   }
+  ],
+  "sha": "d88eeb63"
  }
 ]
