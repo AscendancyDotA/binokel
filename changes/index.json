@@ -4100,5 +4100,27 @@
    }
   ],
   "sha": "8810b2d"
+ },
+ {
+  "id": "qa212-topbar",
+  "date": "2026-10-29T01:55:03.937Z",
+  "title": "QA: Kopfleiste bei wenig Platz",
+  "text": "Persona-Playtest (Hermes-Subagent claude-opus-5-5, effort medium): Taler-Zahl im Profil-Chip abgeschnitten (Handy hochkant, Groß), Tischtitel bricht zu S c. um, Lupfen-Titel als dunkler Block am Desktop.",
+  "issue": "wirtshaus#162",
+  "rows": [
+   {
+    "label": "Lobby Handy hochkant 444x987, Gross - Muenze ohne Zahl",
+    "img": "changes/2026-10-29-qa212-topbar/01-img-berta-03-lobby.webp"
+   },
+   {
+    "label": "Schnapsen-Tisch hochkant - Titel S c.",
+    "img": "changes/2026-10-29-qa212-topbar/02-img-berta-m1-schnapsen-roundEnd.webp"
+   },
+   {
+    "label": "Lupfen-Tisch Desktop 1280x800 - dunkler Block links oben",
+    "img": "changes/2026-10-29-qa212-topbar/03-img-karle-m2-lupfen-playing.webp"
+   }
+  ],
+  "sha": "8810b2d"
  }
 ]
