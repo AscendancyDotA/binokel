@@ -4564,5 +4564,19 @@
    }
   ],
   "sha": "9e2e7833"
+ },
+ {
+  "id": "rt223-hint",
+  "date": "2026-10-29T09:28:53.581Z",
+  "title": "Release-Test: Update-Hinweis alte APK",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): alte Binokel-APK v0.1.0-687.",
+  "issue": "wirtshaus#177",
+  "rows": [
+   {
+    "label": "Hinweis unten",
+    "img": "changes/2026-10-29-rt223-hint/01-img-s4.webp"
+   }
+  ],
+  "sha": "9e2e7833"
  }
 ]
