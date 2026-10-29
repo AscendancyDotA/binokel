@@ -5193,5 +5193,24 @@
    }
   ],
   "sha": "4d76bde9"
+ },
+ {
+  "id": "item245-switcher-neu",
+  "date": "2026-10-29T19:47:32.445Z",
+  "title": "Entwurf: Spielwechsler – „Neu“-Abzeichen bleibt neben dem Namen; Stripe-Kauf nennt die App",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Im Spielwechsler am Desktop rutschte das „Neu“-Abzeichen bei „Vier in einer Reihe“ in eine zweite Zeile. Jetzt bleibt es immer beim letzten Wort des Namens (auch bei langen Namen, anderer Sprache, größerer Schrift), und das Menü ist so breit wie die längste Zeile. Außerdem steht im Stripe-Kauf jetzt der Name der App („140 Taler (Wirtshaus)“ im Web/GitHub/Desktop, „… (Gaigel Wirtshaus)“ in der Einzel-App, „… (Binokel)“ in der Binokel-App) statt immer „Binokel“.",
+  "issue": "wirtshaus#184",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: vorher (Neu in eigener Zeile) / nachher",
+    "before": "changes/2026-10-29-item245-switcher-neu/01-before-switch-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-29-item245-switcher-neu/02-after-switch-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Handy 444×987, nachher",
+    "img": "changes/2026-10-29-item245-switcher-neu/03-img-switch-wirtshaus-444x987.webp"
+   }
+  ],
+  "sha": "ed4465bf"
  }
 ]
