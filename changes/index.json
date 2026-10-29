@@ -5275,5 +5275,25 @@
    }
   ],
   "sha": "378c587d"
+ },
+ {
+  "id": "i252-gameswitch",
+  "date": "2026-10-29T23:39:38.200Z",
+  "title": "Entwurf: Spiel-Umschalter geht am schmalen Hochkant-Handy wieder auf",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Auf dem POCO F6 (508×624, Lupfen gewählt) blieb die Spielliste zu – Antippen hob nur den Knopf hervor. Ursache: im letzten Kopfleisten-Schritt (Handy schmal, Freunde im ⋯-Menü) hat der Rahmen um den Knopf alles Überstehende abgeschnitten, und die Liste hängt als Kind daran – sie war komplett weggeschnitten. Jetzt kürzt nur noch der Knopf selbst (der Name schrumpft), die Liste ist frei, passt ins Bild und scrollt innen. Breite Bildschirme und der geschlossene Kopf sind pixelgleich (geprüft).",
+  "issue": "binokel#16",
+  "rows": [
+   {
+    "label": "Handy 508×624, Lupfen gewählt: Liste antippen",
+    "before": "changes/2026-10-29-i252-gameswitch/01-before-gs252-b3-lupfen-508x624-open.webp",
+    "after": "changes/2026-10-29-i252-gameswitch/02-after-gs252-a3-lupfen-508x624-open.webp"
+   },
+   {
+    "label": "Handy 360×780",
+    "before": "changes/2026-10-29-i252-gameswitch/03-before-gs252-b3-lupfen-360x780-open.webp",
+    "after": "changes/2026-10-29-i252-gameswitch/04-after-gs252-a3-lupfen-360x780-open.webp"
+   }
+  ],
+  "sha": "71ae0cb2"
  }
 ]
