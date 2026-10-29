@@ -4903,5 +4903,27 @@
    }
   ],
   "sha": "8c457c3a"
+ },
+ {
+  "id": "i231-skat-analysis",
+  "date": "2026-10-29T11:53:53.321Z",
+  "title": "Entwurf: Skat – Auswertung bewertet Reizen und Spielwahl, Bot-Wertungen neu gemessen, Regelhilfe in Reitern",
+  "text": "Die Partie-Auswertung bewertet jetzt auch Reizen (sagen/halten/passen), Skat aufnehmen oder Hand, das Drücken und die Ansage (mit Schneider/Schwarz/Ouvert), nicht mehr nur das Kartenspiel. Jede Möglichkeit wird auf 48 zum Reizen passenden Kartenverteilungen zu Ende gespielt. Kalibriert an 25 648 Bot-Entscheidungen: Die Genauigkeit steigt mit der Stufe (Lehrling 95,0 %, Stammtisch 95,8 %, Meister 96,5 %, Profi 98,1 %, Experte 99,5 %, Großmeister 99,7 %), der Großmeister macht keinen Patzer mehr. Ohne Zusatz hätte der Bewerter beim Großmeister ganze Reizfolgen als Fehler markiert, weil seine Rollout-Spieler hohe Spiele öfter verlieren; darum gibt es eine eigene Modell-Unsicherheit fürs Weiterreizen. Bot-Wertungen kommen jetzt aus einer OpenSkill-Ladder mit 900 Listen: 1150/1250/1320/1520/1675/1690 (vorher geschätzt 1150/1250/1300/1400/1560/1590). Ehrlich: Experte und Großmeister sind beim Skat praktisch gleich stark (direkt 33,7 % bei fair 33,3 %). Regelhilfe: Reiter Grundlagen/Reizen/Skat + Ansage/Spielwert/Liste/Kneipenregeln/Fair, mit Kartenreihen (Buben, eine Farbe mit Augen), Schwäbisch eigener Text. Zahlen: docs/rules/SKAT.md „Auswertung“ und „Wertung“. Auf main seit a583e32. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#167",
+  "rows": [
+   {
+    "label": "Auswertung: Reiz-Patzer eines Lehrlings (Desktop 1280×800)",
+    "img": "changes/2026-10-29-i231-skat-analysis/01-img-sk-ana-bid-desk.webp"
+   },
+   {
+    "label": "Dieselbe Stelle am Handy 444×987",
+    "img": "changes/2026-10-29-i231-skat-analysis/02-img-sk-ana-bid-phone.webp"
+   },
+   {
+    "label": "Regelhilfe mit Reitern und Kartenreihen (Handy)",
+    "img": "changes/2026-10-29-i231-skat-analysis/03-img-sk-help-phone.webp"
+   }
+  ],
+  "sha": "591cc5a0"
  }
 ]
