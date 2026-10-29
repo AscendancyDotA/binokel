@@ -4263,5 +4263,24 @@
    }
   ],
   "sha": "e582c82"
+ },
+ {
+  "id": "own-table-bot-206",
+  "date": "2026-10-29T02:30:28.917Z",
+  "title": "Eigener Tisch: Klick auf den Bot zeigt keinen leeren Bildschirm mehr",
+  "text": "Ursache: In der Bot-Liste des „Tisch aufmachen“-Dialogs (Vier in einer Reihe, außerdem Skat, Doppelkopf, Schafkopf, Würfel) bekam der stärkste Bot (Großmeister) 6 statt 5 Sterne – das Sternchen-Zeichnen rechnete 5 − 6 = −1, warf einen Fehler, und die ganze App wurde ausgeblendet (leerer Bildschirm). Behoben: Sterne sind jetzt immer 0–5 (Großmeister = 5). Zusätzlich fängt eine Fehlergrenze jeden künftigen Absturz an einem Tisch ab: statt leerem Bildschirm steht „Da ging was schief – Tisch neu laden“ da. Geprüft mit einem Sweep über alle 9 Spiele (Eigener Tisch online + offline, Handy + Desktop: Dialog, Bot-Liste mit allen 6 Stufen, Warteraum, Anderer Bot, Bot hinsetzen, Start, Sitze, Avatare, Ansehen-Karte, Schnellchat/Prost-Rad): 0 Abstürze. Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#160",
+  "rows": [
+   {
+    "label": "Vier in einer Reihe · Eigener Tisch · Bot antippen (Desktop)",
+    "before": "changes/2026-10-29-own-table-bot-206/01-before-FAIL-vier-desktop-dialog_bot_slot_opens_picker.webp",
+    "after": "changes/2026-10-29-own-table-bot-206/02-after-vier-desktop-3-create-botlist.webp"
+   },
+   {
+    "label": "Neu: Fehlergrenze (Handy), hier künstlich ausgelöst",
+    "img": "changes/2026-10-29-own-table-bot-206/03-img-boundary-phone-1-fallback.webp"
+   }
+  ],
+  "sha": "4953747"
  }
 ]
