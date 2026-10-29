@@ -5119,5 +5119,50 @@
    }
   ],
   "sha": "3ae76005"
+ },
+ {
+  "id": "g239-google-switch",
+  "date": "2026-10-29T14:52:46.916Z",
+  "title": "Entwurf: Google-Konto wechseln statt Sackgasse, Konto-Auswahl auf dem Handy, klares Ergebnis in der Einrichtung, Avatar-Farbe",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high). Was: (1) Meldest du dich mit einem anderen Google-Konto an als dem, das dein Konto schon hat, gibt es keine Fehlermeldung mehr, sondern eine Auswahl – Web und App gleich: hat das neue Google-Konto schon ein Konto → „Zu <Name> wechseln“ (dein jetziges Konto bleibt in „Wer spielt?“ gespeichert); hat es keins → „Neues Konto mit diesem Google-Konto anlegen“ oder „stattdessen mit deinem jetzigen Konto verbinden“ (das alte Google-Konto wird getrennt). Nichts passiert ohne Tipp, „Abbrechen“ lässt alles wie es ist. (2) „Wer spielt?“ richtet sich nach der Breite der App statt nach der Bildschirmbreite (war links abgeschnitten) und schließt vorher die offene Einstellungs-Seite. (3) Einrichtung mit neuem Google-Konto: „Dieses Google-Konto ist neu bei uns – wir verknüpfen es mit deinem neuen Profil. Weiter mit der Einrichtung.“ (Hinweis bleibt stehen, die Meldung lag vorher hinter der Einrichtung); mit bekanntem Konto: „Willkommen zurück, <Name>!“; Fehler werden angezeigt. (4) Im Einrichtungs-Schritt „Wie heißt du?“ ist die Hintergrundfarbe zum Profilbild wieder wählbar. Ausprobieren: Einstellungen → Konto → Mit Google verbinden, dann mit einem zweiten Google-Konto nochmal tippen.",
+  "issue": "wirtshaus#181",
+  "rows": [
+   {
+    "label": "Anderes Google-Konto: vorher Sackgasse (Owner-Screenshot), jetzt Auswahl (Handy)",
+    "before": "changes/2026-10-29-g239-google-switch/01-before-1.webp",
+    "after": "changes/2026-10-29-g239-google-switch/02-after-g239-choice-existing-phone.webp"
+   },
+   {
+    "label": "Google-Konto ohne Konto: Neues Konto oder verbinden",
+    "img": "changes/2026-10-29-g239-google-switch/03-img-g239-choice-new-phone.webp"
+   },
+   {
+    "label": "Dasselbe am Desktop",
+    "img": "changes/2026-10-29-g239-google-switch/04-img-g239-choice-existing-desktop.webp"
+   },
+   {
+    "label": "Wer spielt? – vorher links abgeschnitten über den Einstellungen (Owner-Screenshot), jetzt innerhalb des Bildschirms",
+    "before": "changes/2026-10-29-g239-google-switch/05-before-4.webp",
+    "after": "changes/2026-10-29-g239-google-switch/06-after-g239-picker-phone-settings.webp"
+   },
+   {
+    "label": "Einrichtung: neues Google-Konto – vorher keine Rückmeldung, jetzt Ergebnis",
+    "before": "changes/2026-10-29-g239-google-switch/07-before-g239-onboarding-before-phone.webp",
+    "after": "changes/2026-10-29-g239-google-switch/08-after-g239-onboarding-new-google-phone.webp"
+   },
+   {
+    "label": "Einrichtung: bekanntes Google-Konto",
+    "img": "changes/2026-10-29-g239-google-switch/09-img-g239-onboarding-welcome-back-phone.webp"
+   },
+   {
+    "label": "Einrichtung: Fehler sind sichtbar",
+    "img": "changes/2026-10-29-g239-google-switch/10-img-g239-onboarding-error-phone.webp"
+   },
+   {
+    "label": "Einrichtung: Hintergrundfarbe fürs Profilbild wieder da",
+    "img": "changes/2026-10-29-g239-google-switch/11-img-g239-onboarding-avatar-phone.webp"
+   }
+  ],
+  "sha": "f5058e73"
  }
 ]
