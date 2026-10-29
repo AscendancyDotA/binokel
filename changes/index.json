@@ -5212,5 +5212,43 @@
    }
   ],
   "sha": "ed4465bf"
+ },
+ {
+  "id": "item244-lernrunde",
+  "date": "2026-10-29T20:09:24.980Z",
+  "title": "Entwurf: Lernrunde für Gaigel, Schafkopf, Skat und Doppelkopf",
+  "text": "Punkt 1 aus diesem Issue: Gaigel, Schafkopf, Skat und Doppelkopf haben jetzt wie Binokel und Schnapsen eine geführte erste Runde. Im Spielen-Tab steht „Neu bei <Spiel>? Kurze Lernrunde“, und beim allerersten Start eines dieser Spiele kommt einmal die Frage „Lernrunde zuerst?“. Gespielt wird ein fester Deal gegen Lehrlinge; an den wichtigen Stellen erklärt ein Tipp, was zu tun ist und warum (Gaigel: Andere Alte, Melden, freies Spiel, Farbzwang, 101 · Schafkopf: Ich spiel, Sau rufen, Trumpf ziehen, Ober/Unter sind Trumpf, schmieren, 61 · Skat: Reizen, Skat aufnehmen, Drücken, Ansagen, Buben sind Trumpf, 61 · Doppelkopf: Gesund, Re/Kontra, Re ansagen, Bedienen, Partner, 121). Die leuchtende Karte oder Taste ist ein guter Zug. Am Ende führt „Jetzt richtig spielen“ in eine normale Partie. Binokel und Schnapsen bleiben unverändert. Gebaut als gemeinsamer Baustein, den jedes weitere Spiel mit einem kurzen Skript nutzen kann. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#184",
+  "rows": [
+   {
+    "label": "Spielen-Tab: die Lernrunden-Karte (Desktop 1280×800)",
+    "img": "changes/2026-10-29-item244-lernrunde/01-img-gaigel-card-desk.webp"
+   },
+   {
+    "label": "Einmal beim ersten Start (Handy 444×987)",
+    "img": "changes/2026-10-29-item244-lernrunde/02-img-gaigel-offer-phone.webp"
+   },
+   {
+    "label": "Gaigel: Andere Alte – die Sau leuchtet (Handy)",
+    "before": "changes/2026-10-29-item244-lernrunde/03-before-gaigel-tip-open-phone.webp",
+    "after": "changes/2026-10-29-item244-lernrunde/04-after-gaigel-tip-meld-desk.webp"
+   },
+   {
+    "label": "Schafkopf: Sau rufen (Handy) · Ende mit „Jetzt richtig spielen“ (Desktop)",
+    "before": "changes/2026-10-29-item244-lernrunde/05-before-schafkopf-tip-call-phone.webp",
+    "after": "changes/2026-10-29-item244-lernrunde/06-after-schafkopf-end-desk.webp"
+   },
+   {
+    "label": "Skat: Drücken – Vorschläge schon angetippt (Desktop) · Spiel ansagen (Handy)",
+    "before": "changes/2026-10-29-item244-lernrunde/07-before-skat-tip-push-desk.webp",
+    "after": "changes/2026-10-29-item244-lernrunde/08-after-skat-tip-declare-phone.webp"
+   },
+   {
+    "label": "Doppelkopf: Re ansagen (Handy) · Ende (Handy)",
+    "before": "changes/2026-10-29-item244-lernrunde/09-before-doppelkopf-tip-announce-phone.webp",
+    "after": "changes/2026-10-29-item244-lernrunde/10-after-doppelkopf-end-phone.webp"
+   }
+  ],
+  "sha": "fd4b1474"
  }
 ]
