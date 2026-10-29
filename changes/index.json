@@ -5001,5 +5001,44 @@
    }
   ],
   "sha": "4a3fd50a"
+ },
+ {
+  "id": "item237-wirtshaus174",
+  "date": "2026-10-29T14:34:11.779Z",
+  "title": "Spiel-Umschalter und Einrichtung: Marken-Schilder; Eckzeichen und Wertungen (binokel#15)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): (1) Spiel-Umschalter und Spielauswahl in der Einrichtung zeigen jetzt für alle Spiele das Schild der Marke statt eines einfachen Kartenzeichens (♥ ♦ ♣ ● ⚅); für Mau-Mau gibt es neu ein Schild (Indigo, die vier französischen Farben). Das 🚧 sitzt bei den Kacheln der Einrichtung in der Ecke, damit lange Namen wie ‚Bauernschnapsen‘ Platz haben. (2) binokel#15: Eckzeichen auf französischen Karten (Skat, Doppelkopf, Mau-Mau) sind in allen drei Aussehen lesbar – geprüft mit einem Kontrast von mindestens 4,5:1 an allen Eckzeichen von 8 Kartenspielen × 3 Aussehen × Handy/Desktop (48 Ansichten); im Profil steht jede Wertung nur noch einmal (Rangkarte mit Punktzahl statt zusätzlichem ‚Solo-Wertung‘-Kasten), ‚Kalibrierung‘ ragt nicht mehr aus der Karte. Binokel/Württemberg-Karten sind unverändert.",
+  "issue": "wirtshaus#174",
+  "rows": [
+   {
+    "label": "Spiel-Umschalter (Handy 444×987)",
+    "before": "changes/2026-10-29-item237-wirtshaus174/01-before-switch-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-item237-wirtshaus174/02-after-switch-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Einrichtung ‚Was spielst du?‘ (Handy 444×987)",
+    "before": "changes/2026-10-29-item237-wirtshaus174/03-before-onboarding-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-item237-wirtshaus174/04-after-onboarding-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Eckzeichen Skat, Handy 444×987",
+    "before": "changes/2026-10-29-item237-wirtshaus174/05-before-cards-skat-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-item237-wirtshaus174/06-after-cards-skat-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Eckzeichen Doppelkopf 1280×800",
+    "before": "changes/2026-10-29-item237-wirtshaus174/07-before-cards-doppelkopf-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-29-item237-wirtshaus174/08-after-cards-doppelkopf-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Profil Handy 444×987 (nur Nachher)",
+    "img": "changes/2026-10-29-item237-wirtshaus174/09-img-profile-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Profil 1707×759 (aus der Meldung)",
+    "before": "changes/2026-10-29-item237-wirtshaus174/10-before-profile-wirtshaus-1707x759.webp",
+    "after": "changes/2026-10-29-item237-wirtshaus174/11-after-profile-wirtshaus-1707x759.webp"
+   }
+  ],
+  "sha": "4a3fd50a"
  }
 ]
