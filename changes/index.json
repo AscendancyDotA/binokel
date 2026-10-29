@@ -4341,5 +4341,30 @@
    }
   ],
   "sha": "d141ce93"
+ },
+ {
+  "id": "qa214-topbar",
+  "date": "2026-10-29T04:09:47.024Z",
+  "title": "Entwurf: Kopfleiste bei wenig Platz",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die Taler-Zahl im Profil-Chip wird nie mehr abgeschnitten (zuerst weicht der Avatar, dann schrumpft der Spielname), Tischtitel brechen nicht mehr buchstabenweise um (nur ganze Wörter; der grüne Online-Punkt macht im Hochformat Platz), und der dunkle Block am Lupfen-Tisch kam vom Mein-Raum-Stil (.room), der nach dem Besuch der Kasse in den Tischtitel leckte – jetzt nur noch im Mein-Raum-Bild. Querformat: Tischschrift mindestens 11 px. Testet man mit Schwäbisch + Schnapsen + Groß auf 444×987 (Zahl 12.345 zur Probe).",
+  "issue": "wirtshaus#162",
+  "rows": [
+   {
+    "label": "Lobby Handy hochkant, Groß, Schwäbisch: Taler-Zahl (12.345)",
+    "before": "changes/2026-10-29-qa214-topbar/01-before-lobby-bal18215-swb-schnapsen-444x987-big.webp",
+    "after": "changes/2026-10-29-qa214-topbar/02-after-lobby-bal18214-swb-schnapsen-444x987-big.webp"
+   },
+   {
+    "label": "Tischtitel Schnapsen-Warteschlange, hochkant Groß (Vorher: Stand nach #163, Titel schon übersetzt)",
+    "before": "changes/2026-10-29-qa214-topbar/03-before-title-before-swb-444x987-s1.2-schnapsen.webp",
+    "after": "changes/2026-10-29-qa214-topbar/04-after-title-after-swb-444x987-s1.2-schnapsen.webp"
+   },
+   {
+    "label": "Skat im Querformat 915×412: Schrift mind. 11 px",
+    "before": "changes/2026-10-29-qa214-topbar/05-before-title-before-de-915x412-s1-skat.webp",
+    "after": "changes/2026-10-29-qa214-topbar/06-after-title-after-de-915x412-s1-skat.webp"
+   }
+  ],
+  "sha": "0e1d618a"
  }
 ]
