@@ -5164,5 +5164,34 @@
    }
   ],
   "sha": "f5058e73"
+ },
+ {
+  "id": "item241-freigabe",
+  "date": "2026-10-29T17:52:41.367Z",
+  "title": "Sechs Spiele freigegeben: Gaigel, Schafkopf, Skat, Doppelkopf, Fünf Würfel, Vier in einer Reihe",
+  "text": "Was: Die sechs Spiele sind im Wirtshaus (Web, GitHub-APK, Windows, Play-Sammel-App) nicht mehr „im Bau“. Statt 🚧 tragen sie 14 Tage lang „Neu“ (Spielwahl, Einstieg „Was spielst du?“, Lobby-Karte). Sie stehen gleich nach Binokel und Schnapsen: Gaigel, Schafkopf, Skat, Doppelkopf, Fünf Würfel, Vier in einer Reihe. Lupfen, Mau-Mau, Schocken und Bauernschnapsen bleiben 🚧. Die Play-App „Binokel“ bleibt Binokel-only. Dazu: Regelhilfe Doppelkopf/Schafkopf/Gaigel auf Schwäbisch, die Spielwahl zeigt die Wertung des richtigen Pools, und am Partie-Ende von Skat/Doppelkopf/Schafkopf/Gaigel überdeckt die letzte Spiel-Zusammenfassung die Partie-Übersicht mit „Partie analysieren“ nicht mehr. Geprüft: Persona-Lauf (alle sechs online bis Partie-Ende, Neuladen, 4 Bildschirmgrößen, Englisch, 2×2) und die sechs Spiel-e2e – alles grün. Endtabelle: docs/RELEASE-READINESS.md. Live erst nach dem Deploy mit GAMES_RELEASED. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#165",
+  "rows": [
+   {
+    "label": "Spielwahl, Handy 444×987",
+    "before": "changes/2026-10-29-item241-freigabe/01-before-switch-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-item241-freigabe/02-after-switch-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Einstieg „Was spielst du?“, Handy",
+    "before": "changes/2026-10-29-item241-freigabe/03-before-onboarding-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-item241-freigabe/04-after-onboarding-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Spielwahl, Desktop 1280×800",
+    "before": "changes/2026-10-29-item241-freigabe/05-before-switch-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-29-item241-freigabe/06-after-switch-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Skat: Partie analysieren nach einer gewerteten Online-Partie (Persona-Lauf)",
+    "img": "changes/2026-10-29-item241-freigabe/07-img-skat-analysis.webp"
+   }
+  ],
+  "sha": "4d76bde9"
  }
 ]
