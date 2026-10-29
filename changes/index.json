@@ -5040,5 +5040,59 @@
    }
   ],
   "sha": "4a3fd50a"
+ },
+ {
+  "id": "settings-nav-240",
+  "date": "2026-10-29T14:47:49.184Z",
+  "title": "Entwurf: Einstellungen: Kategorien sofort sichtbar",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die Einstellungen zeigen alle Kategorien jetzt immer an – als Leiste links (Querformat/breite Fenster) oder als feste Chip-Leiste unter der Suche (Hochformat-Handy). „Schnell“ steht vorn, die drei Regler sind auch in niedrigen Fenstern sofort sichtbar. Suche über alle Kategorien, Treffer nach Kategorie gruppiert.",
+  "issue": "wirtshaus#182",
+  "rows": [
+   {
+    "label": "Dein Quest-Screenshot (vorher): Kategorien nur mit Scrollen",
+    "img": "changes/2026-10-29-settings-nav-240/01-img-item-240-quest-settings.webp"
+   },
+   {
+    "label": "Quest-ähnliches Fenster 850×560 – vorher / nachher",
+    "before": "changes/2026-10-29-settings-nav-240/02-before-before-start-wirtshaus-850x560-quest.webp",
+    "after": "changes/2026-10-29-settings-nav-240/03-after-after-start-wirtshaus-850x560-quest.webp"
+   },
+   {
+    "label": "Handy hoch 444×987 – vorher / nachher (Chip-Leiste)",
+    "before": "changes/2026-10-29-settings-nav-240/04-before-before-start-wirtshaus-444x987.webp",
+    "after": "changes/2026-10-29-settings-nav-240/05-after-after-start-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Handy quer 740×360 – vorher / nachher",
+    "before": "changes/2026-10-29-settings-nav-240/06-before-before-start-wirtshaus-740x360.webp",
+    "after": "changes/2026-10-29-settings-nav-240/07-after-after-start-wirtshaus-740x360.webp"
+   },
+   {
+    "label": "Handy quer 915×412 – vorher / nachher",
+    "before": "changes/2026-10-29-settings-nav-240/08-before-before-start-wirtshaus-915x412.webp",
+    "after": "changes/2026-10-29-settings-nav-240/09-after-after-start-wirtshaus-915x412.webp"
+   },
+   {
+    "label": "1280×720, Schrift „Groß“ – vorher / nachher",
+    "before": "changes/2026-10-29-settings-nav-240/10-before-before-start-wirtshaus-1280x720-quest-gross.webp",
+    "after": "changes/2026-10-29-settings-nav-240/11-after-after-start-wirtshaus-1280x720-quest-gross.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – vorher / nachher",
+    "before": "changes/2026-10-29-settings-nav-240/12-before-before-start-wirtshaus-1280x800.webp",
+    "after": "changes/2026-10-29-settings-nav-240/13-after-after-start-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Neu: Kategorie „Aussehen“ (915×412) und Suche „ton“ (444×987, Treffer nach Kategorie)",
+    "before": "changes/2026-10-29-settings-nav-240/14-before-after-aussehen-wirtshaus-915x412.webp",
+    "after": "changes/2026-10-29-settings-nav-240/15-after-after-suche-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Neu: 360×780 und Lobby 850×560",
+    "before": "changes/2026-10-29-settings-nav-240/16-before-after-start-wirtshaus-360x780.webp",
+    "after": "changes/2026-10-29-settings-nav-240/17-after-after-start-wirtshaus-850x560-quest-lobby.webp"
+   }
+  ],
+  "sha": "291064f0"
  }
 ]
