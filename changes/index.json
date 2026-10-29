@@ -4425,5 +4425,45 @@
    }
   ],
   "sha": "360504ad"
+ },
+ {
+  "id": "layout-leftovers-219",
+  "date": "2026-10-29T05:47:31.860Z",
+  "title": "Entwurf: Layout-Reste – Querformat-Schrift, Schnapsen „Aufgeben“, Wunschliste bei „Groß“",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Mit einem neuen Messskript (tools/font-survey.mjs, misst die echte Schriftgröße jedes sichtbaren Textes in allen 9 Spielen bei 915×412, 844×390 und 740×360) ist am Handy-Querformat jetzt nichts mehr unter 11 px (vorher 116 Stellen mit 7–10 px: Skat „Gereizt“, Schnapsen „Aufgeba“, Würfel-▶, Spielstand-Namen, Meldungs-Beschriftungen, Rundenende). Im Hochformat sitzt „Aufgeben“ (Schnapsen) bei 360–444 px Breite und auch bei kurzen Bildschirmen (Höhe 640–760) nicht mehr auf dem Trumpf-Chip: es steht jetzt in der Info-Zeile neben „Talon“. Doppelkopf: Ansage-Knöpfe liegen bei 360 px nicht mehr auf der eigenen Plakette; in den 4er-Tischen (Doppelkopf, Gaigel, Schafkopf, Lupfen) stehen die Info-Chips im Querformat nicht mehr auf der linken Plakette. Wunschliste bei „Groß“: Beschreibungen vorher 13,6 px → jetzt 20 px, Häkchen vorher 18 px → jetzt 26 px. Dazu ohne Bild: Freundesliste nennt Warteschlangen-Tische in der eigenen Sprache; das Rangliste-Stylesheet (.rk / .rk-pool / .rk-name) leckt nicht mehr in Liga-, Turnier- und Rang-Karten.",
+  "issue": "wirtshaus#162",
+  "rows": [
+   {
+    "label": "Schnapsen Hochformat 405×700: „Aufgeben“ vs. Trumpf-Chip",
+    "before": "changes/2026-10-29-layout-leftovers-219/01-before-gu-schnapsen-playing-405x700.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/02-after-pg-schnapsen-playing-405x700.webp"
+   },
+   {
+    "label": "Skat Querformat 844×390: „Gereizt“, Zählkasten",
+    "before": "changes/2026-10-29-layout-leftovers-219/03-before-before-skat-844x390.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/04-after-final-skat-844x390.webp"
+   },
+   {
+    "label": "Schnapsen Querformat 844×390: „Aufgeba“, Zählkasten",
+    "before": "changes/2026-10-29-layout-leftovers-219/05-before-before-schnapsen-playing-844x390.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/06-after-final-schnapsen-playing-844x390.webp"
+   },
+   {
+    "label": "Doppelkopf Querformat 915×412: Info-Chips nicht mehr auf der Plakette",
+    "before": "changes/2026-10-29-layout-leftovers-219/07-before-before-doppelkopf-915x412.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/08-after-final-doppelkopf-915x412.webp"
+   },
+   {
+    "label": "Fünf Würfel Querformat 844×390: ▶-Markierung",
+    "before": "changes/2026-10-29-layout-leftovers-219/09-before-before-wuerfel-844x390.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/10-after-final-wuerfel-844x390.webp"
+   },
+   {
+    "label": "Wunschliste bei „Groß“ (Handy hoch)",
+    "before": "changes/2026-10-29-layout-leftovers-219/11-before-qp219-dialog-gross.webp",
+    "after": "changes/2026-10-29-layout-leftovers-219/12-after-qp219-dialog-gross.webp"
+   }
+  ],
+  "sha": "8d7da16d"
  }
 ]
