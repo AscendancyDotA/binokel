@@ -4323,5 +4323,23 @@
    }
   ],
   "sha": "fcc93a63"
+ },
+ {
+  "id": "i215-lupfen-cashout",
+  "date": "2026-10-29T04:01:22.730Z",
+  "title": "Entwurf: Lupfen – Hinweis, wer wie viele Taler mitnimmt",
+  "text": "Was: Verlässt jemand einen Lupfen-Tisch mit Taler-Einsatz mitten in der Partie mit seinem Stapel (Abstimmung „Tisch verlassen“), bekommt er die Taler sofort ausbezahlt – jetzt sehen das auch alle: am Tisch erscheint „Karle nimmt 34 Taler mit.“, der Gehende selbst liest „Du nimmst 34 Taler mit – sie sind schon in deinem Geldbeutel.“ (swb/de/en). Wo: unten am Tisch als kurzer Hinweis (auch in der Lobby, falls man schon dort ist). Technik: Server-Nachricht stake.cashout an alle am Tisch (getestet in apps/server/test/lupfen-flow.test.ts); die Bilder zeigen den Hinweis im echten Client (Nachricht für das Bild eingespielt, weil der e2e-Tisch ohne Taler spielt). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#157",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: die anderen am Tisch",
+    "img": "changes/2026-10-29-i215-lupfen-cashout/01-img-online-A-cashout-other.webp"
+   },
+   {
+    "label": "Handy 444×987: der Gehende selbst",
+    "img": "changes/2026-10-29-i215-lupfen-cashout/02-img-online-B-cashout-own.webp"
+   }
+  ],
+  "sha": "d141ce93"
  }
 ]
