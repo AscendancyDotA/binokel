@@ -4845,5 +4845,29 @@
    }
   ],
   "sha": "b85c73b9"
+ },
+ {
+  "id": "i231-wuerfel-proof",
+  "date": "2026-10-29T11:06:55.910Z",
+  "title": "Entwurf: Fünf Würfel – „Ehrlich gewürfelt“ nachprüfbar, Feldnamen quer lesbar",
+  "text": "Würfel-Nachweis: Der Fingerabdruck am Tisch heißt bei Würfelspielen jetzt „Gewürfelt …“. Er legt vor dem ersten Wurf fest, wie alle Würfel der Partie fallen: Jeder Würfel, der nicht liegen bleibt, nimmt die nächste Zahl aus dem Startwert. Dein Gerät merkt sich jeden Wurf, den es am Tisch sieht. In der Wiederholung rechnet „Gewürfelt: nachprüfen“ alle Würfe aus dem offengelegten Startwert nach und vergleicht sie mit den gemerkten (Fünf Würfel und Schocken; bei Schocken zählen nur die Würfel, die nicht unter dem Becher lagen). Handy quer: Die Spalte mit den Feldnamen bekommt den freien Platz, „Dreierpasch“ und „Kleine Straße“ werden nicht mehr gekürzt. Auf main seit 2b7bb30. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#171",
+  "rows": [
+   {
+    "label": "Handy quer 915×412 (englisch)",
+    "before": "changes/2026-10-29-i231-wuerfel-proof/01-before-wf-land-before.webp",
+    "after": "changes/2026-10-29-i231-wuerfel-proof/02-after-wf-land-after.webp"
+   },
+   {
+    "label": "Handy quer 740×360",
+    "before": "changes/2026-10-29-i231-wuerfel-proof/03-before-wf-land-de-before.webp",
+    "after": "changes/2026-10-29-i231-wuerfel-proof/04-after-wf-land-de-after.webp"
+   },
+   {
+    "label": "Wiederholung: Gewürfelt – nachprüfen (Online-Partie aus dem e2e-Lauf)",
+    "img": "changes/2026-10-29-i231-wuerfel-proof/05-img-wf-online-dice-proof.webp"
+   }
+  ],
+  "sha": "733667fa"
  }
 ]
