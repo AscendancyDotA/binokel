@@ -5094,5 +5094,30 @@
    }
   ],
   "sha": "291064f0"
+ },
+ {
+  "id": "quest238-vr-google",
+  "date": "2026-10-29T14:49:20.031Z",
+  "title": "Entwurf: Quest – VR nur nach Antippen, Google-Login ohne Play-Dienste",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Nachgeprüft auf dem aktuellen Stand (main bac80dc0+, Quest-3-Emulation IWER + Quest-Browser-Kennung in Edge): Die Webseite selbst fragt beim Laden KEINE VR-Sitzung an (auch vorher nicht) – der endlose VR-Ladebildschirm kam sehr wahrscheinlich von der installierten Demo-App „Binokel VR“: sie beanspruchte die ganze Webseite, und jede normale Seite darin wartet ewig auf VR. Neu: (1) die Demo-App bekommt eine eigene Seite /vr.html mit eigenem Bereich, die Webseite öffnet wieder im normalen Browser; (2) VR startet nur nach Tippen auf „VR“, hängt der Start, kommt nach 12 s ein Hinweis und du spielst am 2D-Tisch weiter; eine von der Quest mitgebrachte VR-Sitzung wird beendet. (3) Google-Anmeldung: jeder Fehler wird jetzt angezeigt (vorher blieb ein hängendes Google-Fenster stumm), und neu „Mit Google im Browser anmelden“ – geht ohne Google-Play-Dienste, in der App öffnet sich der Browser und die App schließt die Anmeldung selbst ab. Wird erst sichtbar, wenn der Clientschlüssel auf dem Server eingetragen ist (siehe Aufgabe oben). Version: ab dem nächsten Web-Release; die App braucht eine neue APK.",
+  "issue": "wirtshaus#183",
+  "rows": [
+   {
+    "label": "VR-Start hängt (Quest-Laufzeit antwortet nicht): vorher verschwindet der VR-Knopf für immer, jetzt Hinweis + Knopf wieder da",
+    "before": "changes/2026-10-29-quest238-vr-google/01-before-q238-chip-hang.webp",
+    "after": "changes/2026-10-29-quest238-vr-google/02-after-q238-chip-hang.webp"
+   },
+   {
+    "label": "Google im Quest-Browser (Handy hoch): vorher nur Googles Knopf (hier ohne Netz), jetzt „Mit Google im Browser anmelden“",
+    "before": "changes/2026-10-29-quest238-vr-google/03-before-q238-google-quest.webp",
+    "after": "changes/2026-10-29-quest238-vr-google/04-after-q238-google-quest.webp"
+   },
+   {
+    "label": "App ohne Google-Play-Dienste: Browser ist offen, die App wartet – danach angemeldet",
+    "before": "changes/2026-10-29-quest238-vr-google/05-before-q238-apk-waiting.webp",
+    "after": "changes/2026-10-29-quest238-vr-google/06-after-q238-apk-linked.webp"
+   }
+  ],
+  "sha": "3ae76005"
  }
 ]
