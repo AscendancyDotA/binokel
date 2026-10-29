@@ -4796,5 +4796,24 @@
    }
   ],
   "sha": "9e369481"
+ },
+ {
+  "id": "i230-win-ads",
+  "date": "2026-10-29T10:17:49.902Z",
+  "title": "Entwurf: Windows-Deinstallation mit Daten-Haken, Startmenü-Frage mit „Später“, Google-Testanzeigen in der APK",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): **1. Deinstallation (Setup):** Der Deinstaller hat den Haken „Auch Konto-Daten und Einstellungen löschen“ (Englisch: „Also delete account data and settings“), standardmäßig aus. Nur mit Haken wird %LOCALAPPDATA%\\de.binokel.wirtshaus gelöscht (Gastkonto + Einstellungen der Windows-App). Echt gebaut (tauri build, makensis) und den Deinstaller gestartet – Bild links, Haken aus. Ich habe nicht auf „Deinstallieren“ gedrückt, weil auf dem Rechner fremde binokel.exe liefen, die der Deinstaller hätte beenden wollen; das Löschen selbst ist Tauris eigener Code, nur der Text ist ausgetauscht. **2. Startmenü-Frage (portable EXE):** „Später“ fragt nach 7 Tagen wieder, „Nicht mehr fragen (portabel bleiben)“ ist endgültig (Bilder rechts: Handy hochkant und Desktop). **3. Werbung in der GitHub-APK:** Solange ADS_ADMOB_LIVE aus ist, nimmt die Android-App immer den echten AdMob-Anbieter mit Googles Test-Blöcken (isTesting) statt des Platzhalters – auch auf Servern mit dem Testschalter ADS_TEST_SSV (dort bestätigt der Client die Belohnung danach über den Test-Weg, weil Test-Anzeigen keinen SSV-Rückruf schicken). Das Seitenbanner-Plugin bekommt im Testmodus Googles Test-Banner-ID statt der echten Einheit. Die GitHub-APK enthält Ads-SDK + Banner-Plugin (bundle-check der aktuellen wirtshaus.apk: ads SDK yes, side banner yes). **Nicht auf dem Emulator geprüft** (RAM knapp, fremde Emulatoren laufen): per Unit-Tests und Quelltext des AdMob-Plugins belegt. Auf dem Live-Server (ohne ADS_TEST_SSV) erscheinen die Test-Anzeigen, die Belohnung für belohnte Videos bleibt aber „wird geprüft“ – Taler gibt es nur auf einem Test-Server mit ADS_TEST_SSV=1.",
+  "issue": "wirtshaus#178",
+  "rows": [
+   {
+    "label": "Deinstaller (Englisch) · Startmenü-Frage Handy hochkant",
+    "before": "changes/2026-10-29-i230-win-ads/01-before-unin-crop.webp",
+    "after": "changes/2026-10-29-i230-win-ads/02-after-desk-install-444.webp"
+   },
+   {
+    "label": "Startmenü-Frage Desktop 1280×800",
+    "img": "changes/2026-10-29-i230-win-ads/03-img-desk-install-1280.webp"
+   }
+  ],
+  "sha": "9e369481"
  }
 ]
