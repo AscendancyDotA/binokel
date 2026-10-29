@@ -4578,5 +4578,23 @@
    }
   ],
   "sha": "9e2e7833"
+ },
+ {
+  "id": "rt223-ads",
+  "date": "2026-10-29T09:29:02.276Z",
+  "title": "Release-Test: Banner-Platzhalter",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Online-Partie in der Release-APK.",
+  "issue": "wirtshaus#178",
+  "rows": [
+   {
+    "label": "Querformat",
+    "img": "changes/2026-10-29-rt223-ads/01-img-land3.webp"
+   },
+   {
+    "label": "Hochformat",
+    "img": "changes/2026-10-29-rt223-ads/02-img-back1.webp"
+   }
+  ],
+  "sha": "9e2e7833"
  }
 ]
