@@ -4086,5 +4086,19 @@
    }
   ],
   "sha": "7600281"
+ },
+ {
+  "id": "qa212-queuename",
+  "date": "2026-10-29T01:54:11.121Z",
+  "title": "QA: Warteschlangen-Tischname deutsch in Englisch",
+  "text": "Persona-Playtest (Hermes-Subagent claude-opus-5-5, effort medium): Lena (Tablet, Englisch) sitzt an „Gaigel · Warteschlange“.",
+  "issue": "wirtshaus#163",
+  "rows": [
+   {
+    "label": "Tablet hochkant 800×1280, Englisch – Titel oben links",
+    "img": "changes/2026-10-29-qa212-queuename/01-img-lena-m1-end.webp"
+   }
+  ],
+  "sha": "8810b2d"
  }
 ]
