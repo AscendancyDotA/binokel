@@ -4830,5 +4830,20 @@
    }
   ],
   "sha": "b85c73b9"
+ },
+ {
+  "id": "i227-lowend",
+  "date": "2026-10-29T10:43:43.332Z",
+  "title": "Entwurf: Schwache / alte Handys – Messungen im Emulator, Hinweis bei zu altem WebView, Sparstufe",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 227. **Aufbau:** eigene Emulator-Geräte (nicht das von Item 223): i227-a9-720 (Android 9, 2 GB, 2 Kerne, 720×1280 · 240 dpi), i227-a10-480 (Android 10, 480×854 · 240 dpi, nur angelegt), i227-a14go-720 (Android 14, 2 Kerne, 720×1280 · 240 dpi, vom Emulator als ca. 2,5 GB gemeldet), i227-a14-480 (nur angelegt). Beschleunigung läuft (WHPX), Grafik per Software. Genymotion braucht VirtualBox/Hypervisor – im Hyper-V-Gast nicht nutzbar. **Wichtigster Fund:** Auf Android 9 mit dem mitgelieferten WebView 66 (Android 10: 74) startet die App gar nicht – schwarzer Bildschirm, Skriptfehler „Unexpected token =“ (und BigInt ab Chrome 67). Die Seite braucht Chrome ≥ 105 (:has, Container-Abfragen, ES2022). Neu: ab zu altem „Android System WebView“ erscheint ein Hinweis mit Weg in den Play Store (Bild rechts). Android 14 / WebView 113: alle drei Spiele laufen vollständig durch (Binokel 2 Runden, Schnapsen 1 Bummerl, Würfel 13 Runden, 0 JS-Fehler). **Messwerte a14go-720 (Median aus je 3 Läufen, Software-Grafik, Box zusätzlich ausgelastet – Schwankung bis Faktor 3 zwischen Läufen!):** Binokel Bildrate 11,6 → 11,6 /s, Schnapsen 22,7 → 19,5 /s, Würfel 21,1 → 22,5 /s; Anteil Langläufer-Aufgaben 23,5 → 21,9 % (Binokel); App+WebView-Speicher am Tisch ≈ 295–320 MB (vorher/nachher gleich), in der Lobby ≈ 215 MB; Kaltstart bis erster Knopf 8–16 s (alle Läufe, keine Verbesserung messbar), 152 Dateien (112 JS, 30 CSS) beim Start. CPU-Profil Binokel 45 s: Hauptthread 15,3 / 17,0 s (vorher) vs 14,0 / 16,0 s (nachher) ≈ −8 %. **Was gemacht:** (1) WebView-Hinweis, (2) Sparstufe: auf schwachen Handys (Handy-Browser + ≤ 2 GB oder ≤ 2 Kerne, oder Bildrate < 20/s am Tisch) startet „Animationen“ auf „Sanft“ und das Filzrauschen mit Überblendung entfällt – wer „Voll“ wählt, behält alles; Normalstufe bleibt Pixel für Pixel gleich, (3) Seat-Messungen beim Stichgewinn pro Durchgang gebündelt (getBoundingClientRect war ≈ 10 % der Hauptthread-Zeit). **Ehrlich:** Im Gesamtlauf ist die Verbesserung klein (Messrauschen); ohne Schleifenanimationen lief dieselbe Partie im direkten Vergleich im selben Lauf 2–3× flüssiger (Tisch wartet/dealt). Offene Hebel: 30 einzelne CSS-Dateien beim Start (Zusammenlegen ändert die Reihenfolge der Regeln → eigener Auftrag), Karten-Flug per Web-Animations bleibt im „Sanft“-Modus an.",
+  "issue": "wirtshaus#105",
+  "rows": [
+   {
+    "label": "QA / schwache Handys",
+    "before": "changes/2026-10-29-i227-lowend/01-before-a9-first.webp",
+    "after": "changes/2026-10-29-i227-lowend/02-after-a9-after-dialog.webp"
+   }
+  ],
+  "sha": "b85c73b9"
  }
 ]
