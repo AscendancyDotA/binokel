@@ -5510,5 +5510,23 @@
    }
   ],
   "sha": "4910bb63"
+ },
+ {
+  "id": "i258-maumau-release",
+  "date": "2026-10-30T04:44:22.066Z",
+  "title": "Mau-Mau ist freigegeben – Partie-Ende mit „Partie analysieren“",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Mau-Mau steht jetzt im Wirtshaus ohne 🚧 (14 Tage „Neu“, auch in der Sammel-App). Beim Freigabe-Check gefunden und behoben: eine späte Runden-Zusammenfassung kann das Partie-Ende nicht mehr überdecken; die Wertungszeile heißt „Mau-Mau-Wertung (3 Spieler)“. e2e-release-check PASS (eigener Tisch, Warteschlange bis Partie-Ende, Neuladen, Auswertung).",
+  "issue": "wirtshaus#179",
+  "rows": [
+   {
+    "label": "Partie-Ende (Desktop)",
+    "img": "changes/2026-10-30-i258-maumau-release/01-img-maumau-me.webp"
+   },
+   {
+    "label": "Auswertung (Desktop)",
+    "img": "changes/2026-10-30-i258-maumau-release/02-img-maumau-an.webp"
+   }
+  ],
+  "sha": "4910bb63"
  }
 ]
