@@ -6112,5 +6112,33 @@
    }
   ],
   "sha": "6679c306"
+ },
+ {
+  "id": "backgammon-entwurf-279",
+  "date": "2026-10-30T19:46:01.467Z",
+  "title": "Entwurf: Backgammon (Puff)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): so sieht Backgammon aus – Handy hoch, Desktop, Spielende mit „Würfelglück“, Wiederholung mit Auswertung. Oben: vorher/nachher des Fehlers, bei dem beim Spielen ein riesiger weiß-schwarzer Bogen das Brett verdeckte (Fokusrahmen des Browsers im Brett-Maßstab); jetzt bleibt das Brett frei.",
+  "issue": "wirtshaus#189",
+  "rows": [
+   {
+    "label": "Fehler: Bogen über dem Brett",
+    "before": "changes/2026-10-30-backgammon-entwurf-279/01-before-backgammon-desktop-short-14-ph-movedone.webp",
+    "after": "changes/2026-10-30-backgammon-entwurf-279/02-after-online-table.webp"
+   },
+   {
+    "label": "Handy hoch 444×987 · Desktop 1280×800",
+    "before": "changes/2026-10-30-backgammon-entwurf-279/03-before-offline-play.webp",
+    "after": "changes/2026-10-30-backgammon-entwurf-279/04-after-online-table.webp"
+   },
+   {
+    "label": "Spielende Desktop: Würfelglück",
+    "img": "changes/2026-10-30-backgammon-entwurf-279/05-img-offline-matchend.webp"
+   },
+   {
+    "label": "Wiederholung mit Auswertung (Handy)",
+    "img": "changes/2026-10-30-backgammon-entwurf-279/06-img-offline-replay.webp"
+   }
+  ],
+  "sha": "0876ab4f"
  }
 ]
