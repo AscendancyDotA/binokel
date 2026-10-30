@@ -5955,5 +5955,24 @@
    }
   ],
   "sha": "8685d7be"
+ },
+ {
+  "id": "binokel4-partnerspiel-275",
+  "date": "2026-10-30T16:19:07.519Z",
+  "title": "Entwurf: Binokel zu viert – Partnerspiel der Bots",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Zu viert lagen Lehrling bis Profi wirklich fast gleich – ein Fehler: Die Bots reizten zu viert wie zu dritt (nur +40 für den Partner, obwohl seine Meldungen und Stiche voll zählen), ließen sich so den Dabb billig nehmen, reizten gegen den eigenen Partner, und der Profi ging 40 % seiner Spiele ab. Jetzt reizen sie mit Partner-Zugabe und lesen die Gebote des Partners, reizen nicht gegen ihn, schmieren nur, wenn der Stich sicher ist, und spielen zum Partner aus; Suche-Stufen spielen das auch in ihren Rollouts. Gemessen mit festen Paaren gleicher Stufe (A+A gegen B+B, gleiche Blätter, beide Sitzordnungen, 18000 Partien): Lehrling 1120, Stammtisch 1235, Meister 1365, Profi 1420, Experte 1470, Großmeister 1540 – jeder Nachbar schlägt den schwächeren in 59–69 % der Partien. Gemischte Teams: ein Großmeister zieht einen Lehrling stark mit (88 % statt 95 % gegen zwei Lehrlinge). Zu dritt unverändert. Details: docs/bots/binokel.md, Abschnitt Zu viert.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Bot-Stufen zu viert, feste Paare: vorher / nachher",
+    "before": "changes/2026-10-30-binokel4-partnerspiel-275/01-before-ladder-binokel-4-paare-vorher.webp",
+    "after": "changes/2026-10-30-binokel4-partnerspiel-275/02-after-ladder-binokel-4-paare.webp"
+   },
+   {
+    "label": "Gemischte Teams (zufällige Stufe je Platz), nachher",
+    "img": "changes/2026-10-30-binokel4-partnerspiel-275/03-img-ladder-binokel-4-gemischt.webp"
+   }
+  ],
+  "sha": "0a161e0b"
  }
 ]
