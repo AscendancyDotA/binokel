@@ -5814,5 +5814,46 @@
    }
   ],
   "sha": "ce45da4d"
+ },
+ {
+  "id": "i271-newcomer",
+  "date": "2026-10-30T10:25:51.640Z",
+  "title": "Entwurf: Neulinge – kürzere erste Partien, Mau-Mau-Auswertung",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Aus dem Spieltest vom 30.10. (Punkte 4, 5, 7, 9): (1) Jede Lernrunde ist genau ein Spiel – die Runden-Übersicht führt zu „Jetzt richtig spielen“ oder (×) zurück in die Lobby, nie mehr in Spiel 2. (2) Neulinge (weniger als 3 fertige Partien des Spiels, Länge nicht selbst gewählt) spielen gegen Bots kürzer: Skat 6 statt 12 Spiele, Doppelkopf und Schafkopf 4 statt 8, Bauernschnapsen bis 12 statt 24 – darunter steht „für den Anfang kürzer“. Jede Bots-Karte, jeder „Tisch aufmachen“-Dialog, die Binokel-Längenzeile und die Warteschlange zeigen jetzt „⏱ ca. N Min.“ (Schätzung aus Bot-Partien im Tempo eines Neulings). (3) Mau-Mau-Ende wie bei allen anderen Spielen: Kartenglück (offline und online), „Partie analysieren“ (die Analyse gab es schon, der Knopf fehlte wegen eines falschen Feldnamens) und „Dieses Spiel noch einmal – mit denselben Karten“. (4) Doppelkopf-Lernrunde: der Knopf „Vorbehalt …“ öffnete dort eine leere Liste (nur „Gesund“ ist erlaubt) – er fehlt jetzt in der Lernrunde; Schocken hing nicht wirklich (das Testwerkzeug erkannte das Ende der Lernrunde nicht, ist korrigiert). (5) Fachwörter: ein „?“ neben Skat-Wertung/Kneipenregeln (Seeger-Fabian, Eingepasst, Ramsch, Schieberamsch, Bockrunden, Spitze, Kontra & Re), den Doppelkopf-Hausregeln und den Lupfen-Optionen erklärt jedes Wort in einem Satz (schwäbisch/deutsch/englisch).",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Skat · Gegen Bots (Handy): 6 Spiele für den Anfang, ⏱ ca. 10 Min., „?“ bei den Kneipenregeln",
+    "before": "changes/2026-10-30-i271-newcomer/01-before-skat-bots-phone.webp",
+    "after": "changes/2026-10-30-i271-newcomer/02-after-skat-bots-jargon-phone.webp"
+   },
+   {
+    "label": "Mau-Mau · Partie-Ende (Handy): Kartenglück, „Partie analysieren“, dieselben Karten nochmal",
+    "before": "changes/2026-10-30-i271-newcomer/03-before-maumau-matchend-phone.webp",
+    "after": "changes/2026-10-30-i271-newcomer/04-after-maumau-matchend-phone.webp"
+   },
+   {
+    "label": "Mau-Mau · die Analyse, die der neue Knopf öffnet",
+    "img": "changes/2026-10-30-i271-newcomer/05-img-maumau-analysis-phone.webp"
+   },
+   {
+    "label": "Doppelkopf · Hausregeln mit „?“ (Desktop 1280×800)",
+    "before": "changes/2026-10-30-i271-newcomer/06-before-dk-bots-desk.webp",
+    "after": "changes/2026-10-30-i271-newcomer/07-after-dk-bots-jargon-desk.webp"
+   },
+   {
+    "label": "Skat · Tisch aufmachen: „?“ bei Wertung und Hausregeln, Wertung heißt jetzt Seeger-Fabian / Einfach",
+    "img": "changes/2026-10-30-i271-newcomer/08-img-skat-create-jargon-phone.webp"
+   },
+   {
+    "label": "Binokel · Wie lang: Dauer in der Zeile",
+    "img": "changes/2026-10-30-i271-newcomer/09-img-binokel-length-phone.webp"
+   },
+   {
+    "label": "Mau-Mau online (Desktop): Kartenglück vom Server",
+    "img": "changes/2026-10-30-i271-newcomer/10-img-maumau-matchend.webp"
+   }
+  ],
+  "sha": "f1b9967b"
  }
 ]
