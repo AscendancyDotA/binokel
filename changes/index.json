@@ -5641,5 +5641,22 @@
    }
   ],
   "sha": "ad4c7320"
+ },
+ {
+  "id": "puzzle-answer-after-266",
+  "date": "2026-10-30T06:58:27.112Z",
+  "title": "Rätsel des Tages: Lösung erst nach deiner Antwort",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Der Server schickt das Rätsel jetzt ohne Lösung (kein bester Zug, keine Bewertungen, Zugmöglichkeiten in neutraler Reihenfolge). Du wählst deinen Zug, der Server prüft die Antwort, bucht die Taler höchstens einmal pro Tag und schickt dann die Auflösung. Aussehen der Auflösung unverändert (für alle Spiele, ein gemeinsamer Bildschirm); Sicherheitslücke S-17 geschlossen. Ältere App-Versionen zeigen bis zum Update 'heute kein Rätsel'.",
+  "issue": "wirtshaus#144",
+  "rows": [
+   {
+    "label": "Sicherheit / Rätsel",
+    "img": "changes/2026-10-30-puzzle-answer-after-266/01-img-puzzle-binokel-reveal-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-30-puzzle-answer-after-266/02-img-puzzle-skat-reveal-phone.webp"
+   }
+  ],
+  "sha": "e1c86b96"
  }
 ]
