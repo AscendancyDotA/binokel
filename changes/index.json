@@ -6098,5 +6098,19 @@
    }
   ],
   "sha": "6679c306"
+ },
+ {
+  "id": "gamelist285-setting",
+  "date": "2026-10-30T17:09:37.436Z",
+  "title": "Entwurf: Einstellung „Reihenfolge der Spiele“",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die neue Einstellung am Handy (Einstellungen → Spiel & Tisch → Mehr Einstellungen).",
+  "issue": "wirtshaus#188",
+  "rows": [
+   {
+    "label": "item 285 / Entwurf",
+    "img": "changes/2026-10-30-gamelist285-setting/01-img-gamelist285-phone-setting.webp"
+   }
+  ],
+  "sha": "6679c306"
  }
 ]
