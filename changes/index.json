@@ -5925,5 +5925,35 @@
    }
   ],
   "sha": "7b0b16a1"
+ },
+ {
+  "id": "i278-spielrichtung",
+  "date": "2026-10-30T16:17:11.323Z",
+  "title": "Entwurf: Spielrichtung je Spiel",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Jedes Spiel sitzt jetzt in seiner üblichen Spielrichtung am Tisch. Binokel und Gaigel laufen gegen den Uhrzeigersinn (der nächste Spieler sitzt rechts von dir, Binokel sieht aus wie bisher); Skat, Doppelkopf, Schafkopf, Bauernschnapsen und Schwimmen im Uhrzeigersinn (der nächste sitzt links). Lupfen, Mau-Mau, Schocken und Fünf Würfel: Quellen uneinig oder stumm, Best Guess im Uhrzeigersinn (docs/rules/UNKLAR.md, im Register apps/web/src/games/direction.ts mit einer Zeile umstellbar; Schocken/Würfel zeigen eine Reihe, dort wird nichts gespiegelt). Nur Darstellung: die Engines zählen die Sitze unverändert. Stich-Plätze, Kartenflug, Sprechblasen, Spielerfarben und Wiederholungen folgen. Oben vorher, unten nachher.",
+  "issue": "wirtshaus#187",
+  "rows": [
+   {
+    "label": "Skat, Desktop",
+    "before": "changes/2026-10-30-i278-spielrichtung/01-before-before-skat-1280x800.webp",
+    "after": "changes/2026-10-30-i278-spielrichtung/02-after-after-skat-1280x800.webp"
+   },
+   {
+    "label": "Doppelkopf, Handy hochkant",
+    "before": "changes/2026-10-30-i278-spielrichtung/03-before-before-doppelkopf-444x987.webp",
+    "after": "changes/2026-10-30-i278-spielrichtung/04-after-after-doppelkopf-444x987.webp"
+   },
+   {
+    "label": "Mau-Mau mit 5, Desktop",
+    "before": "changes/2026-10-30-i278-spielrichtung/05-before-before-maumau5-1280x800.webp",
+    "after": "changes/2026-10-30-i278-spielrichtung/06-after-after-maumau5-1280x800.webp"
+   },
+   {
+    "label": "Schwimmen mit 6, Handy hochkant",
+    "before": "changes/2026-10-30-i278-spielrichtung/07-before-before-schwimmen6-444x987.webp",
+    "after": "changes/2026-10-30-i278-spielrichtung/08-after-after-schwimmen6-444x987.webp"
+   }
+  ],
+  "sha": "8685d7be"
  }
 ]
