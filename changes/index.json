@@ -6172,5 +6172,23 @@
    }
   ],
   "sha": "69731bdc"
+ },
+ {
+  "id": "sounds289",
+  "date": "2026-10-30T23:54:26.555Z",
+  "title": "Töne je Spielart: Würfel, Brett, Chips, Ziehen, Klopfen, Ansagen",
+  "text": "Töne je Spielart (Hermes-Subagent claude-sonnet-5-5, effort high): Würfel- und Brettspiele klingen jetzt nach Würfeln, Holzsteinen und Chips statt nach Karten. Neue Töne (Kenney, CC0): Würfeln, Stein setzen, Stein schlagen, Chips, Karte ziehen, Klopfen, Ansage (Kontra/Re/Spiel), Runde verloren; der bisher nie gespielte Gewinn-Ton läuft am Rundenende. Jedes Spiel hat jetzt eine Tabelle games/<Spiel>/sfx.ts, die jedem Ereignis der Engine einen Ton (oder bewusst Stille) zuordnet; ein Test schlägt an, wenn ein Ereignis fehlt oder ein Würfel-/Brettspiel einen Kartenton benutzt. Neu hörbar: Skat Reizen/Kontra/Re, Gaigel + Bauernschnapsen Melden/Kontra, Mau-Mau/Schnapsen/Gaigel Ziehen, Schwimmen Klopfen, Lupfen Pott-Chips, Watten Ansagen/Bieten. Der Rundenende-Ton (Gewinn/Verlust/Remis) kommt zentral aus dem Rundenende-Rahmen. Das Partie-Ende war nie stumm (Fanfare/Fail der Platzierungsanzeige) – dort wurde nichts doppelt gelegt. Binokel bleibt tongleich. Beleg: tools/e2e-sfx289.mjs liest window.__binokelSfx.log (Würfel: roll, Backgammon: roll+piece, Vier: piece+chips, Skat: bid+announce+lose, keine Kartentöne bei Würfel/Brett). Bilder: Würfel-Tisch nach dem Wurf, Skat-Rundenende (hier: Verlust-Ton). Nicht mit dem Ohr abgehört (headless), nur über das Ton-Protokoll geprüft.",
+  "issue": "wirtshaus#190",
+  "rows": [
+   {
+    "label": "Würfel nach dem Wurf (Ton: Würfeln)",
+    "img": "changes/2026-10-30-sounds289/01-img-sfx289-wuerfel.webp"
+   },
+   {
+    "label": "Skat-Rundenende (Ton: Verlust)",
+    "img": "changes/2026-10-30-sounds289/02-img-sfx289-skat-roundend.webp"
+   }
+  ],
+  "sha": "cbde7184"
  }
 ]
