@@ -6140,5 +6140,37 @@
    }
   ],
   "sha": "0876ab4f"
+ },
+ {
+  "id": "281-watten",
+  "date": "2026-10-30T23:10:40.659Z",
+  "title": "Entwurf: Watten im Wirtshaus",
+  "text": "Neues Spiel Watten (zu viert in zwei Paaren oder zu zweit), mit dem neuen Weli im Stil des württembergischen Blatts. Gebaut und angesehen von Hermes-Subagent (claude-opus-5-5, effort medium); sichtbar, sobald der Server watten freischaltet.",
+  "issue": "wirtshaus#191",
+  "rows": [
+   {
+    "label": "Neue Karte: Weli (links) neben Schellen-7 und -8 desselben Blatts",
+    "img": "changes/2026-10-30-281-watten/01-img-weli-S6-S7-S8.webp"
+   },
+   {
+    "label": "Desktop zu viert: Trumpf ansagen (Schlag König)",
+    "img": "changes/2026-10-30-281-watten/02-img-wt-watten4-1280x800.webp"
+   },
+   {
+    "label": "Handy zu viert / Handy zu zweit online: Schlag ansagen",
+    "before": "changes/2026-10-30-281-watten/03-before-wt-watten4-444x987.webp",
+    "after": "changes/2026-10-30-281-watten/04-after-online-B-schlag.webp"
+   },
+   {
+    "label": "Desktop online: Gebot beantworten · Karte spielen (kein Farbzwang)",
+    "before": "changes/2026-10-30-281-watten/05-before-online-A-reply.webp",
+    "after": "changes/2026-10-30-281-watten/06-after-online-A-play.webp"
+   },
+   {
+    "label": "Handy quer zu viert",
+    "img": "changes/2026-10-30-281-watten/07-img-wt-watten4-844x390.webp"
+   }
+  ],
+  "sha": "69731bdc"
  }
 ]
