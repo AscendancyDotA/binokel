@@ -5330,5 +5330,52 @@
    }
   ],
   "sha": "95b0b15e"
+ },
+ {
+  "id": "item257-bauernschnapsen-release",
+  "date": "2026-10-30T02:45:33.309Z",
+  "title": "Entwurf: Bauernschnapsen freigegeben – Lernrunde, Schwäbisch, „Neu“ statt 🚧",
+  "text": "Bauernschnapsen ist im Wirtshaus freigegeben: kein 🚧 mehr, 14 Tage „Neu“. Neu dazu: eine kurze Lernrunde (ein Normalspiel als Vorhand, Tipps zu Trumpf, Ansage, Ausspielen, Bedienen und „66 – genug“), die Regelhilfe auf Schwäbisch mit Abschnitt „Fair“, Rätsel des Tages, „Nachprüfen“ des Mischens und die Kartenglück-Statistik. Live, sobald der Hauptagent GAMES_RELEASED auf Oracle setzt. Hermes-Subagent (claude-opus-5-5, effort medium), main 2b563936.",
+  "issue": "wirtshaus#175",
+  "rows": [
+   {
+    "label": "Spielen-Tab Handy 444×987: 🚧 → Neu",
+    "before": "changes/2026-10-30-item257-bauernschnapsen-release/01-before-lobby-phone.webp",
+    "after": "changes/2026-10-30-item257-bauernschnapsen-release/02-after-lobby-phone.webp"
+   },
+   {
+    "label": "Spielen-Tab Desktop 1280×800",
+    "before": "changes/2026-10-30-item257-bauernschnapsen-release/03-before-lobby-desk.webp",
+    "after": "changes/2026-10-30-item257-bauernschnapsen-release/04-after-lobby-desk.webp"
+   },
+   {
+    "label": "Tisch Handy: vorher ohne Lernrunde → Lernrunde mit Tipp und leuchtender Taste",
+    "before": "changes/2026-10-30-item257-bauernschnapsen-release/05-before-table-phone.webp",
+    "after": "changes/2026-10-30-item257-bauernschnapsen-release/06-after-bauernschnapsen-tip-trump-phone.webp"
+   },
+   {
+    "label": "Tisch Desktop: Lernrunde, Tipp „66 – genug“",
+    "before": "changes/2026-10-30-item257-bauernschnapsen-release/07-before-table-desk.webp",
+    "after": "changes/2026-10-30-item257-bauernschnapsen-release/08-after-bauernschnapsen-tip-claim-desk.webp"
+   },
+   {
+    "label": "Regelhilfe auf Schwäbisch (vorher Hochdeutsch)",
+    "before": "changes/2026-10-30-item257-bauernschnapsen-release/09-before-help-swb-phone.webp",
+    "after": "changes/2026-10-30-item257-bauernschnapsen-release/10-after-help-swb-phone.webp"
+   },
+   {
+    "label": "Neu bei Bauernschnapsen? – Karte im Spielen-Tab",
+    "img": "changes/2026-10-30-item257-bauernschnapsen-release/11-img-bauernschnapsen-card-phone.webp"
+   },
+   {
+    "label": "Online-Partie, Handy quer 987×444 (englisch)",
+    "img": "changes/2026-10-30-item257-bauernschnapsen-release/12-img-bauernschnapsen-online-land.webp"
+   },
+   {
+    "label": "Partie analysieren (gespeicherte Online-Partie)",
+    "img": "changes/2026-10-30-item257-bauernschnapsen-release/13-img-online-analysis.webp"
+   }
+  ],
+  "sha": "2b563936"
  }
 ]
