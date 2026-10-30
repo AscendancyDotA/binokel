@@ -5295,5 +5295,40 @@
    }
   ],
   "sha": "71ae0cb2"
+ },
+ {
+  "id": "i251-sitz-himmelsrichtung",
+  "date": "2026-10-30T00:07:59.082Z",
+  "title": "Entwurf: Dein Namensschild sitzt im Süden – Handy quer, Zuschauen, 2×2",
+  "text": "Handy quer (sehr niedrige Höhe, auch jede Zelle der 2×2-Ansicht am Desktop): das Schild des unteren Platzes (eigener Platz bzw. beim Zuschauen der gewählte) stand seit dem ersten Web-Client (14.10.) auf halber Höhe am linken Rand. Seit den „Sitzplätzen wie am echten Tisch“ (#72, 26.10.) sitzt der linke Spieler genau darüber – dein Schild las sich wie seins. Jetzt steht es unten links direkt neben deinen Karten; ist die Hand sehr breit (Dabb aufgenommen, große Karten), rücken die Karten etwas enger, statt dass das Schild in den Westen wandert. Gilt für alle Spiele mit dem gemeinsamen Tisch (Binokel, Gaigel, Schafkopf, Skat, Doppelkopf, Lupfen, Mau-Mau, Bauernschnapsen; Schnapsen hatte das schon). Das Platzdeckchen des Zuschau-Sitzes liegt jetzt auch unten. Desktop 1280×800 und Handy hochkant bleiben pixelgleich. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "binokel#16",
+  "rows": [
+   {
+    "label": "Zuschauen 4er, 1130×324 (dein Bericht)",
+    "before": "changes/2026-10-30-i251-sitz-himmelsrichtung/01-before-before-m4-only-1130x324.webp",
+    "after": "changes/2026-10-30-i251-sitz-himmelsrichtung/02-after-a2-m4-only-1130x324.webp"
+   },
+   {
+    "label": "Selbst spielen 4er, 844×390",
+    "before": "changes/2026-10-30-i251-sitz-himmelsrichtung/03-before-bk-playing-p4-844x390-s1.webp",
+    "after": "changes/2026-10-30-i251-sitz-himmelsrichtung/04-after-bk-playing-p4-844x390-s1.webp"
+   },
+   {
+    "label": "Doppelkopf, 1130×324",
+    "before": "changes/2026-10-30-i251-sitz-himmelsrichtung/05-before-b-doppelkopf-1130x324.webp",
+    "after": "changes/2026-10-30-i251-sitz-himmelsrichtung/06-after-a-doppelkopf-1130x324.webp"
+   },
+   {
+    "label": "2×2-Ansicht, 1280×800",
+    "before": "changes/2026-10-30-i251-sitz-himmelsrichtung/07-before-before-wirtshaus-1280x800-four.webp",
+    "after": "changes/2026-10-30-i251-sitz-himmelsrichtung/08-after-after-wirtshaus-1280x800-four.webp"
+   },
+   {
+    "label": "Unverändert: Desktop 1280×800 und hochkant 444×987",
+    "before": "changes/2026-10-30-i251-sitz-himmelsrichtung/09-before-bk-bid-p4-1280x800-s1.webp",
+    "after": "changes/2026-10-30-i251-sitz-himmelsrichtung/10-after-bk-bid-p4-444x987-s1.webp"
+   }
+  ],
+  "sha": "95b0b15e"
  }
 ]
