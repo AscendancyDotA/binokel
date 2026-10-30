@@ -5377,5 +5377,63 @@
    }
   ],
   "sha": "2b563936"
+ },
+ {
+  "id": "lupfen-release256",
+  "date": "2026-10-30T03:05:45.956Z",
+  "title": "Entwurf: Lupfen freigegeben – Lernrunde, Rätsel, Misch-Nachweis, Regeln auf Schwäbisch",
+  "text": "Lupfen ist im Wirtshaus nicht mehr „im Bau“: 14 Tage mit „Neu“, neue Lernrunde (zwei Runden: Pflichtrunde, dann selbst lupfen und ausspielen), Rätsel des Tages (erste Karte einer Runde, in Chips), „Gemischt: nachprüfen“ in der Wiederholung, Kartenglück-Seite (Säue/Zehner), Regelhilfe auf Schwäbisch mit Abschnitt „Fair“, im Dialog „Tisch aufmachen“ die Zeile „Um Taler“. Alle Zeilen der Freigabe-Liste grün (docs/RELEASE-READINESS.md). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#173",
+  "rows": [
+   {
+    "label": "Lobby Handy: 🚧 → „Nei“ + Lernrunde",
+    "before": "changes/2026-10-30-lupfen-release256/01-before-lobby-phone.webp",
+    "after": "changes/2026-10-30-lupfen-release256/02-after-lobby-phone.webp"
+   },
+   {
+    "label": "Lobby Desktop",
+    "before": "changes/2026-10-30-lupfen-release256/03-before-lobby-desk.webp",
+    "after": "changes/2026-10-30-lupfen-release256/04-after-lobby-desk.webp"
+   },
+   {
+    "label": "Regelhilfe Schwäbisch (vorher Hochdeutsch)",
+    "before": "changes/2026-10-30-lupfen-release256/05-before-help-swb-phone.webp",
+    "after": "changes/2026-10-30-lupfen-release256/06-after-help-swb-phone.webp"
+   },
+   {
+    "label": "Regelhilfe Ende: Spielchips und Taler, Fair",
+    "before": "changes/2026-10-30-lupfen-release256/07-before-help-swb-end-desk.webp",
+    "after": "changes/2026-10-30-lupfen-release256/08-after-help-swb-end-desk.webp"
+   },
+   {
+    "label": "Neu: Rätsel des Tages (Handy)",
+    "img": "changes/2026-10-30-lupfen-release256/09-img-puzzle-phone.webp"
+   },
+   {
+    "label": "Neu: Rätsel des Tages (Desktop)",
+    "img": "changes/2026-10-30-lupfen-release256/10-img-puzzle-desk.webp"
+   },
+   {
+    "label": "Neu: Lernrunde – Lupf-Runde (Handy)",
+    "img": "changes/2026-10-30-lupfen-release256/11-img-lupfen-tip-lift-phone.webp"
+   },
+   {
+    "label": "Neu: Lernrunde – Start (Desktop)",
+    "img": "changes/2026-10-30-lupfen-release256/12-img-lupfen-tip-welcome-desk.webp"
+   },
+   {
+    "label": "Neu: Lernrunde – Ende (Handy)",
+    "img": "changes/2026-10-30-lupfen-release256/13-img-lupfen-end-phone.webp"
+   },
+   {
+    "label": "Persona-Lauf: Handy quer online",
+    "img": "changes/2026-10-30-lupfen-release256/14-img-lupfen-online-land.webp"
+   },
+   {
+    "label": "Persona-Lauf: Auswertung mit Misch-Nachweis",
+    "img": "changes/2026-10-30-lupfen-release256/15-img-lupfen-analysis.webp"
+   }
+  ],
+  "sha": "1f8e5e17"
  }
 ]
