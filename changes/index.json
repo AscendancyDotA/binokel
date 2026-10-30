@@ -5481,19 +5481,6 @@
   "sha": "5d27bbb0"
  },
  {
-  "id": "i258-schocken-release",
-  "date": "2026-10-30T04:43:55.960Z",
-  "title": "t",
-  "text": "t",
-  "issue": "wirtshaus#180",
-  "rows": [
-   {
-    "img": "changes/2026-10-30-i258-schocken-release/01-img-schocken-me.webp"
-   }
-  ],
-  "sha": "4910bb63"
- },
- {
   "id": "i258-schocken-release2",
   "date": "2026-10-30T04:44:14.999Z",
   "title": "Schocken ist freigegeben – Partie-Ende mit „Partie analysieren“",
