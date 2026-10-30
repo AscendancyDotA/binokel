@@ -5435,5 +5435,23 @@
    }
   ],
   "sha": "1f8e5e17"
+ },
+ {
+  "id": "muehle-entwurf",
+  "date": "2026-10-30T03:47:31.575Z",
+  "title": "Entwurf: Mühle – das Brettspiel am Stammtisch",
+  "text": "Neu im Wirtshaus: Mühle – neun Steine setzen, ziehen, Mühlen schließen und dem anderen Steine wegnehmen. Mit Bots in sechs Stufen, Online-Tisch, Zuschauen, Lernrunde und Regelhilfe auf Schwäbisch, Deutsch und Englisch. Gebaut von Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#185",
+  "rows": [
+   {
+    "label": "Handy hochkant – Setzen mit Tipp für den Anfang",
+    "img": "changes/2026-10-30-muehle-entwurf/01-img-offline-play.webp"
+   },
+   {
+    "label": "Desktop – Online-Tisch mit Zuschauern",
+    "img": "changes/2026-10-30-muehle-entwurf/02-img-online-table.webp"
+   }
+  ],
+  "sha": "aa2aebea"
  }
 ]
