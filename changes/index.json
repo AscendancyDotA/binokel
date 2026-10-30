@@ -5453,5 +5453,31 @@
    }
   ],
   "sha": "aa2aebea"
+ },
+ {
+  "id": "bots-matchmaking-doku",
+  "date": "2026-10-30T04:41:52.539Z",
+  "title": "Entwurf: Bots & Matchmaking dokumentiert",
+  "text": "Neu: docs/bots/ – eine Übersicht (Warteschlange, Wertung OpenSkill, wie die Bot-Wertungen verankert sind, Kalibrierphase neuer Spieler, Ligen/Ränge) und je Spiel eine Seite (13 Spiele inkl. Mühle) mit Bot-Stufen, bisheriger Kalibrierung, Server-Vorgaben und einer Nachmessung vom 30.10. Grafiken: Wertung der Bot-Stufen während der Ladder und simulierte neue Spieler (Lehrling-/Meister-/Großmeister-Stärke) in der echten Warteschlange, gerechnet mit dem Server-Code. Wichtigste Befunde (nichts geändert, Vorschläge in docs/bots/README.md §7): neue Konten sind gegen Bots erst nach ~28–42 Partien nicht mehr vorläufig, der erste Rang kommt aber nach 10; Binokel zu viert nutzt die Dreier-Vorgaben, dort findet die Wertung die Stärke nicht; Elo-Vorgaben (Schnapsen, Gaigel, Vier, Mühle, Würfel, Schocken, Bauernschnapsen) sind auf der OpenSkill-Skala zu eng; einige Top-Stufen trennen sich nicht. Nachmachen: bun tools/bot-charts.ts (ladder / newbies / render), Ladders mit --trace. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Binokel: Bot-Stufen in der Ladder (zu dritt)",
+    "img": "changes/2026-10-30-bots-matchmaking-doku/01-img-ladder-binokel.webp"
+   },
+   {
+    "label": "Binokel zu dritt: neue Spieler finden ihre Stärke, aber langsam",
+    "img": "changes/2026-10-30-bots-matchmaking-doku/02-img-newbies-binokel-3.webp"
+   },
+   {
+    "label": "Binokel zu viert: Wertung trennt die Stärken nicht",
+    "img": "changes/2026-10-30-bots-matchmaking-doku/03-img-newbies-binokel-4.webp"
+   },
+   {
+    "label": "Schnapsen: OpenSkill-Abstände viel größer als die Elo-Vorgaben",
+    "img": "changes/2026-10-30-bots-matchmaking-doku/04-img-ladder-schnapsen.webp"
+   }
+  ],
+  "sha": "5d27bbb0"
  }
 ]
