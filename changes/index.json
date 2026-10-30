@@ -5855,5 +5855,44 @@
    }
   ],
   "sha": "f1b9967b"
+ },
+ {
+  "id": "sw273-schwimmen",
+  "date": "2026-10-30T12:27:17.872Z",
+  "title": "Neues Spiel: Schwimmen (31)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium): Schwimmen ist im Wirtshaus – eigener Tisch, gegen Bots, online (3–6 Spieler), Lernrunde, Rätsel, Wirtshaus-TV, Wiederholung mit Auswertung. Bilder: Handy hoch und Desktop. Best Guess gesetzt: Feuer an, Schieben an, Klopfen schon in Runde 1, Geber wählt aus zwei Blättern, 3 Leben + Schwimmen (docs/rules/SCHWIMMEN.md, UNKLAR.md).",
+  "issue": "wirtshaus#186",
+  "rows": [
+   {
+    "label": "Am Zug: Handy / Desktop",
+    "before": "changes/2026-10-30-sw273-schwimmen/01-before-turn-phone.webp",
+    "after": "changes/2026-10-30-sw273-schwimmen/02-after-turn-desk.webp"
+   },
+   {
+    "label": "Geber wählt: Handy / Desktop",
+    "before": "changes/2026-10-30-sw273-schwimmen/03-before-choose-phone.webp",
+    "after": "changes/2026-10-30-sw273-schwimmen/04-after-choose-desk.webp"
+   },
+   {
+    "label": "Sechs am Tisch: Handy / Desktop",
+    "before": "changes/2026-10-30-sw273-schwimmen/05-before-turn-6-phone.webp",
+    "after": "changes/2026-10-30-sw273-schwimmen/06-after-turn-6-desk.webp"
+   },
+   {
+    "label": "Rundenende online (Handy) / Zuschauer (Desktop)",
+    "before": "changes/2026-10-30-sw273-schwimmen/07-before-online-B-roundend.webp",
+    "after": "changes/2026-10-30-sw273-schwimmen/08-after-online-spectator.webp"
+   },
+   {
+    "label": "Lernrunde: Tauschen (Handy) / Rundenende (Desktop)",
+    "before": "changes/2026-10-30-sw273-schwimmen/09-before-schwimmen-tip-swap-phone.webp",
+    "after": "changes/2026-10-30-sw273-schwimmen/10-after-schwimmen-end-desk.webp"
+   },
+   {
+    "label": "Wiederholung mit Auswertung",
+    "img": "changes/2026-10-30-sw273-schwimmen/11-img-schwimmen-analysis.webp"
+   }
+  ],
+  "sha": "9882bee4"
  }
 ]
