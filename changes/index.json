@@ -6014,5 +6014,19 @@
    }
   ],
   "sha": "d483ec3b"
+ },
+ {
+  "id": "item276-lobby-banner",
+  "date": "2026-10-30T16:32:37.805Z",
+  "title": "Lobby-Banner deckt den Update-Hinweis nicht mehr zu",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 276. Das Banner in der Android-App liegt nativ über dem unteren Bildschirmrand und hat Hinweise wie das „Update“ verdeckt. Jetzt reserviert die Seite den Platz des Banners (Lobby wird um die Bannerhöhe kürzer) und alle Hinweise am unteren Rand (Update, „Alle Werbung an“, Toasts) sitzen darüber. Bild: Android-Emulator, Google-Test-Banner, ein nachgestellter Update-Hinweis steht über dem Banner. Der Issue bleibt offen.",
+  "issue": "binokel#17",
+  "rows": [
+   {
+    "label": "Emulator: Test-Banner über der Tab-Leiste, Hinweis darüber",
+    "img": "changes/2026-10-30-item276-lobby-banner/01-img-01-lobby-banner-update-note.webp"
+   }
+  ],
+  "sha": "d483ec3b"
  }
 ]
