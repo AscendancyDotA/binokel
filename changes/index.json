@@ -5696,5 +5696,20 @@
    }
   ],
   "sha": "3ccd54cb"
+ },
+ {
+  "id": "qa269-botnames",
+  "date": "2026-10-30T09:10:46.247Z",
+  "title": "Handy: Bot-Namen am Tisch lesbar (Mau-Mau, Skat, Doppelkopf …)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Spieltest wie ein Mensch: Auf dem Handy standen bei Skat, Doppelkopf, Gaigel, Mau-Mau, Schafkopf u. a. zwei Bots nebeneinander als „Stammtis… / Stammtis…“ – man konnte sie nicht unterscheiden. Jetzt zeigen die schmalen Plätze die kurzen Namen wie am Binokel-Tisch („Karle“, „Schorsch“, „Sepp“); Desktop und Binokel bleiben unverändert, der volle Name steht im Tooltip und in der Punktetafel.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Mau-Mau, Handy hochkant 412×915",
+    "before": "changes/2026-10-30-qa269-botnames/01-before-maumau-phone-14-ph-wish.webp",
+    "after": "changes/2026-10-30-qa269-botnames/02-after-after-maumau-phone.webp"
+   }
+  ],
+  "sha": "c070bc9e"
  }
 ]
