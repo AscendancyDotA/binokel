@@ -5881,5 +5881,49 @@
    }
   ],
   "sha": "9882bee4"
+ },
+ {
+  "id": "i274-compass-seats",
+  "date": "2026-10-30T14:54:49.656Z",
+  "title": "Sitzplätze wie am Tisch in allen Spielen",
+  "text": "Wie bei Binokel zu viert sitzen jetzt in allen Kartenspielen die Mitspieler wie an einem echten Tisch: gegenüber oben unter der Kopfleiste, links und rechts am Rand auf Höhe des Stichs, zu fünft/sechst im Bogen in Spielreihenfolge. Gilt mit der Einstellung „Sitzplätze: Wie am Tisch“ (Standard), „Kompakt“ zeigt die alte Anordnung. Dazu Mau-Mau: kurze Namen in der Punktetafel und „Grenze 100“ statt „/ 100“. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#187",
+  "rows": [
+   {
+    "label": "Mau-Mau zu viert, Handy hochkant (Besitzer-Report)",
+    "before": "changes/2026-10-30-i274-compass-seats/01-before-before-maumau4-412x915.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/02-after-final-maumau4-412x915.webp"
+   },
+   {
+    "label": "Mau-Mau zu fünft",
+    "before": "changes/2026-10-30-i274-compass-seats/03-before-before-maumau5-412x915.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/04-after-final-maumau5-412x915.webp"
+   },
+   {
+    "label": "Gaigel zu viert über Kreuz",
+    "before": "changes/2026-10-30-i274-compass-seats/05-before-before-gaigel4-412x915.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/06-after-final-gaigel4-412x915.webp"
+   },
+   {
+    "label": "Lupfen zu sechst",
+    "before": "changes/2026-10-30-i274-compass-seats/07-before-before-lupfen6-412x915.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/08-after-final-lupfen6-412x915.webp"
+   },
+   {
+    "label": "Doppelkopf, Handy quer",
+    "before": "changes/2026-10-30-i274-compass-seats/09-before-before-doppelkopf-844x390.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/10-after-final-doppelkopf-844x390.webp"
+   },
+   {
+    "label": "Schwimmen zu sechst, Desktop",
+    "before": "changes/2026-10-30-i274-compass-seats/11-before-before-schwimmen6-1280x800.webp",
+    "after": "changes/2026-10-30-i274-compass-seats/12-after-final-schwimmen6-1280x800.webp"
+   },
+   {
+    "label": "Einstellung „Kompakt“: wie bisher",
+    "img": "changes/2026-10-30-i274-compass-seats/13-img-k-maumau4-412x915.webp"
+   }
+  ],
+  "sha": "7b0b16a1"
  }
 ]
