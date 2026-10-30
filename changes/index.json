@@ -6028,5 +6028,45 @@
    }
   ],
   "sha": "d483ec3b"
+ },
+ {
+  "id": "bot-tiers2-107",
+  "date": "2026-10-30T17:02:24.294Z",
+  "title": "Entwurf: Bot-Stufen getrennt, Teil 2",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Doppelkopf, Schafkopf und Gaigel haben jetzt klar getrennte Bot-Stufen (Ladder-Grafiken vorher/nachher unten; Doppelkopf-Meister patzt etwas, Schafkopf-Stammtisch/Meister/Profi neu abgestimmt, Gaigel-Meister 4 Welten, Profi 8). Wo zwei Stufen gleich stark sind (Lupfen, Mau-Mau, Schocken, Bauernschnapsen, Würfel, Schwimmen, Gaigel zu viert), sagt die Bot-Auswahl jetzt „spielt wie …“ (Handy + Desktop, swb/de/en). Binokel zu viert bleibt bewusst ungemischt (Partnerspiel-Stufen aus dem eigenen Punkt dazu), dort steht kein „spielt wie“. Alle Bots wurden einmal neu verankert.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Lupfen: Bot-Auswahl am Handy und am Desktop",
+    "before": "changes/2026-10-30-bot-tiers2-107/01-before-shot-lupfen-phone.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/02-after-shot-lupfen-desktop.webp"
+   },
+   {
+    "label": "Gaigel zu viert (schwäbisch): Meister spielt wie Stammtischler",
+    "before": "changes/2026-10-30-bot-tiers2-107/03-before-shot-gaigel4-phone-swb.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/04-after-shot-gaigel4-desktop-swb.webp"
+   },
+   {
+    "label": "Ladder Doppelkopf: vorher / nachher",
+    "before": "changes/2026-10-30-bot-tiers2-107/05-before-ladder-doppelkopf-vorher.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/06-after-ladder-doppelkopf-nachher.webp"
+   },
+   {
+    "label": "Ladder Schafkopf: vorher / nachher",
+    "before": "changes/2026-10-30-bot-tiers2-107/07-before-ladder-schafkopf-vorher.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/08-after-ladder-schafkopf-nachher.webp"
+   },
+   {
+    "label": "Ladder Gaigel zu zweit: vorher / nachher",
+    "before": "changes/2026-10-30-bot-tiers2-107/09-before-ladder-gaigel-vorher.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/10-after-ladder-gaigel-nachher.webp"
+   },
+   {
+    "label": "Ladder Gaigel zu viert: vorher / nachher",
+    "before": "changes/2026-10-30-bot-tiers2-107/11-before-ladder-gaigel-4-vorher.webp",
+    "after": "changes/2026-10-30-bot-tiers2-107/12-after-ladder-gaigel-4-nachher.webp"
+   }
+  ],
+  "sha": "1461d273"
  }
 ]
