@@ -5771,5 +5771,48 @@
    }
   ],
   "sha": "96b7f7b6"
+ },
+ {
+  "id": "qa270-polish",
+  "date": "2026-10-30T10:18:17.630Z",
+  "title": "Entwurf: QA-Feinschliff",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): acht Funde aus dem Spieltest vom 30.10. behoben. Einrichtung Schritt 4: Startknöpfe kleben unten am Dialog (Handy hoch/quer + Desktop). Fünf Würfel am Handy: Anfangs-Tipp als flacher Streifen, deckt keine Kästchen mehr ab. Handy-Kopfleiste: Knöpfe mindestens 40×40 px. Gaigel-Meldefeld rückt bei Bedarf über die Hand. Tischliste: Zeile „Mindesteinsatz x Taler“. „?“-Erklärungen zu Stapel (Schocken), Pflichtrunde (Lupfen), Aufschlagen (Bauernschnapsen). Lupfen-Bots heißen wie in allen anderen Spielen. Ohne Tagesrätsel auf dem Server gibt es ein Übungsrätsel (ohne Taler/Serie, 10 von 13 Spielen – Schafkopf, Bauernschnapsen, Mühle haben noch kein Beispiel). Groß: kein Tischtext unter 11 px in 13 Spielen.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Einrichtung Schritt 4, Handy 444×987",
+    "before": "changes/2026-10-30-qa270-polish/01-before-ob-before.webp",
+    "after": "changes/2026-10-30-qa270-polish/02-after-ob-after.webp"
+   },
+   {
+    "label": "Einrichtung Schritt 4, Handy quer 844×390",
+    "before": "changes/2026-10-30-qa270-polish/03-before-obl-before.webp",
+    "after": "changes/2026-10-30-qa270-polish/04-after-obl-after.webp"
+   },
+   {
+    "label": "Fünf Würfel (Handy): Anfangs-Tipp",
+    "before": "changes/2026-10-30-qa270-polish/05-before-wd-before.webp",
+    "after": "changes/2026-10-30-qa270-polish/06-after-wd-after.webp"
+   },
+   {
+    "label": "Lupfen (Handy): Kopfknöpfe 40×40, Bot-Namen, „?“ an der Pflichtrunde",
+    "before": "changes/2026-10-30-qa270-polish/07-before-lf-before.webp",
+    "after": "changes/2026-10-30-qa270-polish/08-after-lf-after.webp"
+   },
+   {
+    "label": "Tagesrätsel ohne Inhalt: vorher leer, jetzt Übungsrätsel",
+    "before": "changes/2026-10-30-qa270-polish/09-before-pz-before.webp",
+    "after": "changes/2026-10-30-qa270-polish/10-after-pz-after.webp"
+   },
+   {
+    "label": "Neu: Mindesteinsatz in der Tischliste",
+    "img": "changes/2026-10-30-qa270-polish/11-img-tb-after.webp"
+   },
+   {
+    "label": "Neu: „?“ am Schocken-Stapel",
+    "img": "changes/2026-10-30-qa270-polish/12-img-sc-after.webp"
+   }
+  ],
+  "sha": "ce45da4d"
  }
 ]
