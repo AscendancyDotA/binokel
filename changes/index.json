@@ -5658,5 +5658,43 @@
    }
   ],
   "sha": "e1c86b96"
+ },
+ {
+  "id": "vr-weitere-spiele",
+  "date": "2026-10-30T08:44:58.779Z",
+  "title": "VR-Tisch: Gaigel, Skat, Schafkopf, Doppelkopf, Bauernschnapsen, Mau-Mau + Schnellchat",
+  "text": "Was: Am VR-Tisch (Quest, Knopf 🥽 VR in der Tischleiste) laufen jetzt auch Gaigel, Skat, Schafkopf, Doppelkopf, Bauernschnapsen und Mau-Mau (bis 4 Spieler) – gleiche Online-Partie, gleiche Züge wie am 2D-Tisch, auch als Zuschauer. Dazu: eigener Schnellchat mit Emotes als Tafel (öffnet über dem Menü), Tafel-Schrift wird nie kleiner als ein Mindestmaß und bricht um, beim Pinch zählt das Ziel kurz vor dem Zusammenkneifen (kein Verrutschen auf die Nachbarkarte), Binokel-Tauschen/Rufen durch Antippen, 2D-App malt nicht mehr während VR, Bildraten-Messung (Zeile im Schnellchat) und weniger Draw-Calls. Wo: apps/web/src/xr (kit.ts + kit-<spiel>.ts). Warum: Besitzer-Wunsch #107 Punkt 1. Geprüft: IWER-e2e je Spiel ganze Partie in VR, Zuschauer, Schnellchat, zurück zu 2D; 2D-Tisch ohne VR pixelgleich (Sweep). Offen: Abnahme auf der Brille; Gaigel-Tisch liegt mit 180 Draw-Calls (beide Augen) über dem Budget 150; Lupfen noch nicht. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#183",
+  "rows": [
+   {
+    "label": "Gaigel",
+    "img": "changes/2026-10-30-vr-weitere-spiele/01-img-xr6-gaigel-trick.webp"
+   },
+   {
+    "label": "Skat: Drücken durch Antippen",
+    "img": "changes/2026-10-30-vr-weitere-spiele/02-img-xr6-skat-select.webp"
+   },
+   {
+    "label": "Schafkopf",
+    "img": "changes/2026-10-30-vr-weitere-spiele/03-img-xr6-schafkopf-trick.webp"
+   },
+   {
+    "label": "Doppelkopf",
+    "img": "changes/2026-10-30-vr-weitere-spiele/04-img-xr6-doppelkopf-trick.webp"
+   },
+   {
+    "label": "Bauernschnapsen",
+    "img": "changes/2026-10-30-vr-weitere-spiele/05-img-xr6-bauernschnapsen-trick.webp"
+   },
+   {
+    "label": "Mau-Mau (Zuschauer)",
+    "img": "changes/2026-10-30-vr-weitere-spiele/06-img-xr6-maumau-spectator-vr.webp"
+   },
+   {
+    "label": "Schnellchat",
+    "img": "changes/2026-10-30-vr-weitere-spiele/07-img-xr6-gaigel-chat.webp"
+   }
+  ],
+  "sha": "3ccd54cb"
  }
 ]
