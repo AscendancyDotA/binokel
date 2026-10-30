@@ -6083,5 +6083,20 @@
    }
   ],
   "sha": "6679c306"
+ },
+ {
+  "id": "gamelist285-desktop",
+  "date": "2026-10-30T17:09:30.349Z",
+  "title": "Entwurf: Spieleliste nach Beliebtheit (Desktop + Einstellung)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Desktop vorher (Feste Reihenfolge) / nachher (Beliebt). Die Einstellung „Reihenfolge der Spiele“ (Beliebt | Feste Reihenfolge | A–Z) steht unter Einstellungen → Spiel & Tisch → Mehr Einstellungen.",
+  "issue": "wirtshaus#188",
+  "rows": [
+   {
+    "label": "item 285 / Entwurf",
+    "before": "changes/2026-10-30-gamelist285-desktop/01-before-gamelist285-desktop-fixed-open.webp",
+    "after": "changes/2026-10-30-gamelist285-desktop/02-after-gamelist285-desktop-popular-open.webp"
+   }
+  ],
+  "sha": "6679c306"
  }
 ]
