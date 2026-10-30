@@ -5528,5 +5528,39 @@
    }
   ],
   "sha": "4910bb63"
+ },
+ {
+  "id": "item262-wertung",
+  "date": "2026-10-30T05:50:42.862Z",
+  "title": "Entwurf: Wertung & Matchmaking angepasst",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Umgesetzt aus dem Bot-Bericht (docs/bots/README.md §7): Neue Konten kalibrieren mit voller Gewichtung gegen Bots (ohne Tageslimit), bis die Unsicherheit σ ≤ 5 ist; erst dann gibt es den ersten Rang (frühestens nach 10 Partien), bis dahin überall „Kalibrierung n/m“ mit geschätztem m. Alle Bot-Vorgaben kommen jetzt aus OpenSkill-Ladders (gleiche Skala wie der Server), Binokel und Gaigel zu viert haben eigene Werte. Füll-Bots für vorläufige Konten kommen aus den Stufen um/unter der vorläufigen Wertung (frisches Konto höchstens Meister). Bilder: simulierte neue Spieler vorher (links) und nachher (rechts); gestrichelt = Ziel. Menschen-Wertungen bleiben, nur Bot-Konten werden einmal neu verankert. Ränge selbst bleiben hinter RANKS_ENABLED (aus).",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Binokel zu dritt",
+    "before": "changes/2026-10-30-item262-wertung/01-before-nb-binokel-3-vorher.webp",
+    "after": "changes/2026-10-30-item262-wertung/02-after-nb-binokel-3-nachher.webp"
+   },
+   {
+    "label": "Binokel zu viert (eigene Vorgaben)",
+    "before": "changes/2026-10-30-item262-wertung/03-before-nb-binokel-4-vorher.webp",
+    "after": "changes/2026-10-30-item262-wertung/04-after-nb-binokel-4-nachher.webp"
+   },
+   {
+    "label": "Doppelkopf (kein Großmeister mehr für Anfänger)",
+    "before": "changes/2026-10-30-item262-wertung/05-before-nb-doppelkopf-4-vorher.webp",
+    "after": "changes/2026-10-30-item262-wertung/06-after-nb-doppelkopf-4-nachher.webp"
+   },
+   {
+    "label": "Schnapsen (OpenSkill-Skala statt Elo)",
+    "before": "changes/2026-10-30-item262-wertung/07-before-nb-schnapsen-2-vorher.webp",
+    "after": "changes/2026-10-30-item262-wertung/08-after-nb-schnapsen-2-nachher.webp"
+   },
+   {
+    "label": "Partie-Ende während der Kalibrierung (Handy)",
+    "img": "changes/2026-10-30-item262-wertung/09-img-calib-phone.webp"
+   }
+  ],
+  "sha": "4e6f0c2b"
  }
 ]
