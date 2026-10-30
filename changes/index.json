@@ -5726,5 +5726,50 @@
    }
   ],
   "sha": "c070bc9e"
+ },
+ {
+  "id": "bot-stufen-getrennt",
+  "date": "2026-10-30T09:45:47.882Z",
+  "title": "Entwurf: Bot-Stufen getrennt",
+  "text": "Bot-Stufen, die gleich stark spielten, sind neu eingestellt und mit großen Ladders nachgemessen (Schnapsen, Skat, Fünf Würfel, Lupfen, Mau-Mau, Schocken, Bauernschnapsen). Jede Stufe liegt jetzt ~50 Wertungspunkte oder mehr über der darunter; wo Würfel oder Karten mehr nicht hergeben, sind die obersten Stufen ehrlich zusammengelegt (gleich stark, gleiche Vorgabe, der Name bleibt): Würfel Großmeister = Experte, Mau-Mau/Schocken/Bauernschnapsen Profi = Experte = Großmeister, Lupfen Meister bis Großmeister. Schnapsen und Skat haben weiter sechs getrennte Stufen (Skat zwei Abstände nur +46). Kein Großmeister ist langsamer geworden. Die Bot-Konten bekommen beim nächsten Serverstart einmal die neuen Vorgaben. Details: docs/bots/README.md Befund 4 und je Spielseite „Stufen getrennt“. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "schnapsen: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/01-before-vorher-schnapsen.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/02-after-nachher-schnapsen.webp"
+   },
+   {
+    "label": "skat: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/03-before-vorher-skat.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/04-after-nachher-skat.webp"
+   },
+   {
+    "label": "wuerfel: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/05-before-vorher-wuerfel.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/06-after-nachher-wuerfel.webp"
+   },
+   {
+    "label": "lupfen: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/07-before-vorher-lupfen.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/08-after-nachher-lupfen.webp"
+   },
+   {
+    "label": "maumau: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/09-before-vorher-maumau.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/10-after-nachher-maumau.webp"
+   },
+   {
+    "label": "schocken: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/11-before-vorher-schocken.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/12-after-nachher-schocken.webp"
+   },
+   {
+    "label": "bauernschnapsen: Ladder vorher (30.10.) → nachher",
+    "before": "changes/2026-10-30-bot-stufen-getrennt/13-before-vorher-bauernschnapsen.webp",
+    "after": "changes/2026-10-30-bot-stufen-getrennt/14-after-nachher-bauernschnapsen.webp"
+   }
+  ],
+  "sha": "96b7f7b6"
  }
 ]
