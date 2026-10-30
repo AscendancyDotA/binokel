@@ -5974,5 +5974,45 @@
    }
   ],
   "sha": "0a161e0b"
+ },
+ {
+  "id": "item276-ads-modes",
+  "date": "2026-10-30T16:32:11.598Z",
+  "title": "Entwurf: Werbung in allen Modi + Vorschau je Werbeart",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 276. Einstellungen → Werbung zeigt zu jeder Werbeart ein kleines Live-Mockup mit markiertem Platzhalter „Anzeige“ (Lage/Größe aus derselben Layoutmathe wie am echten Tisch) und eine Zeile Wo · Wann · Wie oft · Taler, die der Häufigkeitsregler live ändert; Antippen öffnet „So sieht’s aus“ (Hochkant/Quer). Es wird dafür keine echte Anzeige geladen. Außerdem gelten jetzt in jedem Modus dieselben Regeln: Seitenbanner und Pause nach der Partie auch offline gegen Bots, am privaten Tisch, beim Zuschauen/Wirtshaus-TV nur das Banner, Rätsel mit ruhigem Banner, in der geführten Lernrunde keine Werbung. Emulator (Google-Test-Anzeigen): unten Offline-Tisch, Zuschauen, Lernrunde.",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Einstellungen Handy: Vorschau je Werbeart",
+    "img": "changes/2026-10-30-item276-ads-modes/01-img-ads276-phone-settings-previews-on.webp"
+   },
+   {
+    "label": "Einstellungen Desktop",
+    "img": "changes/2026-10-30-item276-ads-modes/02-img-ads276-desktop-settings-previews-on.webp"
+   },
+   {
+    "label": "Blatt „So sieht’s aus“: Handy Seitenbanner, Desktop Seitenbanner quer",
+    "before": "changes/2026-10-30-item276-ads-modes/03-before-ads276-phone-sheet-portrait.webp",
+    "after": "changes/2026-10-30-item276-ads-modes/04-after-ads276-desktop-sheet-landscape.webp"
+   },
+   {
+    "label": "Blatt: Angebot nach der Partie (Handy) / Vollbild-Video (Desktop)",
+    "before": "changes/2026-10-30-item276-ads-modes/05-before-ads276-phone-sheet-matchEnd.webp",
+    "after": "changes/2026-10-30-item276-ads-modes/06-after-ads276-desktop-sheet-quarry.webp"
+   },
+   {
+    "label": "Emulator: offline gegen Bots – Seitenbanner (Test-Anzeige)",
+    "img": "changes/2026-10-30-item276-ads-modes/07-img-04-offline-gegen-bots-seitenbanner.webp"
+   },
+   {
+    "label": "Emulator: Zuschauen / Wirtshaus-TV",
+    "img": "changes/2026-10-30-item276-ads-modes/08-img-03-zuschauen-tv-seitenbanner.webp"
+   },
+   {
+    "label": "Emulator: geführte Lernrunde – keine Werbung",
+    "img": "changes/2026-10-30-item276-ads-modes/09-img-05-lernrunde-ohne-werbung.webp"
+   }
+  ],
+  "sha": "d483ec3b"
  }
 ]
