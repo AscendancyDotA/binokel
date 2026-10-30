@@ -5601,5 +5601,45 @@
    }
   ],
   "sha": "58bf64b6"
+ },
+ {
+  "id": "item263-ranks-botladder",
+  "date": "2026-10-30T06:19:53.894Z",
+  "title": "Entwurf: Ränge an die neuen Startwerte angepasst",
+  "text": "Ein Rang zeigt jetzt in jedem Spiel und an jeder Tischgröße dieselbe Spielstärke: Die Schwellen werden aus der Bot-Leiter der jeweiligen Wertung abgeleitet (Lehrling = Unter, Stammtisch = Ober, Meister = König, Profi = Zehner, Experte = Ass, Großmeister = Doppelbinokel; Siebener darunter, Blattkönig darüber) und ziehen mit, wenn sich Bot-Startwerte ändern. Bots zeigen ihren Rang (Oma Berta = Doppelbinokel statt vorher Blattkönig). Der Anteil der aktiven Spieler ist nur noch Zusatzzeile. Zu sehen: Profil (Karte + „Alle Ränge“ mit Bot-Stufe je Rang) für Neuling Nele, Mitte Mia, Spitze Sepp, Rangliste mit Bots, Wartezimmer und Tisch-Sitzschilder. Hermes-Subagent (claude-sonnet-5-5, effort high). Doku: docs/RANKS.md.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Neuling (Unter) – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/01-before-profile-neuling-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/02-after-profile-neuling-1280x800.webp"
+   },
+   {
+    "label": "Mitte (König) – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/03-before-profile-mitte-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/04-after-profile-mitte-1280x800.webp"
+   },
+   {
+    "label": "Spitze (Blattkönig) – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/05-before-profile-spitze-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/06-after-profile-spitze-1280x800.webp"
+   },
+   {
+    "label": "Rangliste mit Bots – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/07-before-leaderboard-bots-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/08-after-leaderboard-bots-1280x800.webp"
+   },
+   {
+    "label": "Tisch: Sitzschilder Unter / König / Zehner – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/09-before-table-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/10-after-table-1280x800.webp"
+   },
+   {
+    "label": "Wartezimmer – Handy / Desktop",
+    "before": "changes/2026-10-30-item263-ranks-botladder/11-before-waiting-390x844.webp",
+    "after": "changes/2026-10-30-item263-ranks-botladder/12-after-waiting-1280x800.webp"
+   }
+  ],
+  "sha": "ad4c7320"
  }
 ]
