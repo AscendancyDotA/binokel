@@ -5711,5 +5711,20 @@
    }
   ],
   "sha": "c070bc9e"
+ },
+ {
+  "id": "qa269-dicetip",
+  "date": "2026-10-30T09:10:54.685Z",
+  "title": "Fünf Würfel / Schocken am Desktop: Anfangs-Tipp verdeckt die Würfel nicht mehr",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Spieltest wie ein Mensch: Bei 1280×800 lag die Tipp-Karte der ersten Partien über den Würfeln (bei Fünf Würfel waren 4 von 5 verdeckt und nicht antippbar, bis man „Verstanden“ gedrückt hatte). Sie sitzt jetzt unten rechts unter dem Würfelfeld. Handys im Querformat sind unverändert.",
+  "issue": "wirtshaus#107",
+  "rows": [
+   {
+    "label": "Fünf Würfel, Desktop 1280×800",
+    "before": "changes/2026-10-30-qa269-dicetip/01-before-wuerfel-desktop-06-ph-hold.webp",
+    "after": "changes/2026-10-30-qa269-dicetip/02-after-after-wuerfel-desktop.webp"
+   }
+  ],
+  "sha": "c070bc9e"
  }
 ]
