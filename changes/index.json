@@ -5562,5 +5562,44 @@
    }
   ],
   "sha": "4e6f0c2b"
+ },
+ {
+  "id": "ads259-emulator",
+  "date": "2026-10-30T06:09:28.146Z",
+  "title": "Entwurf: Werbung auf dem Emulator geprüft – alle Formate mit Google-Test-Anzeigen",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Android-Emulator (Handy hochkant), GitHub-APK 999 gegen den Live-Server. Gefunden: in der GitHub-App kam bei jedem Video „Gerade kein Video verfügbar“, weil die Einwilligungsabfrage (UMP) scheitert – in AdMob ist noch keine DSGVO-Mitteilung angelegt. Behoben: im Testmodus laufen Test-Anzeigen trotzdem (echte Anzeigen nie ohne Einwilligung). Danach laufen Steinbruch-Video (Taler 5 → 7 auf dem Live-Server), Lobby-Banner, Seitenbanner als Spieler und Zuschauer, Angebot nach der 2. Partie und Vollbild nach der 3. Partie. Die Skat-Standalone-App fragt ihre eigenen Blöcke an (Skat-Blöcke …/8784850254 Video, …/9340665285 Banner). Anleitung: docs/ADS.md „Werbung selbst testen“.",
+  "issue": "wirtshaus#155",
+  "rows": [
+   {
+    "label": "Steinbruch-Video: vorher „Gerade kein Video verfügbar“ → nachher Google-Test-Video",
+    "before": "changes/2026-10-30-ads259-emulator/01-before-00-vorher-kein-video-verfuegbar.webp",
+    "after": "changes/2026-10-30-ads259-emulator/02-after-01-quarry-test-video.webp"
+   },
+   {
+    "label": "Nach dem Video: Taler 5 → 7, Hinweis „Alle Werbung ist jetzt an“",
+    "img": "changes/2026-10-30-ads259-emulator/03-img-02-quarry-after-video-alle-an.webp"
+   },
+   {
+    "label": "Seitenbanner am Tisch: als Spieler · als Zuschauer",
+    "before": "changes/2026-10-30-ads259-emulator/04-before-06-seitenbanner-am-tisch.webp",
+    "after": "changes/2026-10-30-ads259-emulator/05-after-11-seitenbanner-zuschauer.webp"
+   },
+   {
+    "label": "Nach der 2. Partie: Angebot · nach der 3. Partie: Vollbild",
+    "before": "changes/2026-10-30-ads259-emulator/06-before-08-angebot-nach-partie-2.webp",
+    "after": "changes/2026-10-30-ads259-emulator/07-after-10-vollbild-nach-partie-3.webp"
+   },
+   {
+    "label": "Skat-App: eigenes Test-Video · eigener Tisch mit Seitenbanner (Live-Server)",
+    "before": "changes/2026-10-30-ads259-emulator/08-before-10-skat-quarry-video.webp",
+    "after": "changes/2026-10-30-ads259-emulator/09-after-11-skat-live-tisch-banner.webp"
+   },
+   {
+    "label": "Lobby-Banner: Wirtshaus-App · Skat-App",
+    "before": "changes/2026-10-30-ads259-emulator/10-before-05-hub-live-lobby-banner.webp",
+    "after": "changes/2026-10-30-ads259-emulator/11-after-09-skat-lobby-banner.webp"
+   }
+  ],
+  "sha": "58bf64b6"
  }
 ]
