@@ -6335,5 +6335,40 @@
    }
   ],
   "sha": "7eca9b23"
+ },
+ {
+  "id": "replay292-binokel",
+  "date": "2026-10-31T01:35:06.186Z",
+  "title": "Binokel-Wiederholung mit echtem Tisch",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium): Die Binokel-Wiederholung läuft jetzt über denselben Viewer wie Schwimmen. Statt Kartenlisten zeigt sie den Tisch: Sitzplätze mit Reizblasen, Stern beim Spielmacher, Meldungen, Dabb offen, Stich, eigene Hand unten; oben das Spiel (Spielmacher · Gebot · Trumpf). Neu: Sicht je Spieler, Stich-Sprünge, Meldungen und Gedrücktes in der Seitenleiste. Runden-Tafel, Kartenglück je Runde und Auswertung bleiben. Der Binokel-Live-Tisch ist pixelgleich (30 von 30 Bildern, Reste nur Animations-Rauschen). Links vorher, rechts nachher.",
+  "issue": "wirtshaus#193",
+  "rows": [
+   {
+    "label": "3er Desktop 1280×800",
+    "before": "changes/2026-10-31-replay292-binokel/01-before-binokel3-desk.webp",
+    "after": "changes/2026-10-31-replay292-binokel/02-after-binokel3-desk.webp"
+   },
+   {
+    "label": "3er Handy hochkant 444×987",
+    "before": "changes/2026-10-31-replay292-binokel/03-before-binokel3-port.webp",
+    "after": "changes/2026-10-31-replay292-binokel/04-after-binokel3-port.webp"
+   },
+   {
+    "label": "4er Desktop",
+    "before": "changes/2026-10-31-replay292-binokel/05-before-binokel4-desk.webp",
+    "after": "changes/2026-10-31-replay292-binokel/06-after-binokel4-desk.webp"
+   },
+   {
+    "label": "4er Handy quer 844×390",
+    "before": "changes/2026-10-31-replay292-binokel/07-before-binokel4-land.webp",
+    "after": "changes/2026-10-31-replay292-binokel/08-after-binokel4-land.webp"
+   },
+   {
+    "label": "Rommé (neu dazugekommen) Desktop",
+    "before": "changes/2026-10-31-replay292-binokel/09-before-romme-desk.webp",
+    "after": "changes/2026-10-31-replay292-binokel/10-after-romme-port.webp"
+   }
+  ],
+  "sha": "7eca9b23"
  }
 ]
