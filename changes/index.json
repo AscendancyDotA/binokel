@@ -6825,5 +6825,51 @@
    }
   ],
   "sha": "51b664e6"
+ },
+ {
+  "id": "r7b305-figures",
+  "date": "2026-10-31T14:27:55.296Z",
+  "title": "Kosmetik R7b: gemalte Figuren Luzi, Gabriele, Wolpertinger + Teufelin",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Kosmetik R7b: Die gemalten Figuren sind drin – Teufelchen Luzi (3 500, Satz Hölle), Engele Gabriele (3 500, Satz Himmel) und der Wolpertinger (4 000) als Haustiere am Tisch, im Shop und in Mein Raum. Je Figur eigene Bewegung (Luzi stochert mit der Gabel bei deinem Stich, Gabriele betet als Spielmacher, der Wolpertinger hüpft und schlägt mit den Federn) und drei Stile mit eigenen Namen. Die Teufelin ist ein Kartenrücken (nur sichtbar, solange die frechen Stücke an sind). Bilder sind klein (8–12 KB am Tisch), laden erst bei Bedarf und stehen nicht im Offline-Vorrat. Noch Entwurfs-Bilder (KI): vor dem öffentlichen Verkauf neu zu erzeugen.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Shop-Kacheln: Luzi, Gabriele, Wolpertinger, Teufelin-Rücken",
+    "img": "changes/2026-10-31-r7b305-figures/01-img-r7b-sheet-figures.webp"
+   },
+   {
+    "label": "Am Tisch (3 Spieler, Desktop): alle drei Figuren, ein Spielmacher-Dabb offen",
+    "img": "changes/2026-10-31-r7b305-figures/02-img-r7b-bk3-play-desktop.webp"
+   },
+   {
+    "label": "Gabriele betet, solange ihr Mensch Spielmacher ist (Strahlenkranz, heller Heiligenschein)",
+    "img": "changes/2026-10-31-r7b305-figures/03-img-r7b-gabriele-prays.webp"
+   },
+   {
+    "label": "Handy hochkant (3 Spieler)",
+    "img": "changes/2026-10-31-r7b305-figures/04-img-r7b-bk3-A-phone.webp"
+   },
+   {
+    "label": "6 Spieler (Lupfen) – nichts verdeckt",
+    "img": "changes/2026-10-31-r7b305-figures/05-img-r7b-lf6-desktop.webp"
+   },
+   {
+    "label": "Stile: Luzi Höllenfürst (Funken), Wolpertinger Zwölfender, Gabriele Festtagsgewand",
+    "img": "changes/2026-10-31-r7b305-figures/06-img-r7b-styles-A-desktop.webp"
+   },
+   {
+    "label": "Wolpertinger Stil 3: zweites Flügelpaar",
+    "img": "changes/2026-10-31-r7b305-figures/07-img-r7b-styles-feathers-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: Luzi groß auf der Tischdecke",
+    "img": "changes/2026-10-31-r7b305-figures/08-img-r7b-room-scene-desktop.webp"
+   },
+   {
+    "label": "Shop auf dem Handy: Haustiere",
+    "img": "changes/2026-10-31-r7b305-figures/09-img-r7b-shop-pet-phone.webp"
+   }
+  ],
+  "sha": "af080ad8"
  }
 ]
