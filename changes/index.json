@@ -6662,5 +6662,42 @@
    }
   ],
   "sha": "4ab61276"
+ },
+ {
+  "id": "i301-tischplatz-tier",
+  "date": "2026-10-31T08:43:45.818Z",
+  "title": "Tischplatz + Haustier auf dem eigenen Tischsektor (Kosmetik R4)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Das Haustier sitzt jetzt AUF dem Tisch in deinem eigenen Sektor (gleiche Keile wie die Tischdecke), links daneben dein Tischplatz-Ding - nah an deinem Schild, nie über Karten, Stich, Geboten, Namen oder Knöpfen. Wenig Platz: beide werden kleiner, dann behält das Tier den Platz und das Ding wird ein Abzeichen am Bild. Das Tier macht in Pausen einen kurzen Gang zu seinem Ding, schaut zum Spieler, der dran ist, schläft, wenn sein Mensch weg ist, und freut sich bei Stich, großem Gebot, Durch oder Kontra. Die Dinge leben mit: Bierschaum setzt sich, die Golduhr tickt in deinem Zug, Snake Eyes würfeln beim Stich auf 1-1, die Kreidetafel zählt deine Siege am Tisch. Alle Dinge neu als echte Gegenstände gezeichnet; neu im Shop: Trollinger, Cocktail, Golduhr, Snake Eyes. Binokel ohne Kosmetik bleibt pixelgleich. Entscheidungen: docs/COSMETICS-REWORK.md 5.3a.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Binokel zu dritt, Desktop: deine Katze + Golduhr in deinem Sektor",
+    "img": "changes/2026-10-31-i301-tischplatz-tier/01-img-s301-bk3-desktop.webp"
+   },
+   {
+    "label": "Gleicher Tisch aus Sicht eines Gegners (deine Sachen oben)",
+    "img": "changes/2026-10-31-i301-tischplatz-tier/02-img-s301-bk3-B-desktop.webp"
+   },
+   {
+    "label": "Handy hoch: Binokel zu dritt / Lupfen zu sechst",
+    "before": "changes/2026-10-31-i301-tischplatz-tier/03-before-s301-bk3-phone.webp",
+    "after": "changes/2026-10-31-i301-tischplatz-tier/04-after-s301-lf6-phone.webp"
+   },
+   {
+    "label": "Mau-Mau zu fünft und Mühle",
+    "before": "changes/2026-10-31-i301-tischplatz-tier/05-before-s301-mm5-desktop.webp",
+    "after": "changes/2026-10-31-i301-tischplatz-tier/06-after-s301-mu2-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: Schauraum (Tier links vom Ding) und Am echten Tisch",
+    "before": "changes/2026-10-31-i301-tischplatz-tier/07-before-s301-room-scene-desktop.webp",
+    "after": "changes/2026-10-31-i301-tischplatz-tier/08-after-s301-room-realtable-phone.webp"
+   },
+   {
+    "label": "Shop: die Tischplatz-Dinge als echte Gegenstände",
+    "img": "changes/2026-10-31-i301-tischplatz-tier/09-img-s301-shop-spot-desktop.webp"
+   }
+  ],
+  "sha": "24d821c0"
  }
 ]
