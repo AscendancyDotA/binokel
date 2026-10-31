@@ -6733,5 +6733,31 @@
    }
   ],
   "sha": "71f57100"
+ },
+ {
+  "id": "cosm-r6b-303",
+  "date": "2026-10-31T10:52:21.356Z",
+  "title": "Kosmetik R6b: Stuhl, Tischlampe, Auftritt (und Patina/Gravur für alle Effekt-Fächer)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Neue Fächer Stuhl (Lehne hinter dem Sitz-Schild), Tischlampe (weicher Lichtfleck auf deinem Sektor) und Auftritt (≤ 2 s beim Hinsetzen, antippen bricht ab) mit je fünf Stücken S1–S5, im Shop, in Mein Raum (Leiste, Schublade, Demo-Runde) und für alle Spiele am Tisch. Patina und Gravur (Veredeln) sieht man jetzt auch bei Ausspiel-Effekt, Taler-, Würfel-Skin und Stich-Stapel. Bei \"Kosmetik der anderen: Ruhig\" entfällt der Auftritt, Stuhl und Lampe bleiben.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Tisch, Mein Raum, Shop (1280x800)",
+    "img": "changes/2026-10-31-cosm-r6b-303/01-img-s303-table-spectator-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-31-cosm-r6b-303/02-img-s303-room-all-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-31-cosm-r6b-303/03-img-s303-shop-chair-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-31-cosm-r6b-303/04-img-s303-entrance-tusch-desktop.webp"
+   },
+   {
+    "img": "changes/2026-10-31-cosm-r6b-303/05-img-s303-table-phone.webp"
+   }
+  ],
+  "sha": "6f43fcb6"
  }
 ]
