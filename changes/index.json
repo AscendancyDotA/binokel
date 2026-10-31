@@ -6500,5 +6500,47 @@
    }
   ],
   "sha": "2ee9ba1a"
+ },
+ {
+  "id": "dd-297b-stakepanel",
+  "date": "2026-10-31T06:18:22.278Z",
+  "title": "Double Down: am Tisch einsetzen, ein Token = eine Partie, kein „Dota“ mehr",
+  "text": "Double Down wird jetzt dort eingesetzt, wo auch die Taler ausgehandelt werden: im Warteraum und in der kurzen Vorphase („Vortisch“) von Warteschlangen-Tischen – Schalter „Double Down einsetzen (1 Token) – diese Partie zählt doppelt“ mit Token-Zahl. Alle am Tisch sehen vorher, wer verdoppelt (×2 + Zeile). Ein Token gilt für genau eine Partie; der Server reserviert es beim Schalter, verbraucht es erst beim Austeilen einer gewerteten Partie und gibt es zurück, wenn man zurücknimmt, den Platz verlässt, der Tisch nicht startet/nicht gewertet ist oder ein Freund sich dazusetzt. Die Zeile in der Solo-Warteschlange und der Knopf in der Kasse sind weg (die Kasse zeigt Bestand, Verdienen, Regeln); aktive Mehrpartien-Token werden als Einzel-Token zurückgegeben, Vergaben geben jetzt 3 Einzel-Token (gleicher Wert). Der Name „Dota“ steht in keinem Spieltext mehr – ein Test prüft das. Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Vortisch (Warteschlange), Handy: Frage nur zu Double Down, Schalter an",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/01-img-vortisch-dd-on-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Vortisch, Desktop (Swabisch): der andere sieht, wer verdoppelt",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/02-img-vortisch-dd-others-see-arena-swb-desk.webp"
+   },
+   {
+    "label": "Warteraum, Desktop: Schalter bei zugeklapptem Einsatz-Panel, eingeschaltet",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/03-img-waitingroom-dd-on-klar-en-desk.webp"
+   },
+   {
+    "label": "Warteraum, Handy: der Mitspieler sieht ×2 + Zeile",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/04-img-waitingroom-dd-others-see-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Freunde am Tisch: Schalter aus, Grund steht dabei",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/05-img-waitingroom-dd-friends-wirtshaus-en-phone.webp"
+   },
+   {
+    "label": "Partie läuft: ×2 am Sitz-Schild für alle (Handy)",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/06-img-table-others-see-x2-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Spielende: doppelte Wertung (Handy)",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/07-img-matchend-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Kasse › Taler: Bestand, Verdienen, Regeln – ohne Einsetzen-Knopf (Handy)",
+    "img": "changes/2026-10-31-dd-297b-stakepanel/08-img-kasse-dd-token-wirtshaus-de-phone.webp"
+   }
+  ],
+  "sha": "b1227f19"
  }
 ]
