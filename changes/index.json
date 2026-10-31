@@ -6759,5 +6759,71 @@
    }
   ],
   "sha": "6f43fcb6"
+ },
+ {
+  "id": "cosmetics-r7a-304",
+  "date": "2026-10-31T13:14:21.975Z",
+  "title": "Kosmetik R7a: 27 neue Stücke aus §6, vier Sätze",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Alle Stücke aus §6 außer den gemalten Figuren (die kommen mit R7b): 8 Kartenrücken, 2 Schimmer, 5 Tischdecken, 4 Tischplatz-Stücke, Höllenfunken, 3 Siegesjubel, Thron des Blattkönigs (Rang-Belohnung), Rote Laterne, Sprüche-Pakete Derbe Sprüch + Schmeichler. Verhalten am Tisch: Teufelskarte glüht bei deinem Stich, Höllenfeuer flammt auf, Wolkenbett zieht, Goldbrokat mit Monogramm, Biergarten-Holz mit deinem Namen, Eiche mit Kerben je Sieg, Schnaps-Reihe füllt sich je gewonnener Runde, Champagner knallt beim Sieg, Donnerschlag bei Trumpf. Sätze Hölle/Himmel/Fürst in Mein Raum, zusammen kaufen −10 %. S6 nur mit Meisterbrief; 🍺K 💋 🚬 🤡 bleiben hinter COSMETICS_EDGY (aus). Ruhig/Bewegung aus/schwache Geräte: nichts bewegt sich. Standard-Tisch pixelgleich (Sweep vorher/nachher).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Am Tisch (eigene Sicht)",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/01-img-r7a-table-A-desktop-v2.webp"
+   },
+   {
+    "label": "Am Tisch (Sicht des Gegners)",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/02-img-r7a-table-B-desktop.webp"
+   },
+   {
+    "label": "Handy",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/03-img-r7a-table-A-phone.webp"
+   },
+   {
+    "label": "Kartenrücken",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/04-img-sheet-back.webp"
+   },
+   {
+    "label": "Schimmer",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/05-img-sheet-gem.webp"
+   },
+   {
+    "label": "Tischdecken",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/06-img-sheet-cloth.webp"
+   },
+   {
+    "label": "Tischplatz",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/07-img-sheet-spot.webp"
+   },
+   {
+    "label": "Ausspiel-Effekt",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/08-img-sheet-play.webp"
+   },
+   {
+    "label": "Siegesjubel",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/09-img-sheet-cheer.webp"
+   },
+   {
+    "label": "Stuhl",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/10-img-sheet-chair.webp"
+   },
+   {
+    "label": "Lampe",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/11-img-sheet-lamp.webp"
+   },
+   {
+    "label": "Sprüche",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/12-img-sheet-emotes.webp"
+   },
+   {
+    "label": "Mein Raum: Sätze",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/13-img-r7a-room-sets-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: Hölle angelegt (Handy)",
+    "img": "changes/2026-10-31-cosmetics-r7a-304/14-img-r7a-room-hoelle-phone.webp"
+   }
+  ],
+  "sha": "51b664e6"
  }
 ]
