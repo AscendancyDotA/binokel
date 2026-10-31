@@ -6229,5 +6229,31 @@
    }
   ],
   "sha": "235635fa"
+ },
+ {
+  "id": "280-romme",
+  "date": "2026-10-31T00:36:48.048Z",
+  "title": "Entwurf: Rommé im Wirtshaus",
+  "text": "Neues Spiel Rommé (2–6 Spieler, zwei Blätter mit Jokern): Karte ziehen, Kombinationen auslegen, anlegen, abwerfen. Gebaut und angesehen von Hermes-Subagent (claude-sonnet-5-5, effort high); sichtbar, sobald der Server romme freischaltet. Hier ein Online-Tisch mit Mitspielern und Bot, die Kombinationen liegen in der Tischmitte.",
+  "issue": "wirtshaus#192",
+  "rows": [
+   {
+    "label": "Handy: ziehen, Kombinationen auf dem Tisch",
+    "img": "changes/2026-10-31-280-romme/01-img-online-B-draw.webp"
+   },
+   {
+    "label": "Desktop: Tisch zu dritt, Bot ist ausgekommen",
+    "img": "changes/2026-10-31-280-romme/02-img-online-A-draw.webp"
+   },
+   {
+    "label": "Handy: Partie-Ende mit Kartenglück und Auswertung",
+    "img": "changes/2026-10-31-280-romme/03-img-online-matchend-phone.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Rommé-Stammtisch",
+    "img": "changes/2026-10-31-280-romme/04-img-online-tv-mini.webp"
+   }
+  ],
+  "sha": "db76f3b3"
  }
 ]
