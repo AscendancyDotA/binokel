@@ -7131,5 +7131,40 @@
    }
   ],
   "sha": "ca836e22"
+ },
+ {
+  "id": "item315-gameswitch-icon",
+  "date": "2026-10-31T19:44:24.905Z",
+  "title": "Entwurf: Spielwechsler mit Spiel-Icon",
+  "text": "Oben links zeigt der Spielwechsler jetzt das Icon des gewählten Spiels mit kleinem Namen darunter (am Handy) bzw. daneben (Querformat/PC). Wird es eng, bleibt nur das Icon mit Pfeil; die „Nei“-Marke sitzt dann als Punkt auf dem Icon und wird nie mehr abgeschnitten. In der Spieleliste hat jede Zeile weiterhin ihr Icon. Noch nicht freigegeben – Vorschlag per Pull Request. Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "binokel#18",
+  "rows": [
+   {
+    "label": "Handy 508 breit (wie gemeldet)",
+    "before": "changes/2026-10-31-item315-gameswitch-icon/01-before-before-508x1130.webp",
+    "after": "changes/2026-10-31-item315-gameswitch-icon/02-after-after-508x1130.webp"
+   },
+   {
+    "label": "Handy 444 breit",
+    "before": "changes/2026-10-31-item315-gameswitch-icon/03-before-before-444x987.webp",
+    "after": "changes/2026-10-31-item315-gameswitch-icon/04-after-after-444x987.webp"
+   },
+   {
+    "label": "Handy 360 breit",
+    "before": "changes/2026-10-31-item315-gameswitch-icon/05-before-before-360x780.webp",
+    "after": "changes/2026-10-31-item315-gameswitch-icon/06-after-after-360x780.webp"
+   },
+   {
+    "label": "PC 1280×800",
+    "before": "changes/2026-10-31-item315-gameswitch-icon/07-before-before-1280x800.webp",
+    "after": "changes/2026-10-31-item315-gameswitch-icon/08-after-after-1280x800.webp"
+   },
+   {
+    "label": "Spieleliste offen (Handy 444)",
+    "before": "changes/2026-10-31-item315-gameswitch-icon/09-before-before-open-444.webp",
+    "after": "changes/2026-10-31-item315-gameswitch-icon/10-after-after-open-444.webp"
+   }
+  ],
+  "sha": "a397fdd3"
  }
 ]
