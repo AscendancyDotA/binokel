@@ -6699,5 +6699,39 @@
    }
   ],
   "sha": "24d821c0"
+ },
+ {
+  "id": "r6a-slots-302",
+  "date": "2026-10-31T08:51:59.682Z",
+  "title": "Kosmetik R6a: Ausspiel-Effekt, Taler-Skin, Würfel-Skin, Stich-Stapel",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): vier neue Fächer im Shop und in Mein Raum, je fünf Stücke (S1–S2 nur als Belohnung). Alle am Tisch sehen sie – ruhig, ohne Bewegung bei „Animationen aus/sanft“, reduzierter Bewegung, schwachen Geräten und „Kosmetik der anderen: Ruhig“. Ohne Auswahl bleibt jeder Tisch wie bisher.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Ausspiel-Effekt Donnerschlag am Tisch",
+    "img": "changes/2026-10-31-r6a-slots-302/01-img-s302-play-blitz-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: vier neue Stellen auf der Leiste",
+    "img": "changes/2026-10-31-r6a-slots-302/02-img-s302-room-all-desktop.webp"
+   },
+   {
+    "label": "Würfel-Skin Kristall (Schocken)",
+    "img": "changes/2026-10-31-r6a-slots-302/03-img-s302-dice-schocken-desktop.webp"
+   },
+   {
+    "label": "Taler-Skins im Lupfen-Topf",
+    "img": "changes/2026-10-31-r6a-slots-302/04-img-s302-coin-lupfen-pot-desktop.webp"
+   },
+   {
+    "label": "Taler-Shop, Handy",
+    "img": "changes/2026-10-31-r6a-slots-302/05-img-s302-shop-coin-phone.webp"
+   },
+   {
+    "label": "Stich-Stapel am Sitz",
+    "img": "changes/2026-10-31-r6a-slots-302/06-img-s302-bk3-piles-desktop.webp"
+   }
+  ],
+  "sha": "71f57100"
  }
 ]
