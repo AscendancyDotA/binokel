@@ -6617,5 +6617,50 @@
    }
   ],
   "sha": "cbaa0563"
+ },
+ {
+  "id": "cloth299",
+  "date": "2026-10-31T06:46:13.369Z",
+  "title": "Tischdecke über dem eigenen Tischsektor",
+  "text": "Kosmetik R3: Die Platzdeckchen sind jetzt Tischdecken (jeder Spieler bekommt seinen Sektor des Tischs, die Decke deckt etwa 70 % davon, die Tischmitte bleibt frei) und Tischplatz-Dinge (Bierdeckel, Vesperbrett, Kreidetafel …). Wer ein Platzdeckchen hatte, behält es im neuen Fach. Alle sehen die Decken – Mitspieler, Zuschauer, TV; unter „Kosmetik der anderen“ gibt es den Haken „Tischdecken der anderen zeigen“. Gilt für jedes Spiel mit dem gemeinsamen Tisch (2–6 Spieler, Brettspiele: Decke um das Brett). Neu: Schachbrett (Belohnung Rätsel), Samt, Spieltisch grün. Ohne Decke bleibt der Binokel-Tisch pixelgleich. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Binokel zu dritt – eigene Decke (Samt) unten, Mitspieler Karo und Edelweiß",
+    "img": "changes/2026-10-31-cloth299/01-img-c299-bk3-desktop.webp"
+   },
+   {
+    "label": "Zu viert",
+    "img": "changes/2026-10-31-cloth299/02-img-c299-bk4-desktop.webp"
+   },
+   {
+    "label": "Handy hoch: zu dritt / zu viert",
+    "before": "changes/2026-10-31-cloth299/03-before-c299-bk3-phone.webp",
+    "after": "changes/2026-10-31-cloth299/04-after-c299-bk4-phone.webp"
+   },
+   {
+    "label": "Zu sechst (Lupfen) und Mühle (Decke um das Brett)",
+    "before": "changes/2026-10-31-cloth299/05-before-c299-lf6-desktop.webp",
+    "after": "changes/2026-10-31-cloth299/06-after-c299-mu2-desktop.webp"
+   },
+   {
+    "label": "Stil Klar, Handy",
+    "img": "changes/2026-10-31-cloth299/07-img-c299-bk3-klar-phone.webp"
+   },
+   {
+    "label": "Shop: Fach Tischdecke",
+    "img": "changes/2026-10-31-cloth299/08-img-c299-shop-cloth-desktop.webp"
+   },
+   {
+    "label": "„Tischdecken der anderen zeigen“ aus: nur die eigene",
+    "img": "changes/2026-10-31-cloth299/09-img-c299-bk3-othersoff-desktop.webp"
+   },
+   {
+    "label": "Ohne Decke (Standard): vorher / nachher identisch",
+    "before": "changes/2026-10-31-cloth299/10-before-bk-playing-p4-1280x800-s1.webp",
+    "after": "changes/2026-10-31-cloth299/11-after-bk-playing-p4-1280x800-s1.webp"
+   }
+  ],
+  "sha": "4ab61276"
  }
 ]
