@@ -6190,5 +6190,44 @@
    }
   ],
   "sha": "cbde7184"
+ },
+ {
+  "id": "dice-kit-290",
+  "date": "2026-10-31T00:19:31.602Z",
+  "title": "Würfel-Baustein: Backgammon würfelt mit Wurf + Doppelwürfel-Animation, Lupfen-Pott fliegt zum Gewinner",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 290 (ENGINE-REVIEW B3 + B6 + S3): gemeinsamer Würfel-Baustein (tableshell/dice + game-kit rollDie) für Fünf Würfel, Schocken und Backgammon. Backgammon bekommt einen echten Wurf (Würfel kullern, Augen wechseln kurz) und einen Doppelwürfel, der sich beim Annehmen dreht und zum Besitzer rutscht; in Lupfen fliegen die Pott-Chips zum Gewinner. Fünf Würfel/Schocken sehen unverändert aus (Pixelvergleich vorher/nachher: nur der zufällige Gastname unterscheidet sich). Party-Modus (GameModule.rated=false) ist Basis ohne sichtbares Spiel: kein Rating, keine Rangliste/Liga/Tagesblatt/Turnier/Einsätze, Lobby „Partyspiel – ohne Wertung“.",
+  "issue": "wirtshaus#190",
+  "rows": [
+   {
+    "label": "Backgammon: Würfel mitten im Wurf (vorher: stehen sofort)",
+    "before": "changes/2026-10-31-dice-kit-290/01-before-anim-roll-B-2.webp",
+    "after": "changes/2026-10-31-dice-kit-290/02-after-anim-roll-B-2.webp"
+   },
+   {
+    "label": "Backgammon: Doppelwürfel beim Annehmen (nachher: dreht + rutscht)",
+    "before": "changes/2026-10-31-dice-kit-290/03-before-anim-cube-B-0.webp",
+    "after": "changes/2026-10-31-dice-kit-290/04-after-anim-cube-B-0.webp"
+   },
+   {
+    "label": "Fünf Würfel (Tisch, unverändert)",
+    "before": "changes/2026-10-31-dice-kit-290/05-before-wuerfel-desk-before.webp",
+    "after": "changes/2026-10-31-dice-kit-290/06-after-wuerfel-desk-after.webp"
+   },
+   {
+    "label": "Fünf Würfel Handy (unverändert)",
+    "before": "changes/2026-10-31-dice-kit-290/07-before-wuerfel-phone-before.webp",
+    "after": "changes/2026-10-31-dice-kit-290/08-after-wuerfel-phone-after.webp"
+   },
+   {
+    "label": "Schocken (Tisch, unverändert)",
+    "before": "changes/2026-10-31-dice-kit-290/09-before-schocken-desk-before.webp",
+    "after": "changes/2026-10-31-dice-kit-290/10-after-schocken-desk-after.webp"
+   },
+   {
+    "label": "Neu: Lupfen – Pott-Chips fliegen zum Gewinner (Mitte des Flugs)",
+    "img": "changes/2026-10-31-dice-kit-290/11-img-lupfen-chips-after.webp"
+   }
+  ],
+  "sha": "235635fa"
  }
 ]
