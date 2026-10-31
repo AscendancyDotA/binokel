@@ -7062,5 +7062,29 @@
    }
   ],
   "sha": "99ff1df5"
+ },
+ {
+  "id": "item313-room",
+  "date": "2026-10-31T19:06:11.176Z",
+  "title": "Auftritt nur einmal, Mein Raum: Slot-Liste, Sets-Kopf, Satz-Karten",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 313: Der Auftritt spielt genau einmal pro Tisch und Person (nicht bei jeder Karte); in Mein Raum einmal pro Anprobe und pro Demo-Runde. Slot-Liste überlappt nicht mehr, der Sets-Kopf deckt das Scrollende sauber ab, „1 Teil“ im Singular. Satz-Karten mit Preiszeilen und normalen Buttons sind ein Entwurf (PR).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Sets-Reiter 2150 px – vorher / nachher",
+    "before": "changes/2026-10-31-item313-room/01-before-before-sets.webp",
+    "after": "changes/2026-10-31-item313-room/02-after-s313-room-sets-scrolled-2150.webp"
+   },
+   {
+    "label": "Slot-Liste 1280 px (vorher: Titel überlappen)",
+    "before": "changes/2026-10-31-item313-room/03-before-before-slots.webp",
+    "after": "changes/2026-10-31-item313-room/04-after-s313-room-sets-top-1280.webp"
+   },
+   {
+    "label": "Sets-Reiter 1280 px gescrollt",
+    "img": "changes/2026-10-31-item313-room/05-img-s313-room-sets-scrolled-1280.webp"
+   }
+  ],
+  "sha": "b0e9123e"
  }
 ]
