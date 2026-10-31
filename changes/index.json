@@ -7211,5 +7211,48 @@
    }
   ],
   "sha": "0fabaae6"
+ },
+ {
+  "id": "item311b-frames",
+  "date": "2026-10-31T20:43:40.644Z",
+  "title": "Entwurf: Bilderrahmen neu gezeichnet, Bild am Namensschild, Tischplatz-Dinge größer",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Ursache der kaputten Kreise links/rechts: der Rahmen wurde per Maske auf einen Kreis beschnitten – vom Geweih blieben Striche, vom Efeu Punkte. Jetzt ist jeder Rahmen eine eigene Zeichnung mit Licht und Schatten, Verzierungen dürfen über den Ring hinaus (Geweih oben, Efeublätter rundum, Kronen). Das Bild der Mitspieler sitzt am Desktop auf Höhe des Namens, die Hand hängt darunter (nicht mehr neben dem Bild). Vesperbrett, Weinglas & Co. sind 1,5× so groß; Tier und Ding halten Abstand zur ganzen Rahmen-Zeichnung. Am Handy rücken gerahmte Bilder am Rand 7 px nach innen.",
+  "issue": "wirtshaus#199",
+  "rows": [
+   {
+    "label": "4er Desktop (alle Sitze voll angezogen)",
+    "before": "changes/2026-10-31-item311b-frames/01-before-after-bk4-later-desktop.webp",
+    "after": "changes/2026-10-31-item311b-frames/02-after-after-bk4-later-desktop.webp"
+   },
+   {
+    "label": "Nahaufnahme links: Geweih",
+    "before": "changes/2026-10-31-item311b-frames/03-before-before-bk4-later-desktop-seat2.webp",
+    "after": "changes/2026-10-31-item311b-frames/04-after-after-bk4-later-desktop-seat2.webp"
+   },
+   {
+    "label": "Nahaufnahme rechts: Efeu",
+    "before": "changes/2026-10-31-item311b-frames/05-before-before-bk4-later-desktop-seat0.webp",
+    "after": "changes/2026-10-31-item311b-frames/06-after-after-bk4-later-desktop-seat0.webp"
+   },
+   {
+    "label": "4er Handy hoch",
+    "before": "changes/2026-10-31-item311b-frames/07-before-after-bk4-later-phone.webp",
+    "after": "changes/2026-10-31-item311b-frames/08-after-after-bk4-later-phone.webp"
+   },
+   {
+    "label": "6er Lupfen Desktop",
+    "before": "changes/2026-10-31-item311b-frames/09-before-after-lf6-later-desktop.webp",
+    "after": "changes/2026-10-31-item311b-frames/10-after-after-lf6-later-desktop.webp"
+   },
+   {
+    "label": "3er Desktop (nachher)",
+    "img": "changes/2026-10-31-item311b-frames/11-img-after-bk3-later-desktop.webp"
+   },
+   {
+    "label": "Alle 13 Rahmen bei 40 / 56 / 96 px",
+    "img": "changes/2026-10-31-item311b-frames/12-img-prev.webp"
+   }
+  ],
+  "sha": "1b38b059"
  }
 ]
