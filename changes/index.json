@@ -7166,5 +7166,50 @@
    }
   ],
   "sha": "a397fdd3"
+ },
+ {
+  "id": "i314-stage-cheers-light",
+  "date": "2026-10-31T20:11:36.089Z",
+  "title": "Entwurf: Vorschau-Bühne, echte Jubel-Animationen, neues Licht",
+  "text": "Mein Raum: jedes Stück hat eine Vorschau-Bühne mit Knöpfen (▶ Abspielen, alle Haustier-Reaktionen, Zeitraffer mit Regler). Siegesjubel sind echte Feiern am Partie- und Rundenende. Ausspiel-Effekt deutlich größer. Neues WebGL-Licht. Stuhl-Fach weg, Bezahltes im Sparbuch Bilderrahmen. Namensschild lesbar. Demo-Runde zeigt jedes Fach mit Beschriftung. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#201",
+  "rows": [
+   {
+    "label": "Siegesjubel: vorher nur das Emblem – jetzt Feuerwerk auf der Bühne",
+    "before": "changes/2026-10-31-i314-stage-cheers-light/01-before-cheers-2026-10-31.webp",
+    "after": "changes/2026-10-31-i314-stage-cheers-light/02-after-stage-cheer-feuerwerk.webp"
+   },
+   {
+    "label": "Mein Raum: vorher / jetzt (neues Licht, Emaille-Schild lesbar, kein Stuhl)",
+    "before": "changes/2026-10-31-i314-stage-cheers-light/03-before-room-entrance-2026-10-31.webp",
+    "after": "changes/2026-10-31-i314-stage-cheers-light/04-after-room-desktop-full.webp"
+   },
+   {
+    "label": "Alle Jubel auf der Bühne",
+    "img": "changes/2026-10-31-i314-stage-cheers-light/05-img-sheet-cheers.webp"
+   },
+   {
+    "label": "Bühne: Haustier, Zeitraffer, Ausspiel-Effekt, Lampe, Auftritt",
+    "img": "changes/2026-10-31-i314-stage-cheers-light/06-img-sheet-stage.webp"
+   },
+   {
+    "label": "Demo-Runde: dein Ausspiel-Effekt mit Beschriftung",
+    "img": "changes/2026-10-31-i314-stage-cheers-light/07-img-demo-desktop-play.webp"
+   },
+   {
+    "label": "Rundenende-Banner und Partieende mit Feier",
+    "before": "changes/2026-10-31-i314-stage-cheers-light/08-before-demo-desktop-round-cheer.webp",
+    "after": "changes/2026-10-31-i314-stage-cheers-light/09-after-demo-desktop-end-cheer.webp"
+   },
+   {
+    "label": "Kasse: Notiz zur Stuhl-Gutschrift",
+    "img": "changes/2026-10-31-i314-stage-cheers-light/10-img-kasse-chair-credit.webp"
+   },
+   {
+    "label": "Telefon 444×987: Raum, Haustier, Maßkrug, Schnaps-Zeitraffer, Demo",
+    "img": "changes/2026-10-31-i314-stage-cheers-light/11-img-sheet-phone.webp"
+   }
+  ],
+  "sha": "0fabaae6"
  }
 ]
