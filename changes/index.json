@@ -6434,5 +6434,43 @@
    }
   ],
   "sha": "fcf2efeb"
+ },
+ {
+  "id": "dd297-double-down",
+  "date": "2026-10-31T05:26:18.348Z",
+  "title": "Entwurf: Double-Down-Token (Wertung + Liga doppelt, Taler nicht)",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Baustufe R9 aus der Kosmetik-Überarbeitung §9. Ein Token zählt die nächsten 3 gewerteten Solo-Partien doppelt (Wertung und Ligapunkte, Sieg wie Niederlage; σ nur einmal; Spielzeit-Taler nicht). Einsetzen VOR der Warteschlange (Kasse › Taler oder Spielen › Solo-Warteschlange); verbraucht wird erst beim Austeilen. Nur mit ≥ 2 Menschen, fester Wertung, ohne Freunde/Party/gleiche Verbindung am Tisch; Verlassen = doppelte Niederlage; höchstens 3 Einsätze/Tag, 5 Token im Besitz; verdienbar (Woche mit ≥ 10 Partien, Notizbuch-Eintrag, Liga-Monat), kaufen nur per Schalter DD_BUY (aus). Alles hinter dem Server-Schalter DOUBLE_DOWN (Standard aus). Details: docs/COSMETICS-REWORK.md §9.1.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Kasse › Taler: Token eingesetzt, Chip + Spruch (Handy 444×987)",
+    "img": "changes/2026-10-31-dd297-double-down/01-img-kasse-dd-armed-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Kasse ohne Token / frisches Konto (Grund wird genannt)",
+    "before": "changes/2026-10-31-dd297-double-down/02-before-kasse-dd-notoken-wirtshaus-de-phone.webp",
+    "after": "changes/2026-10-31-dd297-double-down/03-after-kasse-dd-provisional-wirtshaus-de-phone.webp"
+   },
+   {
+    "label": "Spielen › Solo-Warteschlange: Token einsetzen · Warteschlange mit Chip (Desktop 1280×800, Schwäbisch)",
+    "before": "changes/2026-10-31-dd297-double-down/04-before-queue-row-arena-swb-desk.webp",
+    "after": "changes/2026-10-31-dd297-double-down/05-after-queue-screen-chip-arena-swb-desk.webp"
+   },
+   {
+    "label": "Tisch: „×2“ am Sitz-Schild für alle + kurzer Chip (Handy / Desktop)",
+    "before": "changes/2026-10-31-dd297-double-down/06-before-table-x2-wirtshaus-de-phone.webp",
+    "after": "changes/2026-10-31-dd297-double-down/07-after-table-x2-arena-swb-desk.webp"
+   },
+   {
+    "label": "Spielende (Handy) · Profil-Verlauf mit/ohne Token (Desktop)",
+    "before": "changes/2026-10-31-dd297-double-down/08-before-matchend-wirtshaus-de-phone.webp",
+    "after": "changes/2026-10-31-dd297-double-down/09-after-profile-history-wirtshaus-de-desk.webp"
+   },
+   {
+    "label": "Freunde am Tisch: Token wird nicht angewendet, bleibt eingesetzt",
+    "img": "changes/2026-10-31-dd297-double-down/10-img-table-friends-noX2-klar-en-desk.webp"
+   }
+  ],
+  "sha": "2fa839bf"
  }
 ]
