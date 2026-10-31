@@ -6905,5 +6905,64 @@
    }
   ],
   "sha": "d2ea9af6"
+ },
+ {
+  "id": "cloth-edge-306",
+  "date": "2026-10-31T15:27:05.493Z",
+  "title": "Tischdecken enden an der Tischkante; Goldbrokat-Monogramm als Stickerei",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Die Tischdecken werden jetzt auf die echte Tischplatte innerhalb des Rands geschnitten (Form aus dem Tisch gelesen), mit einem Band blankem Filz (5 % des Tischradius, mindestens 10 px) bis zum Rand; Saum und Naht folgen der runden Kontur, darunter ein weicher Schatten. Tier und Tischplatz-Ding bleiben auf der Decke im Tisch. Das Monogramm auf dem Goldbrokat ist jetzt eine kleine Stickerei (goldene Initialen unter einer Krone, etwa ein Drittel so groß) am Saum auf der Seite des Besitzers, nie unter Karten, Tier oder Ding.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Vier am Tisch, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/01-before-c299-bk4-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/02-after-c299-bk4-desktop.webp"
+   },
+   {
+    "label": "Drei am Tisch, Handy hoch",
+    "before": "changes/2026-10-31-cloth-edge-306/03-before-c299-bk3-phone.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/04-after-c299-bk3-phone.webp"
+   },
+   {
+    "label": "Mau-Mau zu fünft, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/05-before-c299-mm5-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/06-after-c299-mm5-desktop.webp"
+   },
+   {
+    "label": "Lupfen zu sechst, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/07-before-c299-lf6-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/08-after-c299-lf6-desktop.webp"
+   },
+   {
+    "label": "Schnapsen, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/09-before-c299-sn2-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/10-after-c299-sn2-desktop.webp"
+   },
+   {
+    "label": "Mühle, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/11-before-c299-mu2-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/12-after-c299-mu2-desktop.webp"
+   },
+   {
+    "label": "Mühle, Handy hoch",
+    "before": "changes/2026-10-31-cloth-edge-306/13-before-c299-mu2-phone.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/14-after-c299-mu2-phone.webp"
+   },
+   {
+    "label": "Klar-Thema, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/15-before-c299-bk3-klar-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/16-after-c299-bk3-klar-desktop.webp"
+   },
+   {
+    "label": "Goldbrokat mit Monogramm, Desktop",
+    "before": "changes/2026-10-31-cloth-edge-306/17-before-r7a-table-A-desktop.webp",
+    "after": "changes/2026-10-31-cloth-edge-306/18-after-r7a-table-A-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: am echten Tisch",
+    "img": "changes/2026-10-31-cloth-edge-306/19-img-room-desktop-table4.webp"
+   }
+  ],
+  "sha": "96cd47e2"
  }
 ]
