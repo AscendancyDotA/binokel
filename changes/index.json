@@ -6964,5 +6964,29 @@
    }
   ],
   "sha": "96cd47e2"
+ },
+ {
+  "id": "ready-check-308",
+  "date": "2026-10-31T15:32:55.981Z",
+  "title": "Vortisch = Bereit-Check: sofort los, wenn alle bereit sind",
+  "text": "Die Einsatz-/Double-Down-Phase vor der Partie ist jetzt ein kurzer Bereit-Check statt eines Wartezimmers: Jeder Mensch hat einen großen „Bereit“-Knopf, Bots/Autopilot/Leute ohne Entscheidung sind sofort bereit – sind alle bereit, wird im selben Moment ausgeteilt (gemessen im Browser: 220 ms nach dem letzten Klick). Die Uhr ist kurz (8 s), Interaktion (Vorschlag ändern, Double-Down-Schalter, Tischchat) hebt sie auf mindestens 6 s, harter Deckel 30 s; der „+20 s“-Knopf ist weg. Taler wandern nie ohne eigenen Klick: bei Einsatz > 0 heißt der Knopf „Bestätigen: du setzt X Taler“ (daneben „Doch ohne Einsatz“), ein Standard-Vorschlag zählt nie als Zusage, und ändert sich der Betrag, verfällt die Zusage. Läuft die Zeit mit unbestätigtem Einsatz ab: Partie startet ohne Einsatz für alle (Server-Schalter STAKE_TIMEOUT=nostake, Standard) oder der Start wird abgebrochen (=abort); Mindesteinsatz-Tische spielen nie ohne Einsatz. Double Down zählt nur als ausdrücklicher Schalter. Bilder: Vortisch am Tisch (Desktop | Handy), Warteraum nach dem Start (Desktop | Handy), Double-Down-Frage (Handy). Hermes-Subagent (claude-sonnet-5-5, effort high).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Vortisch Desktop 1280×800 | Handy 444×987",
+    "before": "changes/2026-10-31-ready-check-308/01-before-vortisch-desktop.webp",
+    "after": "changes/2026-10-31-ready-check-308/02-after-vortisch-phone.webp"
+   },
+   {
+    "label": "Warteraum nach Start: Desktop | Handy",
+    "before": "changes/2026-10-31-ready-check-308/03-before-stk-desktop-phase.webp",
+    "after": "changes/2026-10-31-ready-check-308/04-after-stk-phone-phase.webp"
+   },
+   {
+    "label": "Nur Double Down (Handy)",
+    "img": "changes/2026-10-31-ready-check-308/05-img-vortisch-dd-on-wirtshaus-de-phone.webp"
+   }
+  ],
+  "sha": "1530c11c"
  }
 ]
