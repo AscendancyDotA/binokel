@@ -6396,5 +6396,43 @@
    }
   ],
   "sha": "fcf2efeb"
+ },
+ {
+  "id": "w295-notizbuch-desk",
+  "date": "2026-10-31T04:42:31.301Z",
+  "title": "Entwurf: Notizbuch am Desktop",
+  "text": "Archiv mit Kategorien und Suche, Sprachchat in drei Schritten (Mikrofon → Browser fragt → Katze miaut und leuchtet), ein Eintrag pro Spiel mit Lernrunde + Regeln, kleiner Knopf am Tisch, Schalter in den Einstellungen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#195",
+  "rows": [
+   {
+    "label": "Alle Einträge",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/01-img-desk-2-list.webp"
+   },
+   {
+    "label": "Sprachchat 1/3",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/02-img-desk-4-voice-step1.webp"
+   },
+   {
+    "label": "Sprachchat 2/3",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/03-img-desk-4-voice-step2.webp"
+   },
+   {
+    "label": "Sprachchat 3/3",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/04-img-desk-4-voice-step3.webp"
+   },
+   {
+    "label": "Neu: Rommé",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/05-img-desk-5-game-romme.webp"
+   },
+   {
+    "label": "Am Tisch: nur der leuchtende Knopf",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/06-img-desk-6-table-chip.webp"
+   },
+   {
+    "label": "Einstellungen → Hilfe & Über",
+    "img": "changes/2026-10-31-w295-notizbuch-desk/07-img-desk-8-settings.webp"
+   }
+  ],
+  "sha": "fcf2efeb"
  }
 ]
