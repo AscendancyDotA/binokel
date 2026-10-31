@@ -7027,5 +7027,40 @@
    }
   ],
   "sha": "69bc0562"
+ },
+ {
+  "id": "replay-side-312",
+  "date": "2026-10-31T18:47:15.971Z",
+  "title": "Entwurf: Wiederholung – Ansicht als Auswahlfeld, Auswertung und größte Fehler zuerst",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Oben rechts in der Wiederholung steht jetzt nur noch ein kleines Auswahlfeld „Ansicht: Alle Karten ▾“. Darunter kommt gleich das Urteil zum aktuellen Zug (Gemacht und Besser nebeneinander, mit den erwarteten Punkten), dann Genauigkeit und die größten Fehler zum Anklicken – vorher stand das alles unter einem großen Umschalter und war abgeschnitten. Szene: Binokel, Zug 217, Ablage und Trumpf (Bock). Unten Skat als zweites Spiel.",
+  "issue": "wirtshaus#193",
+  "rows": [
+   {
+    "label": "Binokel Zug 217 – Desktop 1280×800",
+    "before": "changes/2026-10-31-replay-side-312/01-before-before-binokel3-217-desk.webp",
+    "after": "changes/2026-10-31-replay-side-312/02-after-after-binokel3-217-desk.webp"
+   },
+   {
+    "label": "Binokel Zug 217 – Desktop 2560×1200",
+    "before": "changes/2026-10-31-replay-side-312/03-before-before-binokel3-217-wide.webp",
+    "after": "changes/2026-10-31-replay-side-312/04-after-after-binokel3-217-wide.webp"
+   },
+   {
+    "label": "Binokel Zug 217 – Handy hochkant (Stand-Blatt)",
+    "before": "changes/2026-10-31-replay-side-312/05-before-before-binokel3-217-port.webp",
+    "after": "changes/2026-10-31-replay-side-312/06-after-after-binokel3-217-port.webp"
+   },
+   {
+    "label": "Skat – Desktop 1280×800",
+    "before": "changes/2026-10-31-replay-side-312/07-before-skat-desk.webp",
+    "after": "changes/2026-10-31-replay-side-312/08-after-skat-desk.webp"
+   },
+   {
+    "label": "Skat – Handy hochkant",
+    "before": "changes/2026-10-31-replay-side-312/09-before-skat-port.webp",
+    "after": "changes/2026-10-31-replay-side-312/10-after-skat-port.webp"
+   }
+  ],
+  "sha": "99ff1df5"
  }
 ]
