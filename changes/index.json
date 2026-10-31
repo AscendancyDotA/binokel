@@ -7086,5 +7086,50 @@
    }
   ],
   "sha": "b0e9123e"
+ },
+ {
+  "id": "item311-declutter",
+  "date": "2026-10-31T19:08:31.297Z",
+  "title": "Entwurf: Tisch entrümpelt – Sichttest für jeden Kosmetik-Platz",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Wimpel-Schilde am Bild, Messingschild „Stammtisch“ auf der Decke und Lampen-Gegenstände sind vom Tisch (nur noch in Mein Raum); eine Lampe ist am Tisch nur ein weicher Schein hinter dem Platz. Tier + Tischplatz-Ding stehen als kleine Gruppe direkt am eigenen Schild, die der anderen etwas kleiner; fremde Tischdecken liegen halb so kräftig, das Stichfeld hat einen sauberen Saum statt eines verschwommenen Lochs. Bots tragen höchstens Kartenrücken + ein Stück, viele gar nichts. Sichttest-Tabelle je Fach: docs/COSMETICS-REWORK.md §5.5. Links vorher, rechts nachher; schlimmster Fall = alle Sitze voll angezogen.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Meistertisch (4 Bots), Desktop",
+    "before": "changes/2026-10-31-item311-declutter/01-before-before-tv4-desktop.webp",
+    "after": "changes/2026-10-31-item311-declutter/02-after-after-tv4-desktop.webp"
+   },
+   {
+    "label": "Meistertisch (4 Bots), Handy",
+    "before": "changes/2026-10-31-item311-declutter/03-before-before-tv4-phone.webp",
+    "after": "changes/2026-10-31-item311-declutter/04-after-after-tv4-phone.webp"
+   },
+   {
+    "label": "4 Spieler, alle voll angezogen, Desktop",
+    "before": "changes/2026-10-31-item311-declutter/05-before-before-bk4-later-desktop.webp",
+    "after": "changes/2026-10-31-item311-declutter/06-after-after-bk4-later-desktop.webp"
+   },
+   {
+    "label": "4 Spieler, alle voll angezogen, Handy",
+    "before": "changes/2026-10-31-item311-declutter/07-before-before-bk4-later-phone.webp",
+    "after": "changes/2026-10-31-item311-declutter/08-after-after-bk4-later-phone.webp"
+   },
+   {
+    "label": "3 Spieler, Desktop",
+    "before": "changes/2026-10-31-item311-declutter/09-before-before-bk3-later-desktop.webp",
+    "after": "changes/2026-10-31-item311-declutter/10-after-after-bk3-later-desktop.webp"
+   },
+   {
+    "label": "6 Spieler (Lupfen), Desktop",
+    "before": "changes/2026-10-31-item311-declutter/11-before-before-lf6-later-desktop.webp",
+    "after": "changes/2026-10-31-item311-declutter/12-after-after-lf6-later-desktop.webp"
+   },
+   {
+    "label": "6 Spieler (Lupfen), Handy",
+    "before": "changes/2026-10-31-item311-declutter/13-before-before-lf6-later-phone.webp",
+    "after": "changes/2026-10-31-item311-declutter/14-after-after-lf6-later-phone.webp"
+   }
+  ],
+  "sha": "ca836e22"
  }
 ]
