@@ -6871,5 +6871,39 @@
    }
   ],
   "sha": "af080ad8"
+ },
+ {
+  "id": "stuhl-aufgeloest-307",
+  "date": "2026-10-31T15:26:23.169Z",
+  "title": "Stuhl am Tisch aufgelöst, Throne als Bilderrahmen, Lampe steht im Lichtfleck",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high): Am Tisch gibt es keinen Stuhl mehr (er sah nur wie dunkle Zacken hinter dem Namensschild aus) – Stühle sind Möbel in „Mein Raum“, im Shop gibt es keinen Stuhl-Abschnitt mehr. Wirtshaus-Thron (S5) und Thron des Blattkönigs (S6, Rang-Belohnung) sind jetzt Bilderrahmen um dein Bild; wer sie hatte, behält sie samt gezahlter Taler (jetzt im Rahmen-Sparbuch). Die Tischlampe steht jetzt selbst in ihrem Lichtfleck. Haus-Bots tragen in keinem Fach mehr etwas über S4.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "4 Spieler, Desktop (vorher: Stühle hinter den Schildern / nachher: Rahmen + Lampen)",
+    "before": "changes/2026-10-31-stuhl-aufgeloest-307/01-before-s307-before-bk4-desktop.webp",
+    "after": "changes/2026-10-31-stuhl-aufgeloest-307/02-after-s307-after-bk4-desktop.webp"
+   },
+   {
+    "label": "4 Spieler, Handy hochkant",
+    "before": "changes/2026-10-31-stuhl-aufgeloest-307/03-before-s307-before-bk4-phone.webp",
+    "after": "changes/2026-10-31-stuhl-aufgeloest-307/04-after-s307-after-bk4-phone.webp"
+   },
+   {
+    "label": "Mau-Mau zu fünft",
+    "before": "changes/2026-10-31-stuhl-aufgeloest-307/05-before-s307-before-mm5-desktop.webp",
+    "after": "changes/2026-10-31-stuhl-aufgeloest-307/06-after-s307-after-mm5-desktop.webp"
+   },
+   {
+    "label": "Mein Raum: Stuhl-Leiste",
+    "before": "changes/2026-10-31-stuhl-aufgeloest-307/07-before-s307-before-room-chair-rail-desktop.webp",
+    "after": "changes/2026-10-31-stuhl-aufgeloest-307/08-after-s307-after-room-chair-rail-desktop.webp"
+   },
+   {
+    "label": "Neu: Rahmen-Leiste mit den Thronen",
+    "img": "changes/2026-10-31-stuhl-aufgeloest-307/09-img-s307-after-room-frame-rail-desktop.webp"
+   }
+  ],
+  "sha": "d2ea9af6"
  }
 ]
