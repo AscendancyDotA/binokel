@@ -6370,5 +6370,31 @@
    }
   ],
   "sha": "7eca9b23"
+ },
+ {
+  "id": "w295-notizbuch",
+  "date": "2026-10-31T04:42:20.671Z",
+  "title": "Entwurf: Notizbuch – Einträge mit Bildern, Leuchten, Zeig's mir",
+  "text": "Neuer Gast: Beim Start meldet sich das Notizbuch, das Symbol oben leuchtet. Lesen bringt einmal Taler (vom Server gebucht). Nach der ersten Partie kommt der nächste Eintrag erst in der Lobby, nie am Tisch. „Zeig's mir“ hebt das echte Bedienelement hervor. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#195",
+  "rows": [
+   {
+    "label": "Handy: Start – Meldung + leuchtendes Symbol",
+    "img": "changes/2026-10-31-w295-notizbuch/01-img-phone-1-lobby-toast.webp"
+   },
+   {
+    "label": "Handy: Eintrag mit Bild, +10 Taler",
+    "img": "changes/2026-10-31-w295-notizbuch/02-img-phone-2-entry-welcome.webp"
+   },
+   {
+    "label": "Handy nach der ersten Partie: volle Kopfleiste, das ⋯ leuchtet",
+    "img": "changes/2026-10-31-w295-notizbuch/03-img-phone-5-lobby-after-match.webp"
+   },
+   {
+    "label": "Handy: Zeig's mir → Profil-Reiter hervorgehoben",
+    "img": "changes/2026-10-31-w295-notizbuch/04-img-phone-7-spotlight.webp"
+   }
+  ],
+  "sha": "fcf2efeb"
  }
 ]
