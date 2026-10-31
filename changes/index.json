@@ -6472,5 +6472,33 @@
    }
   ],
   "sha": "2fa839bf"
+ },
+ {
+  "id": "i296-cosmetics-r1",
+  "date": "2026-10-31T05:40:14.762Z",
+  "title": "Kosmetik R1: Stufen S1–S6, Sparbuch, Belohnungen, Probe-Partie",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Baustein R1 aus COSMETICS-REWORK §10 ist gebaut: alle 101 Stücke haben eine Stufe S1–S6 mit den Preisen/Urteilen aus §4 (17 gratis, 6 gestrichen – Besitz bleibt, 28 im Shop ab 300 Taler, 50 Belohnungen). Neu: Slot-Sparbuch (was du in einem Fach bezahlt hast, deckt alles bis dahin; das nächste kostet nur die Differenz – alte Käufe behalten ihr volles Guthaben), Belohnungen über Notizbuch/Partien/kleine Herausforderungen mit Fortschritt, Meisterbrief (300 gewertete Partien) für S6, einmal am Tag Probe-Partie, Filter Besitz/Kaufbar/Erspielbar wie in der Dota-Armory, Tischfarben gratis, Bots nach Stufe. Entscheidungen ohne dich stehen in COSMETICS-REWORK §4.13 (u. a. Bedingungen jeder Belohnung, Igel 800, Vesperbrett/Kreidetafel 300 bis R4, Filter standardmäßig alle an).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Shop vorher → nachher (1280×800): Stufen-Abzeichen, Filter, Sparbuch-Zeile",
+    "before": "changes/2026-10-31-i296-cosmetics-r1/01-before-shop-screen-desktop.webp",
+    "after": "changes/2026-10-31-i296-cosmetics-r1/02-after-i296-tiers-desktop.webp"
+   },
+   {
+    "label": "Sparbuch: Perlmutt (500) gekauft → Kupfer gehört dir, Gold-/Opal-Glanz kosten noch 100; Probe-Partie",
+    "img": "changes/2026-10-31-i296-cosmetics-r1/03-img-i296-savings-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987: Belohnungen mit Fortschritt · Probe-Partie läuft",
+    "before": "changes/2026-10-31-i296-cosmetics-r1/04-before-i296-savings-phone.webp",
+    "after": "changes/2026-10-31-i296-cosmetics-r1/05-after-i296-trial-phone.webp"
+   },
+   {
+    "label": "Filter: Kaufbar aus",
+    "img": "changes/2026-10-31-i296-cosmetics-r1/06-img-i296-filter-owned-earn-desktop.webp"
+   }
+  ],
+  "sha": "2ee9ba1a"
  }
 ]
