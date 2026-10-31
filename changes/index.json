@@ -6569,5 +6569,53 @@
    }
   ],
   "sha": "a4b35d7c"
+ },
+ {
+  "id": "room298-mein-raum-v2",
+  "date": "2026-10-31T06:37:32.502Z",
+  "title": "Mein Raum im Vollbild: Schauraum, Auswahl, Vorschau am echten Tisch",
+  "text": "Kasse › Mein Raum öffnet sich jetzt im Vollbild als Schauraum (dein Stammplatz mit Lampe, Bild, Wimpel, Tisch, Karten, Schild, Haustier, Jubel). Tipp auf ein Stück öffnet rechts (Handy: unten) die Auswahl mit Stufen-Abzeichen, Filtern, Sparbuch, Vorschau, Kaufen, Probe-Partie. Unten: Zufall, Zurücksetzen, Vergleichen, Demo-Runde und „Am echten Tisch“ (echter Spieltisch, 2–6 Spieler, Sicht Ich/Gegenüber/Zuschauer). Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Desktop: Schauraum im Vollbild",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/01-img-room-desktop-full.webp"
+   },
+   {
+    "label": "Tipp aufs Haustier → Auswahl, Katze in der Vorschau",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/02-img-room-desktop-preview-cat.webp"
+   },
+   {
+    "label": "Vergleichen: angelegt / anprobiert",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/03-img-room-desktop-compare.webp"
+   },
+   {
+    "label": "Sätze",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/04-img-room-desktop-sets.webp"
+   },
+   {
+    "label": "Am echten Tisch, 4 Spieler, Sicht Gegenüber",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/05-img-room-desktop-table4-opp.webp"
+   },
+   {
+    "label": "Demo-Runde: deine Karte im Stich",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/06-img-room-desktop-demo-play.webp"
+   },
+   {
+    "label": "Handy hoch (Schwäbisch): Schauraum · Auswahl · echter Tisch",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/07-img-room-phone-full.webp"
+   },
+   {
+    "img": "changes/2026-10-31-room298-mein-raum-v2/08-img-room-phone-armory.webp"
+   },
+   {
+    "img": "changes/2026-10-31-room298-mein-raum-v2/09-img-room-phone-table4.webp"
+   },
+   {
+    "label": "Handy quer: Auswahl",
+    "img": "changes/2026-10-31-room298-mein-raum-v2/10-img-room-land-armory.webp"
+   }
+  ],
+  "sha": "cbaa0563"
  }
 ]
