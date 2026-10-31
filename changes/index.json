@@ -6255,5 +6255,85 @@
    }
   ],
   "sha": "db76f3b3"
+ },
+ {
+  "id": "replay292-games",
+  "date": "2026-10-31T01:19:57.186Z",
+  "title": "Replay: alle Spiele auf einer Hülle",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium): Alle Wiederholungen laufen jetzt über einen gemeinsamen Viewer (apps/web/src/replay/ReplayShell.tsx). Links vorher, rechts nachher; je Spiel Desktop 1280×800 und Handy quer 844×390. Am Desktop sehen die Kartenspiele fast gleich aus wie vorher (Schwimmen war das Vorbild), Brett- und Würfelspiele (Mühle, Vier, Backgammon, Würfel) waren am Handy quer kaputt (Seitenleiste lag über der Steuerung) und haben jetzt dieselbe Schiene rechts wie die Kartenspiele. Neu überall: Tasten Pos1/Ende/Bild↑↓/N/P, Backgammon zeigt den Würfel-Nachweis.",
+  "issue": "wirtshaus#193",
+  "rows": [
+   {
+    "label": "schwimmen desk",
+    "before": "changes/2026-10-31-replay292-games/01-before-schwimmen-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/02-after-schwimmen-desk.webp"
+   },
+   {
+    "label": "schwimmen land",
+    "before": "changes/2026-10-31-replay292-games/03-before-schwimmen-land.webp",
+    "after": "changes/2026-10-31-replay292-games/04-after-schwimmen-land.webp"
+   },
+   {
+    "label": "gaigel desk",
+    "before": "changes/2026-10-31-replay292-games/05-before-gaigel-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/06-after-gaigel-desk.webp"
+   },
+   {
+    "label": "gaigel land",
+    "before": "changes/2026-10-31-replay292-games/07-before-gaigel-land.webp",
+    "after": "changes/2026-10-31-replay292-games/08-after-gaigel-land.webp"
+   },
+   {
+    "label": "maumau desk",
+    "before": "changes/2026-10-31-replay292-games/09-before-maumau-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/10-after-maumau-desk.webp"
+   },
+   {
+    "label": "maumau land",
+    "before": "changes/2026-10-31-replay292-games/11-before-maumau-land.webp",
+    "after": "changes/2026-10-31-replay292-games/12-after-maumau-land.webp"
+   },
+   {
+    "label": "backgammon desk",
+    "before": "changes/2026-10-31-replay292-games/13-before-backgammon-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/14-after-backgammon-desk.webp"
+   },
+   {
+    "label": "backgammon land",
+    "before": "changes/2026-10-31-replay292-games/15-before-backgammon-land.webp",
+    "after": "changes/2026-10-31-replay292-games/16-after-backgammon-land.webp"
+   },
+   {
+    "label": "muehle desk",
+    "before": "changes/2026-10-31-replay292-games/17-before-muehle-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/18-after-muehle-desk.webp"
+   },
+   {
+    "label": "muehle land",
+    "before": "changes/2026-10-31-replay292-games/19-before-muehle-land.webp",
+    "after": "changes/2026-10-31-replay292-games/20-after-muehle-land.webp"
+   },
+   {
+    "label": "vier desk",
+    "before": "changes/2026-10-31-replay292-games/21-before-vier-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/22-after-vier-desk.webp"
+   },
+   {
+    "label": "vier land",
+    "before": "changes/2026-10-31-replay292-games/23-before-vier-land.webp",
+    "after": "changes/2026-10-31-replay292-games/24-after-vier-land.webp"
+   },
+   {
+    "label": "wuerfel desk",
+    "before": "changes/2026-10-31-replay292-games/25-before-wuerfel-desk.webp",
+    "after": "changes/2026-10-31-replay292-games/26-after-wuerfel-desk.webp"
+   },
+   {
+    "label": "wuerfel land",
+    "before": "changes/2026-10-31-replay292-games/27-before-wuerfel-land.webp",
+    "after": "changes/2026-10-31-replay292-games/28-after-wuerfel-land.webp"
+   }
+  ],
+  "sha": "7eca9b23"
  }
 ]
