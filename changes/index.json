@@ -6542,5 +6542,32 @@
    }
   ],
   "sha": "b1227f19"
+ },
+ {
+  "id": "veredeln-300",
+  "date": "2026-10-31T06:28:42.855Z",
+  "title": "Kosmetik: Stücke wachsen mit (Zähler + Stile) und die Look-Karte zeigt es",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high), Item 300 (R5 + R8). Teure Stücke (ab Stufe 4) haben jetzt einen Zähler, den nur der Server führt: Partien, in denen du das Stück getragen hast (nur fertige Online-Partien mit echten Zügen, keine Bots, keine Aufgabe/Autopilot, Mindestlänge, Tageslimit). Daran hängen Stile (Original, Patina ab 50 Partien, Gravur ab 200 bei Stufe 5/6). Im Shop siehst du am besessenen Stück den Zähler und wählst den Stil, gesperrte zeigen ihr Ziel. In der Look-Karte am Tisch (Sitz antippen) steht „n Partien gesehen“ plus Stil – für alle sichtbar. Notizbuch-Belohnungen zählt der Shop jetzt nur noch, wenn der Server sie beim Einlösen gebucht hat (Konto einmal, Tageslimit je IP); der „gelesen“-Haken des Clients reicht nicht mehr. Screenshots: Schwelle fürs Testen auf 1 Partie gesenkt, Sprache Schwäbisch.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Shop: vor der ersten Partie (Stil 2 gesperrt) → Stil 2 gewählt (nach 1 Partie)",
+    "before": "changes/2026-10-31-veredeln-300/01-before-shop-before-desktop.webp",
+    "after": "changes/2026-10-31-veredeln-300/02-after-shop-picked-desktop.webp"
+   },
+   {
+    "label": "Handy hoch: Kachel mit Zähler und Stil-Auswahl",
+    "img": "changes/2026-10-31-veredeln-300/03-img-shop-picked-phone.webp"
+   },
+   {
+    "label": "Look-Karte am Tisch: Zähler des Mitspielers (Desktop)",
+    "img": "changes/2026-10-31-veredeln-300/04-img-lookcard-desktop.webp"
+   },
+   {
+    "label": "Look-Karte am Tisch (Handy hoch)",
+    "img": "changes/2026-10-31-veredeln-300/05-img-lookcard-phone.webp"
+   }
+  ],
+  "sha": "a4b35d7c"
  }
 ]
