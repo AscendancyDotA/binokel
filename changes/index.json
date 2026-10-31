@@ -6988,5 +6988,44 @@
    }
   ],
   "sha": "1530c11c"
+ },
+ {
+  "id": "w310-tourney-queue",
+  "date": "2026-10-31T18:03:58.864Z",
+  "title": "Turniere laufen in der Solo-Warteschlange mit",
+  "text": "Öffentliche Turniere haben keine eigene Warteschlange mehr: jede gewertete Partie aus der Solo-Warteschlange, die im Turnierfenster beginnt, zählt automatisch (kein An-/Abmelden). Neu ist das Wochen-Turnier (Mo 0 Uhr – Sa 18 Uhr) neben dem Wochenend-Turnier (Sa 18 – So 22 Uhr), mit eigener Rangliste und eigenem Pokal. Zu sehen: Leiste im Spielen-Reiter und in der Warteschlange, Zeile unter der Wertungs-Änderung am Partie-Ende, Turniere-Reiter mit beiden Turnieren. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#196",
+  "rows": [
+   {
+    "label": "Spielen-Reiter: Turnier-Leiste (Desktop 1280×800 · Handy 444×987)",
+    "before": "changes/2026-10-31-w310-tourney-queue/01-before-310-play-bar-desktop.webp",
+    "after": "changes/2026-10-31-w310-tourney-queue/02-after-310-play-bar-phone.webp"
+   },
+   {
+    "label": "In der Warteschlange",
+    "before": "changes/2026-10-31-w310-tourney-queue/03-before-310-queue-desktop.webp",
+    "after": "changes/2026-10-31-w310-tourney-queue/04-after-310-queue-phone.webp"
+   },
+   {
+    "label": "Partie-Ende: Turnier-Zeile unter der Wertung (2. Partie: Platzwechsel)",
+    "before": "changes/2026-10-31-w310-tourney-queue/05-before-310-matchend-change-desktop.webp",
+    "after": "changes/2026-10-31-w310-tourney-queue/06-after-310-matchend-change-phone.webp"
+   },
+   {
+    "label": "Partie-Ende: erste gewertete Turnierpartie",
+    "img": "changes/2026-10-31-w310-tourney-queue/07-img-310-matchend-first-phone.webp"
+   },
+   {
+    "label": "Turniere-Reiter: Wochenend- und Wochen-Turnier",
+    "before": "changes/2026-10-31-w310-tourney-queue/08-before-310-tourn-tab-desktop.webp",
+    "after": "changes/2026-10-31-w310-tourney-queue/09-after-310-tourn-tab-phone.webp"
+   },
+   {
+    "label": "Rangliste (ohne Mitspielen-Knopf)",
+    "before": "changes/2026-10-31-w310-tourney-queue/10-before-310-standings-desktop.webp",
+    "after": "changes/2026-10-31-w310-tourney-queue/11-after-310-standings-phone.webp"
+   }
+  ],
+  "sha": "69bc0562"
  }
 ]
