@@ -7254,5 +7254,51 @@
    }
   ],
   "sha": "1b38b059"
+ },
+ {
+  "id": "item316-schafkopf-tester",
+  "date": "2026-11-01T00:25:53.431Z",
+  "title": "Schafkopf-Tester: letzter Stich, Zuschauen mit offenen Karten, Freund-Knopf",
+  "text": "Hermes-Subagent (claude-sonnet-5-5, effort high). 1) „Letzter Stich“ gibt es jetzt auch bei Schafkopf, Doppelkopf, Skat, Lupfen und Schnapsen (Knopf rechts am Tisch, Tipp öffnet die vier/drei Karten in Spielreihenfolge mit Sieger und Augen) – auch für Zuschauer. 2) Zuschauen mit „Alle Karten“: vorher waren nur die Karten des unteren Platzes zu sehen, jetzt die Hände aller Plätze – bei zehn Spielen (Schafkopf, Doppelkopf, Skat, Gaigel, Lupfen, Watten, Bauernschnapsen, Mau-Mau, Romme, Schwimmen); am Handy als Kartenspiegel pro Farbe. 3) Am Tisch auf einen Spieler tippen: Neben „Profil“ steht jetzt „Freund hinzufügen“ (danach „Anfrage gesendet“, nach dem Annehmen „Freund ✓“); das Profil selbst hatte den Knopf schon. Ausprobieren: Schafkopf-Tisch mit Freunden öffnen, Zuschauer dazu, „Alle Karten“ links oben.",
+  "issue": "wirtshaus#202",
+  "rows": [
+   {
+    "label": "Schafkopf: Letzter Stich (Desktop)",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/01-img-schaf-lasttrick-popup-desktop.webp"
+   },
+   {
+    "label": "Schafkopf: Knopf am Handy",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/02-img-schaf-lasttrick-button-phone.webp"
+   },
+   {
+    "label": "Skat: Letzter Stich für Zuschauer",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/03-img-skat-lasttrick-popup-desktop.webp"
+   },
+   {
+    "label": "Zuschauen mit Alle Karten: Schafkopf (Desktop)",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/04-img-schaf-spectate-open-desktop.webp"
+   },
+   {
+    "label": "Zuschauen mit Alle Karten: Schafkopf (Handy)",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/05-img-schaf-spectate-open-phone.webp"
+   },
+   {
+    "label": "Zuschauen mit Alle Karten: Skat",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/06-img-skat-spectate-open-desktop.webp"
+   },
+   {
+    "label": "Spieler-Karte: Freund hinzufügen",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/07-img-friend-card-add-desktop.webp"
+   },
+   {
+    "label": "Nach dem Annehmen: Freund ✓",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/08-img-friend-card-friend-desktop.webp"
+   },
+   {
+    "label": "Profil: Freund hinzufügen",
+    "img": "changes/2026-11-01-item316-schafkopf-tester/09-img-friend-profile-add-desktop.webp"
+   }
+  ],
+  "sha": "eb65c9d3"
  }
 ]
