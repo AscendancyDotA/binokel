@@ -7314,5 +7314,20 @@
    }
   ],
   "sha": "89ff4cea"
+ },
+ {
+  "id": "watten-raise-318",
+  "date": "2026-11-01T06:42:00.920Z",
+  "title": "Watten zu zweit: Bots bieten nur noch mit Aussicht",
+  "text": "Der Hellseher-Test (wirtshaus#203) zeigte: Experte/Großmeister boten zu zweit in ~75 % ihrer Gelegenheiten, auch mit hoffnungslosen Karten. Jetzt erwägen sie ein Bieten nur, wenn die Hand mindestens 50 % Gewinnchance hat. Neu gegen alt 61,2 % der Partien (2000 Partien), in der Ladder +155 (vorher 1574, jetzt 1729; Lehrling 1330). Zu viert unverändert (keine Schwelle brachte dort etwas). Server-Vorgaben noch nicht angepasst – Vorschlag Experte = Großmeister ≈ 1510. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#191",
+  "rows": [
+   {
+    "label": "Ladder zu zweit, 4000 Partien",
+    "before": "changes/2026-11-01-watten-raise-318/01-before-w2-before.webp",
+    "after": "changes/2026-11-01-watten-raise-318/02-after-w2-after.webp"
+   }
+  ],
+  "sha": "89ff4cea"
  }
 ]
