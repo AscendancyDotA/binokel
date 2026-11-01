@@ -7300,5 +7300,19 @@
    }
   ],
   "sha": "eb65c9d3"
+ },
+ {
+  "id": "oracle-gap-318",
+  "date": "2026-11-01T06:41:55.666Z",
+  "title": "Hellseher-Test: Abstand je Spiel",
+  "text": "Orange = Bot, der alle Karten sieht, gegen den Großmeister; blau = Großmeister gegen Lehrling (die ganze Leiter); grün = Großmeister mit 4× so vielen Welten. Wertungspunkte auf der Server-Skala, Strich = 95-%-Bereich. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "alle Kartenspiele, ~60 000 Partien",
+    "img": "changes/2026-11-01-oracle-gap-318/01-img-oracle-gap.webp"
+   }
+  ],
+  "sha": "89ff4cea"
  }
 ]
