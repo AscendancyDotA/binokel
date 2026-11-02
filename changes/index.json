@@ -7425,5 +7425,23 @@
    }
   ],
   "sha": "62f5c1f5"
+ },
+ {
+  "id": "i329-spectate",
+  "date": "2026-11-02T23:25:03.387Z",
+  "title": "Zuschauen: kein totes „Nochmal“ mehr, „Nächster Tisch mit hohem Einsatz“ und „Automatisch weiter zuschauen“",
+  "text": "Wer online zuschaut, sieht am Partie-Ende kein „Nochmal“ mehr (es tat nichts). Stattdessen: Knopf „Nächster Tisch mit hohem Einsatz“ (laufender Tisch mit dem höchsten Mindesteinsatz) und der Schalter „Automatisch weiter zuschauen“ – nach 7 Sekunden Ergebnis geht es am nächsten laufenden Tisch weiter (Schalter wird gemerkt; ein Schautisch läuft von selbst weiter). Im Browser-Test geprüft: Handy + Desktop, Knopf und Auto-Weiter führen wirklich an den anderen Tisch. Hermes-Subagent (coding-router-preview via Claude Code). Auf main (55acc5d5), noch nicht ausgeliefert. Browser-Test: tools/e2e-item329.mjs.",
+  "issue": "wirtshaus#211",
+  "rows": [
+   {
+    "label": "Desktop: Zähler läuft",
+    "img": "changes/2026-11-02-i329-spectate/01-img-spectate-desk-2-countdown.webp"
+   },
+   {
+    "label": "Handy: Partie-Ende",
+    "img": "changes/2026-11-02-i329-spectate/02-img-spectate-phone-1-end.webp"
+   }
+  ],
+  "sha": "55acc5d5"
  }
 ]
