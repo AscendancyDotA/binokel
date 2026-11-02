@@ -7465,5 +7465,23 @@
    }
   ],
   "sha": "55acc5d5"
+ },
+ {
+  "id": "i329-lesson",
+  "date": "2026-11-02T23:25:17.865Z",
+  "title": "Notizbuch: „Lernrunde starten“ startet die Übungsrunde (alle Spiele)",
+  "text": "Der Link im Notizbuch drückte einen Knopf, den es nur bei Binokel gibt – bei Schnapsen (und online) blieb er ohne Wirkung. Jetzt startet die Lobby die Übungsrunde des Spiels selbst. Im Browser-Test für alle 15 Spiele mit Übungsrunde geprüft (Binokel, Schnapsen, Doppelkopf, Skat, Schafkopf, Gaigel, Lupfen, Bauernschnapsen, Mau-Mau, Schwimmen, Backgammon, Schocken, Mühle, Watten, Rommé): alle starten. Nicht geprüft habe ich, ob es vorher auf main bei jedem dieser Spiele scheiterte. Hermes-Subagent (coding-router-preview via Claude Code). Auf main (55acc5d5), noch nicht ausgeliefert. Browser-Test: tools/e2e-item329.mjs.",
+  "issue": "wirtshaus#207",
+  "rows": [
+   {
+    "label": "Schnapsen-Lernpartie aus dem Notizbuch",
+    "img": "changes/2026-11-02-i329-lesson/01-img-lesson-schnapsen.webp"
+   },
+   {
+    "label": "Rommé",
+    "img": "changes/2026-11-02-i329-lesson/02-img-lesson-romme.webp"
+   }
+  ],
+  "sha": "55acc5d5"
  }
 ]
