@@ -7369,5 +7369,23 @@
    }
   ],
   "sha": "f19d68bd"
+ },
+ {
+  "id": "item321-dk-skat-gm",
+  "date": "2026-11-02T12:31:09.678Z",
+  "title": "Doppelkopf + Skat: Großmeister bewertet Ansagen und Reizen vorsichtiger",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Der Hellseher-Test hatte gezeigt: ein Großmeister, der alle Karten sieht, spielte in Doppelkopf (−295) und Skat (−81) SCHLECHTER – die Ausspielungen hielten Ansagen bzw. Reizen auf der wahren Verteilung für sicher. Jetzt bewertet der Großmeister jede Welt als Verteilung der Augen mit dem gemessenen Spielrauschen (Doppelkopf: sd 27, Skat: sd 14–17), Skat löst dazu die letzten 3 Stiche exakt, Doppelkopf rechnet 48 statt 24 Welten. Ergebnis: Hellseher Doppelkopf −295 → +27, Skat −81 → −22 (nicht mehr signifikant darunter). Neu gegen alt direkt: Doppelkopf 28,6 % [26,7–30,7] bei fairen 25 % in 2000 Partien (+0,21 Punkte je Spiel), Skat 38,6 % [35,3–41,9] bei fairen 33,3 % in 840 frischen Partien (+1,7 Listenpunkte je Spiel). Ladder mit altem Großmeister als eigener Linie: Doppelkopf +77 (≈ eine Stufe), Skat +8 (Rauschen). Rechenzeit ×2,8, schlechtester Zug auf dem Server grob 1 s (Timeout 5 s). Nur Großmeister geändert; Vorschlag Vorgabe Doppelkopf-Großmeister ≈ 1605 (nicht eingebaut). Doku: docs/bots/doppelkopf.md, docs/bots/skat.md, docs/bots/ORACLE-GAP.md.",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Doppelkopf: Ladder mit altem Großmeister (schwarz)",
+    "img": "changes/2026-11-02-item321-dk-skat-gm/01-img-ladder-doppelkopf.webp"
+   },
+   {
+    "label": "Skat: Ladder mit altem Großmeister (schwarz)",
+    "img": "changes/2026-11-02-item321-dk-skat-gm/02-img-ladder-skat.webp"
+   }
+  ],
+  "sha": "c59719a5"
  }
 ]
