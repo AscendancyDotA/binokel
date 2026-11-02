@@ -7351,5 +7351,23 @@
    }
   ],
   "sha": "5d0d5f39"
+ },
+ {
+  "id": "i319-bots",
+  "date": "2026-11-02T12:21:52.535Z",
+  "title": "Bots: Gaigel zu zweit stärker, Schafkopf-Großmeister vorsichtiger bei Einzelspielen",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Gaigel zu zweit: Experte rechnet 32 statt 16, Großmeister 160 statt 40 Welten (zu dritt/viert unverändert – dort brachte es nichts). Neu gegen alt: Großmeister 55,2 % (160 vs 80) bzw. 54,5 % (80 vs 40), Experte 56,3 %; Ladder: Großmeister +66, Experte +105 über der alten Stufe. Hellseher-Lücke zu zweit +270 → +116. Zugzeit Großmeister ~55 ms (p95 116) auf dem Entwicklungsrechner. Schafkopf: Großmeister sagt ein Einzelspiel nur noch an, wenn es in ≥ 75 % seiner Probe-Spiele gewinnt – die Geier-Hand aus der Live-Partie spielt er nicht mehr; gegen perfekte Abwehr gewinnt er seine Einzelspiele zu 61 % statt 51 %. Gegen Bots ist das neutral (+0,0 bis +1,0 Punkte je Spiel, im Rauschen). Längere exakte Endspiele (4 Stiche) gemessen: kaum Gewinn, 2,3× Rechenzeit – nicht übernommen. Details: docs/bots/gaigel.md, docs/bots/schafkopf.md (Abschnitt Item 319). Vorschlag neue Vorgaben Gaigel zu zweit: Experte 1870, Großmeister 1975.",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Gaigel zu zweit: Ladder mit alten Stufen als eigene Linie",
+    "img": "changes/2026-11-02-i319-bots/01-img-ladder-gaigel.webp"
+   },
+   {
+    "label": "Schafkopf: Ladder mit altem Großmeister",
+    "img": "changes/2026-11-02-i319-bots/02-img-ladder-schafkopf.webp"
+   }
+  ],
+  "sha": "f19d68bd"
  }
 ]
