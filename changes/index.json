@@ -7329,5 +7329,27 @@
    }
   ],
   "sha": "89ff4cea"
+ },
+ {
+  "id": "i320-lupfen-belief",
+  "date": "2026-11-02T07:44:06.256Z",
+  "title": "Lupfen: Großmeister liest Lupfen und Mitgehen der anderen",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Der Lupfen-Großmeister zieht seine gedachten Kartenverteilungen nicht mehr blind, sondern gewichtet sie danach, wie wahrscheinlich das Lupfen/Weitersagen und Mit!/Passe der anderen mit diesen Karten war (gelerntes Gegnermodell, 48 statt 24 Welten). Kopf-an-Kopf neu gegen alt (gleiche Blätter): zu viert +4,6 ± 1,6 Chips je Partie (6000 Partien), zu fünft +6,4 ± 3,0, zu sechst +5,2 ± 3,1, zu dritt +1,1 ± 1,4 (gleich). Hellseher-Lücke zu viert: +55,4 → +48,5 Chips je Partie (Wertung +341 → +320). Ladder zu viert: neu 1563, alt 1548 (eigene Linie), im Rauschen derselben Such-Bots (1530–1558). Der alte Großmeister überschätzte das Mitgehen gegen einen starken Lupfer um ~4 Chips je Entscheidung – das ist der Hauptgewinn: seltener Letzter. Die Folgerung „fast nur Kartenglück“ in docs/bots/lupfen.md ist korrigiert; der Rest der Lücke ist großteils nicht erreichbar (Trumpf vor dem Lupfen, fremde Karten statt nur Handstärke). Zeit je Zug ~3–4 ms statt ~1 ms. Vorgaben-Vorschlag: unverändert. Details: docs/bots/lupfen.md.",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Ladder zu viert, nachher (alter Großmeister schwarz)",
+    "img": "changes/2026-11-02-i320-lupfen-belief/01-img-ladder-lupfen.webp"
+   },
+   {
+    "label": "Ladder zu viert, vorher (30.10.)",
+    "img": "changes/2026-11-02-i320-lupfen-belief/02-img-ladder-lupfen-vor.webp"
+   },
+   {
+    "label": "Ladder zu dritt, nachher",
+    "img": "changes/2026-11-02-i320-lupfen-belief/03-img-ladder-lupfen-3.webp"
+   }
+  ],
+  "sha": "5d0d5f39"
  }
 ]
