@@ -7501,5 +7501,19 @@
    }
   ],
   "sha": "55acc5d5"
+ },
+ {
+  "id": "i329-sound",
+  "date": "2026-11-02T23:25:32.060Z",
+  "title": "Töne in der Mein-Raum-Demo und beim ▶ Abspielen im Shop",
+  "text": "Die Demo-Runde in Mein Raum spielt jetzt die Tischgeräusche (Austeilen, Karten, Stich, Rundenklang) über die Ton-Einstellungen. Das ▶ beim Siegesjubel (z. B. Maß) spielt auch bei „Animationen aus“ (dort war es still); der Champagner-Korken knallt beim ▶ ebenfalls. Im Browser-Test mit Audio-Zählern geprüft (Shop-▶, Demo-Verlauf, Animationen aus). Nicht prüfbar im Headless-Browser: wie es klingt – das bitte einmal am echten Gerät anhören. Hermes-Subagent (coding-router-preview via Claude Code). Auf main (55acc5d5), noch nicht ausgeliefert. Browser-Test: tools/e2e-item329.mjs.",
+  "issue": "binokel#19",
+  "rows": [
+   {
+    "label": "Shop ▶ bei Animationen aus",
+    "img": "changes/2026-11-02-i329-sound/01-img-sound-3-still-play.webp"
+   }
+  ],
+  "sha": "55acc5d5"
  }
 ]
