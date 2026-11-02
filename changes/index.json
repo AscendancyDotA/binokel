@@ -7401,5 +7401,29 @@
    }
   ],
   "sha": "d5143fee"
+ },
+ {
+  "id": "item324-reiznetz-gm",
+  "date": "2026-11-02T17:28:24.819Z",
+  "title": "Opa Konrad: Großmeister mit gelerntem Reizen spielt live zu dritt",
+  "text": "Neu bei Binokel zu dritt: ein zweiter Großmeister-Bot, Opa Konrad (eigenes Gesicht, eigenes Konto, Start-Wertung 1985 wie Oma Berta). Er spielt die Karten wie Oma Berta, reizt aber mit dem gelernten Reiz-Netz. Er steht in der Bot-Liste beim Tisch aufmachen und in der Wartestube direkt unter Oma Berta (nur zu dritt mit Standardregeln, zu viert nicht), am Tisch heißt er „Bot · Reiz-Netz“. In der Warteschlange zu dritt wird jeder Großmeister-Platz 50/50 mit Oma Berta oder Opa Konrad besetzt; beide Wertungen bewegen sich gegen Menschen, Vergleich mit admin.ts bot-ratings. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Bot-Liste: Desktop 1280×800 / Handy 444×987",
+    "before": "changes/2026-11-02-item324-reiznetz-gm/01-before-gmrn-desk-botlist.webp",
+    "after": "changes/2026-11-02-item324-reiznetz-gm/02-after-gmrn-phone-botlist.webp"
+   },
+   {
+    "label": "Am Tisch (Desktop) / Wartestube (Handy)",
+    "before": "changes/2026-11-02-item324-reiznetz-gm/03-before-gmrn-desk-table.webp",
+    "after": "changes/2026-11-02-item324-reiznetz-gm/04-after-gmrn-phone-wroom.webp"
+   },
+   {
+    "label": "Partie-Ende: Opa Konrad gewinnt (e2e)",
+    "img": "changes/2026-11-02-item324-reiznetz-gm/05-img-gmrn-desk-match-end.webp"
+   }
+  ],
+  "sha": "62f5c1f5"
  }
 ]
