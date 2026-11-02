@@ -7483,5 +7483,23 @@
    }
   ],
   "sha": "55acc5d5"
+ },
+ {
+  "id": "i329-maker",
+  "date": "2026-11-02T23:25:25.539Z",
+  "title": "Spielmacher-Effekt: Vorschau zeigt den Effekt sofort",
+  "text": "In der Vorschau war der Platz leer, bis man „Du machst das Spiel“ antippte. Jetzt ist der Effekt beim Öffnen und beim Wechsel auf einen anderen Effekt gleich zu sehen; der Knopf schaltet ihn aus und wieder an. Im Browser-Test geprüft. Hermes-Subagent (coding-router-preview via Claude Code). Auf main (55acc5d5), noch nicht ausgeliefert. Browser-Test: tools/e2e-item329.mjs.",
+  "issue": "wirtshaus#206",
+  "rows": [
+   {
+    "label": "Effekt Glut beim Öffnen",
+    "img": "changes/2026-11-02-i329-maker/01-img-maker-1-stage-open.webp"
+   },
+   {
+    "label": "Wechsel auf Kranz",
+    "img": "changes/2026-11-02-i329-maker/02-img-maker-3-stage-kranz.webp"
+   }
+  ],
+  "sha": "55acc5d5"
  }
 ]
