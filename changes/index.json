@@ -7387,5 +7387,19 @@
    }
   ],
   "sha": "c59719a5"
+ },
+ {
+  "id": "item322-reiznetz",
+  "date": "2026-11-02T13:33:16.899Z",
+  "title": "Entwurf: Gelerntes Reizen für den Großmeister zu dritt (Schalter, aus)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). Ein Netz (auf der RTX 3090 trainiert, 329 000 Reiz-Situationen aus Großmeister-Partien, beide Wege – passen / weiter reizen – jeweils bis Rundenende ausgespielt) korrigiert die Reiz-Entscheidung des Großmeisters zu dritt. Ergebnis gegen den bisherigen Großmeister: 2001 Partien auf neuen Blättern 34,6 % Siege (fair 33,3 %), +41 ± 28 Punkte Vorsprung je Partie; in der Ladder (6000 Partien, beide im selben Lauf) 1850 statt 1786. ABER: Ein Gegner, der alle Karten sieht (Hellseher-Test), holt gegen den neuen Großmeister mehr als vorher (+205 → +248): das Netz reizt mutiger, das zahlt sich nur gegen Gegner aus, die nicht alles wissen. Deshalb bleibt es aus (Schalter BINOKEL_BIDNET=1 + Modell einbetten). Nebenbefund: das Netz allein, ganz ohne Reiz-Suche, ist gleich stark wie der Großmeister und braucht 0,6 statt 14,5 ms je Gebot. Doku: docs/bots/binokel.md, Abschnitt „Gelerntes Reizen zu dritt“.",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Ladder zu dritt: Großmeister mit Reiz-Netz (orange) gegen den ausgelieferten Großmeister (schwarz)",
+    "img": "changes/2026-11-02-item322-reiznetz/01-img-ladder-binokel-reiznetz.webp"
+   }
+  ],
+  "sha": "d5143fee"
  }
 ]
