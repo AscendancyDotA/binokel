@@ -7443,5 +7443,27 @@
    }
   ],
   "sha": "55acc5d5"
+ },
+ {
+  "id": "i329-profile",
+  "date": "2026-11-02T23:25:10.027Z",
+  "title": "Einstellungen: eigene Gruppe „Profil“; erstes Einschalten der Werbung = alles an",
+  "text": "Anzeigename, Profilbild und „Mein Profil ansehen“ stehen jetzt in einer eigenen Einstellungs-Gruppe „Profil“ (das Bild steckt nicht mehr unter „Mehr Einstellungen“ im Konto). Schaltet jemand „Werbung freiwillig ansehen“ zum ersten Mal ein, gehen alle Werbearten an und ein Hinweis erklärt, dass sich jede einzeln abschalten lässt; späteres Aus-/Anschalten setzt die Einzelwahl nicht zurück (die Texte in den Werbe-Einstellungen sagen das jetzt auch). Hermes-Subagent (coding-router-preview via Claude Code). Auf main (55acc5d5), noch nicht ausgeliefert. Browser-Test: tools/e2e-item329.mjs.",
+  "issue": "wirtshaus#208",
+  "rows": [
+   {
+    "label": "Desktop: Gruppe Profil",
+    "img": "changes/2026-11-02-i329-profile/01-img-profile-desk-1-page.webp"
+   },
+   {
+    "label": "Handy: Gruppe Profil",
+    "img": "changes/2026-11-02-i329-profile/02-img-profile-phone-1-page.webp"
+   },
+   {
+    "label": "Hinweis beim ersten Einschalten der Werbung",
+    "img": "changes/2026-11-02-i329-profile/03-img-profile-ads-1-notice.webp"
+   }
+  ],
+  "sha": "55acc5d5"
  }
 ]
