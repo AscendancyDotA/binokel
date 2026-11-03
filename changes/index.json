@@ -7653,5 +7653,59 @@
    }
   ],
   "sha": "2270e69b"
+ },
+ {
+  "id": "floor331",
+  "date": "2026-11-03T05:18:39.160Z",
+  "title": "Entwurf: Boden um den Tisch – gedämpfter Standard + Fach „Boden“",
+  "text": "Was: Der Boden außerhalb des Tischrands hat jetzt eine eigene Ebene. Standard = gedämpfte Tischfarbe (Grün → Graugrün usw.), Tischplatte, Rand und Karten bleiben gleich (Pixelvergleich in der Platte: höchstens 2 von 255 Helligkeitsstufen, unsichtbar). Neues Fach „Boden“ (nur du siehst ihn): S1 Holzdielen, S2 Steinfliesen, S3 Roter Teppich, S4 Bierkeller, S5 Marmor, S6 Festzelt mit Sägespänen – ruhig, ohne Bewegung. Laden + Mein Raum zeigen ihn. Arena hat keinen Tischrand, dort bleibt alles wie bisher. PR, nicht gemergt. Hermes-Subagent (Claude Code, effort hoch).",
+  "issue": "wirtshaus#219",
+  "rows": [
+   {
+    "label": "Binokel 4er Desktop: vorher / Standard",
+    "before": "changes/2026-11-03-floor331/01-before-bk4-desktop-before.webp",
+    "after": "changes/2026-11-03-floor331/02-after-bk4-desktop-none.webp"
+   },
+   {
+    "label": "Binokel 4er Handy: vorher / Standard",
+    "before": "changes/2026-11-03-floor331/03-before-bk4-phone-before.webp",
+    "after": "changes/2026-11-03-floor331/04-after-bk4-phone-none.webp"
+   },
+   {
+    "label": "Alle Böden – Binokel 4er Desktop",
+    "img": "changes/2026-11-03-floor331/05-img-sheet-bk4-desktop.webp"
+   },
+   {
+    "label": "Alle Böden – Binokel 3er Handy",
+    "img": "changes/2026-11-03-floor331/06-img-sheet-bk3-phone.webp"
+   },
+   {
+    "label": "Alle Böden – Lupfen 6er (voll angezogen) Desktop",
+    "img": "changes/2026-11-03-floor331/07-img-sheet-lf6-desktop.webp"
+   },
+   {
+    "label": "Alle Böden – Lupfen 6er Handy",
+    "img": "changes/2026-11-03-floor331/08-img-sheet-lf6-phone.webp"
+   },
+   {
+    "label": "Standard-Boden je Tischfarbe (vorher / nachher)",
+    "img": "changes/2026-11-03-floor331/09-img-sheet-felts-desktop.webp"
+   },
+   {
+    "label": "Stil Klar",
+    "img": "changes/2026-11-03-floor331/10-img-sheet-klar-desktop.webp"
+   },
+   {
+    "label": "Laden: Abschnitt Boden (Desktop / Handy)",
+    "before": "changes/2026-11-03-floor331/11-before-shop-floor-desktop.webp",
+    "after": "changes/2026-11-03-floor331/12-after-shop-floor-phone.webp"
+   },
+   {
+    "label": "Mein Raum: Festzelt anprobiert / echter Tisch mit Marmor",
+    "before": "changes/2026-11-03-floor331/13-before-room-armory-festzelt-desktop.webp",
+    "after": "changes/2026-11-03-floor331/14-after-room-table-marmor-desktop.webp"
+   }
+  ],
+  "sha": "607cf036"
  }
 ]
