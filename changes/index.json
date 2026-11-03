@@ -7562,5 +7562,24 @@
    }
   ],
   "sha": "535d50f5"
+ },
+ {
+  "id": "rules326-210",
+  "date": "2026-11-03T03:50:15.491Z",
+  "title": "Würfel-Hilfe: Augen wieder sichtbar",
+  "text": "Die Beispielwürfel im Tab „Kästchen“ zeigen wieder ihre Augen, die Beschriftung steht daneben. Ursache: das Würfel-Polster war in Prozent der umgebenden Box angegeben – außerhalb des Würfelbechers breiter als der Würfel selbst. Jetzt aus der Würfelgröße. Auf main (28a7c518). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#210",
+  "rows": [
+   {
+    "label": "Vorher (Besitzer-Shot) / nachher Desktop",
+    "before": "changes/2026-11-03-rules326-210/01-before-img-210-3.webp",
+    "after": "changes/2026-11-03-rules326-210/02-after-wuerfel-1280x800-1.webp"
+   },
+   {
+    "label": "Handy (mit neuem Hilfe-Aufbau aus PR #217)",
+    "img": "changes/2026-11-03-rules326-210/03-img-wuerfel-444x987-1.webp"
+   }
+  ],
+  "sha": "535d50f5"
  }
 ]
