@@ -8310,5 +8310,30 @@
    }
   ],
   "sha": "00ac6412"
+ },
+ {
+  "id": "item336-spectate",
+  "date": "2026-11-03T23:17:37.897Z",
+  "title": "Zuschauen im Handy-Querformat: nichts mehr versteckt, BOT-Schild überall",
+  "text": "Zum Review A: „Übung“ und „Zuschauer“ bleiben in der Kopfleiste. Der Augen-Knopf zeigt den Kurznamen, wessen Karten man sieht (auf Geräten unter 800 px Breite nur das Auge; der Name steht im Tooltip und im Menü), und ein Zeichen aus zwei Karten, solange „Alle Karten“ an ist. Der Tischname weicht zuerst (auf dieser Breite ganz). Der Partner oben hat sein BOT-Schild wie die beiden anderen; ein langer Name wird mit „…“ gekürzt. Nichts liegt mehr unter dem Schild des Partners – geprüft bei 904×407, 844×390, 740×360 und 932×430. Vorher = Stand nach meiner ersten Korrektur. Ist auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "904×407 (Handy quer)",
+    "before": "changes/2026-11-03-item336-spectate/01-before-before-10-table-904x407.webp",
+    "after": "changes/2026-11-03-item336-spectate/02-after-after-10-table-904x407.webp"
+   },
+   {
+    "label": "740×360 (kleines Handy)",
+    "before": "changes/2026-11-03-item336-spectate/03-before-before-10-table-740x360.webp",
+    "after": "changes/2026-11-03-item336-spectate/04-after-after-10-table-740x360.webp"
+   },
+   {
+    "label": "932×430",
+    "before": "changes/2026-11-03-item336-spectate/05-before-before-10-table-932x430.webp",
+    "after": "changes/2026-11-03-item336-spectate/06-after-after-10-table-932x430.webp"
+   }
+  ],
+  "sha": "85c1573b"
  }
 ]
