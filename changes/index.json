@@ -7639,5 +7639,19 @@
    }
   ],
   "sha": "535d50f5"
+ },
+ {
+  "id": "item325-binokel4",
+  "date": "2026-11-03T03:57:20.618Z",
+  "title": "Binokel zu viert: Großmeister reizt mit Suche und schätzt die Stärke seines Partners",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high). (1) Der Großmeister reizt zu viert jetzt mit der Suche statt mit Faustregeln (über das Gebot des eigenen Partners weiter nur mit sehr starkem Blatt). Neu gegen alt bei gleichen Paaren 54,2 % [52,4–56,0] (2000 Partien); mit Lehrling als Partner gegen Profi+Profi 57,3 % statt 42,0 %, mit Lehrling gegen Meister+Meister 67,6 % statt 54,6 %. Hellseher-Test zu viert: +139 statt +193 (Reiz-Lücke um ~54 kleiner), Kartenspiel −13. Rechenzeit 9,2 statt 4,9 ms je Entscheidung (1 CPU). Experte mit Reiz-Suche: 49,6 % – bleibt bei der Faustregel. Der ausgespielte „ich passe“-Zweig (pass4) war schlechter (49,6 %) und bleibt aus. (2) Schwacher Partner: der Server sagt den Bots jetzt, wie stark jeder Platz ist (Bot-Stufe; bei Menschen Wertung + σ und Patzer in eindeutigen Lagen aus fertigen Runden – nie verdeckte Karten). Der Großmeister nutzt das im Reizen/Dabb: mit Lehrling-Partner +2 Prozentpunkte (52,2 % und 51,7 % in zwei Läufen à 2000 Partien), sonst neutral; im Kartenspiel verschlechterte es eher und ist dort aus. (3) Reiz-Netz mit gemischten Tischen: nicht begonnen. Alle Varianten und Zahlen: docs/bots/binokel.md, Abschnitt „Zu viert: Reizen mit Suche und Partner-Stärke“. Vorschlag (nicht umgesetzt): Vorgabe Großmeister zu viert 1540 → ~1560.",
+  "issue": "wirtshaus#203",
+  "rows": [
+   {
+    "label": "Paar-Ladder zu viert (12600 Partien) mit Linie des alten Großmeisters",
+    "img": "changes/2026-11-03-item325-binokel4/01-img-paare.webp"
+   }
+  ],
+  "sha": "2270e69b"
  }
 ]
