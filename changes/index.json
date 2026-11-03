@@ -7741,5 +7741,25 @@
    }
   ],
   "sha": "4b9d73eb"
+ },
+ {
+  "id": "item332-pet-anchor",
+  "date": "2026-11-03T11:35:37.655Z",
+  "title": "Handy: Haustier steht am Seitenplatz neben dem Bild",
+  "text": "Am Handy-Seitensitz (Gaigel, Doppelkopf und alle Spiele mit offener Hand/Kartenliste zwischen Namen und Bild) stand das Haustier über dem Namensschild, weit vom eigenen Bild und näher an einem anderen Platz. Jetzt zählt der Name nur noch dann zum Platz, wenn er direkt neben dem Bild steht – sonst sitzt das Haustier (und das Tischplatz-Item) direkt neben dem Bild. Aussehen sonst unverändert. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "binokel#19",
+  "rows": [
+   {
+    "label": "Gaigel Handy 412×915",
+    "before": "changes/2026-11-03-item332-pet-anchor/01-before-gaigel-phone-bad.webp",
+    "after": "changes/2026-11-03-item332-pet-anchor/02-after-gaigel-phone.webp"
+   },
+   {
+    "label": "Doppelkopf Handy 412×915",
+    "before": "changes/2026-11-03-item332-pet-anchor/03-before-doppelkopf-phone-bad.webp",
+    "after": "changes/2026-11-03-item332-pet-anchor/04-after-doppelkopf-phone.webp"
+   }
+  ],
+  "sha": "ab6b97f8"
  }
 ]
