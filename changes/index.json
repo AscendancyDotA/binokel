@@ -7876,5 +7876,90 @@
    }
   ],
   "sha": "413f3655"
+ },
+ {
+  "id": "item333-pile-quality",
+  "date": "2026-11-03T18:04:43.407Z",
+  "title": "Entwurf: Kosmetik-Qualität: Stich-Stapel neu + Shop-Kacheln",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high): Qualitäts-Review aller Kosmetik-Kacheln. Der Stich-Stapel war am Tisch nur ein 25-px-Zähler mit winzigem Kartenzeichen – kein Stapel, die fünf Gegenstände waren nicht zu unterscheiden (1-Sekunden-Test durchgefallen). Jetzt: sichtbarer kleiner Stapel verdeckter Karten (in der eigenen Rückseite) neben dem Namensschild, wächst mit den Stichen (1 Karte je Stich bis 4, dann je 2, höchstens 8). Schief = Haufen, Bierdeckel = Deckel obendrauf, Kerbholz = Kerbholz mit einer Kerbe je Stich, Messingklammer = Klammer, Goldener Stapel = Goldrand + Schein. Kachel in Laden und Mein Raum zeigt das Stück groß. Dazu: Wimpel und Siegesjubel in den Kacheln groß statt winzig, Ausspiel-Effekt ohne Überlappung, ▶ bei bewegten Gegenständen, Boden-Kacheln heller. Urteil je Fach: docs/COSMETICS-REWORK.md §5.6. Standard ohne Gegenstand bleibt pixelgleich. Alle Bilder: vorher links, nachher rechts (Tisch-Aufnahmen mit unterschiedlicher Stichzahl, wo nicht anders angegeben).",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Tisch Desktop: Bierdeckel obendrauf (vorher 3 Stiche, nachher 5)",
+    "before": "changes/2026-11-03-item333-pile-quality/01-before-before-bk3-t4-desktop-seat1-deckel.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/02-after-after-bk4-t9-desktop-seat1-deckel.webp"
+   },
+   {
+    "label": "Tisch Desktop: Schief gestapelt (1 Stich)",
+    "before": "changes/2026-11-03-item333-pile-quality/03-before-before-bk3-t4-desktop-seat0-schief.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/04-after-after-bk4-t4-desktop-seat0-schief.webp"
+   },
+   {
+    "label": "Tisch Handy: Kerbholz (1 Stich)",
+    "before": "changes/2026-11-03-item333-pile-quality/05-before-before-bk4-t9-phone-seat2-kerbholz.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/06-after-after-bk4-t1-phone-seat2-kerbholz.webp"
+   },
+   {
+    "label": "Neu: Schief gestapelt, 12 Stiche = 8 Karten",
+    "img": "changes/2026-11-03-item333-pile-quality/07-img-a6-fix-schief-desktop-seat3-schief.webp"
+   },
+   {
+    "label": "Neu: Bierdeckel obendrauf, 12 Stiche",
+    "img": "changes/2026-11-03-item333-pile-quality/08-img-a6-fix-deckel-desktop-seat3-deckel.webp"
+   },
+   {
+    "label": "Neu: Kerbholz, 12 Kerben",
+    "img": "changes/2026-11-03-item333-pile-quality/09-img-a6-fix-kerbholz-desktop-seat3-kerbholz.webp"
+   },
+   {
+    "label": "Neu: Messingklammer, 12 Stiche",
+    "img": "changes/2026-11-03-item333-pile-quality/10-img-a6-fix-messing-desktop-seat3-messing.webp"
+   },
+   {
+    "label": "Neu: Goldener Stapel, 12 Stiche",
+    "img": "changes/2026-11-03-item333-pile-quality/11-img-a6-fix-gold-desktop-seat3-gold.webp"
+   },
+   {
+    "label": "3er Binokel, Desktop (ganzer Tisch)",
+    "before": "changes/2026-11-03-item333-pile-quality/12-before-before-bk3-t4-desktop.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/13-after-after-bk3-t4-desktop.webp"
+   },
+   {
+    "label": "3er Binokel, Handy (ganzer Tisch)",
+    "before": "changes/2026-11-03-item333-pile-quality/14-before-before-bk3-t4-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/15-after-after-bk3-t4-phone.webp"
+   },
+   {
+    "label": "Laden: Stich-Stapel (Handy)",
+    "before": "changes/2026-11-03-item333-pile-quality/16-before-before-shop-pile-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/17-after-final-shop-pile-phone.webp"
+   },
+   {
+    "label": "Mein Raum: Stich-Stapel (Desktop)",
+    "before": "changes/2026-11-03-item333-pile-quality/18-before-before-room-pile-desktop.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/19-after-final-room-pile-desktop.webp"
+   },
+   {
+    "label": "Laden: Wimpel (Handy)",
+    "before": "changes/2026-11-03-item333-pile-quality/20-before-before-shop-pennant-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/21-after-final-shop-pennant-phone.webp"
+   },
+   {
+    "label": "Laden: Siegesjubel (Handy)",
+    "before": "changes/2026-11-03-item333-pile-quality/22-before-before-shop-cheer-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/23-after-final-shop-cheer-phone.webp"
+   },
+   {
+    "label": "Laden: Ausspiel-Effekt (Handy)",
+    "before": "changes/2026-11-03-item333-pile-quality/24-before-before-shop-play-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/25-after-final-shop-play-phone.webp"
+   },
+   {
+    "label": "Laden: Boden (Handy)",
+    "before": "changes/2026-11-03-item333-pile-quality/26-before-after-shop-floor-phone.webp",
+    "after": "changes/2026-11-03-item333-pile-quality/27-after-final-shop-floor-phone.webp"
+   }
+  ],
+  "sha": "075c97ae"
  }
 ]
