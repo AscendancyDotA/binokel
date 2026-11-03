@@ -7761,5 +7761,35 @@
    }
   ],
   "sha": "ab6b97f8"
+ },
+ {
+  "id": "i328-vortisch-avatars-327",
+  "date": "2026-11-03T14:27:14.664Z",
+  "title": "Entwurf: Vortisch – Profilbilder mittig, Tisch-Prüfungen grün",
+  "text": "Nachbesserung zu PR #216 (nicht gemergt): Die Profilbilder in den Spielerzeilen des Vortischs sitzen jetzt mittig im runden Ring – Bots und Menschen. Ursache: die Zeilen nutzten eine eigene kleine Bild-Variante mit Abstand rechts; jetzt dieselbe Bild-Komponente wie am Tisch. Ein Browser-Test misst die Mitte von Ring und Bild (erlaubt ≤ 1 px, gemessen 0 px, Handy und Desktop). Die Tisch-Prüfungen (Karten auf Schildern, Schilder unter der Kopfleiste usw.) sind in Binokel, Schafkopf, Gaigel und Lupfen bei 412×915, 1280×800 und 1440×760 grün, die Taler-Chips überdecken nichts. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#215",
+  "rows": [
+   {
+    "label": "Handy-Vortisch: vorher Bilder im Ring nach links verschoben – jetzt mittig",
+    "before": "changes/2026-11-03-i328-vortisch-avatars-327/01-before-botstake-phone-vortisch.webp",
+    "after": "changes/2026-11-03-i328-vortisch-avatars-327/02-after-botstake-phone-vortisch.webp"
+   },
+   {
+    "label": "Desktop-Vortisch",
+    "before": "changes/2026-11-03-i328-vortisch-avatars-327/03-before-botstake-desk-vortisch.webp",
+    "after": "changes/2026-11-03-i328-vortisch-avatars-327/04-after-botstake-desk-vortisch.webp"
+   },
+   {
+    "label": "Tisch mit Pott: Schafkopf Handy / Gaigel 1440×760",
+    "before": "changes/2026-11-03-i328-vortisch-avatars-327/05-before-layout-schafkopf-phone.webp",
+    "after": "changes/2026-11-03-i328-vortisch-avatars-327/06-after-layout-gaigel-wide.webp"
+   },
+   {
+    "label": "Binokel 1280×800 / Lupfen Handy (eigener Pott)",
+    "before": "changes/2026-11-03-i328-vortisch-avatars-327/07-before-layout-binokel-desk.webp",
+    "after": "changes/2026-11-03-i328-vortisch-avatars-327/08-after-layout-lupfen-phone.webp"
+   }
+  ],
+  "sha": "5a98e087"
  }
 ]
