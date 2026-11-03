@@ -7707,5 +7707,39 @@
    }
   ],
   "sha": "607cf036"
+ },
+ {
+  "id": "i328-vortisch-bots-chips",
+  "date": "2026-11-03T07:05:33.860Z",
+  "title": "Entwurf: Vortisch auch gegen Bots mit Einsatz + Taler-Chips am Tisch",
+  "text": "Nachtrag des Besitzers umgesetzt (PR #216, nicht gemergt): Allein mit Bots an einem gewerteten Tisch gibt es jetzt denselben Vortisch wie mit Menschen – die Bots setzen aus ihrem eigenen Taler-Konto mit (höchstens 50 je Partie, leeres Konto = 0). Unter dem eigenen Betrag: „Als meinen Standard-Einsatz merken“ (gleiche Einstellung wie in den Einstellungen; der nächste Vortisch startet damit). Kein doppelter Titel mehr. Statt eigener Münzhaufen: die Pott-Chips von Lupfen – beim Start ein Chip-Stapel je Platz, der in den Pott in der Tischmitte fliegt; am Ende fliegt der Pott zum Gewinner. Geprüft in allen 16 gewerteten Spielen bei 412×915, 1280×800 und 1440×760: der Pott liegt nie über Karten, Schildern, Feldern oder Knöpfen (Fünf Würfel/Schocken am Handy haben keinen freien Platz – dort steht der Topf nur oben in der Leiste). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#215",
+  "rows": [
+   {
+    "label": "Allein gegen Bots, Desktop: vorher nur ein Blitz – jetzt der Vortisch mit Einsatz und Haken",
+    "before": "changes/2026-11-03-i328-vortisch-bots-chips/01-before-solo-desk-vortisch.webp",
+    "after": "changes/2026-11-03-i328-vortisch-bots-chips/02-after-botstake-desk-vortisch.webp"
+   },
+   {
+    "label": "Dasselbe am Handy",
+    "before": "changes/2026-11-03-i328-vortisch-bots-chips/03-before-solo-phone-vortisch.webp",
+    "after": "changes/2026-11-03-i328-vortisch-bots-chips/04-after-botstake-phone-vortisch.webp"
+   },
+   {
+    "label": "Partie-Start: vorher Münzen am Namen – jetzt Chip-Stapel je Platz, die in den Pott fliegen",
+    "before": "changes/2026-11-03-i328-vortisch-bots-chips/05-before-stake2-A-deal.webp",
+    "after": "changes/2026-11-03-i328-vortisch-bots-chips/06-after-botstake-desk-stacks.webp"
+   },
+   {
+    "label": "Der Pott während der Partie (Desktop Gaigel / Handy Doppelkopf)",
+    "before": "changes/2026-11-03-i328-vortisch-bots-chips/07-before-layout-gaigel-desk.webp",
+    "after": "changes/2026-11-03-i328-vortisch-bots-chips/08-after-layout-doppelkopf-phone.webp"
+   },
+   {
+    "label": "Partieende: der Pott fliegt zum Gewinner",
+    "img": "changes/2026-11-03-i328-vortisch-bots-chips/09-img-botstake-desk-payout.webp"
+   }
+  ],
+  "sha": "4b9d73eb"
  }
 ]
