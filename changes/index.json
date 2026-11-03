@@ -7610,5 +7610,34 @@
    }
   ],
   "sha": "535d50f5"
+ },
+ {
+  "id": "rules326-all-binokel-19",
+  "date": "2026-11-03T03:50:47.061Z",
+  "title": "Entwurf: Regelhilfe aller 17 Spiele im gleichen Aufbau",
+  "text": "Jede Regelhilfe: zuerst „Auf einen Blick“ (Text + Karten/Würfel/Brett als Bild, Links zu den langen Teilen), dann die Teile als Tabs mit Beispielen (Bild neben Text), am Ende Hausregeln + Fair. Regeltexte unverändert. PR #217 in binokel-wirtshaus wartet auf Freigabe. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#19",
+  "rows": [
+   {
+    "label": "Schafkopf Handy vorher / nachher",
+    "before": "changes/2026-11-03-rules326-all-binokel-19/01-before-schafkopf-444x987-0.webp",
+    "after": "changes/2026-11-03-rules326-all-binokel-19/02-after-schafkopf-444x987-0.webp"
+   },
+   {
+    "label": "Doppelkopf Desktop vorher / nachher",
+    "before": "changes/2026-11-03-rules326-all-binokel-19/03-before-doppelkopf-1280x800-0.webp",
+    "after": "changes/2026-11-03-rules326-all-binokel-19/04-after-doppelkopf-1280x800-0.webp"
+   },
+   {
+    "label": "Mau-Mau Desktop vorher / nachher",
+    "before": "changes/2026-11-03-rules326-all-binokel-19/05-before-maumau-1280x800-0.webp",
+    "after": "changes/2026-11-03-rules326-all-binokel-19/06-after-maumau-1280x800-1.webp"
+   },
+   {
+    "label": "Doppelkopf Tab „Karten“ (Handy)",
+    "img": "changes/2026-11-03-rules326-all-binokel-19/07-img-doppelkopf-444x987-1.webp"
+   }
+  ],
+  "sha": "535d50f5"
  }
 ]
