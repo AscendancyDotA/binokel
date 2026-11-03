@@ -8245,5 +8245,35 @@
    }
   ],
   "sha": "f9feb1eb"
+ },
+ {
+  "id": "item336-stich",
+  "date": "2026-11-03T22:51:21.178Z",
+  "title": "Vorschau „Stich gewonnen“: der verdeckte Stich wandert auf den Stapel des Gewinners",
+  "text": "Punkt 6: Beim Kartenrücken tauchte rechts ein offener Unter auf und wurde vom Bühnenrand abgeschnitten. Jetzt sammeln sich drei verdeckte Karten mit diesem Rücken in der Mitte und wandern in ca. 1,8 s auf den „Stapel des Gewinners“ (Bild: Mitte des Ablaufs und Ende). Alles liegt innerhalb der Bühne, auch auf dem schmalen Handy (Größen folgen der Bühnenbreite). Alle Vorschau-Knöpfe aller Slots geprüft: jeder angebotene Knopf verändert die Bühne, Slots ohne Verhalten zeigen keine Bühne. Ist auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Desktop – Mitte des Ablaufs",
+    "before": "changes/2026-11-03-item336-stich/01-before-before-6-trick-desktop-mid.webp",
+    "after": "changes/2026-11-03-item336-stich/02-after-after-6-trick-desktop-mid.webp"
+   },
+   {
+    "label": "Desktop – Ende",
+    "before": "changes/2026-11-03-item336-stich/03-before-before-6-trick-desktop-end.webp",
+    "after": "changes/2026-11-03-item336-stich/04-after-after-6-trick-desktop-end.webp"
+   },
+   {
+    "label": "Handy hochkant – Mitte",
+    "before": "changes/2026-11-03-item336-stich/05-before-before-6-trick-phone-mid.webp",
+    "after": "changes/2026-11-03-item336-stich/06-after-after-6-trick-phone-mid.webp"
+   },
+   {
+    "label": "Handy quer – Ende",
+    "before": "changes/2026-11-03-item336-stich/07-before-before-6-trick-land-end.webp",
+    "after": "changes/2026-11-03-item336-stich/08-after-after-6-trick-land-end.webp"
+   }
+  ],
+  "sha": "00ac6412"
  }
 ]
