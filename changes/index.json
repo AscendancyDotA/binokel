@@ -8128,5 +8128,33 @@
    }
   ],
   "sha": "c83cbf32"
+ },
+ {
+  "id": "item336-style",
+  "date": "2026-11-03T21:46:59.013Z",
+  "title": "Entwurf: Stil-Zeile in „Mein Raum“",
+  "text": "Punkt 2 (\"wo ist das Setting für den Stil, z. B. Kirschwasser?\"): Unter der Kaufleiste der Schublade steht jetzt eine Zeile „Stil“ mit den drei Stilen des getragenen oder anprobierten Stücks (hier Schnaps-Reihe: Obstler · Kirschwasser · Kräuterlikör). Gesperrte sagen, ab wie vielen Partien sie frei werden; bei einem Stück, das noch nicht gehört, steht, dass der Stil nach dem Kauf mitwächst. Geschmackssache → Pull Request, nicht auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Desktop",
+    "before": "changes/2026-11-03-item336-style/01-before-before-2-style-desktop.webp",
+    "after": "changes/2026-11-03-item336-style/02-after-after-2-style-desktop.webp"
+   },
+   {
+    "label": "Handy hochkant",
+    "before": "changes/2026-11-03-item336-style/03-before-before-2-style-phone.webp",
+    "after": "changes/2026-11-03-item336-style/04-after-after-2-style-phone.webp"
+   },
+   {
+    "label": "Kirschwasser gewählt (Desktop)",
+    "img": "changes/2026-11-03-item336-style/05-img-after-2-style-desktop-kirsch.webp"
+   },
+   {
+    "label": "Stück noch nicht gekauft (Handy)",
+    "img": "changes/2026-11-03-item336-style/06-img-after-2-style-phone-unowned.webp"
+   }
+  ],
+  "sha": "c83cbf32"
  }
 ]
