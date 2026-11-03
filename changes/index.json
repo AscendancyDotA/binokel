@@ -8275,5 +8275,25 @@
    }
   ],
   "sha": "00ac6412"
+ },
+ {
+  "id": "item336-filters",
+  "date": "2026-11-03T22:51:38.330Z",
+  "title": "Alle Filter aus zeigt alles (Laden + Mein Raum)",
+  "text": "Punkt 6: Mit Besitz, Kaufbar und Erspielbar alle AUS stand „Mit diesen Filtern gibt es hier nichts“. Kein Filter heißt jetzt: nichts wird gefiltert, alles wird gezeigt. Die Meldung bleibt nur für ein echtes leeres Ergebnis und sagt, wie man wieder alles sieht. Ist auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Laden, alle Filter aus",
+    "before": "changes/2026-11-03-item336-filters/01-before-before-7-filters-off-shop.webp",
+    "after": "changes/2026-11-03-item336-filters/02-after-after-7-filters-off-shop.webp"
+   },
+   {
+    "label": "Mein Raum, alle Filter aus (Kartenrücken)",
+    "before": "changes/2026-11-03-item336-filters/03-before-before-7-filters-off-room.webp",
+    "after": "changes/2026-11-03-item336-filters/04-after-after-7-filters-off-room.webp"
+   }
+  ],
+  "sha": "00ac6412"
  }
 ]
