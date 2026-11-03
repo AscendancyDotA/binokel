@@ -7791,5 +7791,67 @@
    }
   ],
   "sha": "5a98e087"
+ },
+ {
+  "id": "floor331b",
+  "date": "2026-11-03T15:03:29.705Z",
+  "title": "Entwurf: Boden – Festzelt erkennbar, Bierkeller und Marmor deutlicher",
+  "text": "Nachbesserung zu PR #220 nach „boden festzelt, was soll ich da denn sehen?“. Festzelt: blau-weiß gestreifte Zeltplane mit Falten an linkem und rechtem Rand, helle Bretter mit Sägemehl, oben unter der Kopfleiste eine durchhängende Wimpelkette mit warmen Glühbirnen, die langsam flackern (still bei Animationen aus/sanft, schwachem Handy, reduzierter Bewegung). Die Kette hängt hinter der Tischplatte – nie auf Tisch, Karten, Namen oder Knöpfen (Pixelcheck: 0 Pixel Unterschied auf dem Tisch). Bierkeller: rote Ziegel mit heller Fuge und Bierfässer an den Wänden; Marmor: hellgraue polierte Platten mit dünnen Adern. Holzdielen, Steinfliesen und Teppich bleiben. Hermes-Subagent (claude-opus, effort hoch).",
+  "issue": "wirtshaus#219",
+  "rows": [
+   {
+    "label": "Festzelt, Binokel 4er Desktop (vorher / nachher)",
+    "before": "changes/2026-11-03-floor331b/01-before-bk4-desktop-festzelt.webp",
+    "after": "changes/2026-11-03-floor331b/02-after-bk4-desktop-festzelt.webp"
+   },
+   {
+    "label": "Festzelt, Binokel 4er Handy 444×987",
+    "before": "changes/2026-11-03-floor331b/03-before-bk4-phone-festzelt.webp",
+    "after": "changes/2026-11-03-floor331b/04-after-bk4-phone-festzelt.webp"
+   },
+   {
+    "label": "Festzelt, Lupfen 6er Handy",
+    "before": "changes/2026-11-03-floor331b/05-before-lf6-phone-festzelt.webp",
+    "after": "changes/2026-11-03-floor331b/06-after-lf6-phone-festzelt.webp"
+   },
+   {
+    "label": "Festzelt, Lupfen 6er Desktop",
+    "before": "changes/2026-11-03-floor331b/07-before-lf6-desktop-festzelt.webp",
+    "after": "changes/2026-11-03-floor331b/08-after-lf6-desktop-festzelt.webp"
+   },
+   {
+    "label": "Bierkeller Desktop",
+    "before": "changes/2026-11-03-floor331b/09-before-bk4-desktop-keller.webp",
+    "after": "changes/2026-11-03-floor331b/10-after-bk4-desktop-keller.webp"
+   },
+   {
+    "label": "Marmor Desktop",
+    "before": "changes/2026-11-03-floor331b/11-before-bk4-desktop-marmor.webp",
+    "after": "changes/2026-11-03-floor331b/12-after-bk4-desktop-marmor.webp"
+   },
+   {
+    "label": "Alle Böden, Binokel 4er Handy (nachher)",
+    "img": "changes/2026-11-03-floor331b/13-img-sheet-bk4-phone.webp"
+   },
+   {
+    "label": "Alle Böden, Binokel 4er Desktop (nachher)",
+    "img": "changes/2026-11-03-floor331b/14-img-sheet-bk4-desktop.webp"
+   },
+   {
+    "label": "Laden-Kachel Festzelt (Desktop / Handy)",
+    "before": "changes/2026-11-03-floor331b/15-before-shop-festzelt-desktop.webp",
+    "after": "changes/2026-11-03-floor331b/16-after-shop-festzelt-phone.webp"
+   },
+   {
+    "label": "Mein Raum: echter Tisch mit Festzelt (Desktop / Handy)",
+    "before": "changes/2026-11-03-floor331b/17-before-room-table-festzelt-desktop.webp",
+    "after": "changes/2026-11-03-floor331b/18-after-room-table-festzelt-phone.webp"
+   },
+   {
+    "label": "Mein Raum: Szene + Armory mit Festzelt",
+    "img": "changes/2026-11-03-floor331b/19-img-room-armory-festzelt-desktop.webp"
+   }
+  ],
+  "sha": "9eff1f44"
  }
 ]
