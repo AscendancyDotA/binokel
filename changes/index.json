@@ -8156,5 +8156,39 @@
    }
   ],
   "sha": "c83cbf32"
+ },
+ {
+  "id": "item336-topup",
+  "date": "2026-11-03T21:47:12.158Z",
+  "title": "Entwurf: Taler antippen = aufladen, Knopf „Taler aufladen“",
+  "text": "Punkt 3 (\"Taler links oben sind nicht klickbar\"): Die Taler sind überall ein Knopf (oben in der Leiste, in der Kasse, in Mein Raum, im Laden) und öffnen das Aufladen (Web: der bestehende Kauf, Play-App: Play-Abrechnung). Ohne Kaufmöglichkeit führt der Knopf zur Seite „Taler“, die erklärt, wie man Taler verdient. Dazu ein klarer Knopf „Taler aufladen“ in der Kasse und in Mein Raum; auf dem schmalen Handy bekommt Mein Raum eine zweite Kopfzeile (der Titel war zu „MEI …“ gekürzt). Geschmackssache → Pull Request. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Mein Raum, Desktop",
+    "before": "changes/2026-11-03-item336-topup/01-before-before-3-room-desktop.webp",
+    "after": "changes/2026-11-03-item336-topup/02-after-after-3-room-desktop.webp"
+   },
+   {
+    "label": "Mein Raum, Handy hochkant",
+    "before": "changes/2026-11-03-item336-topup/03-before-before-3-room-phone.webp",
+    "after": "changes/2026-11-03-item336-topup/04-after-after-3-room-phone.webp"
+   },
+   {
+    "label": "Kasse, Desktop (oben die Leiste)",
+    "before": "changes/2026-11-03-item336-topup/05-before-before-3-topbar-desktop.webp",
+    "after": "changes/2026-11-03-item336-topup/06-after-after-3-topbar-desktop.webp"
+   },
+   {
+    "label": "Kasse, Handy hochkant",
+    "before": "changes/2026-11-03-item336-topup/07-before-before-3-kasse-phone.webp",
+    "after": "changes/2026-11-03-item336-topup/08-after-after-3-kasse-phone.webp"
+   },
+   {
+    "label": "Antippen öffnet das Aufladen (Handy)",
+    "img": "changes/2026-11-03-item336-topup/09-img-after-3-dialog-phone.webp"
+   }
+  ],
+  "sha": "c83cbf32"
  }
 ]
