@@ -7961,5 +7961,57 @@
    }
   ],
   "sha": "075c97ae"
+ },
+ {
+  "id": "item335-schnaps-entwurf",
+  "date": "2026-11-03T18:17:07.636Z",
+  "title": "Entwurf: Schnaps-Reihe wird getrunken und bekommt drei Sorten",
+  "text": "Claude Code via Arena (GPT/OpenAI Responses, resp_, Session 5bb49de0). Die Reihe startet mit fünf vollen Stamperln; je gewonnener Runde leert sich eines, bis alle leer sind. Obstler, Kirschwasser und Kräuterlikör haben eigene Farben; das S4-Stück behält Preis und Stufe, schaltet den dritten Stil nach 200 gewerteten Ausstattungs-Partien frei. Vorschau und Mein Raum zeigen den Ablauf; reduziert/still ohne Bewegung. Vorher/Nachher und Ansichten vom Handy und Desktop; zur Geschmacksfreigabe, nicht auf main.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Handy: nach fünf gewonnenen Runden",
+    "before": "changes/2026-11-03-item335-schnaps-entwurf/01-before-stage-phone-schnaps.webp",
+    "after": "changes/2026-11-03-item335-schnaps-entwurf/02-after-schnaps-phone-5-wins.webp"
+   },
+   {
+    "label": "Desktop: nach fünf gewonnenen Runden",
+    "before": "changes/2026-11-03-item335-schnaps-entwurf/03-before-stage-spot-schnaps.webp",
+    "after": "changes/2026-11-03-item335-schnaps-entwurf/04-after-schnaps-desktop-5-wins.webp"
+   },
+   {
+    "label": "Handy: Partie-Start, fünf voll",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/05-img-schnaps-phone-0-wins.webp"
+   },
+   {
+    "label": "Handy: zwei Runden gewonnen",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/06-img-schnaps-phone-2-wins.webp"
+   },
+   {
+    "label": "Desktop: zwei Runden gewonnen",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/07-img-schnaps-desktop-2-wins.webp"
+   },
+   {
+    "label": "Mein Raum: Rundensieg",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/08-img-schnaps-room-phone-round.webp"
+   },
+   {
+    "label": "Shop-Kachel: Obstler",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/09-img-schnaps-tile-phone-style1.webp"
+   },
+   {
+    "label": "Shop-Kachel: Kirschwasser",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/10-img-schnaps-tile-phone-style2.webp"
+   },
+   {
+    "label": "Shop-Kachel: Kräuterlikör",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/11-img-schnaps-tile-phone-style3.webp"
+   },
+   {
+    "label": "Desktop-Shop: Kräuterlikör",
+    "img": "changes/2026-11-03-item335-schnaps-entwurf/12-img-schnaps-tile-desktop-style3.webp"
+   }
+  ],
+  "sha": "1980ad90"
  }
 ]
