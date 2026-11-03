@@ -8113,5 +8113,20 @@
    }
   ],
   "sha": "c83cbf32"
+ },
+ {
+  "id": "item336-partner",
+  "date": "2026-11-03T21:46:52.123Z",
+  "title": "Name des Partners oben am Tisch (Handy quer, Zuschauer)",
+  "text": "Punkt 5 (\"hier oben der Name\"): Beim Zuschauen mit offenen Karten wuchs der Namensblock des oberen Platzes aus der Zeile heraus – der Name lag über dem Bildschirmrand, und die Zuschauer-Leiste („Sicht: Frau …“) lag unter dem Platz. Jetzt liegt die offene Hand neben dem Schild wie sonst der Fächer, die Leiste ist die kompakte, das BOT-Schild entfällt dort (Roboter-Gesicht und Zeile darunter sagen es schon). Nur Handy quer betroffen, am Desktop ändert sich nichts. Ist auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Handy quer (Meistertisch, Zuschauer)",
+    "before": "changes/2026-11-03-item336-partner/01-before-before-5-table-land.webp",
+    "after": "changes/2026-11-03-item336-partner/02-after-after-5-table-land.webp"
+   }
+  ],
+  "sha": "c83cbf32"
  }
 ]
