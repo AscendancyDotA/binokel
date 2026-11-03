@@ -8073,5 +8073,25 @@
    }
   ],
   "sha": "12da2a89"
+ },
+ {
+  "id": "item336-badges",
+  "date": "2026-11-03T21:46:14.795Z",
+  "title": "Stufen-Marken (S4, S5 …) liegen nicht mehr über der Kaufleiste",
+  "text": "Punkt 1 (\"Marker auf der falschen Ebene\"): Die Marken lagen beim Scrollen über der Kaufleiste. Jede Kachel ist jetzt ihre eigene Ebene, die Kaufleiste liegt über allen Kacheln. Auf main (gerade nach dem Test). Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Handy hochkant (Mein Raum → Tischplatz, gescrollt)",
+    "before": "changes/2026-11-03-item336-badges/01-before-before-1-badges-phone.webp",
+    "after": "changes/2026-11-03-item336-badges/02-after-after-1-badges-phone.webp"
+   },
+   {
+    "label": "Desktop",
+    "before": "changes/2026-11-03-item336-badges/03-before-before-1-badges-desktop.webp",
+    "after": "changes/2026-11-03-item336-badges/04-after-after-1-badges-desktop.webp"
+   }
+  ],
+  "sha": "c83cbf32"
  }
 ]
