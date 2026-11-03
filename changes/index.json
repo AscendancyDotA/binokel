@@ -8043,5 +8043,35 @@
    }
   ],
   "sha": "49ebbc5e"
+ },
+ {
+  "id": "item335b-schnaps-runde",
+  "date": "2026-11-03T18:47:27.785Z",
+  "title": "Entwurf: A Rund Schnaps füllt nach, Prost hebt die Gläser",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort low). Am 4er-Tisch: „A Rund Schnaps“ (Stammtisch-Paket) füllt bei jeder Schnaps-Reihe ein leeres Stamperl wieder auf; wer keine hat, bekommt kurz ein einzelnes Stamperl neben sein Bild. „Prost!“ hebt alle vollen Gläser (Schnaps-Reihe, Bierdeckel + Halbe) kurz an, nichts wird geleert. Kostenlos, kein Taler. Der Server begrenzt: Nachfüllen höchstens einmal pro Spielrunde und Absender, Anheben höchstens alle 20 s; die Zeile selbst erscheint trotzdem (8 pro Minute). Bei Still/Sanft/schwachem Gerät/reduzierter Bewegung ändert sich nur der Füllstand, ohne Bewegung.",
+  "issue": "wirtshaus#194",
+  "rows": [
+   {
+    "label": "Handy vor der ersten Runde",
+    "img": "changes/2026-11-03-item335b-schnaps-runde/01-img-s335-before-phone.webp"
+   },
+   {
+    "label": "Desktop nach einer gewonnenen Runde: ein Glas leer",
+    "img": "changes/2026-11-03-item335b-schnaps-runde/02-img-s335-after-round-desktop.webp"
+   },
+   {
+    "label": "Handy: A Rund Schnaps – Stamperl bei Sitzen ohne Schnaps-Reihe",
+    "img": "changes/2026-11-03-item335b-schnaps-runde/03-img-s335-refill-phone.webp"
+   },
+   {
+    "label": "Desktop: nach A Rund Schnaps wieder voll",
+    "img": "changes/2026-11-03-item335b-schnaps-runde/04-img-s335-refill-desktop.webp"
+   },
+   {
+    "label": "Handy: Prost!",
+    "img": "changes/2026-11-03-item335b-schnaps-runde/05-img-s335-prost-phone.webp"
+   }
+  ],
+  "sha": "12da2a89"
  }
 ]
