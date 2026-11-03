@@ -8335,5 +8335,30 @@
    }
   ],
   "sha": "85c1573b"
+ },
+ {
+  "id": "item336-dialog",
+  "date": "2026-11-03T23:17:51.745Z",
+  "title": "„Taler kaufen“-Dialog ist deckend",
+  "text": "Zum Review C: Der Dialog ist in jedem Look deckend (im Glas-Look schien der Laden durch die Pakete), dahinter ist es dunkel abgedeckt. Ist auf main. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Handy, Glas-Look",
+    "before": "changes/2026-11-03-item336-dialog/01-before-before-11-dialog-phone-glas.webp",
+    "after": "changes/2026-11-03-item336-dialog/02-after-after-11-dialog-phone-glas.webp"
+   },
+   {
+    "label": "Handy, Standard-Look",
+    "before": "changes/2026-11-03-item336-dialog/03-before-before-11-dialog-phone.webp",
+    "after": "changes/2026-11-03-item336-dialog/04-after-after-11-dialog-phone.webp"
+   },
+   {
+    "label": "Desktop, Glas-Look",
+    "before": "changes/2026-11-03-item336-dialog/05-before-before-11-dialog-desktop-glas.webp",
+    "after": "changes/2026-11-03-item336-dialog/06-after-after-11-dialog-desktop-glas.webp"
+   }
+  ],
+  "sha": "85c1573b"
  }
 ]
