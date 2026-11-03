@@ -7853,5 +7853,28 @@
    }
   ],
   "sha": "9eff1f44"
+ },
+ {
+  "id": "playfx334-firefox",
+  "date": "2026-11-03T17:47:34.427Z",
+  "title": "Ausspiel-Effekt: Abspielen im Shop und in der Demo sichtbar",
+  "text": "Claude Code (coding-router-preview): ▶ Abspielen zeigt den eigenen Ausspiel-Effekt jetzt auch bei sanfter oder ausgeschalteter Bewegung und bei reduzierter Bewegung. Die Demo-Runde zeigt ihn einmal und kehrt danach zum Ruhemodus zurück; am echten Tisch bleiben die Ruhe-Einstellungen wirksam. Das ältere Stück heißt nun Funkenregen statt wie das zweite Höllenfunken. Edge und Firefox 158 (auch mit Fingerprinting-Schutz) auf Desktop und Handy geprüft; der Haupt-PC wurde nicht direkt getestet. Noch nicht live/deployt.",
+  "issue": "binokel#19",
+  "rows": [
+   {
+    "label": "Shop im Firefox: vorher / nachher",
+    "before": "changes/2026-11-03-playfx334-firefox/01-before-dashboard_20261103_174106_5b166e20_composer_2026-11-03_17-39.webp",
+    "after": "changes/2026-11-03-playfx334-firefox/02-after-shop-normal-desktop.webp"
+   },
+   {
+    "label": "Shop am Handy mit Bewegung aus",
+    "img": "changes/2026-11-03-playfx334-firefox/03-img-shop-still-phone.webp"
+   },
+   {
+    "label": "Demo-Runde am Handy mit Bewegung aus",
+    "img": "changes/2026-11-03-playfx334-firefox/04-img-demo-still-phone.webp"
+   }
+  ],
+  "sha": "413f3655"
  }
 ]
