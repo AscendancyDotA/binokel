@@ -8360,5 +8360,35 @@
    }
   ],
   "sha": "85c1573b"
+ },
+ {
+  "id": "item336-taler-one",
+  "date": "2026-11-03T23:39:04.778Z",
+  "title": "Entwurf: ein einziger Taler-Knopf – die Anzeige ist der Knopf (Umbau nach Review B)",
+  "text": "Zum Review B (PR #227): Es gibt nur noch EIN Bauteil – Münze, Zahl und ein kleines Plus; die Anzeige selbst ist der Knopf zum Aufladen. Es steht oben in der Leiste und in Mein Raum (das Vollbild verdeckt die Leiste), pro Bildschirm genau einmal. Entfallen sind: der zweite große Kontostand in der Kasse, der große Knopf „Taler aufladen“, „Taler kaufen“ im Laden und alle „●“-Punkte (überall die Taler-Münze). Fehlen Taler für einen Kauf, steht an der Stelle ein kleiner Link „Taler aufladen“. Auf dem schmalen Handy ist der Umschalter Liste/Bild in Mein Raum ein Symbol, damit Titel, Taler, Umschalter und ✕ in einer Zeile stehen. Vorher = erste Fassung des PR. Geschmackssache → Pull Request. Hermes-Subagent (coding-router-preview, effort standard)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "Mein Raum, Handy hochkant",
+    "before": "changes/2026-11-03-item336-taler-one/01-before-after-3-room-phone.webp",
+    "after": "changes/2026-11-03-item336-taler-one/02-after-after-3-room-phone.webp"
+   },
+   {
+    "label": "Mein Raum, Desktop",
+    "before": "changes/2026-11-03-item336-taler-one/03-before-after-3-room-desktop.webp",
+    "after": "changes/2026-11-03-item336-taler-one/04-after-after-3-room-desktop.webp"
+   },
+   {
+    "label": "Kasse, Handy hochkant (Kontostand nur noch in der Leiste)",
+    "before": "changes/2026-11-03-item336-taler-one/05-before-after-3-kasse-phone.webp",
+    "after": "changes/2026-11-03-item336-taler-one/06-after-after-3-kasse-phone.webp"
+   },
+   {
+    "label": "Kasse, Desktop",
+    "before": "changes/2026-11-03-item336-taler-one/07-before-after-3-kasse-desktop.webp",
+    "after": "changes/2026-11-03-item336-taler-one/08-after-after-3-kasse-desktop.webp"
+   }
+  ],
+  "sha": "87174991"
  }
 ]
