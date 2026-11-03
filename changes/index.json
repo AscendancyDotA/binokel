@@ -8190,5 +8190,60 @@
    }
   ],
   "sha": "c83cbf32"
+ },
+ {
+  "id": "item339-codex",
+  "date": "2026-11-03T22:29:33.207Z",
+  "title": "Notizbuch: Full Review – jedes Spiel sein eigenes Bild, nur echte Handlungen schalten frei",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort 10). Alle 48 Einträge (31 feste + 17 Spiele) im echten UI durchgegangen, jeder Schritt, Handy 390×844 + Desktop 1440×900 (de), swb/en Stichprobe – neues e2e tools/e2e-codex-review.mjs. Befunde und Fixes: (1) Spiel-Einträge teilten sich drei Bilder: Mühle und Backgammon zeigten das Vier-in-einer-Reihe-Gitter, alle Kartenspiele die Binokel-Karten (Skat, Doppelkopf, Mau-Mau, Schwimmen, Rommé also das falsche Blatt), Fünf Würfel nur drei Würfel → jedes Spiel hat jetzt sein eigenes Bild (eigenes Blatt mit typischen Karten, eigenes Brett, eigene Würfel; Vier im Wirtshaus-Holzbrett mit Bierdeckeln statt blauem Gitter). (2) Der Text war für alle Spiele gleich und versprach ‚leuchtende Züge‘ → ein eigener Satz je Spiel nach docs/rules. (3) Abrufe, die die Lobby von selbst schickt, schalteten beim ersten Start sechs Einträge frei (Kasse, Haustier, Liga, Rätsel, Stammtisch, Taverne) → zählt nur noch, was der Spieler tut; Trinkgeld wurde nie erkannt → jetzt (Lob an einen Mitspieler). (4) ‚Zeig‘s mir‘ fand in 15 Spiel-Einträgen nichts → zeigt Lernrunden-Karte bzw. ‚Gegen Bots‘; Tagesblatt/Wirtshaus-TV mit Ersatzziel; jetzt 59/59. (5) ‚Regeln‘ öffnet direkt die Regeln dieses Spiels; ‚Lernrunde starten‘ öffnet nachweislich den richtigen Tisch (15/15). (6) Kleinkram: Kasse-Szene leerer Rahmen, Taler-Zähler bei ‚Bewegung aus‘ falsch, Double Down zeigte Münzen + Liga-Leiter, Trinkgeld-Eintrag versprach Taler auch ohne Trinkgeld-Schalter. Taler je Eintrag genau einmal geprüft (48/48). Nicht deployt.",
+  "issue": "wirtshaus#225",
+  "rows": [
+   {
+    "label": "Neu: Mühle (Handy)",
+    "before": "changes/2026-11-03-item339-codex/01-before-phone-de-game-muehle-1.webp",
+    "after": "changes/2026-11-03-item339-codex/02-after-phone-de-game-muehle-1.webp"
+   },
+   {
+    "label": "Neu: Skat – französisches Blatt",
+    "before": "changes/2026-11-03-item339-codex/03-before-phone-de-game-skat-1.webp",
+    "after": "changes/2026-11-03-item339-codex/04-after-phone-de-game-skat-1.webp"
+   },
+   {
+    "label": "Neu: Backgammon",
+    "before": "changes/2026-11-03-item339-codex/05-before-phone-de-game-backgammon-1.webp",
+    "after": "changes/2026-11-03-item339-codex/06-after-phone-de-game-backgammon-1.webp"
+   },
+   {
+    "label": "Neu: Vier in einer Reihe",
+    "before": "changes/2026-11-03-item339-codex/07-before-phone-de-game-vier-1.webp",
+    "after": "changes/2026-11-03-item339-codex/08-after-phone-de-game-vier-1.webp"
+   },
+   {
+    "label": "Neu: Fünf Würfel",
+    "before": "changes/2026-11-03-item339-codex/09-before-phone-de-game-wuerfel-1.webp",
+    "after": "changes/2026-11-03-item339-codex/10-after-phone-de-game-wuerfel-1.webp"
+   },
+   {
+    "label": "Neu: Schocken",
+    "before": "changes/2026-11-03-item339-codex/11-before-phone-de-game-schocken-1.webp",
+    "after": "changes/2026-11-03-item339-codex/12-after-phone-de-game-schocken-1.webp"
+   },
+   {
+    "label": "Neu: Rommé (Desktop)",
+    "before": "changes/2026-11-03-item339-codex/13-before-desk-de-game-romme-1.webp",
+    "after": "changes/2026-11-03-item339-codex/14-after-desk-de-game-romme-1.webp"
+   },
+   {
+    "label": "Taler, Schritt 2: Kartenrücken",
+    "before": "changes/2026-11-03-item339-codex/15-before-phone-de-taler-2.webp",
+    "after": "changes/2026-11-03-item339-codex/16-after-phone-de-taler-2.webp"
+   },
+   {
+    "label": "Double Down: Schalter + ×2",
+    "before": "changes/2026-11-03-item339-codex/17-before-phone-de-doubledown-1.webp",
+    "after": "changes/2026-11-03-item339-codex/18-after-phone-de-doubledown-2.webp"
+   }
+  ],
+  "sha": "f9feb1eb"
  }
 ]
