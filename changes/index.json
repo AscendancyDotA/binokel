@@ -7547,5 +7547,20 @@
    }
   ],
   "sha": "f97f1b44"
+ },
+ {
+  "id": "rules326-209",
+  "date": "2026-11-03T03:50:08.174Z",
+  "title": "Regelhilfe zeigt das gewählte Spiel",
+  "text": "Die Regelhilfe aus Lobby-Kopf, Profil, Mehr-Menü, Einstellungen und Notizbuch zeigt jetzt die Regeln des Spiels am offenen Tisch, sonst des in der Lobby gewählten Spiels – vorher immer Binokel. Auf main (28a7c518), Test help209 für alle 17 Spiele. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#209",
+  "rows": [
+   {
+    "label": "Vorher (Besitzer-Shot) / nachher: Schnapsen gewählt",
+    "before": "changes/2026-11-03-rules326-209/01-before-img-209-4.webp",
+    "after": "changes/2026-11-03-rules326-209/02-after-schnapsen-1280x800-0.webp"
+   }
+  ],
+  "sha": "535d50f5"
  }
 ]
