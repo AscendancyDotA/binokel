@@ -7515,5 +7515,37 @@
    }
   ],
   "sha": "55acc5d5"
+ },
+ {
+  "id": "i328-vortisch-immer",
+  "date": "2026-11-03T03:33:47.400Z",
+  "title": "Entwurf: Vortisch immer zeigen + Münzhaufen",
+  "text": "Vor jeder Online-Partie kommt jetzt immer der kurze Bereit-Check (Vortisch). Allein mit Bots blitzt er ~1,5 s auf und teilt dann selbst aus; zu zweit ohne Taler 5 s „Alle bereit?“; sobald jemand Taler setzt, gilt die Einsatz-Bestätigung wie bisher. Wer setzt, hat einen Münzhaufen am Platz (im Vortisch und während der Partie am Namensschild). Liegt als PR zur Abnahme, nicht auf main. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#215",
+  "rows": [
+   {
+    "label": "Allein + Bots, Desktop: vorher sofort Austeilen – jetzt kurzer Blitz",
+    "before": "changes/2026-11-03-i328-vortisch-immer/01-before-solo-desk-deal.webp",
+    "after": "changes/2026-11-03-i328-vortisch-immer/02-after-solo-desk-vortisch.webp"
+   },
+   {
+    "label": "Allein + Bots, Handy",
+    "img": "changes/2026-11-03-i328-vortisch-immer/03-img-solo-phone-vortisch.webp"
+   },
+   {
+    "label": "Zu zweit ohne Taler (Handy, schwäbisch)",
+    "img": "changes/2026-11-03-i328-vortisch-immer/04-img-table2-B-check.webp"
+   },
+   {
+    "label": "Mit Taler: Bestätigen + Münzhaufen (Desktop / Handy)",
+    "before": "changes/2026-11-03-i328-vortisch-immer/05-before-stake2-A-check.webp",
+    "after": "changes/2026-11-03-i328-vortisch-immer/06-after-stake2-B-check.webp"
+   },
+   {
+    "label": "Während der Partie: Münzhaufen + Einsatz am Namensschild",
+    "img": "changes/2026-11-03-i328-vortisch-immer/07-img-stake2-A-deal.webp"
+   }
+  ],
+  "sha": "f97f1b44"
  }
 ]
