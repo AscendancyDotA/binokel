@@ -8464,5 +8464,19 @@
    }
   ],
   "sha": "b38e64a2"
+ },
+ {
+  "id": "spectator-voice22",
+  "date": "2026-11-05T09:55:28.136Z",
+  "title": "Zuschauer-Sprachraum auch an Tischen ohne Sprache",
+  "text": "Zuschauer bekommen ihren eigenen Sprachraum jetzt an jedem Tisch – auch wenn der Tisch für die Spieler keinen Sprachchat hat (z. B. Wirtshaus-TV). Die Spieler hören die Zuschauer weiterhin nie. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#22",
+  "rows": [
+   {
+    "label": "Zuschauer an einem Tisch ohne Sprache (508×624): Mikro + Zuschauer-Raum",
+    "img": "changes/2026-11-05-spectator-voice22/01-img-sfu-spectator-novoice-phone.webp"
+   }
+  ],
+  "sha": "b38e64a2"
  }
 ]
