@@ -8865,5 +8865,35 @@
    }
   ],
   "sha": "b223f8f6"
+ },
+ {
+  "id": "item362-emote-vorschau",
+  "date": "2026-11-05T13:17:40.822Z",
+  "title": "Entwurf: Sprüche-Pakete mit Vorschau und in Mein Raum",
+  "text": "Entwurf (nicht auf main): Die Shop-Karte eines Sprüche-Pakets zeigt jeden Spruch groß mit Worten, reihum in Bewegung. In Mein Raum gibt es das neue Fach Sprüche-Paket mit Sprechblase, Auswahl, Anprobieren und Anlegen. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#249",
+  "rows": [
+   {
+    "label": "Shop, Desktop 1280×800",
+    "before": "changes/2026-11-05-item362-emote-vorschau/01-before-emotes-desktop-shop.webp",
+    "after": "changes/2026-11-05-item362-emote-vorschau/02-after-emotes-desktop-shop.webp"
+   },
+   {
+    "label": "Shop, Handy 444×987",
+    "before": "changes/2026-11-05-item362-emote-vorschau/03-before-emotes-phone-shop.webp",
+    "after": "changes/2026-11-05-item362-emote-vorschau/04-after-emotes-phone-shop.webp"
+   },
+   {
+    "label": "Mein Raum, Desktop",
+    "before": "changes/2026-11-05-item362-emote-vorschau/05-before-emotes-desktop-room.webp",
+    "after": "changes/2026-11-05-item362-emote-vorschau/06-after-emotes-desktop-room.webp"
+   },
+   {
+    "label": "Mein Raum: Paket anprobieren (Desktop) / Handy",
+    "before": "changes/2026-11-05-item362-emote-vorschau/07-before-emotes-desktop-room-try.webp",
+    "after": "changes/2026-11-05-item362-emote-vorschau/08-after-emotes-phone-room-try.webp"
+   }
+  ],
+  "sha": "4964fb6b"
  }
 ]
