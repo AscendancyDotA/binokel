@@ -8799,5 +8799,47 @@
    }
   ],
   "sha": "4c0e583a"
+ },
+ {
+  "id": "item355-leaddice",
+  "date": "2026-11-05T11:46:10.716Z",
+  "title": "Würfeln um die Vorhand bei Extrarunden",
+  "text": "Passt die Rundenzahl nicht zur Spielerzahl (z. B. 4 Runden zu dritt), würfelt bei Partiebeginn jeder einen Würfel – der Höchste hat in der Extrarunde die Vorhand. Die Karte ist nicht modal (der Tisch bleibt bedienbar) und schließt sich von selbst. Rundenzahl im Tisch-Formular frei („Eigene“). Entwurf – Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#242",
+  "rows": [
+   {
+    "label": "Partiebeginn Binokel zu dritt, 4 Runden · Desktop 1280×800",
+    "before": "changes/2026-11-05-item355-leaddice/01-before-before-table-desk.webp",
+    "after": "changes/2026-11-05-item355-leaddice/02-after-after-table-desk.webp"
+   },
+   {
+    "label": "Partiebeginn · Handy 444×987",
+    "before": "changes/2026-11-05-item355-leaddice/03-before-before-table-phone.webp",
+    "after": "changes/2026-11-05-item355-leaddice/04-after-after-table-phone.webp"
+   },
+   {
+    "label": "Tisch erstellen · Desktop",
+    "before": "changes/2026-11-05-item355-leaddice/05-before-before-create-rules-desk.webp",
+    "after": "changes/2026-11-05-item355-leaddice/06-after-after-create-rules-desk.webp"
+   },
+   {
+    "label": "Tisch erstellen · Handy",
+    "before": "changes/2026-11-05-item355-leaddice/07-before-before-create-phone.webp",
+    "after": "changes/2026-11-05-item355-leaddice/08-after-after-create-phone.webp"
+   },
+   {
+    "label": "Eigene Rundenzahl (5 Runden: Runden 4–5 werden ausgewürfelt)",
+    "img": "changes/2026-11-05-item355-leaddice/09-img-after-create-own-desk.webp"
+   },
+   {
+    "label": "Rommé zu viert, 3 Runden (Standard) · Desktop",
+    "img": "changes/2026-11-05-item355-leaddice/10-img-after-romme-desk.webp"
+   },
+   {
+    "label": "Rommé · Handy",
+    "img": "changes/2026-11-05-item355-leaddice/11-img-after-romme-phone.webp"
+   }
+  ],
+  "sha": "e2eaac37"
  }
 ]
