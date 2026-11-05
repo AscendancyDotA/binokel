@@ -9025,5 +9025,33 @@
    }
   ],
   "sha": "ca7a03a1"
+ },
+ {
+  "id": "item367-wuerfel-spaet",
+  "date": "2026-11-05T17:23:02.251Z",
+  "title": "Würfeln um die Vorhand erst vor Runde 4",
+  "text": "Binokel zu dritt über 4 Runden: Die Würfelkarte kommt nicht mehr beim Partiebeginn, sondern zu Beginn von Runde 4 (der Extrarunde). Dieselben Würfe wie vorher, nur später. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#242",
+  "rows": [
+   {
+    "label": "Partiebeginn · Desktop 1280×800",
+    "before": "changes/2026-11-05-item367-wuerfel-spaet/01-before-before-start-desk.webp",
+    "after": "changes/2026-11-05-item367-wuerfel-spaet/02-after-after-start-desk.webp"
+   },
+   {
+    "label": "Partiebeginn · Handy 444×987",
+    "before": "changes/2026-11-05-item367-wuerfel-spaet/03-before-before-start-phone.webp",
+    "after": "changes/2026-11-05-item367-wuerfel-spaet/04-after-after-start-phone.webp"
+   },
+   {
+    "label": "Nachher: Würfelkarte zu Beginn von Runde 4 · Desktop",
+    "img": "changes/2026-11-05-item367-wuerfel-spaet/05-img-after-dice-desk.webp"
+   },
+   {
+    "label": "Nachher: Runde 4 · Handy",
+    "img": "changes/2026-11-05-item367-wuerfel-spaet/06-img-after-dice-phone.webp"
+   }
+  ],
+  "sha": "66cb3c57"
  }
 ]
