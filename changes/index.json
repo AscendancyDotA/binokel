@@ -9331,5 +9331,27 @@
    }
   ],
   "sha": "6bff777a"
+ },
+ {
+  "id": "item379-raetsel",
+  "date": "2026-11-05T23:08:57.740Z",
+  "title": "Dame und Bid Whist: Rätsel des Tages",
+  "text": "Rätsel des Tages jetzt auch für Dame und Bid Whist. Dame: an Tagen ohne echte Stellung eine Schlag-Aufgabe aus einer Bot-Partie (Mehrfachschlag, Opfer-Schlag, Weg zur Dame), vom Rechner geprüft – nur ein Zug gewinnt klar. Bid Whist: welche Karte, aus Sicht des Spielers. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Dame, Handy: Aufgabe",
+    "img": "changes/2026-11-05-item379-raetsel/01-img-pz-dame-phone.webp"
+   },
+   {
+    "label": "Dame, Handy: Auflösung",
+    "img": "changes/2026-11-05-item379-raetsel/02-img-pz-dame-reveal-phone.webp"
+   },
+   {
+    "label": "Bid Whist, Desktop",
+    "img": "changes/2026-11-05-item379-raetsel/03-img-pz-bw-desk2.webp"
+   }
+  ],
+  "sha": "6bff777a"
  }
 ]
