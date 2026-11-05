@@ -9067,5 +9067,35 @@
    }
   ],
   "sha": "3759e728"
+ },
+ {
+  "id": "item371-news-poll",
+  "date": "2026-11-05T18:38:04.809Z",
+  "title": "Neuigkeiten: Abstimmung und Kommentare (Entwurf)",
+  "text": "Unter einem Beitrag in Willkommen → Neuigkeiten: große Antwort-Knöpfe, nach der eigenen Stimme Balken mit Prozent und Stimmen (eigene Wahl mit ✓), darunter Kommentare mit Melden/Blockieren. Entwurf-PR, Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#251",
+  "rows": [
+   {
+    "label": "Handy 444×987 (vorher / nach der Stimme, mit Kommentaren)",
+    "before": "changes/2026-11-05-item371-news-poll/01-before-before-wirtshaus-phone.webp",
+    "after": "changes/2026-11-05-item371-news-poll/02-after-after-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-05-item371-news-poll/03-before-before-wirtshaus-desk.webp",
+    "after": "changes/2026-11-05-item371-news-poll/04-after-after-wirtshaus-desk.webp"
+   },
+   {
+    "label": "Handy: vor der eigenen Stimme / Kommentar melden",
+    "before": "changes/2026-11-05-item371-news-poll/05-before-after-wirtshaus-phone-novote.webp",
+    "after": "changes/2026-11-05-item371-news-poll/06-after-after-wirtshaus-phone-report.webp"
+   },
+   {
+    "label": "Skins Arena (swb) und Klar (en)",
+    "before": "changes/2026-11-05-item371-news-poll/07-before-after-arena-phone.webp",
+    "after": "changes/2026-11-05-item371-news-poll/08-after-after-klar-desk.webp"
+   }
+  ],
+  "sha": "cd79bb18"
  }
 ]
