@@ -18,6 +18,15 @@
 Alle Versionen mit Änderungen: [Releases](https://github.com/AscendancyDotA/binokel/releases) (`latest-test` ist immer die neueste Test-Version).
 Die Apps sagen selbst Bescheid, wenn es eine neue Version gibt.
 
+<!-- play:start (tools/public-readme-play.ts, binokel#23) -->
+### Android-Test über Google Play
+
+Statt der APK geht es auch über Google Play: zuerst beim offenen Test mitmachen (mit dem Google-Konto des Handys), dann die App im Play Store installieren – Updates kommen danach von selbst.
+
+- **Binokel Wirtshaus** (Binokel): [beim Test mitmachen](https://play.google.com/apps/testing/io.github.ascendancydota.binokel) · [im Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.binokel)
+- Bald: **Wirtshaus: Kartenspiele & mehr** (alle Spiele), **Schnapsen Wirtshaus** (Schnapsen) – der offene Test ist noch in der Prüfung bei Google.
+<!-- play:end -->
+
 <!-- stats:start (tools/public-readme-stats.ts, GitHub #28) -->
 ## Gerade im Wirtshaus
 
@@ -106,6 +115,10 @@ Kartenbilder: historische Scans des württembergischen Musters (Bibliothèque na
 Three players, or four in two teams, up to 1000 or 1500 points or over a fixed number of rounds.
 
 **Download:** [Android app “Wirtshaus” (APK)](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/wirtshaus.apk) · [Windows app](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel.exe) (no installation) or [installer](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel-setup.exe) (unsigned: SmartScreen → *More info → Run anyway*) · **play in the browser: <https://binokel.tail108204.ts.net>** · [all releases](https://github.com/AscendancyDotA/binokel/releases)
+
+<!-- play-en:start -->
+**Google Play (open test):** Binokel Wirtshaus: [join the test](https://play.google.com/apps/testing/io.github.ascendancydota.binokel), then [install from the Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.binokel) · soon: Wirtshaus: Kartenspiele & mehr, Schnapsen Wirtshaus (still in Google's review)
+<!-- play-en:end -->
 
 <!-- stats-en:start -->
 **Live:** <img alt="matches" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.matches.total&label=matches&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300"> <img alt="players this month" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.players.month&label=players%20this%20month&color=2f7049&labelColor=21170d&style=flat-square&cacheSeconds=300"> <img alt="online now" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbinokel.tail108204.ts.net%2Fstats.json&query=%24.online.now&label=online%20now&color=d9a648&labelColor=21170d&style=flat-square&cacheSeconds=300"> · [picture](https://binokel.tail108204.ts.net/stats.svg?lang=en) · [stats.json](https://binokel.tail108204.ts.net/stats.json)
