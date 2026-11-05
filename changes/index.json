@@ -8587,5 +8587,50 @@
    }
   ],
   "sha": "da2ad745"
+ },
+ {
+  "id": "item349-analyse-zahlen",
+  "date": "2026-11-05T10:44:18.006Z",
+  "title": "Entwurf: Analyse mit Zahlen",
+  "text": "Entwurf (nicht auf main): Die Urteilskarte der Auswertung zeigt die besten Züge mit Zahlen. Beim Drücken steht jede Ansage mit Gewinnchance, erwarteten Punkten der Runde und Abstand zur besten. Vorher = main mit Reiz-Netz. – Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#241",
+  "rows": [
+   {
+    "label": "Drücken & Trumpf, Fenster aus der Meldung (1254×621)",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/01-before-before-binokel3-93-vp.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/02-after-final-binokel3-93-vp.webp"
+   },
+   {
+    "label": "Drücken & Trumpf, Handy 444×987",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/03-before-before-binokel3-93-port.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/04-after-final-binokel3-93-port.webp"
+   },
+   {
+    "label": "Reizen, Desktop 1280×800",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/05-before-before-binokel3-88-desk.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/06-after-final-binokel3-88-desk.webp"
+   },
+   {
+    "label": "Ausspielen (Fehler), Desktop 1280×800",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/07-before-before-binokel3-221-desk.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/08-after-final-binokel3-221-desk.webp"
+   },
+   {
+    "label": "Ausspielen, Handy 444×987",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/09-before-before-binokel3-221-port.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/10-after-final-binokel3-221-port.webp"
+   },
+   {
+    "label": "Lupfen (Abstand in Chips), Desktop",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/11-before-before-lupfen-16-desk.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/12-after-final-lupfen-16-desk.webp"
+   },
+   {
+    "label": "Schwimmen (Abstand in %), Handy",
+    "before": "changes/2026-11-05-item349-analyse-zahlen/13-before-before-schwimmen-10-port.webp",
+    "after": "changes/2026-11-05-item349-analyse-zahlen/14-after-final-schwimmen-10-port.webp"
+   }
+  ],
+  "sha": "473ad2fe"
  }
 ]
