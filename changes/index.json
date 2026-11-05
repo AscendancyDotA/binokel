@@ -8632,5 +8632,34 @@
    }
   ],
   "sha": "473ad2fe"
+ },
+ {
+  "id": "item347-pot-kopfleiste",
+  "date": "2026-11-05T11:02:54.683Z",
+  "title": "Topf statt Stapel, Kopfleiste im schmalen Fenster",
+  "text": "Nach dem Start fliegen die Einsätze der Plätze in den Topf, danach liegt nur noch der Haupttopf auf dem Tisch (alle Spiele mit dem gemeinsamen Topf). Im schmalen Fenster (binokel#20) liegt kein Knopf der Kopfleiste mehr auf dem Partner: was keinen Platz hat, wandert in ein ⋯-Menü, die Partner-Platte kürzt den Namen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#236",
+  "rows": [
+   {
+    "label": "Partie läuft, Desktop 1280×800",
+    "before": "changes/2026-11-05-item347-pot-kopfleiste/01-before-pot347-desk.webp",
+    "after": "changes/2026-11-05-item347-pot-kopfleiste/02-after-pot347-desk.webp"
+   },
+   {
+    "label": "Fenster 500×482 (Firefox 500×542), Reizen zu viert",
+    "before": "changes/2026-11-05-item347-pot-kopfleiste/03-before-before-bid-p4-500x482-s1.webp",
+    "after": "changes/2026-11-05-item347-pot-kopfleiste/04-after-after-bid-p4-500x482-s1.webp"
+   },
+   {
+    "label": "Als Zuschauer 500×482",
+    "before": "changes/2026-11-05-item347-pot-kopfleiste/05-before-binokel-narrow.webp",
+    "after": "changes/2026-11-05-item347-pot-kopfleiste/06-after-binokel-narrow.webp"
+   },
+   {
+    "label": "Neu: das ⋯-Menü offen",
+    "img": "changes/2026-11-05-item347-pot-kopfleiste/07-img-menu-final-500x482.webp"
+   }
+  ],
+  "sha": "7f1c586b"
  }
 ]
