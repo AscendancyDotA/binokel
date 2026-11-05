@@ -9305,5 +9305,31 @@
    }
   ],
   "sha": "45c21b99"
+ },
+ {
+  "id": "item379-lernrunde",
+  "date": "2026-11-05T23:08:23.203Z",
+  "title": "Dame und Bid Whist: geführte Lernrunde",
+  "text": "Neu bei beiden Spielen (im Bau): die Lernrunde im Spielen-Tab. Tipps an den wichtigen Stellen, der gute Zug leuchtet. Dame: ziehen, Schlagzwang, Mehrfachschlag, Dame krönen. Bid Whist: bieten, Trumpf, sechs Karten ablegen, ausspielen, bedienen. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Dame, Handy",
+    "img": "changes/2026-11-05-item379-lernrunde/01-img-dame-tip-welcome-phone.webp"
+   },
+   {
+    "label": "Bid Whist, Handy: Bieten",
+    "img": "changes/2026-11-05-item379-lernrunde/02-img-bidwhist-tip-bid-phone.webp"
+   },
+   {
+    "label": "Bid Whist, Desktop: Ablegen",
+    "img": "changes/2026-11-05-item379-lernrunde/03-img-bidwhist-tip-bury-desk.webp"
+   },
+   {
+    "label": "Ende der Lernrunde",
+    "img": "changes/2026-11-05-item379-lernrunde/04-img-bidwhist-end-phone.webp"
+   }
+  ],
+  "sha": "6bff777a"
  }
 ]
