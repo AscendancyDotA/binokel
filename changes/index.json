@@ -8895,5 +8895,47 @@
    }
   ],
   "sha": "4964fb6b"
+ },
+ {
+  "id": "bidwhist352",
+  "date": "2026-11-05T13:27:33.552Z",
+  "title": "Bid Whist (im Bau): der Tisch",
+  "text": "Neues Spiel Bid Whist, versteckt (nur mit #games=binokel,bidwhist bzw. GAMES_ENABLED). Zu viert, zwei feste Paare: bieten (Uptown / Downtown / ohne Trumpf), Trumpf ansagen, sechs Karten ablegen, 12 Books spielen. Bots in sechs Stufen, online mit Warteschlange bidwhist:p4. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Bieten (Desktop)",
+    "img": "changes/2026-11-05-bidwhist352/01-img-desktop-bid.webp"
+   },
+   {
+    "label": "Trumpf wählen",
+    "img": "changes/2026-11-05-bidwhist352/02-img-desktop-declare.webp"
+   },
+   {
+    "label": "Ablegen",
+    "img": "changes/2026-11-05-bidwhist352/03-img-desktop-discard.webp"
+   },
+   {
+    "label": "Spielen (Handy)",
+    "img": "changes/2026-11-05-bidwhist352/04-img-phone-play.webp"
+   },
+   {
+    "label": "Hand-Ende",
+    "img": "changes/2026-11-05-bidwhist352/05-img-desktop-roundEnd.webp"
+   },
+   {
+    "label": "Online, Handy: Bieten",
+    "img": "changes/2026-11-05-bidwhist352/06-img-online-B-bid.webp"
+   },
+   {
+    "label": "Online: Zuschauer",
+    "img": "changes/2026-11-05-bidwhist352/07-img-online-spectator.webp"
+   },
+   {
+    "label": "Partie-Ende (Handy, online)",
+    "img": "changes/2026-11-05-bidwhist352/08-img-online-matchend-phone.webp"
+   }
+  ],
+  "sha": "1d2d8ff3"
  }
 ]
