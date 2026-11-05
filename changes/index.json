@@ -8691,5 +8691,27 @@
    }
   ],
   "sha": "9dd6db9e"
+ },
+ {
+  "id": "canasta-tv-lernrunde-232",
+  "date": "2026-11-05T11:20:15.284Z",
+  "title": "Canasta (im Bau): Wirtshaus-TV, Rätsel des Tages, Lernrunde",
+  "text": "Neu für Canasta (weiter im Bau, 🚧): ein Canasta-Stammtisch im Wirtshaus-TV (vier starke Bots, zwei Paare, zwei Runden), das Rätsel des Tages (welche Karte abwerfen, oder Ablagestapel statt Ziehen) und eine Lernrunde zu viert mit Tipps: ziehen, auslegen, abwerfen, Stapel nehmen, erste Canasta. Dreier-Canasta ist nicht gebaut (Best Guess in CANASTA.md). Hermes-Subagent (claude-opus-5-5, effort medium) – Commits b1e37456, 450f2daf, 48ce8629",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Desktop: Canasta-Stammtisch im Wirtshaus-TV",
+    "img": "changes/2026-11-05-canasta-tv-lernrunde-232/01-img-online-tv-mini.webp"
+   },
+   {
+    "label": "Handy: Lernrunde, Tipp zum Auslegen",
+    "img": "changes/2026-11-05-canasta-tv-lernrunde-232/02-img-canasta-tip-meld-phone.webp"
+   },
+   {
+    "label": "Desktop: Ende der Lernrunde",
+    "img": "changes/2026-11-05-canasta-tv-lernrunde-232/03-img-canasta-end-desk.webp"
+   }
+  ],
+  "sha": "48ce8629"
  }
 ]
