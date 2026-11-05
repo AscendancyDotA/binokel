@@ -8478,5 +8478,45 @@
    }
   ],
   "sha": "b38e64a2"
+ },
+ {
+  "id": "taverne239-kompakt",
+  "date": "2026-11-05T09:56:12.382Z",
+  "title": "Entwurf: Taverne kompakt",
+  "text": "Entwurf (nicht auf main): Kopf, Räume und Sprachleiste je eine Zeile, „Wer ist da“ als Gesichter-Zeile zum Aufklappen, der Chat füllt den Rest der Spalte. Vorher = main mit Scroll-Fix. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#240",
+  "rows": [
+   {
+    "label": "Fenster aus der Meldung (2195×1087 @1,75), 15 Leute",
+    "before": "changes/2026-11-05-taverne239-kompakt/01-before-taverne239-1254x621-top-after.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/02-after-taverne239-1254x621-top-entwurf.webp"
+   },
+   {
+    "label": "1280×800, 15 Leute",
+    "before": "changes/2026-11-05-taverne239-kompakt/03-before-taverne239-1280x800-top-after.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/04-after-taverne239-1280x800-top-entwurf.webp"
+   },
+   {
+    "label": "Handy 444×987, 15 Leute",
+    "before": "changes/2026-11-05-taverne239-kompakt/05-before-taverne239-444x987-top-after.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/06-after-taverne239-444x987-top-entwurf.webp"
+   },
+   {
+    "label": "Wenige Leute (3): PC / Handy",
+    "before": "changes/2026-11-05-taverne239-kompakt/07-before-taverne239-1280x800-top-entwurf-few.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/08-after-taverne239-444x987-top-entwurf-few.webp"
+   },
+   {
+    "label": "„Im Raum (15)“ aufgeklappt: PC / Handy",
+    "before": "changes/2026-11-05-taverne239-kompakt/09-before-taverne239-1280x800-members-open-entwurf.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/10-after-taverne239-444x987-members-open-entwurf.webp"
+   },
+   {
+    "label": "Mit Sprache + Kamera (lokaler Sprach-Server): PC / Handy",
+    "before": "changes/2026-11-05-taverne239-kompakt/11-before-taverne-camera-desk.webp",
+    "after": "changes/2026-11-05-taverne239-kompakt/12-after-taverne-phone-wirtshaus.webp"
+   }
+  ],
+  "sha": "b38e64a2"
  }
 ]
