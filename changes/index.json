@@ -8538,5 +8538,30 @@
    }
   ],
   "sha": "d99a028a"
+ },
+ {
+  "id": "item345-rest",
+  "date": "2026-11-05T10:15:11.442Z",
+  "title": "Handy quer: Rahmen am Partner-Platz, Teamnamen im Punkte-Kasten",
+  "text": "Zum Fund am Bild 932×430: Das Gelbe an Oma Bertas Bild war ein Profilrahmen mit Krone (Thron, König und Geweih ragen über den Ring). Am oberen Platz ragte die Krone über den Bildschirmrand und wurde abgeschnitten – jetzt sitzt die Plakette mit so einem Rahmen unten in ihrer Zeile, die ganze Krone ist zu sehen. Im Punkte-Kasten stehen beide Namen jedes Teams untereinander statt „Dr. Häberle & O…“. Die Namen an den Seitenplätzen werden erst gekürzt, wenn neben dem Stich kein Platz mehr ist; der Stich bleibt so groß wie bisher. Nur Handy quer betroffen, Desktop und Hochformat unverändert. Ist auf main (65a7265a). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#223",
+  "rows": [
+   {
+    "label": "932×430, König-Rahmen am oberen Platz",
+    "before": "changes/2026-11-05-item345-rest/01-before-before-10-frame-932x430.webp",
+    "after": "changes/2026-11-05-item345-rest/02-after-after-10-frame-932x430.webp"
+   },
+   {
+    "label": "932×430, Punkte-Kasten und Namen",
+    "before": "changes/2026-11-05-item345-rest/03-before-before-10-table-932x430.webp",
+    "after": "changes/2026-11-05-item345-rest/04-after-after-10-table-932x430.webp"
+   },
+   {
+    "label": "740×360 (kleines Handy)",
+    "before": "changes/2026-11-05-item345-rest/05-before-before-10-frame-740x360.webp",
+    "after": "changes/2026-11-05-item345-rest/06-after-after-10-frame-740x360.webp"
+   }
+  ],
+  "sha": "65a7265a"
  }
 ]
