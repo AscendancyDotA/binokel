@@ -8518,5 +8518,25 @@
    }
   ],
   "sha": "b38e64a2"
+ },
+ {
+  "id": "item346-queue-card",
+  "date": "2026-11-05T10:11:43.100Z",
+  "title": "Warteschlange: Zähler und „Format egal“ in jedem Spiel",
+  "text": "Jede Solo-Warteschlange zeigt jetzt, wie viele Menschen gerade auf dieses Spiel und diese Tischgröße warten, und hat den Schalter „Format egal“ samt Wunschliste (vorher nur bei Binokel – in den anderen Spielen war er unsichtbar und führte zu „nicht verstanden“). Lupfen bietet 3 bis 6 Spieler. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#235",
+  "rows": [
+   {
+    "label": "Schnapsen, Desktop: vorher (Live) / nachher",
+    "before": "changes/2026-11-05-item346-queue-card/01-before-qhflUARNQFEmuDEcHTDQ2SYi.webp",
+    "after": "changes/2026-11-05-item346-queue-card/02-after-q346-schnapsen-egal-desk-de.webp"
+   },
+   {
+    "label": "Lupfen: vorher (Live, Desktop) / nachher (Handy, englisch)",
+    "before": "changes/2026-11-05-item346-queue-card/03-before-jU3HFWWJMUUsFDarBVkLGHFh.webp",
+    "after": "changes/2026-11-05-item346-queue-card/04-after-q346-lupfen-card-phone-en.webp"
+   }
+  ],
+  "sha": "d99a028a"
  }
 ]
