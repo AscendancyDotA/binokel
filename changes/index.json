@@ -8444,5 +8444,25 @@
    }
   ],
   "sha": "b38e64a2"
+ },
+ {
+  "id": "bugreport-zoom",
+  "date": "2026-11-05T09:55:16.521Z",
+  "title": "Fehlerbericht: Bildschirmfoto groß ansehen",
+  "text": "Im Fehlerbericht hat das aufgenommene Bild jetzt eine Lupe: antippen öffnet es groß, Esc / Zurück / Tippen schließt nur das Bild, der Bericht bleibt offen. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#20",
+  "rows": [
+   {
+    "label": "PC: Vorschau mit Lupe / groß",
+    "before": "changes/2026-11-05-bugreport-zoom/01-before-bugreport-dialog-settings.webp",
+    "after": "changes/2026-11-05-bugreport-zoom/02-after-bugreport-dialog-settings-zoom.webp"
+   },
+   {
+    "label": "Handy",
+    "before": "changes/2026-11-05-bugreport-zoom/03-before-bugreport-phone-dialog.webp",
+    "after": "changes/2026-11-05-bugreport-zoom/04-after-bugreport-phone-dialog-zoom.webp"
+   }
+  ],
+  "sha": "b38e64a2"
  }
 ]
