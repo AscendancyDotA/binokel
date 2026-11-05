@@ -8661,5 +8661,35 @@
    }
   ],
   "sha": "7f1c586b"
+ },
+ {
+  "id": "canasta-tisch-232",
+  "date": "2026-11-05T11:04:17.114Z",
+  "title": "Canasta (im Bau): der Tisch auf Handy und Desktop",
+  "text": "Canasta ist als Spiel im Bau (🚧) da: zwei Paare, Ausgelegtes je Seite, Canasta als Stoß mit Marke (rot = natürlich, schwarz = gemischt), Stapel + Ablage mit eingefroren-Hinweis, Runden-Abrechnung. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Handy: Ausgelegtes beider Paare",
+    "img": "changes/2026-11-05-canasta-tisch-232/01-img-ca-melds-phone.webp"
+   },
+   {
+    "label": "Desktop: fertige Canasta",
+    "img": "changes/2026-11-05-canasta-tisch-232/02-img-ca-canasta-desk.webp"
+   },
+   {
+    "label": "Handy: Rundenende mit übrigen Handkarten",
+    "img": "changes/2026-11-05-canasta-tisch-232/03-img-ca-roundEnd-phone.webp"
+   },
+   {
+    "label": "Desktop: Rundenende",
+    "img": "changes/2026-11-05-canasta-tisch-232/04-img-ca-roundEnd-desk.webp"
+   },
+   {
+    "label": "Handy: Lobby",
+    "img": "changes/2026-11-05-canasta-tisch-232/05-img-ca-lobby-phone.webp"
+   }
+  ],
+  "sha": "9dd6db9e"
  }
 ]
