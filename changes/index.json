@@ -8425,5 +8425,24 @@
    }
   ],
   "sha": "1628f920"
+ },
+ {
+  "id": "taverne239-scroll",
+  "date": "2026-11-05T09:55:07.377Z",
+  "title": "Taverne scrollt für sich (Lobby, breite Fenster)",
+  "text": "Auf breiten Bildschirmen ist die Taverne-Spalte auf der Willkommen-Seite angeheftet und scrollt für sich: das Mausrad über der Taverne bewegt nicht mehr die linke Seite, der Chat ist ohne Herunterscrollen der ganzen Seite erreichbar. Fenster wie in der Meldung (2195×1087 @1,75), 15 Leute im Raum. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#239",
+  "rows": [
+   {
+    "label": "Vorher: Mausrad über der Taverne schiebt die ganze Seite / Nachher: links gescrollt, Taverne mit Chat bleibt stehen",
+    "before": "changes/2026-11-05-taverne239-scroll/01-before-taverne239-1254x621-wheel-taverne-before.webp",
+    "after": "changes/2026-11-05-taverne239-scroll/02-after-taverne239-1254x621-wheel-left-after.webp"
+   },
+   {
+    "label": "1280×800: Mausrad über der Taverne scrollt nur die Taverne",
+    "img": "changes/2026-11-05-taverne239-scroll/03-img-taverne239-1280x800-wheel-taverne-after.webp"
+   }
+  ],
+  "sha": "b38e64a2"
  }
 ]
