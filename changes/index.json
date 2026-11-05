@@ -8841,5 +8841,29 @@
    }
   ],
   "sha": "e2eaac37"
+ },
+ {
+  "id": "item362-tagesraetsel-breit",
+  "date": "2026-11-05T13:13:57.018Z",
+  "title": "Tagesrätsel auf breiten Bildschirmen",
+  "text": "Das Tagesrätsel war auf großen/breiten Fenstern eine schmale 860-px-Spalte, das Archiv klebte am rechten Rand. Jetzt wachsen Karten, Schrift und Chips mit dem Fenster, Frage bzw. Ergebnis stehen neben dem Tisch, das Archiv direkt daneben. Handy und 1280×800 bleiben gleich. (Hermes-Subagent (claude-opus-5-5, effort medium), Item 362)",
+  "issue": "wirtshaus#233",
+  "rows": [
+   {
+    "label": "1905×818 bei 200 % (dein 3811×1636-Bildschirm)",
+    "before": "changes/2026-11-05-item362-tagesraetsel-breit/01-before-puzzle-wide-1905x818.webp",
+    "after": "changes/2026-11-05-item362-tagesraetsel-breit/02-after-puzzle-wide-1905x818.webp"
+   },
+   {
+    "label": "2560×1440",
+    "before": "changes/2026-11-05-item362-tagesraetsel-breit/03-before-puzzle-wide-2560x1440.webp",
+    "after": "changes/2026-11-05-item362-tagesraetsel-breit/04-after-puzzle-wide-2560x1440.webp"
+   },
+   {
+    "label": "1920×1080 – Ergebnis neben dem Tisch",
+    "img": "changes/2026-11-05-item362-tagesraetsel-breit/05-img-puzzle-wide-reveal-1920x1080.webp"
+   }
+  ],
+  "sha": "b223f8f6"
  }
 ]
