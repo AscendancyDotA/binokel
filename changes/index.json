@@ -9053,5 +9053,19 @@
    }
   ],
   "sha": "66cb3c57"
+ },
+ {
+  "id": "r63-taverne-live",
+  "date": "2026-11-05T18:37:43.301Z",
+  "title": "Taverne kompakt live mit Sprache",
+  "text": "Live nach Deploy r63 (Handy 444×987, mit Sprachserver): Die Sprachleiste ist da – „Mitschwätza“ (Sprache beitreten), darunter der Hinweis zu Mikro und Kamera, dann „Im Raum (1)“ und der Chat. Hauptagent (claude-opus-5-5)",
+  "issue": "wirtshaus#240",
+  "rows": [
+   {
+    "label": "Handy",
+    "img": "changes/2026-11-05-r63-taverne-live/01-img-live-r63.webp"
+   }
+  ],
+  "sha": "3759e728"
  }
 ]
