@@ -9097,5 +9097,29 @@
    }
   ],
   "sha": "cd79bb18"
+ },
+ {
+  "id": "spectate369-replay",
+  "date": "2026-11-05T18:39:57.620Z",
+  "title": "Zuschauen: letzte fertige Runde statt Wartebildschirm",
+  "text": "Wer an einem verzögerten Tisch mitten in einer Runde dazukommt, sieht sofort die letzte fertige Runde von vorn (Geben, Reizen, Stiche im Tempo des Tisches) und bleibt so etwa eine Runde hinter dem Live-Stand. Vorher stand nur das Ergebnis da mit „Runde N läuft gerade … du siehst sie, sobald sie fertig ist“. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#250",
+  "rows": [
+   {
+    "label": "PC 1280×800, Einstieg in Runde 2",
+    "before": "changes/2026-11-05-spectate369-replay/01-before-before-binokel-1280.webp",
+    "after": "changes/2026-11-05-spectate369-replay/02-after-spectate369-binokel-1280.webp"
+   },
+   {
+    "label": "Handy 444×987 (vorher: Bild des Besitzers), Einstieg in Runde 3",
+    "before": "changes/2026-11-05-spectate369-replay/03-before-owner-369-spectate.webp",
+    "after": "changes/2026-11-05-spectate369-replay/04-after-spectate369-binokel-phone.webp"
+   },
+   {
+    "label": "Doppelkopf 1280×800, Einstieg in Runde 2 (gleicher Weg für alle Spiele)",
+    "img": "changes/2026-11-05-spectate369-replay/05-img-spectate369-doppelkopf-1280.webp"
+   }
+  ],
+  "sha": "571d46ee"
  }
 ]
