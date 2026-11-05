@@ -9353,5 +9353,20 @@
    }
   ],
   "sha": "6bff777a"
+ },
+ {
+  "id": "item379-dame-tipp",
+  "date": "2026-11-05T23:09:23.913Z",
+  "title": "Dame: Tipp-Kasten neben dem Brett",
+  "text": "Der Tipp-Kasten (Lernrunde, erste Partien) lag am Desktop über der rechten oberen Brett-Ecke; jetzt bleibt er im freien Streifen rechts vom Brett. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-05-item379-dame-tipp/01-before-dame-tip-multi-desk.webp",
+    "after": "changes/2026-11-05-item379-dame-tipp/02-after-dame-tip-multi-desk.webp"
+   }
+  ],
+  "sha": "6bff777a"
  }
 ]
