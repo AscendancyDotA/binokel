@@ -8771,5 +8771,33 @@
    }
   ],
   "sha": "1b864aff"
+ },
+ {
+  "id": "item356-meldungen",
+  "date": "2026-11-05T11:39:43.267Z",
+  "title": "Entwurf: Meldungen bis zum ersten Stich nochmal ansehen",
+  "text": "Bis der erste Stich der Runde genommen ist, steht am Platz von „Letzter Stich“ der Knopf „Meldungen“. Er legt die Meldungen aller Spieler noch einmal aus, wie nach dem Ansagen. Mit dem ersten Stich wird daraus wieder „Letzter Stich“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#246",
+  "rows": [
+   {
+    "label": "Binokel 3 Spieler, Desktop 1280×800: Knopf",
+    "before": "changes/2026-11-05-item356-meldungen/01-before-before-3p-desk-btn.webp",
+    "after": "changes/2026-11-05-item356-meldungen/02-after-after-3p-desk-btn.webp"
+   },
+   {
+    "label": "nach dem Tippen",
+    "img": "changes/2026-11-05-item356-meldungen/03-img-after-3p-desk-open.webp"
+   },
+   {
+    "label": "Binokel 4 Spieler, Handy 444×987",
+    "before": "changes/2026-11-05-item356-meldungen/04-before-before-4p-phone-btn.webp",
+    "after": "changes/2026-11-05-item356-meldungen/05-after-after-4p-phone-btn.webp"
+   },
+   {
+    "label": "nach dem Tippen (Karten im Stich treten zurück)",
+    "img": "changes/2026-11-05-item356-meldungen/06-img-after-4p-phone-open.webp"
+   }
+  ],
+  "sha": "4c0e583a"
  }
 ]
