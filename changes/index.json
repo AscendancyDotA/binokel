@@ -9265,5 +9265,45 @@
    }
   ],
   "sha": "246d6d3b"
+ },
+ {
+  "id": "item374-canasta-tisch",
+  "date": "2026-11-05T21:17:31.497Z",
+  "title": "Canasta: Tisch release-reif (Entwurf)",
+  "text": "Meldkarten so groß, wie die Felder es erlauben (vorher immer 32 px), Felder mit festem Platz und Kopf (Team, ausgelegte Punkte), Canasta als Packen, Eisrand am eingefrorenen Stapel, Querformat neu aufgeteilt. Entwurf – Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-05-item374-canasta-tisch/01-before-ca-canasta-p4-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/02-after-ca-canasta-s7-p4-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-05-item374-canasta-tisch/03-before-ca-canasta-p4-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/04-after-ca-canasta-s7-p4-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-05-item374-canasta-tisch/05-before-ca-melds-p4-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/06-after-ca-melds-s7-p4-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Kleines Handy 360×780",
+    "before": "changes/2026-11-05-item374-canasta-tisch/07-before-ca-melds-p4-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/08-after-ca-melds-s7-p4-wirtshaus-360x780.webp"
+   },
+   {
+    "label": "Online, Handy",
+    "before": "changes/2026-11-05-item374-canasta-tisch/09-before-online-B-melds.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/10-after-online-B-melds.webp"
+   },
+   {
+    "label": "Skin Klar",
+    "before": "changes/2026-11-05-item374-canasta-tisch/11-before-ca-canasta-p4-klar-1280x800.webp",
+    "after": "changes/2026-11-05-item374-canasta-tisch/12-after-ca-canasta-s7-p4-klar-1280x800.webp"
+   }
+  ],
+  "sha": "45c21b99"
  }
 ]
