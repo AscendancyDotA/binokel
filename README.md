@@ -24,7 +24,8 @@ Die Apps sagen selbst Bescheid, wenn es eine neue Version gibt.
 Statt der APK geht es auch über Google Play: zuerst beim offenen Test mitmachen (mit dem Google-Konto des Handys), dann die App im Play Store installieren – Updates kommen danach von selbst.
 
 - **Binokel Wirtshaus** (Binokel): [beim Test mitmachen](https://play.google.com/apps/testing/io.github.ascendancydota.binokel) · [im Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.binokel)
-- Bald: **Wirtshaus: Kartenspiele & mehr** (alle Spiele), **Schnapsen Wirtshaus** (Schnapsen) – der offene Test ist noch in der Prüfung bei Google.
+- **Wirtshaus: Kartenspiele & mehr** (alle Spiele): [beim Test mitmachen](https://play.google.com/apps/testing/io.github.ascendancydota.wirtshaus) · [im Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.wirtshaus)
+- **Schnapsen Wirtshaus** (Schnapsen): [beim Test mitmachen](https://play.google.com/apps/testing/io.github.ascendancydota.schnapsen) · [im Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.schnapsen)
 <!-- play:end -->
 
 <!-- stats:start (tools/public-readme-stats.ts, GitHub #28) -->
@@ -117,7 +118,7 @@ Three players, or four in two teams, up to 1000 or 1500 points or over a fixed n
 **Download:** [Android app “Wirtshaus” (APK)](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/wirtshaus.apk) · [Windows app](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel.exe) (no installation) or [installer](https://github.com/AscendancyDotA/binokel/releases/download/latest-test/binokel-setup.exe) (unsigned: SmartScreen → *More info → Run anyway*) · **play in the browser: <https://binokel.tail108204.ts.net>** · [all releases](https://github.com/AscendancyDotA/binokel/releases)
 
 <!-- play-en:start -->
-**Google Play (open test):** Binokel Wirtshaus: [join the test](https://play.google.com/apps/testing/io.github.ascendancydota.binokel), then [install from the Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.binokel) · soon: Wirtshaus: Kartenspiele & mehr, Schnapsen Wirtshaus (still in Google's review)
+**Google Play (open test):** Binokel Wirtshaus: [join the test](https://play.google.com/apps/testing/io.github.ascendancydota.binokel), then [install from the Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.binokel) · Wirtshaus: Kartenspiele & mehr: [join the test](https://play.google.com/apps/testing/io.github.ascendancydota.wirtshaus), then [install from the Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.wirtshaus) · Schnapsen Wirtshaus: [join the test](https://play.google.com/apps/testing/io.github.ascendancydota.schnapsen), then [install from the Play Store](https://play.google.com/store/apps/details?id=io.github.ascendancydota.schnapsen)
 <!-- play-en:end -->
 
 <!-- stats-en:start -->
