@@ -9368,5 +9368,43 @@
    }
   ],
   "sha": "6bff777a"
+ },
+ {
+  "id": "item376-ssp",
+  "date": "2026-11-05T23:49:01.194Z",
+  "title": "Neu im Bau: Schere, Stein, Papier",
+  "text": "Beide wählen gleichzeitig und geheim; der Server deckt beide Hände in einer Nachricht auf. Bots suchen Muster in deinen Würfen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#214",
+  "rows": [
+   {
+    "label": "Handy: Wahl, Anzählen",
+    "img": "changes/2026-11-05-item376-ssp/01-img-offline-start.webp"
+   },
+   {
+    "img": "changes/2026-11-05-item376-ssp/02-img-offline-count.webp"
+   },
+   {
+    "label": "Handy: Aufdecken, Partie-Ende mit „Was der Bot über dich gelernt hat“",
+    "img": "changes/2026-11-05-item376-ssp/03-img-offline-reveal.webp"
+   },
+   {
+    "img": "changes/2026-11-05-item376-ssp/04-img-offline-matchend.webp"
+   },
+   {
+    "label": "Rechner online: A hat gewählt und wartet / B wählt noch",
+    "img": "changes/2026-11-05-item376-ssp/05-img-online-waiting.webp"
+   },
+   {
+    "img": "changes/2026-11-05-item376-ssp/06-img-online-choosing.webp"
+   },
+   {
+    "label": "Rechner: Zuschauer, Partie-Ende",
+    "img": "changes/2026-11-05-item376-ssp/07-img-online-spectator.webp"
+   },
+   {
+    "img": "changes/2026-11-05-item376-ssp/08-img-online-matchend.webp"
+   }
+  ],
+  "sha": "9a520dbe"
  }
 ]
