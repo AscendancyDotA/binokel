@@ -8563,5 +8563,29 @@
    }
   ],
   "sha": "65a7265a"
+ },
+ {
+  "id": "lupfen-sieben-mitbringen",
+  "date": "2026-11-05T10:34:34.033Z",
+  "title": "Lupfen: mehr Chips zu sechst, zu siebt als Versuch",
+  "text": "Zu fünft/sechst/siebt bringt jeder jetzt 180/270/405 Chips mit (vorher immer 120), damit eine Partie so lange dauert wie zu viert. Neu: 7 Spieler als Versuch – mit Siebenern (24 Karten), ohne Wertung und ohne Taler. Hermes-Subagent (claude-opus-5-5, effort high).",
+  "issue": "wirtshaus#237",
+  "rows": [
+   {
+    "label": "6 Spieler am Rechner: 120 → 270 Chips",
+    "before": "changes/2026-11-05-lupfen-sieben-mitbringen/01-before-before-lf6-desk.webp",
+    "after": "changes/2026-11-05-lupfen-sieben-mitbringen/02-after-after-lf6-desk.webp"
+   },
+   {
+    "label": "Neu: 7 Spieler (Versuch), Rechner",
+    "img": "changes/2026-11-05-lupfen-sieben-mitbringen/03-img-after-lf7-desk.webp"
+   },
+   {
+    "label": "Neu: 7 Spieler, Handy 444×987 (Wie am Tisch / Kompakt)",
+    "before": "changes/2026-11-05-lupfen-sieben-mitbringen/04-before-after-lf7-phone.webp",
+    "after": "changes/2026-11-05-lupfen-sieben-mitbringen/05-after-lf7k-phone-v2.webp"
+   }
+  ],
+  "sha": "da2ad745"
  }
 ]
