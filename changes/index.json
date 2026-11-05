@@ -8732,5 +8732,44 @@
    }
   ],
   "sha": "9be66698"
+ },
+ {
+  "id": "item357-verlauf-pechvogel",
+  "date": "2026-11-05T11:26:35.312Z",
+  "title": "Entwurf: Wertungs-Verlauf im Profil + Pechvogel-Rangliste",
+  "text": "Profil: neues Feld „Wertungs-Verlauf“ (Kurve + letzte Partien mit +/−, Tipp auf eine Wertung wählt sie); „Letzte Partien“ zeigt das +/− je gewerteter Partie. Ranglisten › Taler: vierte Liste „Pechvogel (Monat)“ = am Tisch verlorene Taler (netto) im Kalendermonat. Testdaten eingespielt. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#243",
+  "rows": [
+   {
+    "label": "Profil, Desktop 1280×800",
+    "before": "changes/2026-11-05-item357-verlauf-pechvogel/01-before-before-profile-desktop.webp",
+    "after": "changes/2026-11-05-item357-verlauf-pechvogel/02-after-after-profile-desktop.webp"
+   },
+   {
+    "label": "Profil, Handy 444×987 (en)",
+    "before": "changes/2026-11-05-item357-verlauf-pechvogel/03-before-before-profile-phone.webp",
+    "after": "changes/2026-11-05-item357-verlauf-pechvogel/04-after-after-profile-phone.webp"
+   },
+   {
+    "label": "Letzte Partien mit +/−, Handy",
+    "before": "changes/2026-11-05-item357-verlauf-pechvogel/05-before-before-profile-phone-recent.webp",
+    "after": "changes/2026-11-05-item357-verlauf-pechvogel/06-after-after-profile-phone-recent.webp"
+   },
+   {
+    "label": "Ranglisten › Taler, Desktop",
+    "before": "changes/2026-11-05-item357-verlauf-pechvogel/07-before-before-ranks-desktop.webp",
+    "after": "changes/2026-11-05-item357-verlauf-pechvogel/08-after-after-ranks-desktop.webp"
+   },
+   {
+    "label": "Ranglisten › Taler, Handy (en)",
+    "before": "changes/2026-11-05-item357-verlauf-pechvogel/09-before-before-ranks-phone.webp",
+    "after": "changes/2026-11-05-item357-verlauf-pechvogel/10-after-after-ranks-phone.webp"
+   },
+   {
+    "label": "Tipp auf „Party 3er“ wählt deren Verlauf",
+    "img": "changes/2026-11-05-item357-verlauf-pechvogel/11-img-after-profile-desktop-tap-p3.webp"
+   }
+  ],
+  "sha": "1b864aff"
  }
 ]
