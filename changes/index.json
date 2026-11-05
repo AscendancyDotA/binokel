@@ -8982,5 +8982,48 @@
    }
   ],
   "sha": "9e083134"
+ },
+ {
+  "id": "item364-verlauf",
+  "date": "2026-11-05T13:54:34.591Z",
+  "title": "Profil: Taler pro Partie, 10 + „Alle anzeigen“, Zeilen öffnen die Wiedergabe; Pechvogel negativ",
+  "text": "Überarbeitung nach den Kommentaren. Letzte Partien: bei Partien mit Einsatz die Taler +/− neben der Wertung (nur im eigenen Profil), erst 10 Partien, „Alle anzeigen“ klappt auf, Tipp auf die Zeile öffnet die Wiedergabe. Pechvogel: Verluste als negative Zahl. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#245",
+  "rows": [
+   {
+    "label": "Profil – Desktop 1280×800",
+    "before": "changes/2026-11-05-item364-verlauf/01-before-after-profile-desktop.webp",
+    "after": "changes/2026-11-05-item364-verlauf/02-after-after-profile-desktop-recent.webp"
+   },
+   {
+    "label": "Letzte Partien – Handy 444×987",
+    "before": "changes/2026-11-05-item364-verlauf/03-before-after-profile-phone-recent.webp",
+    "after": "changes/2026-11-05-item364-verlauf/04-after-after-profile-phone-recent.webp"
+   },
+   {
+    "label": "Neu: „Show all (13)“ am Listenende (Handy)",
+    "img": "changes/2026-11-05-item364-verlauf/05-img-after-profile-phone-recent-more.webp"
+   },
+   {
+    "label": "Neu: aufgeklappt mit „Weniger“ (Desktop)",
+    "img": "changes/2026-11-05-item364-verlauf/06-img-after-profile-desktop-recent-all.webp"
+   },
+   {
+    "label": "Wertungs-Verlauf – Handy (10 Zeilen + Alle anzeigen)",
+    "before": "changes/2026-11-05-item364-verlauf/07-before-after-profile-phone.webp",
+    "after": "changes/2026-11-05-item364-verlauf/08-after-after-profile-phone.webp"
+   },
+   {
+    "label": "Pechvogel – Desktop",
+    "before": "changes/2026-11-05-item364-verlauf/09-before-after-ranks-desktop.webp",
+    "after": "changes/2026-11-05-item364-verlauf/10-after-after-ranks-desktop.webp"
+   },
+   {
+    "label": "Pechvogel – Handy",
+    "before": "changes/2026-11-05-item364-verlauf/11-before-after-ranks-phone.webp",
+    "after": "changes/2026-11-05-item364-verlauf/12-after-after-ranks-phone.webp"
+   }
+  ],
+  "sha": "ca7a03a1"
  }
 ]
