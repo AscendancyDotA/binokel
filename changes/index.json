@@ -9121,5 +9121,25 @@
    }
   ],
   "sha": "571d46ee"
+ },
+ {
+  "id": "item371b-ergebnis-zeigen",
+  "date": "2026-11-05T18:57:54.051Z",
+  "title": "Abstimmung: Ergebnis zeigen ohne Stimme",
+  "text": "Unter den Antworten steht jetzt eine vierte, unauffällige Wahl „Ergebnis zeigen“. Sie zeigt das aktuelle Ergebnis, ohne abzustimmen; danach stimmt ein Tipp auf einen Balken ab. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#252",
+  "rows": [
+   {
+    "label": "Handy 444×987: vor der Stimme → nach „Ergebnis zeigen“",
+    "before": "changes/2026-11-05-item371b-ergebnis-zeigen/01-before-after-wirtshaus-phone-novote.webp",
+    "after": "changes/2026-11-05-item371b-ergebnis-zeigen/02-after-after-wirtshaus-phone-peek.webp"
+   },
+   {
+    "label": "Desktop 1280×800: vor der Stimme → nach „Ergebnis zeigen“",
+    "before": "changes/2026-11-05-item371b-ergebnis-zeigen/03-before-after-wirtshaus-desk-novote.webp",
+    "after": "changes/2026-11-05-item371b-ergebnis-zeigen/04-after-after-wirtshaus-desk-peek.webp"
+   }
+  ],
+  "sha": "44af2b7c"
  }
 ]
