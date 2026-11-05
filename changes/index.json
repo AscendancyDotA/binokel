@@ -9177,5 +9177,25 @@
    }
   ],
   "sha": "bad288ce"
+ },
+ {
+  "id": "item373-notizbuch",
+  "date": "2026-11-05T19:38:51.644Z",
+  "title": "Notizbuch: Text, Punkte und Knöpfe übereinander (Neu: Canasta)",
+  "text": "Behoben (Commit 47b3e0ec, Hermes-Subagent (claude-opus-5-5, effort medium)). Der Eintrag scrollt jetzt als Ganzes, statt den Text zusammenzudrücken: Text, Schritt-Punkte, Zeig's mir/Weiter und Lernrunde/Regeln stehen immer untereinander, der Kopf bleibt oben. Dazu: Regeln bei Canasta und Bid Whist öffnet wieder die Regeln (vorher stürzte die App ab). Neu-Einträge von Spielen im Bau sieht nur, wer im Browser localStorage binokel.codexwip=1 setzt (Tester); für alle anderen erscheinen sie, sobald das Spiel freigegeben ist. Prüfen: Notizbuch → Neu: Canasta, Fenster klein ziehen.",
+  "issue": "wirtshaus#253",
+  "rows": [
+   {
+    "label": "Fenster 735×590 (wie im Bericht)",
+    "before": "changes/2026-11-05-item373-notizbuch/01-before-owner-de-game-canasta-1.webp",
+    "after": "changes/2026-11-05-item373-notizbuch/02-after-owner-de-game-canasta-1.webp"
+   },
+   {
+    "label": "Handy 360 breit",
+    "before": "changes/2026-11-05-item373-notizbuch/03-before-phone360-de-game-canasta-1.webp",
+    "after": "changes/2026-11-05-item373-notizbuch/04-after-phone360-de-game-canasta-1.webp"
+   }
+  ],
+  "sha": "47b3e0ec"
  }
 ]
