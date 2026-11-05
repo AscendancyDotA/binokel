@@ -8967,5 +8967,20 @@
    }
   ],
   "sha": "c1622cac"
+ },
+ {
+  "id": "item354-dame-spect",
+  "date": "2026-11-05T13:48:13.618Z",
+  "title": "Dame: Zuschauer-Sicht passt zur Namensleiste",
+  "text": "Der Zuschauer sieht das Brett jetzt aus der gewählten Sicht: spielt der beobachtete Platz Schwarz, steht Schwarz unten. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Desktop, Zuschauer",
+    "before": "changes/2026-11-05-item354-dame-spect/01-before-online-spectator.webp",
+    "after": "changes/2026-11-05-item354-dame-spect/02-after-online-spectator.webp"
+   }
+  ],
+  "sha": "9e083134"
  }
 ]
