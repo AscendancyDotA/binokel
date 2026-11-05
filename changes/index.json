@@ -8937,5 +8937,35 @@
    }
   ],
   "sha": "1d2d8ff3"
+ },
+ {
+  "id": "item354-dame",
+  "date": "2026-11-05T13:45:29.126Z",
+  "title": "Dame (im Bau): Brett, Online-Tisch, Auswertung",
+  "text": "Neues Brettspiel Dame nach deutschen Regeln (8 × 8, Schlagzwang, Dame zieht weit), internationale Regeln als Schalter am eigenen Tisch. Noch versteckt (im Bau): sichtbar mit #games=…,dame. Bedienung: Stein antippen, dann das leuchtende Ziel; Mehrfachsprung Feld für Feld. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Handy: am Zug",
+    "img": "changes/2026-11-05-item354-dame/01-img-offline-play.webp"
+   },
+   {
+    "label": "Handy: Partie-Ende",
+    "img": "changes/2026-11-05-item354-dame/02-img-offline-matchend.webp"
+   },
+   {
+    "label": "Handy: Auswertung (★ bester Zug, ▼ gespielt)",
+    "img": "changes/2026-11-05-item354-dame/03-img-offline-replay.webp"
+   },
+   {
+    "label": "Desktop: Online-Tisch",
+    "img": "changes/2026-11-05-item354-dame/04-img-online-table.webp"
+   },
+   {
+    "label": "Desktop: Zuschauer",
+    "img": "changes/2026-11-05-item354-dame/05-img-online-spectator.webp"
+   }
+  ],
+  "sha": "c1622cac"
  }
 ]
