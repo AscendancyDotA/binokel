@@ -9197,5 +9197,73 @@
    }
   ],
   "sha": "47b3e0ec"
+ },
+ {
+  "id": "i381-laden-faecher",
+  "date": "2026-11-05T20:45:56.580Z",
+  "title": "Entwurf: Laden in Fächern (PR #255)",
+  "text": "Oben eine feste Leiste mit Gruppen (Alles, Karten, Tisch und Raum, Du am Tisch, Gesten und Effekte, Saison) und den Fächern der Gruppe mit Anzahl. „Alles“ zeigt pro Fach eine Zeile zum Wischen, die Überschrift „alle n →“ führt ins Fach. Filter und neue Sortierung Stufe/Preis wirken zusammen, der Laden merkt sich Gruppe und Fach. Noch nicht gemergt – zur Abnahme. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#226",
+  "rows": [
+   {
+    "label": "Handy · Wirtshaus",
+    "before": "changes/2026-11-05-i381-laden-faecher/01-before-before-shop-wirtshaus-phone-scrolled.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/02-after-after-shop-wirtshaus-phone-scrolled.webp"
+   },
+   {
+    "label": "Desktop · Wirtshaus",
+    "before": "changes/2026-11-05-i381-laden-faecher/03-before-before-shop-wirtshaus-desktop.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/04-after-after-shop-wirtshaus-desktop.webp"
+   },
+   {
+    "label": "Handy · Klar",
+    "before": "changes/2026-11-05-i381-laden-faecher/05-before-before-shop-klar-phone.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/06-after-after-shop-klar-phone.webp"
+   },
+   {
+    "label": "Handy · Arena",
+    "before": "changes/2026-11-05-i381-laden-faecher/07-before-before-shop-arena-phone-scrolled.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/08-after-after-shop-arena-phone-scrolled.webp"
+   },
+   {
+    "label": "Desktop · Glas",
+    "before": "changes/2026-11-05-i381-laden-faecher/09-before-before-shop-glas-desktop-scrolled.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/10-after-after-shop-glas-desktop-scrolled.webp"
+   },
+   {
+    "label": "Desktop · Klar",
+    "before": "changes/2026-11-05-i381-laden-faecher/11-before-before-shop-klar-desktop.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/12-after-after-shop-klar-desktop.webp"
+   },
+   {
+    "label": "Desktop · Arena",
+    "before": "changes/2026-11-05-i381-laden-faecher/13-before-before-shop-arena-desktop.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/14-after-after-shop-arena-desktop.webp"
+   },
+   {
+    "label": "Handy · Glas",
+    "before": "changes/2026-11-05-i381-laden-faecher/15-before-before-shop-glas-phone.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/16-after-after-shop-glas-phone.webp"
+   },
+   {
+    "label": "Kasse → Laden (Handy)",
+    "before": "changes/2026-11-05-i381-laden-faecher/17-before-before-kasse-phone.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/18-after-after-kasse-phone.webp"
+   },
+   {
+    "label": "Anprobierter Effekt: vorher verdeckte der Kopf alle Kacheln",
+    "before": "changes/2026-11-05-i381-laden-faecher/19-before-before-shop-wirtshaus-phone-tried-stage.webp",
+    "after": "changes/2026-11-05-i381-laden-faecher/20-after-after-shop-wirtshaus-phone-tried-stage.webp"
+   },
+   {
+    "label": "Neu: Gruppe Tisch und Raum mit Fächern (Handy)",
+    "img": "changes/2026-11-05-i381-laden-faecher/21-img-after-shop-wirtshaus-phone-group-table.webp"
+   },
+   {
+    "label": "Neu: Fach Bilderrahmen (Desktop)",
+    "img": "changes/2026-11-05-i381-laden-faecher/22-img-after-fach-frame-desktop.webp"
+   }
+  ],
+  "sha": "246d6d3b"
  }
 ]
