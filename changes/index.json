@@ -8713,5 +8713,24 @@
    }
   ],
   "sha": "48ce8629"
+ },
+ {
+  "id": "item347-taler-ende",
+  "date": "2026-11-05T11:20:31.043Z",
+  "title": "Taler im Partie-Ende (Entwurf)",
+  "text": "Entwurf-PR: Das Partie-Ende zeigt unter den Plätzen „Taler an diesem Tisch“: Nettobetrag groß, darunter klein, wie er zustande kam. Ohne Einsatz gibt es keine Zeile. Hermes-Subagent (claude-opus-5-5, effort medium), PR geöffnet vom Hauptagenten (claude-opus-5-5).",
+  "issue": "wirtshaus#236",
+  "rows": [
+   {
+    "label": "Desktop / Handy",
+    "before": "changes/2026-11-05-item347-taler-ende/01-before-end347-binokel-desk-nostake.webp",
+    "after": "changes/2026-11-05-item347-taler-ende/02-after-end347-binokel-desk-win.webp"
+   },
+   {
+    "before": "changes/2026-11-05-item347-taler-ende/03-before-end347-binokel-phone-nostake.webp",
+    "after": "changes/2026-11-05-item347-taler-ende/04-after-end347-binokel-phone-loss.webp"
+   }
+  ],
+  "sha": "9be66698"
  }
 ]
