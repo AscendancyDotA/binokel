@@ -9141,5 +9141,41 @@
    }
   ],
   "sha": "44af2b7c"
+ },
+ {
+  "id": "item372-tv-dame-bidwhist",
+  "date": "2026-11-05T19:19:43.807Z",
+  "title": "Wirtshaus-TV: Dame und Bid Whist live",
+  "text": "Neu im Wirtshaus-TV (Willkommen, Spiel Dame bzw. Bid Whist gewählt): Dame-Meisterbrett (die zwei stärksten Bots, Best of 3, Brett in klein mit letztem Zug) und Bid-Whist-Meistertisch (vier starke Bots in zwei Paaren, höchstens vier Runden). Antippen öffnet den Tisch zum Zuschauen mit offenen Karten. Beide Spiele bleiben im Bau. Commit bad288ce – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Dame, Handy 444×987",
+    "before": "changes/2026-11-05-item372-tv-dame-bidwhist/01-before-before-dame-phone.webp",
+    "after": "changes/2026-11-05-item372-tv-dame-bidwhist/02-after-tv-dame-phone.webp"
+   },
+   {
+    "label": "Bid Whist, Handy",
+    "before": "changes/2026-11-05-item372-tv-dame-bidwhist/03-before-before-bidwhist-phone.webp",
+    "after": "changes/2026-11-05-item372-tv-dame-bidwhist/04-after-tv-bidwhist-phone.webp"
+   },
+   {
+    "label": "Dame, Desktop 1280×800",
+    "img": "changes/2026-11-05-item372-tv-dame-bidwhist/05-img-tv-dame-desktop.webp"
+   },
+   {
+    "label": "Bid Whist, Desktop",
+    "img": "changes/2026-11-05-item372-tv-dame-bidwhist/06-img-tv-bidwhist-desktop.webp"
+   },
+   {
+    "label": "Zuschauen: Dame-Tisch",
+    "img": "changes/2026-11-05-item372-tv-dame-bidwhist/07-img-table-dame-desktop.webp"
+   },
+   {
+    "label": "Zuschauen: Bid-Whist-Tisch (Handy)",
+    "img": "changes/2026-11-05-item372-tv-dame-bidwhist/08-img-table-bidwhist-phone.webp"
+   }
+  ],
+  "sha": "bad288ce"
  }
 ]
