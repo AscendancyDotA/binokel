@@ -10090,5 +10090,20 @@
    }
   ],
   "sha": "0f7ad4e9"
+ },
+ {
+  "id": "binokel-abrechnung-gedrueckt-391",
+  "date": "2026-11-06T16:54:50.651Z",
+  "title": "Binokel: Abrechnung zeigt gedrückte Augen",
+  "text": "In der Rundenabrechnung stand beim Spielmacher „Stiche 15 → 40“ – die 40 enthalten aber die gedrückten Augen. Jetzt steht dort „15 + 27 → 40“. Dazu sagt die Regelhilfe (Abrechnung) jetzt, wann die Partie endet: am Ziel oder nach der eingestellten Rundenzahl, höchster Stand gewinnt. Hermes-Subagent (claude-opus-5-5, effort high), Item 391.",
+  "issue": "wirtshaus#264",
+  "rows": [
+   {
+    "label": "Handy 444×987, Rundenabrechnung",
+    "before": "changes/2026-11-06-binokel-abrechnung-gedrueckt-391/01-before-roundend-before-crop.webp",
+    "after": "changes/2026-11-06-binokel-abrechnung-gedrueckt-391/02-after-roundend-after-crop.webp"
+   }
+  ],
+  "sha": "1bce130f"
  }
 ]
