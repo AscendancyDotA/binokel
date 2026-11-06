@@ -10157,5 +10157,20 @@
    }
   ],
   "sha": "1bce130f"
+ },
+ {
+  "id": "item401-replay-hinweis",
+  "date": "2026-11-06T17:06:25.296Z",
+  "title": "Replay: Hinweis bei älterer Regelversion (PLAT-41)",
+  "text": "Partien speichern jetzt die Engine-Version. Wird eine Spielregel später so geändert, dass alte Züge anders ablaufen, zeigt die Wiedergabe dieser alten Partien in der Seitenleiste einen Hinweis statt still an der kaputten Stelle aufzuhören. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "klein / Item 401",
+    "before": "changes/2026-11-06-item401-replay-hinweis/01-before-new-desktop.webp",
+    "after": "changes/2026-11-06-item401-replay-hinweis/02-after-old-desktop.webp"
+   }
+  ],
+  "sha": "4d545824"
  }
 ]
