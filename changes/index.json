@@ -10538,5 +10538,29 @@
    }
   ],
   "sha": "abf8c229"
+ },
+ {
+  "id": "i403-schwimmen",
+  "date": "2026-11-06T21:14:18.912Z",
+  "title": "Schwimmen am Handy: „Dein Blatt“ immer sichtbar, Knöpfe frei",
+  "text": "Hochkant lag der Hinweis „X tauscht eine Karte“ genau auf „Dein Blatt“ – jetzt steht er links darunter; zu fünft/sechst rückt die Wert-Pille nach links (der Punktekasten ist höher). Quer stand „Dein Blatt“ unter dem oberen Gegner und die Knöpfe liefen ins gelbe Banner – jetzt steht der Wert links neben der Mitte, die Knöpfe direkt darunter. Desktop unverändert. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#276",
+  "rows": [
+   {
+    "label": "Wirtshaus, 360×780 hochkant",
+    "before": "changes/2026-11-06-i403-schwimmen/01-before-schwimmen4-wirtshaus-360x780-play.webp",
+    "after": "changes/2026-11-06-i403-schwimmen/02-after-schwimmen4-wirtshaus-360x780-play.webp"
+   },
+   {
+    "label": "Wirtshaus, 844×390 quer",
+    "before": "changes/2026-11-06-i403-schwimmen/03-before-schwimmen4-wirtshaus-844x390-play.webp",
+    "after": "changes/2026-11-06-i403-schwimmen/04-after-schwimmen4-wirtshaus-844x390-play.webp"
+   },
+   {
+    "label": "6 Spieler, 360×780 (nachher)",
+    "img": "changes/2026-11-06-i403-schwimmen/05-img-schwimmen6-klar-360x780-play.webp"
+   }
+  ],
+  "sha": "abf8c229"
  }
 ]
