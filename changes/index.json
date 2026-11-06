@@ -9715,5 +9715,25 @@
    }
   ],
   "sha": "5f1b4fd6"
+ },
+ {
+  "id": "item388-taverne-anzeige",
+  "date": "2026-11-06T06:40:43.822Z",
+  "title": "Taverne: Anzeige nie unter dem Chat, leerer Chat klein",
+  "text": "Mit offener „Im Raum“-Liste lief das Chat-Eingabefeld über die Anzeige-Box; jetzt endet der Taverne-Kasten immer darüber. Ein leerer Chat ist nur noch eine Zeile und wächst mit den Nachrichten (Item 388, Hermes-Subagent claude-opus-5-5).",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Desktop 1280×800, Liste offen",
+    "before": "changes/2026-11-06-item388-taverne-anzeige/01-before-1280x800-empty-members-before.webp",
+    "after": "changes/2026-11-06-item388-taverne-anzeige/02-after-1280x800-empty-members.webp"
+   },
+   {
+    "label": "Handy hochkant 500×757, leerer Chat",
+    "before": "changes/2026-11-06-item388-taverne-anzeige/03-before-500x757-empty-before.webp",
+    "after": "changes/2026-11-06-item388-taverne-anzeige/04-after-500x757-empty.webp"
+   }
+  ],
+  "sha": "456d2f5b"
  }
 ]
