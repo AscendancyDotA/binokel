@@ -9654,5 +9654,37 @@
    }
   ],
   "sha": "cae6901a"
+ },
+ {
+  "id": "item377-solo",
+  "date": "2026-11-06T06:30:15.889Z",
+  "title": "Solitär + Spider (im Bau): Tische am Handy und Desktop",
+  "text": "Beide Solo-Spiele sind auf main (im Bau, nur Vorschau). Spider am Handy: offene Karten stehen weiter auseinander (größere Griff-Fläche), die Ablage fertiger Folgen sitzt über Spalte 1 (vorher fehlten ihre Stile, wenn Solitär nicht vorher geöffnet war). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#232",
+  "rows": [
+   {
+    "label": "Spider Handy 444×987, mitten im Tagesspiel",
+    "before": "changes/2026-11-06-item377-solo/01-before-sp-phone-midgame.webp",
+    "after": "changes/2026-11-06-item377-solo/02-after-sp-phone-midgame.webp"
+   },
+   {
+    "label": "Spider Desktop 1280×800 (Vorher: Ablage-Feld links außen)",
+    "before": "changes/2026-11-06-item377-solo/03-before-sp-desk-midgame.webp",
+    "after": "changes/2026-11-06-item377-solo/04-after-sp-desk-midgame.webp"
+   },
+   {
+    "label": "Spider Handy: gewonnen (Platz 1, vom Server nachgespielt)",
+    "img": "changes/2026-11-06-item377-solo/05-img-sp-phone-won.webp"
+   },
+   {
+    "label": "Solitär Handy 444×987",
+    "img": "changes/2026-11-06-item377-solo/06-img-phone-midgame.webp"
+   },
+   {
+    "label": "Solitär Desktop 1280×800",
+    "img": "changes/2026-11-06-item377-solo/07-img-desk-midgame.webp"
+   }
+  ],
+  "sha": "87334ad0"
  }
 ]
