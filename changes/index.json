@@ -10292,5 +10292,33 @@
    }
   ],
   "sha": "a9edc3b4"
+ },
+ {
+  "id": "i395-sk-roundend-quer",
+  "date": "2026-11-06T17:59:20.495Z",
+  "title": "Entwurf: Schafkopf-Rundenende im Querformat zweispaltig",
+  "text": "Entwurf (noch nicht auf main): am Handy quer standen die letzten Spieler des Rundenendes unter dem Fensterrand. Jetzt links Spiel und Abrechnung, rechts die Punkte aller vier. Hochkant und am Rechner bleibt es, wie es ist. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#266",
+  "rows": [
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-i395-sk-roundend-quer/01-before-schafkopf-wirtshaus-844x390-roundend.webp",
+    "after": "changes/2026-11-06-i395-sk-roundend-quer/02-after-schafkopf-wirtshaus-844x390-roundend.webp"
+   },
+   {
+    "label": "kleines Handy quer 740×360 (Arena-Hülle nachher)",
+    "before": "changes/2026-11-06-i395-sk-roundend-quer/03-before-schafkopf-wirtshaus-740x360-roundend.webp",
+    "after": "changes/2026-11-06-i395-sk-roundend-quer/04-after-schafkopf-arena-740x360-roundend.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987 – unverändert",
+    "img": "changes/2026-11-06-i395-sk-roundend-quer/05-img-schafkopf-wirtshaus-444x987-roundend.webp"
+   },
+   {
+    "label": "Rechner 1280×800 – unverändert",
+    "img": "changes/2026-11-06-i395-sk-roundend-quer/06-img-schafkopf-wirtshaus-1280x800-roundend.webp"
+   }
+  ],
+  "sha": "f1d3a68f"
  }
 ]
