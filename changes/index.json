@@ -10385,5 +10385,40 @@
    }
   ],
   "sha": "b49f8bb3"
+ },
+ {
+  "id": "item405-bw-dame",
+  "date": "2026-11-06T21:06:39.664Z",
+  "title": "Bid Whist + Dame: Bietfeld quer, Schilder, Abrechnung",
+  "text": "Feinschliff (im Bau): Bid-Whist-Bietfeld passt im Querformat unter den Partner, Punkte-Kasten ohne doppelte Books, Abrechnung sagt 'Wir – Gebot verfehlt'. Dame: Schild am Desktop nicht mehr im Brettrahmen, Punkte-Kasten quer mit beiden Farbsteinen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#280",
+  "rows": [
+   {
+    "label": "Bid Whist Handy quer, Bieten",
+    "before": "changes/2026-11-06-item405-bw-dame/01-before-bidwhist-wirtshaus-844x390-bid.webp",
+    "after": "changes/2026-11-06-item405-bw-dame/02-after-bidwhist-wirtshaus-844x390-bid.webp"
+   },
+   {
+    "label": "Bid Whist Handy quer, Spiel (Punkte-Kasten)",
+    "before": "changes/2026-11-06-item405-bw-dame/03-before-bidwhist-wirtshaus-844x390-play.webp",
+    "after": "changes/2026-11-06-item405-bw-dame/04-after-bidwhist-wirtshaus-844x390-play.webp"
+   },
+   {
+    "label": "Bid Whist Handy, Abrechnung",
+    "before": "changes/2026-11-06-item405-bw-dame/05-before-bidwhist-wirtshaus-360x780-roundEnd.webp",
+    "after": "changes/2026-11-06-item405-bw-dame/06-after-bidwhist-wirtshaus-360x780-roundEnd.webp"
+   },
+   {
+    "label": "Dame Desktop 1280x800",
+    "before": "changes/2026-11-06-item405-bw-dame/07-before-dame-wirtshaus-1280x800-start.webp",
+    "after": "changes/2026-11-06-item405-bw-dame/08-after-dame-wirtshaus-1280x800-start.webp"
+   },
+   {
+    "label": "Dame Handy quer",
+    "before": "changes/2026-11-06-item405-bw-dame/09-before-dame-wirtshaus-844x390-mid.webp",
+    "after": "changes/2026-11-06-item405-bw-dame/10-after-dame-wirtshaus-844x390-mid.webp"
+   }
+  ],
+  "sha": "73213583"
  }
 ]
