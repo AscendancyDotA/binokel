@@ -10682,5 +10682,25 @@
    }
   ],
   "sha": "6202c66a"
+ },
+ {
+  "id": "b24-chatfield",
+  "date": "2026-11-06T21:46:01.256Z",
+  "title": "Tisch-Chat am Handy: Feld unten statt oben abgeschnitten",
+  "text": "Bei Brett- und Würfelspielen (Mühle, Vier in einer Reihe, Backgammon, Dame, …) stand das Chat-Feld am Handy ganz oben über der Kopfzeile, halb abgeschnitten. Jetzt sitzt es über der Werkzeugleiste, auch mit offener Tastatur. Kartenspiele unverändert. Ab dem nächsten Build nach 83ecf844. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Vier, Handy 508×624 (Tastatur offen)",
+    "before": "changes/2026-11-06-b24-chatfield/01-before-chat-508x624.webp",
+    "after": "changes/2026-11-06-b24-chatfield/02-after-chat-508x624.webp"
+   },
+   {
+    "label": "Vier, Handy 444×987",
+    "before": "changes/2026-11-06-b24-chatfield/03-before-chat-444x987.webp",
+    "after": "changes/2026-11-06-b24-chatfield/04-after-chat-444x987.webp"
+   }
+  ],
+  "sha": "83ecf844"
  }
 ]
