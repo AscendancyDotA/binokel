@@ -9773,5 +9773,42 @@
    }
   ],
   "sha": "456d2f5b"
+ },
+ {
+  "id": "heimlauf-tv-lernrunde-raetsel",
+  "date": "2026-11-06T07:08:02.478Z",
+  "title": "Heimlauf: Wirtshaus-TV, Lernrunde und Rätsel des Tages",
+  "text": "Heimlauf (im Bau) läuft jetzt als Meisterrunde im Wirtshaus-TV, hat eine geführte Lernrunde gegen den Lehrling und ein Rätsel des Tages mit eigenem Kreuz-Brett. Am Desktop bleibt der Schritte-Kasten im Bild. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#254",
+  "rows": [
+   {
+    "label": "Willkommen am Handy: Wirtshaus-TV",
+    "before": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/01-before-before-heimlauf-phone.webp",
+    "after": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/02-after-tv-heimlauf-phone.webp"
+   },
+   {
+    "label": "Willkommen am Desktop: Wirtshaus-TV",
+    "before": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/03-before-before-heimlauf-desktop.webp",
+    "after": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/04-after-tv-heimlauf-desktop.webp"
+   },
+   {
+    "label": "Lernrunde am Desktop (Schritte-Kasten rechts vorher abgeschnitten)",
+    "before": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/05-before-heimlauf-tip-welcome-desk.webp",
+    "after": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/06-after-heimlauf-tip-welcome-desk.webp"
+   },
+   {
+    "label": "Lernrunde am Handy: Tipp beim Schlagen",
+    "img": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/07-img-heimlauf-tip-capture-phone.webp"
+   },
+   {
+    "label": "Rätsel des Tages am Handy (nach der Antwort)",
+    "img": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/08-img-pz2-phone-answer.webp"
+   },
+   {
+    "label": "Rätsel des Tages am Desktop",
+    "img": "changes/2026-11-06-heimlauf-tv-lernrunde-raetsel/09-img-pz2-desk-answer.webp"
+   }
+  ],
+  "sha": "c6a1e112"
  }
 ]
