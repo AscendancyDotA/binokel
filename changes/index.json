@@ -10727,5 +10727,20 @@
    }
   ],
   "sha": "83ecf844"
+ },
+ {
+  "id": "heimlauf408-hinweis",
+  "date": "2026-11-06T21:54:43.978Z",
+  "title": "Heimlauf hochkant: Hinweise unter dem Brett",
+  "text": "Das Zug-Band und die Hinweise lagen mitten auf dem Brett und verdeckten Felder samt Figuren. Jetzt stehen sie unter den Namensschildern, der Würfeln-Knopf darunter. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#275",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-heimlauf408-hinweis/01-before-offline-play.webp",
+    "after": "changes/2026-11-06-heimlauf408-hinweis/02-after-hl4-wirtshaus-444x987-banner.webp"
+   }
+  ],
+  "sha": "a432bf48"
  }
 ]
