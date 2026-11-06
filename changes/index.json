@@ -10742,5 +10742,25 @@
    }
   ],
   "sha": "a432bf48"
+ },
+ {
+  "id": "heimlauf408-partieende",
+  "date": "2026-11-06T21:54:59.428Z",
+  "title": "Heimlauf Partie-Ende: Schritte nur einmal",
+  "text": "Über dem Sieger stand die Zahl der eigenen Schritte, darunter kamen alle Schritte ein zweites Mal als Liste. Jetzt: Partie vorbei · gezählt in Schritten, nur die Platzliste. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#275",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-heimlauf408-partieende/01-before-hl4-wirtshaus-444x987-end.webp",
+    "after": "changes/2026-11-06-heimlauf408-partieende/02-after-hl4-wirtshaus-444x987-end.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-06-heimlauf408-partieende/03-before-hl4-wirtshaus-1280x800-end.webp",
+    "after": "changes/2026-11-06-heimlauf408-partieende/04-after-hl4-wirtshaus-1280x800-end.webp"
+   }
+  ],
+  "sha": "a432bf48"
  }
 ]
