@@ -10257,5 +10257,25 @@
    }
   ],
   "sha": "72f68aec"
+ },
+ {
+  "id": "i395-sk-plates",
+  "date": "2026-11-06T17:50:26.090Z",
+  "title": "Schafkopf am Handy: Spieler/Gegner-Marken an der Bildkante",
+  "text": "Die Marke Spieler/Gegner saß hochkant über dem Gesicht und den Zähl-Pillen; oben wurde ein kurzer Name wie Sepp zu S…. Jetzt hängt sie an der Unterkante des Bilds, oben wie an den Seiten ohne BOT-Marke. Hermes-Subagent (claude-opus-5-5, effort medium), main a9edc3b4.",
+  "issue": "wirtshaus#266",
+  "rows": [
+   {
+    "label": "Handy 360×780",
+    "before": "changes/2026-11-06-i395-sk-plates/01-before-sk360-before.webp",
+    "after": "changes/2026-11-06-i395-sk-plates/02-after-sk360-after.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-i395-sk-plates/03-before-sk444-before.webp",
+    "after": "changes/2026-11-06-i395-sk-plates/04-after-sk444-after.webp"
+   }
+  ],
+  "sha": "a9edc3b4"
  }
 ]
