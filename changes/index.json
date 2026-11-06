@@ -9464,5 +9464,75 @@
    }
   ],
   "sha": "1f5bfcf9"
+ },
+ {
+  "id": "item385-aufgabenbrett",
+  "date": "2026-11-06T02:08:55.881Z",
+  "title": "Entwurf: Aufgabenbrett (Aufgaben, Kopfgeld des Tages, Freispielbar)",
+  "text": "Neuer Lobby-Reiter „Aufgaben“: verdeckte Aufgaben-Karten in vier Stufen (alle 30 Min. Spielzeit eine), ein gemeinsames Kopfgeld-Brett pro Tag (nur der Erste bekommt es) und alles Freispielbare mit Fortschritt. Entwurf-PR, noch nicht live. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#257",
+  "rows": [
+   {
+    "label": "Desktop · Wirtshaus (vorher: kein Reiter)",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/01-before-tasks-before-desktop-wirtshaus-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/02-after-tasks-after-desktop-wirtshaus.webp"
+   },
+   {
+    "label": "Handy · Wirtshaus (unter „Mehr“)",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/03-before-tasks-before-phone-wirtshaus-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/04-after-tasks-after-phone-wirtshaus.webp"
+   },
+   {
+    "label": "Desktop · Klar",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/05-before-tasks-before-desktop-klar-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/06-after-tasks-after-desktop-klar.webp"
+   },
+   {
+    "label": "Handy · Klar",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/07-before-tasks-before-phone-klar-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/08-after-tasks-after-phone-klar.webp"
+   },
+   {
+    "label": "Desktop · Arena",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/09-before-tasks-before-desktop-arena-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/10-after-tasks-after-desktop-arena.webp"
+   },
+   {
+    "label": "Handy · Arena",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/11-before-tasks-before-phone-arena-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/12-after-tasks-after-phone-arena.webp"
+   },
+   {
+    "label": "Desktop · Glas",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/13-before-tasks-before-desktop-glas-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/14-after-tasks-after-desktop-glas.webp"
+   },
+   {
+    "label": "Handy · Glas",
+    "before": "changes/2026-11-06-item385-aufgabenbrett/15-before-tasks-before-phone-glas-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett/16-after-tasks-after-phone-glas.webp"
+   },
+   {
+    "label": "Karte aufgedeckt",
+    "img": "changes/2026-11-06-item385-aufgabenbrett/17-img-tasks-after-desktop-revealed.webp"
+   },
+   {
+    "label": "Kopfgeld des Tages (Handy)",
+    "img": "changes/2026-11-06-item385-aufgabenbrett/18-img-tasks-after-phone-bounty.webp"
+   },
+   {
+    "label": "Freispielbar (Handy)",
+    "img": "changes/2026-11-06-item385-aufgabenbrett/19-img-tasks-after-phone-earn.webp"
+   },
+   {
+    "label": "Meldung in der Glocke",
+    "img": "changes/2026-11-06-item385-aufgabenbrett/20-img-tasks-after-desktop-bell.webp"
+   },
+   {
+    "label": "Laden → Fortschritt beim Freispielen",
+    "img": "changes/2026-11-06-item385-aufgabenbrett/21-img-tasks-after-desktop-shoplink.webp"
+   }
+  ],
+  "sha": "d5bb34db"
  }
 ]
