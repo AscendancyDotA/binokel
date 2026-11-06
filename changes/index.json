@@ -10420,5 +10420,29 @@
    }
   ],
   "sha": "73213583"
+ },
+ {
+  "id": "item405-bw-bietfeld",
+  "date": "2026-11-06T21:07:08.731Z",
+  "title": "Entwurf Bid Whist: höchstes Gebot nur im Bietfeld",
+  "text": "Entwurf (nicht gemergt): Solange das eigene Bietfeld offen ist, tritt die Pille 'Höchstes Gebot' zurück – das Feld nennt es selbst. Am Handy schien ihr Text vorher durch das Feld. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "rows": [
+   {
+    "label": "Handy 444x987",
+    "before": "changes/2026-11-06-item405-bw-bietfeld/01-before-bidwhist-wirtshaus-444x987-bid.webp",
+    "after": "changes/2026-11-06-item405-bw-bietfeld/02-after-bidwhist-wirtshaus-444x987-bid.webp"
+   },
+   {
+    "label": "Handy quer 844x390",
+    "before": "changes/2026-11-06-item405-bw-bietfeld/03-before-bidwhist-wirtshaus-844x390-bid.webp",
+    "after": "changes/2026-11-06-item405-bw-bietfeld/04-after-bidwhist-wirtshaus-844x390-bid.webp"
+   },
+   {
+    "label": "Desktop 1280x800",
+    "before": "changes/2026-11-06-item405-bw-bietfeld/05-before-bidwhist-wirtshaus-1280x800-bid.webp",
+    "after": "changes/2026-11-06-item405-bw-bietfeld/06-after-bidwhist-wirtshaus-1280x800-bid.webp"
+   }
+  ],
+  "sha": "73213583"
  }
 ]
