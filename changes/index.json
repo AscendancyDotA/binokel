@@ -10222,5 +10222,25 @@
    }
   ],
   "sha": "72f68aec"
+ },
+ {
+  "id": "skat393-liste",
+  "date": "2026-11-06T17:33:53.445Z",
+  "title": "Entwurf Skat: Spielliste mit Bot-Kurznamen",
+  "text": "Entwurf (PR, nicht auf main): Die Spaltenköpfe der Spielliste nennen Bots beim Kurznamen wie auf den Sitzschildern (Lukas, Bene) statt abgeschnitten (Lehrbu…as). Zeilen und Rangliste behalten den vollen Namen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#272",
+  "rows": [
+   {
+    "label": "Handy 444×987, Listenende",
+    "before": "changes/2026-11-06-skat393-liste/01-before-wirtshaus-444x987-matchend.webp",
+    "after": "changes/2026-11-06-skat393-liste/02-after-wirtshaus-444x987-matchend.webp"
+   },
+   {
+    "label": "Desktop 1280×800, Ergebnis",
+    "before": "changes/2026-11-06-skat393-liste/03-before-wirtshaus-1280x800-roundend.webp",
+    "after": "changes/2026-11-06-skat393-liste/04-after-wirtshaus-1280x800-roundend.webp"
+   }
+  ],
+  "sha": "72f68aec"
  }
 ]
