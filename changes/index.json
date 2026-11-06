@@ -10444,5 +10444,29 @@
    }
   ],
   "sha": "73213583"
+ },
+ {
+  "id": "item402-lupfen-sperren",
+  "date": "2026-11-06T21:08:58.329Z",
+  "title": "Entwurf Lupfen: Sperren-Frage unten rechts",
+  "text": "Die Frage „Sperren?“ kommt nach dem letzten Stich. Bisher stand sie mitten auf Pott und Trumpfkarte; im Entwurf steht sie am Rechner und am Handy quer unten rechts (die eigene Hand ist dann leer), mit der Zeile „Pott: N · Chips: M“. Hochkant bleibt sie am alten Platz. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "rows": [
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-item402-lupfen-sperren/01-before-lupfen4-sperren-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item402-lupfen-sperren/02-after-lupfen4-sperren-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Rechner 1280×800",
+    "before": "changes/2026-11-06-item402-lupfen-sperren/03-before-lupfen4-sperren-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-06-item402-lupfen-sperren/04-after-lupfen4-sperren-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987",
+    "before": "changes/2026-11-06-item402-lupfen-sperren/05-before-lupfen4-sperren-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-06-item402-lupfen-sperren/06-after-lupfen4-sperren-wirtshaus-444x987.webp"
+   }
+  ],
+  "sha": "e47a3a2e"
  }
 ]
