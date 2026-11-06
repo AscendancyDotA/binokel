@@ -9406,5 +9406,25 @@
    }
   ],
   "sha": "9a520dbe"
+ },
+ {
+  "id": "w224-wuerfel-pot",
+  "date": "2026-11-06T00:41:56.976Z",
+  "title": "Fünf Würfel am Handy: eigener Platz für den Pott",
+  "text": "Der Pott steht jetzt zwischen Zettel und Würfelbrett und verdeckt nichts mehr. Hermes-Subagent (claude-opus-5-5, effort medium), Item 378.",
+  "issue": "wirtshaus#224",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-w224-wuerfel-pot/01-before-layout-wuerfel-p444.webp",
+    "after": "changes/2026-11-06-w224-wuerfel-pot/02-after-layout-wuerfel-p444.webp"
+   },
+   {
+    "label": "Handy 360×780",
+    "before": "changes/2026-11-06-w224-wuerfel-pot/03-before-layout-wuerfel-p360.webp",
+    "after": "changes/2026-11-06-w224-wuerfel-pot/04-after-layout-wuerfel-p360.webp"
+   }
+  ],
+  "sha": "a3e07826"
  }
 ]
