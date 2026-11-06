@@ -9810,5 +9810,25 @@
    }
   ],
   "sha": "c6a1e112"
+ },
+ {
+  "id": "item389b-tischkamera-knoepfe",
+  "date": "2026-11-06T15:19:38.769Z",
+  "title": "Kamera am Tisch: Knöpfe nur einmal, Tischname ganz",
+  "text": "Nachbesserung nach dem Review. Zuschauer sehen Mikro und Kamera nur noch einmal: solange die Schublade mit dem Zuschauer-Raum offen ist, dort – ist sie zu (oder der Tab Taverne gewählt), wieder unten in den Tisch-Werkzeugen. Der Tischname oben links bleibt lesbar: statt „K..“ klappt die Leiste weniger wichtige Teile (Runde, Vollbild, Fehler melden, Regeln) ins Menü „⋯“. Das „K..“ gab es schon vor diesem PR (Vorher-Bild des ersten Entwurfs). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#261",
+  "rows": [
+   {
+    "label": "Rechner 1280×800, Zuschauer mit offener Schublade",
+    "before": "changes/2026-11-06-item389b-tischkamera-knoepfe/01-before-tablecam389-spec-desk-after.webp",
+    "after": "changes/2026-11-06-item389b-tischkamera-knoepfe/02-after-389b-desk-after.webp"
+   },
+   {
+    "label": "Querformat 844×390",
+    "before": "changes/2026-11-06-item389b-tischkamera-knoepfe/03-before-tablecam389-spec-land-after.webp",
+    "after": "changes/2026-11-06-item389b-tischkamera-knoepfe/04-after-389b-land-after.webp"
+   }
+  ],
+  "sha": "f28def85"
  }
 ]
