@@ -9588,5 +9588,71 @@
    }
   ],
   "sha": "1a6dc834"
+ },
+ {
+  "id": "item385-aufgabenbrett-r2",
+  "date": "2026-11-06T06:05:33.716Z",
+  "title": "Entwurf Aufgabenbrett – neu auf main aufgesetzt (Laden in Fächern)",
+  "text": "Stand nach dem Rebase auf den Laden in Fächern (#255): der Link „Fortschritt beim Freispielen →“ sitzt jetzt neben den Filtern unter der Fächer-Leiste; auf dem Handy brechen die Chancen-Chips nicht mehr um, das Namensschild-Bild wird nicht mehr abgeschnitten. Entwurf-PR #260, noch nicht live. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#257",
+  "rows": [
+   {
+    "label": "Desktop · wirtshaus",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/01-before-tasks-before-desktop-wirtshaus-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/02-after-tasks-after-desktop-wirtshaus.webp"
+   },
+   {
+    "label": "Handy · wirtshaus",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/03-before-tasks-before-phone-wirtshaus-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/04-after-tasks-after-phone-wirtshaus.webp"
+   },
+   {
+    "label": "Desktop · klar",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/05-before-tasks-before-desktop-klar-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/06-after-tasks-after-desktop-klar.webp"
+   },
+   {
+    "label": "Handy · klar",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/07-before-tasks-before-phone-klar-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/08-after-tasks-after-phone-klar.webp"
+   },
+   {
+    "label": "Desktop · arena",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/09-before-tasks-before-desktop-arena-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/10-after-tasks-after-desktop-arena.webp"
+   },
+   {
+    "label": "Handy · arena",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/11-before-tasks-before-phone-arena-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/12-after-tasks-after-phone-arena.webp"
+   },
+   {
+    "label": "Desktop · glas",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/13-before-tasks-before-desktop-glas-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/14-after-tasks-after-desktop-glas.webp"
+   },
+   {
+    "label": "Handy · glas",
+    "before": "changes/2026-11-06-item385-aufgabenbrett-r2/15-before-tasks-before-phone-glas-lobby.webp",
+    "after": "changes/2026-11-06-item385-aufgabenbrett-r2/16-after-tasks-after-phone-glas.webp"
+   },
+   {
+    "label": "Laden (in Fächern) → Fortschritt beim Freispielen",
+    "img": "changes/2026-11-06-item385-aufgabenbrett-r2/17-img-tasks-after-desktop-shoplink.webp"
+   },
+   {
+    "label": "Kopfgeld des Tages (Handy)",
+    "img": "changes/2026-11-06-item385-aufgabenbrett-r2/18-img-tasks-after-phone-bounty.webp"
+   },
+   {
+    "label": "Freispielbar (Handy)",
+    "img": "changes/2026-11-06-item385-aufgabenbrett-r2/19-img-tasks-after-phone-earn.webp"
+   },
+   {
+    "label": "Meldung in der Glocke",
+    "img": "changes/2026-11-06-item385-aufgabenbrett-r2/20-img-tasks-after-desktop-bell.webp"
+   }
+  ],
+  "sha": "cae6901a"
  }
 ]
