@@ -10782,5 +10782,30 @@
    }
   ],
   "sha": "a432bf48"
+ },
+ {
+  "id": "solitaire408-spreizen",
+  "date": "2026-11-06T21:59:17.445Z",
+  "title": "Entwurf: Solitär hochkant – offene Karten weiter auseinander",
+  "text": "Entwurf (noch nicht auf main): am Handy hochkant rücken offene Karten weiter auseinander, mehr von jeder Karte sichtbar, größere Ziele. Desktop und quer unverändert. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#275",
+  "rows": [
+   {
+    "label": "Handy 444×987, Endspiel",
+    "before": "changes/2026-11-06-solitaire408-spreizen/01-before-sl-end-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-06-solitaire408-spreizen/02-after-sl-end-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Handy 360×780, Ziehen 3",
+    "before": "changes/2026-11-06-solitaire408-spreizen/03-before-sl-mid3-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-06-solitaire408-spreizen/04-after-sl-mid3-wirtshaus-360x780.webp"
+   },
+   {
+    "label": "Desktop 1280×800 (unverändert)",
+    "before": "changes/2026-11-06-solitaire408-spreizen/05-before-sl-mid3-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-06-solitaire408-spreizen/06-after-sl-mid3-wirtshaus-1280x800.webp"
+   }
+  ],
+  "sha": "366f47a6"
  }
 ]
