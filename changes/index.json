@@ -10493,5 +10493,25 @@
    }
   ],
   "sha": "e47a3a2e"
+ },
+ {
+  "id": "item404-quer-fix",
+  "date": "2026-11-06T21:13:18.031Z",
+  "title": "Rommé und Canasta quer: Meldungen frei von Partner und Stapel",
+  "text": "Korrektur zum Querformat-Bild oben (dort war rechts eine andere Szene): Rommé quer – die mittlere Meldung lag unter den Karten des Gegenübers; das Feld beginnt jetzt darunter und rechts von Stapel und Ablage. Canasta quer – Feldköpfe und rote Dreier lagen auf den Kartenrücken des Partners. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#277",
+  "rows": [
+   {
+    "label": "Rommé quer 844×390",
+    "before": "changes/2026-11-06-item404-quer-fix/01-before-rm-draw-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item404-quer-fix/02-after-rm-draw-844x390.webp"
+   },
+   {
+    "label": "Canasta quer 844×390",
+    "before": "changes/2026-11-06-item404-quer-fix/03-before-ca-melds-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item404-quer-fix/04-after-ca-melds-844x390.webp"
+   }
+  ],
+  "sha": "26ccb985"
  }
 ]
