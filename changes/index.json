@@ -10065,5 +10065,30 @@
    }
   ],
   "sha": "a1573591"
+ },
+ {
+  "id": "i392-schneiderbummerl",
+  "date": "2026-11-06T16:52:46.835Z",
+  "title": "Entwurf Schnapsen: Schneiderbummerl am Partie-Ende",
+  "text": "Hat der Verlierer beim Bummerl-Ende keinen Punkt, steht über dem Ergebnis „Schneiderbummerl – 7 : 0!“ (Entwurf, noch nicht auf main). Hermes-Subagent (claude-opus-5-5, effort medium), Item 392.",
+  "issue": "wirtshaus#265",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-i392-schneiderbummerl/01-before-before-sgmatch-p2-444x987-s1.webp",
+    "after": "changes/2026-11-06-i392-schneiderbummerl/02-after-after-sgmatch-p2-444x987-s1.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-i392-schneiderbummerl/03-before-before-sgmatch-p2-844x390-s1.webp",
+    "after": "changes/2026-11-06-i392-schneiderbummerl/04-after-after-sgmatch-p2-844x390-s1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-06-i392-schneiderbummerl/05-before-before-sgmatch-p2-1280x800-s1.webp",
+    "after": "changes/2026-11-06-i392-schneiderbummerl/06-after-after-sgmatch-p2-1280x800-s1.webp"
+   }
+  ],
+  "sha": "0f7ad4e9"
  }
 ]
