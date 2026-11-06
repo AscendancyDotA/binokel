@@ -10513,5 +10513,30 @@
    }
   ],
   "sha": "26ccb985"
+ },
+ {
+  "id": "i403-maumau",
+  "date": "2026-11-06T21:13:54.410Z",
+  "title": "Mau-Mau am Handy: Farbwunsch lesbar, Banner ganz, Hinweise frei",
+  "text": "Der Wunsch-Dialog nach einem Buben ist jetzt in jedem Look deckend und im Klar-Look lesbar (der Titel war weiß auf hell). Das Zug-Banner bricht am Handy um statt links und rechts abgeschnitten zu sein; die Hinweise (Gewünscht, wer was gewünscht hat) stehen links über dem eigenen Namen statt auf „Ziehen“. Desktop unverändert. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#276",
+  "rows": [
+   {
+    "label": "Klar, 444×987: Wunsch-Dialog",
+    "before": "changes/2026-11-06-i403-maumau/01-before-maumau4-klar-444x987-special.webp",
+    "after": "changes/2026-11-06-i403-maumau/02-after-maumau4-klar-444x987-special.webp"
+   },
+   {
+    "label": "Arena, 360×780: Banner + Hinweise",
+    "before": "changes/2026-11-06-i403-maumau/03-before-maumau4-arena-360x780-start.webp",
+    "after": "changes/2026-11-06-i403-maumau/04-after-maumau4-arena-360x780-start.webp"
+   },
+   {
+    "label": "Wirtshaus, 844×390 quer (unverändert sauber)",
+    "before": "changes/2026-11-06-i403-maumau/05-before-maumau4-wirtshaus-844x390-play.webp",
+    "after": "changes/2026-11-06-i403-maumau/06-after-maumau4-wirtshaus-844x390-play.webp"
+   }
+  ],
+  "sha": "abf8c229"
  }
 ]
