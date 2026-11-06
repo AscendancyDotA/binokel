@@ -10762,5 +10762,25 @@
    }
   ],
   "sha": "a432bf48"
+ },
+ {
+  "id": "spider408-lange-reihe",
+  "date": "2026-11-06T21:55:09.097Z",
+  "title": "Spider und Solitär: lange Reihen bleiben lesbar",
+  "text": "Eine lange Reihe lief am Laptop unter die Werkzeugleiste, die Ecken der Karten waren nur halb zu sehen. Jetzt werden die Karten etwas kleiner, bis die Reihe mit lesbaren Ecken aufs Brett passt; am Handy quer drängt sie sich aufs Brett. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#275",
+  "rows": [
+   {
+    "label": "Desktop 1280×800, Spider 4 Farben",
+    "before": "changes/2026-11-06-spider408-lange-reihe/01-before-sp-mid4-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-06-spider408-lange-reihe/02-after-sp-mid4-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Handy quer 844×390, Spider 2 Farben",
+    "before": "changes/2026-11-06-spider408-lange-reihe/03-before-sp-late2-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-spider408-lange-reihe/04-after-sp-late2-wirtshaus-844x390.webp"
+   }
+  ],
+  "sha": "a432bf48"
  }
 ]
