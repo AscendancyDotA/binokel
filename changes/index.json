@@ -10607,5 +10607,25 @@
    }
   ],
   "sha": "6202c66a"
+ },
+ {
+  "id": "i406-schocken-aufdecken",
+  "date": "2026-11-06T21:41:10.331Z",
+  "title": "Schocken: Aufdeck-Fenster und Satz zur verlorenen Hälfte",
+  "text": "„Weiter“ klebte am rechten Rand des Aufdeck-Fensters; „hat die Finale / Erste Hälfte verloren“ heißt jetzt „hat das Finale / die erste Hälfte verloren“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#282",
+  "rows": [
+   {
+    "label": "Handy quer, Arena",
+    "before": "changes/2026-11-06-i406-schocken-aufdecken/01-before-schocken-arena-844x390-reveal.webp",
+    "after": "changes/2026-11-06-i406-schocken-aufdecken/02-after-schocken-arena-844x390-reveal.webp"
+   },
+   {
+    "label": "Handy hoch: Finale",
+    "before": "changes/2026-11-06-i406-schocken-aufdecken/03-before-schocken-wirtshaus-360x780-late.webp",
+    "after": "changes/2026-11-06-i406-schocken-aufdecken/04-after-schocken-wirtshaus-444x987-final.webp"
+   }
+  ],
+  "sha": "6202c66a"
  }
 ]
