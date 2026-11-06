@@ -10130,5 +10130,32 @@
    }
   ],
   "sha": "efbaa60f"
+ },
+ {
+  "id": "binokel-regelhilfe-quer-391",
+  "date": "2026-11-06T17:01:27.118Z",
+  "title": "Entwurf: Regelhilfe im Handy-Querformat breiter",
+  "text": "Entwurf (noch nicht live): Im Handy-Querformat nutzt die Regelhilfe die Breite – alle Reiter (bis Hausregeln, Fair) sind ohne Wischen zu sehen, der Text braucht weniger Zeilen. Hochformat und Computer bleiben gleich. Hermes-Subagent (claude-opus-5-5, effort high), Item 391.",
+  "rows": [
+   {
+    "label": "Handy quer 844×390, Stil Arena",
+    "before": "changes/2026-11-06-binokel-regelhilfe-quer-391/01-before-bk-help-arena-p3-844x390-s1.webp",
+    "after": "changes/2026-11-06-binokel-regelhilfe-quer-391/02-after-bk-help-arena-p3-844x390-s1.webp"
+   },
+   {
+    "label": "Handy quer 740×360, Wirtshaus",
+    "before": "changes/2026-11-06-binokel-regelhilfe-quer-391/03-before-bk-help-p3-740x360-s1.webp",
+    "after": "changes/2026-11-06-binokel-regelhilfe-quer-391/04-after-bk-help-p3-740x360-s1.webp"
+   },
+   {
+    "label": "Handy hoch 444×987 (unverändert)",
+    "img": "changes/2026-11-06-binokel-regelhilfe-quer-391/05-img-bk-help-p3-444x987-s1.webp"
+   },
+   {
+    "label": "Computer 1280×800 (unverändert)",
+    "img": "changes/2026-11-06-binokel-regelhilfe-quer-391/06-img-bk-help-p3-1280x800-s1.webp"
+   }
+  ],
+  "sha": "1bce130f"
  }
 ]
