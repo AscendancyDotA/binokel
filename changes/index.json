@@ -10197,5 +10197,30 @@
    }
   ],
   "sha": "72f68aec"
+ },
+ {
+  "id": "skat393-schild",
+  "date": "2026-11-06T17:28:42.827Z",
+  "title": "Skat: eigenes Namensschild bleibt neben der Hand lesbar",
+  "text": "Am Desktop lief der Tag spielt / Grand neben dem eigenen Namen unter die erste Handkarte (12 Karten beim Drücken, Klar-Skin). Jetzt endet das Schild vor der Hand; ist der Platz knapp, wird der Name mit … gekürzt, der Tag bleibt ganz. Auf schmalen Handys steht bei den Gegnern 0 Punkte statt Punkte 0, damit die Zahl sichtbar bleibt. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#272",
+  "rows": [
+   {
+    "label": "Klar 1280×800, Spiel läuft",
+    "before": "changes/2026-11-06-skat393-schild/01-before-klar-1280x800-play.webp",
+    "after": "changes/2026-11-06-skat393-schild/02-after-klar-1280x800-play.webp"
+   },
+   {
+    "label": "Drücken 1280×800",
+    "before": "changes/2026-11-06-skat393-schild/03-before-wirtshaus-1280x800-push.webp",
+    "after": "changes/2026-11-06-skat393-schild/04-after-wirtshaus-1280x800-push.webp"
+   },
+   {
+    "label": "Handy 360×780",
+    "before": "changes/2026-11-06-skat393-schild/05-before-wirtshaus-360x780-trick.webp",
+    "after": "changes/2026-11-06-skat393-schild/06-after-wirtshaus-360x780-trick.webp"
+   }
+  ],
+  "sha": "72f68aec"
  }
 ]
