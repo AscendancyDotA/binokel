@@ -9880,5 +9880,80 @@
    }
   ],
   "sha": "c4c1edaa"
+ },
+ {
+  "id": "item385c-aufgabenbrett-review",
+  "date": "2026-11-06T16:23:54.241Z",
+  "title": "Aufgabenbrett nach dem Review: keine Deckel, Aufdeck-Momente, Bestenliste, Alle Aufgaben",
+  "text": "Nach dem Review auf PR #260: Karten bleiben im Stapel, Aufgaben laufen alle gleichzeitig, kein Weglegen, Kopfgeld ohne Tageslimit und bei Gleichstand für alle aus derselben Partie. Neu sind die Aufdeck-Momente je Stufe, der Geschafft-Moment, die Bestenliste der Aufgaben-Taler und „Alle Aufgaben“. Vorher = der erste Entwurf. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#257",
+  "rows": [
+   {
+    "label": "Desktop · Wirtshaus",
+    "before": "changes/2026-11-06-item385c-aufgabenbrett-review/01-before-02-after-tasks-after-desktop-wirtshaus.webp",
+    "after": "changes/2026-11-06-item385c-aufgabenbrett-review/02-after-tasks-after-desktop-wirtshaus.webp"
+   },
+   {
+    "label": "Handy · Wirtshaus",
+    "before": "changes/2026-11-06-item385c-aufgabenbrett-review/03-before-04-after-tasks-after-phone-wirtshaus.webp",
+    "after": "changes/2026-11-06-item385c-aufgabenbrett-review/04-after-tasks-after-phone-wirtshaus.webp"
+   },
+   {
+    "label": "Desktop · Klar",
+    "before": "changes/2026-11-06-item385c-aufgabenbrett-review/05-before-06-after-tasks-after-desktop-klar.webp",
+    "after": "changes/2026-11-06-item385c-aufgabenbrett-review/06-after-tasks-after-desktop-klar.webp"
+   },
+   {
+    "label": "Handy · Klar",
+    "before": "changes/2026-11-06-item385c-aufgabenbrett-review/07-before-08-after-tasks-after-phone-klar.webp",
+    "after": "changes/2026-11-06-item385c-aufgabenbrett-review/08-after-tasks-after-phone-klar.webp"
+   },
+   {
+    "label": "Handy · Kopfgeld (geteilter erster Platz: Du +2)",
+    "before": "changes/2026-11-06-item385c-aufgabenbrett-review/09-before-18-img-tasks-after-phone-bounty.webp",
+    "after": "changes/2026-11-06-item385c-aufgabenbrett-review/10-after-tasks-after-phone-bounty.webp"
+   },
+   {
+    "label": "Legendär aufgedeckt (mitten in der Animation)",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/11-img-tasks-after-desktop-legendary2.webp"
+   },
+   {
+    "label": "Geschafft-Moment",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/12-img-tasks-after-desktop-moment.webp"
+   },
+   {
+    "label": "Alle Ziele offen – die übrigen Karten warten im Stapel",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/13-img-tasks-after-desktop-allopen.webp"
+   },
+   {
+    "label": "Alle Aufgaben",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/14-img-tasks-after-desktop-all.webp"
+   },
+   {
+    "label": "Bestenliste im Reiter (Heute)",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/15-img-tasks-after-desktop-top.webp"
+   },
+   {
+    "label": "Ranglisten → Taler → Aufgaben & Kopfgeld",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/16-img-tasks-after-desktop-ranks.webp"
+   },
+   {
+    "label": "Desktop · Arena",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/17-img-tasks-after-desktop-arena.webp"
+   },
+   {
+    "label": "Handy · Arena",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/18-img-tasks-after-phone-arena.webp"
+   },
+   {
+    "label": "Desktop · Glas",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/19-img-tasks-after-desktop-glas.webp"
+   },
+   {
+    "label": "Handy · Glas",
+    "img": "changes/2026-11-06-item385c-aufgabenbrett-review/20-img-tasks-after-phone-glas.webp"
+   }
+  ],
+  "sha": "4c40affe"
  }
 ]
