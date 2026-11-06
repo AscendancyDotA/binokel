@@ -10320,5 +10320,45 @@
    }
   ],
   "sha": "f1d3a68f"
+ },
+ {
+  "id": "tips396b",
+  "date": "2026-11-06T18:53:05.781Z",
+  "title": "Tipps: Zipfel zeigt aufs Ziel, Blase verdeckt nichts",
+  "text": "Der Zipfel der Tipp-Blase endet jetzt genau am leuchtenden Zug (schräg, wenn nötig); geht das nicht, zeigt nur der Ring. Die Blase sucht sich einen freien Platz und liegt nicht mehr auf Namensschildern, Karten, Stapeln, Punkte-Kasten oder Knöpfen – auch der ‚Tipp für den Anfang‘. Links PR #270 vorher, rechts jetzt. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#263",
+  "rows": [
+   {
+    "label": "Skat Handy, Lernrunde (Reizen)",
+    "before": "changes/2026-11-06-tips396b/01-before-skat-guided-phone-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396b/02-after-skat-guided-phone-wirtshaus-1.webp"
+   },
+   {
+    "label": "Mau-Mau Desktop, Lernrunde (Ziehen)",
+    "before": "changes/2026-11-06-tips396b/03-before-maumau-guided-desk-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396b/04-after-maumau-guided-desk-wirtshaus-1.webp"
+   },
+   {
+    "label": "Skat Desktop, Lernrunde",
+    "before": "changes/2026-11-06-tips396b/05-before-skat-guided-desk-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396b/06-after-skat-guided-desk-wirtshaus-1.webp"
+   },
+   {
+    "label": "Doppelkopf Handy, Tipp für den Anfang",
+    "before": "changes/2026-11-06-tips396b/07-before-doppelkopf-first-phone-wirtshaus-0.webp",
+    "after": "changes/2026-11-06-tips396b/08-after-doppelkopf-first-phone-wirtshaus-0.webp"
+   },
+   {
+    "label": "Skat Handy, Tipp für den Anfang",
+    "before": "changes/2026-11-06-tips396b/09-before-skat-first-phone-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396b/10-after-skat-first-phone-wirtshaus-1.webp"
+   },
+   {
+    "label": "Schafkopf Handy quer, Tipp für den Anfang",
+    "before": "changes/2026-11-06-tips396b/11-before-schafkopf-first-land-wirtshaus-0.webp",
+    "after": "changes/2026-11-06-tips396b/12-after-schafkopf-first-land-wirtshaus-0.webp"
+   }
+  ],
+  "sha": "159db7e1"
  }
 ]
