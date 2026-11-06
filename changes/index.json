@@ -10360,5 +10360,30 @@
    }
   ],
   "sha": "159db7e1"
+ },
+ {
+  "id": "item404-romme-melds",
+  "date": "2026-11-06T20:59:05.401Z",
+  "title": "Rommé: alle Meldungen passen auf den Tisch",
+  "text": "Die Meldkarten passen sich dem Feld an: wenige Meldungen groß, ein voller Tisch schrumpft sie. Am Handy lag die zweite Reihe vorher abgeschnitten unter der ersten (360 px) bzw. das Feld war auf ein Drittel gequetscht (444 px); quer lagen Meldungen unter den Karten des Gegenübers. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#277",
+  "rows": [
+   {
+    "label": "Handy 360×780",
+    "before": "changes/2026-11-06-item404-romme-melds/01-before-rm-melds-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-06-item404-romme-melds/02-after-rm-melds-wirtshaus-360x780.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-item404-romme-melds/03-before-rm-melds-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-06-item404-romme-melds/04-after-rm-melds-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-item404-romme-melds/05-before-rm-draw-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item404-romme-melds/06-after-rm2-melds-wirtshaus-844x390.webp"
+   }
+  ],
+  "sha": "b49f8bb3"
  }
 ]
