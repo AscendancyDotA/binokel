@@ -10277,5 +10277,20 @@
    }
   ],
   "sha": "a9edc3b4"
+ },
+ {
+  "id": "i395-gg-land",
+  "date": "2026-11-06T17:50:36.449Z",
+  "title": "Gaigel zu zweit quer: Stich frei, 40 melden daneben",
+  "text": "Im Querformat lag die Karte des Gegners auf seinen Kartenrücken, und das 20/40-Feld deckte die Stichkarte zu. Jetzt beginnt der Stich unter seinem Schild, Melden und Rauben stehen rechts (die Eröffnungs-Wahl bleibt in der Mitte). Hermes-Subagent (claude-opus-5-5, effort medium), main a9edc3b4.",
+  "issue": "wirtshaus#266",
+  "rows": [
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-i395-gg-land/01-before-gg2-before.webp",
+    "after": "changes/2026-11-06-i395-gg-land/02-after-gg2-after.webp"
+   }
+  ],
+  "sha": "a9edc3b4"
  }
 ]
