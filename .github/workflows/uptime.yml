@@ -1,0 +1,39 @@
+# PLAT-11 (item 401): external reachability watch of the Wirtshaus server, every 10 minutes (GitHub's scheduler can be
+# a few minutes late). Lives in the PUBLIC repo AscendancyDotA/binokel (free Actions minutes); source of truth:
+# binokel-wirtshaus deploy/uptime/, installed with tools/install-uptime-watch.sh. Secret: NTFY_TOPIC (ntfy.sh topic the
+# owner's phone subscribes to). Alerts after 2 failed checks in a row, „wieder da“ once it answers again.
+name: Erreichbarkeit
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: uptime
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/uptime
+          sparse-checkout-cone-mode: false
+      - name: letzter Stand
+        uses: actions/cache/restore@v4
+        with:
+          path: .uptime
+          key: uptime-${{ github.run_id }}
+          restore-keys: uptime-
+      - name: /health prüfen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: bash .github/uptime/uptime-check.sh
+      - name: Stand merken
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .uptime
+          key: uptime-${{ github.run_id }}
