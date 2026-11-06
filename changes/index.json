@@ -10702,5 +10702,30 @@
    }
   ],
   "sha": "83ecf844"
+ },
+ {
+  "id": "fs407-backgammon",
+  "date": "2026-11-06T21:46:20.587Z",
+  "title": "Backgammon: Schilder neben dem Brett, ohne Doppelwürfel kein Würfel",
+  "text": "Quer (Desktop) lag das Namensschild des Gegners auf den Steinen von Punkt 13 – jetzt stehen beide Schilder gestapelt links neben dem Brett. Mit der Hausregel „ohne Doppelwürfel“ lag trotzdem ein 64er-Würfel auf der Bar; jetzt nicht mehr (auch keine Würfel- und Crawford-Hinweise). Dazu für alle Spiele: die Zeile „Du bist dran“ springt beim Erscheinen nicht mehr zur Seite. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#285",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 (Klar)",
+    "before": "changes/2026-11-06-fs407-backgammon/01-before-backgammon-klar-1280x800-play.webp",
+    "after": "changes/2026-11-06-fs407-backgammon/02-after-backgammon-klar-1280x800-play.webp"
+   },
+   {
+    "label": "ohne Doppelwürfel, 1280×800",
+    "before": "changes/2026-11-06-fs407-backgammon/03-before-backgammon-wirtshaus-1280x800-play.webp",
+    "after": "changes/2026-11-06-fs407-backgammon/04-after-backgammon-wirtshaus-1280x800-play.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-fs407-backgammon/05-before-backgammon-wirtshaus-844x390-play.webp",
+    "after": "changes/2026-11-06-fs407-backgammon/06-after-backgammon-wirtshaus-844x390-play.webp"
+   }
+  ],
+  "sha": "83ecf844"
  }
 ]
