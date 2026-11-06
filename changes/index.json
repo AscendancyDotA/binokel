@@ -10562,5 +10562,35 @@
    }
   ],
   "sha": "abf8c229"
+ },
+ {
+  "id": "item404-entwurf2",
+  "date": "2026-11-06T21:14:51.939Z",
+  "title": "Entwurf: Canasta-Abrechnung bündig, Rommé-Strafpunkte zweispaltig",
+  "text": "Entwurf-PR #284 (nicht gemergt): Canasta-Rundenende mit Handkarten in Spalten; Rommé am Handy mit zweispaltiger Strafpunkt-Liste, damit das Meldfeld höher wird (360 px zu sechst: Meldungen vorher unsichtbar). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#277",
+  "rows": [
+   {
+    "label": "Canasta Rundenende, Handy 444×987",
+    "before": "changes/2026-11-06-item404-entwurf2/01-before-ca-roundEnd-444x987.webp",
+    "after": "changes/2026-11-06-item404-entwurf2/02-after-ca-roundEnd-444x987.webp"
+   },
+   {
+    "label": "Canasta Rundenende, Desktop 1280×800",
+    "before": "changes/2026-11-06-item404-entwurf2/03-before-ca-roundEnd-1280x800.webp",
+    "after": "changes/2026-11-06-item404-entwurf2/04-after-ca-roundEnd-1280x800.webp"
+   },
+   {
+    "label": "Rommé zu sechst, Handy 360×780",
+    "before": "changes/2026-11-06-item404-entwurf2/05-before-rm6-melds-360x780.webp",
+    "after": "changes/2026-11-06-item404-entwurf2/06-after-rm6-melds-360x780.webp"
+   },
+   {
+    "label": "Rommé zu viert, Handy 360×780",
+    "before": "changes/2026-11-06-item404-entwurf2/07-before-rm4-melds-360x780.webp",
+    "after": "changes/2026-11-06-item404-entwurf2/08-after-rm4-melds-360x780.webp"
+   }
+  ],
+  "sha": "26ccb985"
  }
 ]
