@@ -10468,5 +10468,30 @@
    }
   ],
   "sha": "e47a3a2e"
+ },
+ {
+  "id": "item402-lupfen-watten-quer",
+  "date": "2026-11-06T21:10:19.912Z",
+  "title": "Lupfen + Watten: Handy quer aufgeräumt",
+  "text": "Fixes aus dem Feinschliff-Audit (schon auf main): Lupfen – „Pott N“ steht über „Du bist dran“ statt darunter. Watten – die Schlag-Wahl passt in eine Reihe und reicht nicht mehr in die Kopfleiste; zu zweit zeigt die Punktebox die Stiche wieder („1 Stich“). Der Anfangs-Tipp rechts ist der gemeinsame Tipp (PR #270). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#279",
+  "rows": [
+   {
+    "label": "Lupfen, Handy quer 844×390",
+    "before": "changes/2026-11-06-item402-lupfen-watten-quer/01-before-lupfen4-play-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item402-lupfen-watten-quer/02-after-lupfen4-play-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Watten, Schlag ansagen, Handy quer",
+    "before": "changes/2026-11-06-item402-lupfen-watten-quer/03-before-watten4-schlag-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item402-lupfen-watten-quer/04-after-watten4-schlag-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Watten zu zweit, Punktebox",
+    "before": "changes/2026-11-06-item402-lupfen-watten-quer/05-before-watten2-lead-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-06-item402-lupfen-watten-quer/06-after-watten2-lead-wirtshaus-844x390.webp"
+   }
+  ],
+  "sha": "e47a3a2e"
  }
 ]
