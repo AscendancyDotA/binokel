@@ -9754,5 +9754,24 @@
    }
   ],
   "sha": "456d2f5b"
+ },
+ {
+  "id": "item388-quer-banner",
+  "date": "2026-11-06T06:41:12.338Z",
+  "title": "Kopfzeile quer ohne Überlappung, Lobby-Banner mit ✕",
+  "text": "Im Handy-Querformat rutschte das Profilbild über die Taler-Zahl; behoben. Das Lobby-Banner hat ein ✕ (3 Minuten weg) – in der App als Knopf über dem Banner, mit dem nächsten App-Build (Item 388, Hermes-Subagent claude-opus-5-5).",
+  "issue": "binokel#25",
+  "rows": [
+   {
+    "label": "Querformat 1130×324, 1.984 Taler",
+    "before": "changes/2026-11-06-item388-quer-banner/01-before-1130x324-empty-before.webp",
+    "after": "changes/2026-11-06-item388-quer-banner/02-after-1130x324-empty.webp"
+   },
+   {
+    "label": "Lobby-Banner mit ✕ (Browser)",
+    "img": "changes/2026-11-06-item388-quer-banner/03-img-1280x800-banner-x.webp"
+   }
+  ],
+  "sha": "456d2f5b"
  }
 ]
