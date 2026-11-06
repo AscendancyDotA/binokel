@@ -10242,5 +10242,20 @@
    }
   ],
   "sha": "72f68aec"
+ },
+ {
+  "id": "skat393-liste-quer",
+  "date": "2026-11-06T17:35:52.075Z",
+  "title": "Entwurf Skat: Spielliste mit Bot-Kurznamen (quer)",
+  "text": "Derselbe Entwurf im Handy-Querformat. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#272",
+  "rows": [
+   {
+    "label": "Handy quer 844×390, Listenende",
+    "before": "changes/2026-11-06-skat393-liste-quer/01-before-wirtshaus-844x390-matchend.webp",
+    "after": "changes/2026-11-06-skat393-liste-quer/02-after-wirtshaus-844x390-matchend.webp"
+   }
+  ],
+  "sha": "72f68aec"
  }
 ]
