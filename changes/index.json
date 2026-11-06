@@ -10040,5 +10040,30 @@
    }
   ],
   "sha": "40fc1496"
+ },
+ {
+  "id": "dk394-regelhilfe-entwurf",
+  "date": "2026-11-06T16:51:06.999Z",
+  "title": "Entwurf Doppelkopf-Regelhilfe: stille Hochzeit und Erwiderung",
+  "text": "Entwurf (noch nicht übernommen): Die Regelhilfe ergänzt unter „Gesund oder Vorbehalt“ den Hochzeiter allein und die stille Hochzeit, unter „Ansagen“ die Antwort auf eine Ansage und die Hochzeit-Fristen. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#267",
+  "rows": [
+   {
+    "label": "Handy 444×987, Gesund oder Vorbehalt",
+    "before": "changes/2026-11-06-dk394-regelhilfe-entwurf/01-before-hVorbehalt-playing-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-06-dk394-regelhilfe-entwurf/02-after-hVorbehalt-playing-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Handy 444×987, Ansagen",
+    "before": "changes/2026-11-06-dk394-regelhilfe-entwurf/03-before-hAnsagen-playing-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-06-dk394-regelhilfe-entwurf/04-after-hAnsagen-playing-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Desktop 1280×800, Ansagen",
+    "before": "changes/2026-11-06-dk394-regelhilfe-entwurf/05-before-hAnsagen-playing-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-06-dk394-regelhilfe-entwurf/06-after-hAnsagen-playing-wirtshaus-1280x800.webp"
+   }
+  ],
+  "sha": "a1573591"
  }
 ]
