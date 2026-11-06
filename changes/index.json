@@ -9686,5 +9686,34 @@
    }
   ],
   "sha": "87334ad0"
+ },
+ {
+  "id": "item389-tischkamera",
+  "date": "2026-11-06T06:37:27.445Z",
+  "title": "Entwurf: Kamera im Zuschauer-Raum am Tisch",
+  "text": "Zuschauer können am Online-Tisch jetzt die Kamera einschalten (aus, bis man tippt; höchstens 4 gleichzeitig). Die Bilder erscheinen in der Taverne-Schublade im Tab Zuschauer – nie auf dem Tisch, die Spieler sehen nichts davon. Entwurf (PR), noch nicht live. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Rechner 1280×800",
+    "before": "changes/2026-11-06-item389-tischkamera/01-before-tablecam389-spec-desk-before.webp",
+    "after": "changes/2026-11-06-item389-tischkamera/02-after-tablecam389-spec-desk-after.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-06-item389-tischkamera/03-before-tablecam389-spec-phone-before.webp",
+    "after": "changes/2026-11-06-item389-tischkamera/04-after-tablecam389-spec-phone-after.webp"
+   },
+   {
+    "label": "Querformat 844×390",
+    "before": "changes/2026-11-06-item389-tischkamera/05-before-tablecam389-spec-land-before.webp",
+    "after": "changes/2026-11-06-item389-tischkamera/06-after-tablecam389-spec-land-after.webp"
+   },
+   {
+    "label": "Firefox, dritter Zuschauer",
+    "img": "changes/2026-11-06-item389-tischkamera/07-img-tablecam389-spec-firefox-after.webp"
+   }
+  ],
+  "sha": "5f1b4fd6"
  }
 ]
