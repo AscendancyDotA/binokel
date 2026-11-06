@@ -10627,5 +10627,30 @@
    }
   ],
   "sha": "6202c66a"
+ },
+ {
+  "id": "i406-ssp-wurfliste",
+  "date": "2026-11-06T21:41:48.156Z",
+  "title": "Entwurf: Schere, Stein, Papier – Wurf-Liste am Partieende groß",
+  "text": "Entwurf (PR #286, noch nicht freigegeben): die Würfe am Partieende als große Kärtchen statt winziger Emoji. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#286",
+  "rows": [
+   {
+    "label": "Handy hoch 444×987",
+    "before": "changes/2026-11-06-i406-ssp-wurfliste/01-before-ssp-wirtshaus-444x987-matchend.webp",
+    "after": "changes/2026-11-06-i406-ssp-wurfliste/02-after-ssp-wirtshaus-444x987-matchend.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-i406-ssp-wurfliste/03-before-ssp-wirtshaus-844x390-matchend.webp",
+    "after": "changes/2026-11-06-i406-ssp-wurfliste/04-after-ssp-wirtshaus-844x390-matchend.webp"
+   },
+   {
+    "label": "Desktop 1280×800, Klar",
+    "before": "changes/2026-11-06-i406-ssp-wurfliste/05-before-ssp-klar-1280x800-matchend.webp",
+    "after": "changes/2026-11-06-i406-ssp-wurfliste/06-after-ssp-klar-1280x800-matchend.webp"
+   }
+  ],
+  "sha": "6202c66a"
  }
 ]
