@@ -9855,5 +9855,30 @@
    }
   ],
   "sha": "c4c1edaa"
+ },
+ {
+  "id": "tips396-nah",
+  "date": "2026-11-06T16:20:53.674Z",
+  "title": "Tipps: Zipfel und Ring am Ziel (Nahaufnahme)",
+  "text": "Skat-Lernrunde am Handy und Mau-Mau am Desktop: die Blase zeigt mit einem Zipfel auf den Knopf, um den es geht, der Knopf bekommt einen ruhigen Ring. Bewegung als Video: https://github.com/AscendancyDotA/binokel/blob/media/changes/2026-11-06-tips396/tipps-handy-skat.webm – Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#263",
+  "rows": [
+   {
+    "label": "Skat, Handy",
+    "before": "changes/2026-11-06-tips396-nah/01-before-skat-guided-phone-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396-nah/02-after-skat-guided-phone-wirtshaus-1.webp"
+   },
+   {
+    "label": "Mau-Mau, Desktop",
+    "before": "changes/2026-11-06-tips396-nah/03-before-maumau-guided-desk-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396-nah/04-after-maumau-guided-desk-wirtshaus-1.webp"
+   },
+   {
+    "label": "Gaigel, Desktop (Klar)",
+    "before": "changes/2026-11-06-tips396-nah/05-before-gaigel-guided-desk-wirtshaus-1.webp",
+    "after": "changes/2026-11-06-tips396-nah/06-after-gaigel-guided-desk-klar-1.webp"
+   }
+  ],
+  "sha": "c4c1edaa"
  }
 ]
