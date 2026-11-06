@@ -9426,5 +9426,43 @@
    }
   ],
   "sha": "a3e07826"
+ },
+ {
+  "id": "item384-news-alert",
+  "date": "2026-11-06T01:27:12.659Z",
+  "title": "Glocke meldet neue Neuigkeiten und neue Versionen",
+  "text": "Neue Neuigkeiten und neue Versionen erscheinen als Meldung in der Glocke (online sofort, sonst beim nächsten Login). Ein Tipp springt in Willkommen zum Eintrag bzw. öffnet die Versionshinweise. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#258",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Neuigkeit gepostet",
+    "before": "changes/2026-11-06-item384-news-alert/01-before-before-desk.webp",
+    "after": "changes/2026-11-06-item384-news-alert/02-after-after-desk-news-toast.webp"
+   },
+   {
+    "label": "Desktop: Ansehen → Eintrag in Willkommen",
+    "img": "changes/2026-11-06-item384-news-alert/03-img-after-desk-news-opened.webp"
+   },
+   {
+    "label": "Handy 444×987: Neuigkeit gepostet (Tab Spielen)",
+    "before": "changes/2026-11-06-item384-news-alert/04-before-before-phone.webp",
+    "after": "changes/2026-11-06-item384-news-alert/05-after-after-phone-news-list.webp"
+   },
+   {
+    "label": "Handy: Zur Neuigkeit",
+    "img": "changes/2026-11-06-item384-news-alert/06-img-after-phone-news-opened.webp"
+   },
+   {
+    "label": "Neue Version: Hinweis + Liste (Desktop)",
+    "before": "changes/2026-11-06-item384-news-alert/07-before-after-desk-release-toast.webp",
+    "after": "changes/2026-11-06-item384-news-alert/08-after-after-desk-release-list.webp"
+   },
+   {
+    "label": "Neue Version (Handy)",
+    "before": "changes/2026-11-06-item384-news-alert/09-before-after-phone-release-toast.webp",
+    "after": "changes/2026-11-06-item384-news-alert/10-after-after-phone-release-list.webp"
+   }
+  ],
+  "sha": "1f5bfcf9"
  }
 ]
