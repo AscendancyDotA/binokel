@@ -10172,5 +10172,30 @@
    }
   ],
   "sha": "4d545824"
+ },
+ {
+  "id": "skat393-quer",
+  "date": "2026-11-06T17:28:20.185Z",
+  "title": "Skat: Handy quer – Ansage und Skat frei",
+  "text": "Im Querformat liegt das Ansage-Feld jetzt in einer Reihe über der Hand (vorher reichte es mit dem Knopf in die Karten), und der verdeckte Skat liegt links neben den Feldern statt darunter. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#272",
+  "rows": [
+   {
+    "label": "Ansage 844×390",
+    "before": "changes/2026-11-06-skat393-quer/01-before-wirtshaus-844x390-declare.webp",
+    "after": "changes/2026-11-06-skat393-quer/02-after-wirtshaus-844x390-declare.webp"
+   },
+   {
+    "label": "Reizen 844×390",
+    "before": "changes/2026-11-06-skat393-quer/03-before-wirtshaus-844x390-bid.webp",
+    "after": "changes/2026-11-06-skat393-quer/04-after-wirtshaus-844x390-bid.webp"
+   },
+   {
+    "label": "Skat oder Hand 844×390",
+    "before": "changes/2026-11-06-skat393-quer/05-before-wirtshaus-844x390-skat.webp",
+    "after": "changes/2026-11-06-skat393-quer/06-after-wirtshaus-844x390-skat.webp"
+   }
+  ],
+  "sha": "72f68aec"
  }
 ]
