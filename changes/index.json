@@ -10652,5 +10652,35 @@
    }
   ],
   "sha": "6202c66a"
+ },
+ {
+  "id": "i406-wuerfel-knoepfe",
+  "date": "2026-11-06T21:42:14.255Z",
+  "title": "Entwurf: Fünf Würfel – Knöpfe wachsen am großen Bildschirm",
+  "text": "Entwurf (PR #286, noch nicht freigegeben): Würfeln-Knopf, Tipp und Beschriftung wachsen mit den Würfeln; am Handy bleibt alles gleich. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#286",
+  "rows": [
+   {
+    "label": "Desktop 1920×1080",
+    "before": "changes/2026-11-06-i406-wuerfel-knoepfe/01-before-wuerfel-wirtshaus-1920x1080-rolled.webp",
+    "after": "changes/2026-11-06-i406-wuerfel-knoepfe/02-after-wuerfel-wirtshaus-1920x1080-rolled.webp"
+   },
+   {
+    "label": "Desktop 1280×800, Arena",
+    "before": "changes/2026-11-06-i406-wuerfel-knoepfe/03-before-wuerfel-arena-1280x800-rolled.webp",
+    "after": "changes/2026-11-06-i406-wuerfel-knoepfe/04-after-wuerfel-arena-1280x800-rolled.webp"
+   },
+   {
+    "label": "Handy hoch 444×987 (unverändert)",
+    "before": "changes/2026-11-06-i406-wuerfel-knoepfe/05-before-wuerfel-wirtshaus-444x987-rolled.webp",
+    "after": "changes/2026-11-06-i406-wuerfel-knoepfe/06-after-wuerfel-wirtshaus-444x987-rolled.webp"
+   },
+   {
+    "label": "Handy quer 844×390 (unverändert bis auf den Zettel-Fix)",
+    "before": "changes/2026-11-06-i406-wuerfel-knoepfe/07-before-wuerfel-wirtshaus-844x390-rolled.webp",
+    "after": "changes/2026-11-06-i406-wuerfel-knoepfe/08-after-wuerfel-wirtshaus-844x390-rolled.webp"
+   }
+  ],
+  "sha": "6202c66a"
  }
 ]
