@@ -9573,5 +9573,20 @@
    }
   ],
   "sha": "13630e2e"
+ },
+ {
+  "id": "analyse-bot-zug-383",
+  "date": "2026-11-06T02:43:52.285Z",
+  "title": "Auswertung: Bot-Zug erklärt, knappe Urteile nachgeprüft",
+  "text": "Wiederholung OUVn0oQCNKhF, Zug 73, Opa Konrad wirft gegen einen Durch die Eichel-Sau ab. Vorher: Fehler, kostet etwa 125 Punkte (Glückszahl aus 160 Verteilungen). Nachher: nachgeprüft mit 800 neuen Verteilungen, kostet etwa 85 Punkte, dazu die Zeile Bot-Zug. Der Großmeister selbst wirft die Sau dort nicht mehr ab.",
+  "issue": "wirtshaus#259",
+  "rows": [
+   {
+    "label": "Urteilskarte, Desktop",
+    "before": "changes/2026-11-06-analyse-bot-zug-383/01-before-w259.webp",
+    "after": "changes/2026-11-06-analyse-bot-zug-383/02-after-after-card-de.webp"
+   }
+  ],
+  "sha": "1a6dc834"
  }
 ]
