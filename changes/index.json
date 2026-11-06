@@ -9735,5 +9735,24 @@
    }
   ],
   "sha": "456d2f5b"
+ },
+ {
+  "id": "item388-teilen-chip",
+  "date": "2026-11-06T06:41:04.313Z",
+  "title": "Tisch teilen: Chip in der Taverne und Bestätigung",
+  "text": "Der Teilen-Knopf heißt „In der Taverne teilen“, nach dem Tippen sagt ein Hinweis, was passiert ist; in der Taverne öffnet der geteilte Tisch per Antippen (Item 388, Hermes-Subagent claude-opus-5-5).",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Taverne-Chat (vorher: Meldung vom 06.11.)",
+    "before": "changes/2026-11-06-item388-teilen-chip/01-before-s6.webp",
+    "after": "changes/2026-11-06-item388-teilen-chip/02-after-1280x800-share-chip.webp"
+   },
+   {
+    "label": "Am Tisch nach dem Teilen",
+    "img": "changes/2026-11-06-item388-teilen-chip/03-img-1280x800-share-toast.webp"
+   }
+  ],
+  "sha": "456d2f5b"
  }
 ]
