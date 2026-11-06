@@ -10592,5 +10592,20 @@
    }
   ],
   "sha": "26ccb985"
+ },
+ {
+  "id": "i406-wuerfel-quer",
+  "date": "2026-11-06T21:41:02.216Z",
+  "title": "Fünf Würfel: ganzer Zettel im Handy-Querformat",
+  "text": "Handy quer endete der Zettel bei Fünfling – Chance und Gesamt nur per Scrollen. Jetzt passen alle Zeilen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#282",
+  "rows": [
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-06-i406-wuerfel-quer/01-before-wuerfel-wirtshaus-844x390-late.webp",
+    "after": "changes/2026-11-06-i406-wuerfel-quer/02-after-wuerfel-wirtshaus-844x390-late.webp"
+   }
+  ],
+  "sha": "6202c66a"
  }
 ]
