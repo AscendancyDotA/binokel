@@ -11073,10 +11073,9 @@
  },
  {
   "id": "item421-spectate-hand",
-  "date": "2026-11-07T04:47:58.853Z",
+  "date": "2026-11-07T04:48:37.817Z",
   "title": "Zuschauen: Karten der gewählten Sicht, Canasta-Plätze am Rand",
   "text": "Beim Zuschauen mit „Sicht: X“ zeigen Canasta und Rommé jetzt die Hand dieses Platzes unten (nur ansehen). Am öffentlichen Tisch steht die Kartenzahl am unteren Platz. Canasta auf breiten, niedrigen Fenstern: die Seitenplätze sitzen am Tischrand und liegen nicht mehr auf den Meldefeldern. Hermes-Subagent (claude-opus-5-5, effort medium)",
-  "issue": "binokel#24",
   "rows": [
    {
     "label": "Canasta 1280×800, „Nur …“ – vorher keine Hand",
