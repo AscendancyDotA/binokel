@@ -11760,5 +11760,35 @@
    }
   ],
   "sha": "86ee6b1a"
+ },
+ {
+  "id": "item452-tischinfo",
+  "date": "2026-11-07T22:47:08.257Z",
+  "title": "Entwurf: Tisch-Info im Fenster „ⓘ Tisch“ (PR #294)",
+  "text": "Neuer Chip „ⓘ Tisch“ in der Kopfleiste: öffnet ein Fenster mit allen Regeln (Sonderregeln mit Standard daneben, alle Regeln aufklappbar, Regelhilfe), den Tisch-Einstellungen und der Fairness (Misch-Nachweis, wer zuschaut). Ein Punkt am Chip zeigt Sonderregeln. Am Handy stehen in der Leiste nur noch die festen Chips. Entwurf – noch nicht live. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#229",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 (Binokel mit Siebenern, ohne Dabb)",
+    "before": "changes/2026-11-07-item452-tischinfo/01-before-229-BEFORE-desk.webp",
+    "after": "changes/2026-11-07-item452-tischinfo/02-after-229-AFTER-desk.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-item452-tischinfo/03-before-229-BEFORE-phone.webp",
+    "after": "changes/2026-11-07-item452-tischinfo/04-after-229-AFTER-phone.webp"
+   },
+   {
+    "label": "Handy quer 915×412 (swb)",
+    "before": "changes/2026-11-07-item452-tischinfo/05-before-229-BEFORE-land.webp",
+    "after": "changes/2026-11-07-item452-tischinfo/06-after-229-AFTER-land.webp"
+   },
+   {
+    "label": "Neu: das Fenster (Desktop / Handy, Lupfen als Zuschauer)",
+    "before": "changes/2026-11-07-item452-tischinfo/07-before-229-AFTER-desk-open.webp",
+    "after": "changes/2026-11-07-item452-tischinfo/08-after-lupfen-phone.webp"
+   }
+  ],
+  "sha": "af7c3e19"
  }
 ]
