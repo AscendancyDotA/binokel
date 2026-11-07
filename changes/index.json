@@ -10876,5 +10876,25 @@
    }
   ],
   "sha": "d1d4fd7c"
+ },
+ {
+  "id": "item414-lupfen",
+  "date": "2026-11-07T01:37:44.605Z",
+  "title": "Lupfen: Drei Unter, Chips zu fünft, Uhr-Ring am Bild (Item 414)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). 1) „Das sind keine 3 Unter“: Die Regel stimmt – der gelupfte Unter zählt für den Lupfer mit (O-U-U + gelupfter Unter = drei Unter). Die Rundenübersicht hat ihn nur nicht gezeigt; jetzt steht er daneben („glupft“) und der Text sagt „Drei Unter mitm glupfta Unter“. 2) „Immernoch zu wenig Chips“: ab fünf Spielern bringt jeder jetzt 300 / 450 / 750 mit (zu fünft / sechst / siebt, vorher 180 / 270 / 405). Gemessen: statt ~65 % endet nur noch ~20 % der Partien vorzeitig, im Schnitt 11 von 12 Runden. 3) „Sunny icon daneben“: der Zug-Uhr-Ring hing bei den Plätzen rechts oben / links / rechts am Namen statt um das Bild – jetzt sitzt er um das Bild. Zum Ausprobieren: neuer Lupfen-Tisch zu fünft.",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Drei Unter (vorher: deine Meldung · nachher: Rundenübersicht 444×987)",
+    "before": "changes/2026-11-07-item414-lupfen/01-before-drei.webp",
+    "after": "changes/2026-11-07-item414-lupfen/02-after-l3-drei-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Lupfen zu fünft 508×1130: Uhr-Ring + Chips (vorher 174 · nachher 294)",
+    "before": "changes/2026-11-07-item414-lupfen/03-before-l5-join-wirtshaus-508x1130.webp",
+    "after": "changes/2026-11-07-item414-lupfen/04-after-l5-join-wirtshaus-508x1130.webp"
+   }
+  ],
+  "sha": "1e063da3"
  }
 ]
