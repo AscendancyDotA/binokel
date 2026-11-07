@@ -11098,5 +11098,34 @@
    }
   ],
   "sha": "dbd0c465"
+ },
+ {
+  "id": "lupfen-weg-optik",
+  "date": "2026-11-07T05:01:59.347Z",
+  "title": "Lupfen: „Weg“-Fenster lesbar, „Ätsch!“ neben dem Namen",
+  "text": "Das „Weg“-Fenster kommt erst, wenn die eigenen Karten gelandet sind, und ist deckend; die „Ätsch!“-Blase steht neben dem Avatar statt auf dem Namen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Handy 444×987: Weg-Fenster vorher / jetzt",
+    "before": "changes/2026-11-07-lupfen-weg-optik/01-before-444x987-weg-0.webp",
+    "after": "changes/2026-11-07-lupfen-weg-optik/02-after-phone-weg-panel.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Weg-Fenster vorher / jetzt",
+    "before": "changes/2026-11-07-lupfen-weg-optik/03-before-844x390-weg-0.webp",
+    "after": "changes/2026-11-07-lupfen-weg-optik/04-after-landscape-weg-panel.webp"
+   },
+   {
+    "label": "Handy: Ätsch vorher / jetzt",
+    "before": "changes/2026-11-07-lupfen-weg-optik/05-before-02-after-phone-aetsch-2500.webp",
+    "after": "changes/2026-11-07-lupfen-weg-optik/06-after-phone-aetsch-2500.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Ätsch jetzt",
+    "img": "changes/2026-11-07-lupfen-weg-optik/07-img-landscape-aetsch-2500.webp"
+   }
+  ],
+  "sha": "ce5f90b3"
  }
 ]
