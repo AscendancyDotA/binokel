@@ -11274,5 +11274,41 @@
    }
   ],
   "sha": "65583c5f"
+ },
+ {
+  "id": "item430-kasse-ziel",
+  "date": "2026-11-07T08:21:28.545Z",
+  "title": "Kasse: nächstes Ziel in Spielzeit + Starter-Taler (ECO-02/03)",
+  "text": "Oben in der Kasse (Mein Raum und Shop) steht jetzt das nächste erreichbare Stück in Spielzeit statt „Es fehlen noch 295 Taler“, daneben für neue Konten die „Ersten Schritte“ mit ihren Starter-Talern. Hermes-Subagent (claude-opus-5-5, effort medium), Item 430.",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Handy 444×987 (vorher: echte App vom 06.11.)",
+    "before": "changes/2026-11-07-item430-kasse-ziel/01-before-handy-vorher.webp",
+    "after": "changes/2026-11-07-item430-kasse-ziel/02-after-430-phone-de-glas.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-07-item430-kasse-ziel/03-before-desktop-vorher.webp",
+    "after": "changes/2026-11-07-item430-kasse-ziel/04-after-430-desktop-de-wirtshaus.webp"
+   },
+   {
+    "label": "Nach der ersten Online-Partie: ✓ und +50 Taler",
+    "img": "changes/2026-11-07-item430-kasse-ziel/05-img-430-desktop-de-after-first-match.webp"
+   },
+   {
+    "label": "Shop-Kachel: Spielzeit statt fehlender Taler",
+    "img": "changes/2026-11-07-item430-kasse-ziel/06-img-430-desktop-de-shop-tile.webp"
+   },
+   {
+    "label": "Handy 360×780, Klar",
+    "img": "changes/2026-11-07-item430-kasse-ziel/07-img-430-phone360-de-klar.webp"
+   },
+   {
+    "label": "Querformat 844×390, Arena, English",
+    "img": "changes/2026-11-07-item430-kasse-ziel/08-img-430-landscape-en-arena.webp"
+   }
+  ],
+  "sha": "13bb90ca"
  }
 ]
