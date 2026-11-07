@@ -11621,5 +11621,35 @@
    }
   ],
   "sha": "6b605b31"
+ },
+ {
+  "id": "item439-textsize-notices",
+  "date": "2026-11-07T15:53:24.719Z",
+  "title": "Große Systemschrift + Hinweise am Tisch (PLAT-09)",
+  "text": "Bei Android-Textgröße 170–200 % bleiben Einstellungen und ⋯ in der Lobby-Kopfzeile sichtbar. Am Tisch stehen Einladungen und kurze Hinweise oben in der Kopfleiste statt über Hand und Knöpfen, einer nach dem anderen, nie während des eigenen Aktions-Panels. Fünf Würfel: die Würfel liegen bei großer Schrift nicht mehr unter dem Chat-Knopf. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Lobby, Handy 411 px, Systemschrift 200 %",
+    "before": "changes/2026-11-07-item439-textsize-notices/01-before-gs439-before-de-binokel-411x454-z2.webp",
+    "after": "changes/2026-11-07-item439-textsize-notices/02-after-gs439-after-de-binokel-411x454-z2.webp"
+   },
+   {
+    "label": "Einladung am Tisch, Handy 360×780",
+    "before": "changes/2026-11-07-item439-textsize-notices/03-before-notice-360x780-2-invite-before.webp",
+    "after": "changes/2026-11-07-item439-textsize-notices/04-after-notice-360x780-2-invite.webp"
+   },
+   {
+    "label": "Kurzer Hinweis + Einladung, Handy quer 844×390",
+    "before": "changes/2026-11-07-item439-textsize-notices/05-before-notice-844x390-3-notice-before.webp",
+    "after": "changes/2026-11-07-item439-textsize-notices/06-after-notice-844x390-3-notice.webp"
+   },
+   {
+    "label": "Fünf Würfel, Handy, Systemschrift 170 %",
+    "before": "changes/2026-11-07-item439-textsize-notices/07-before-wuerfel-360x780-z1.7.webp",
+    "after": "changes/2026-11-07-item439-textsize-notices/08-after-wuerfel-360x780-z1.7.webp"
+   }
+  ],
+  "sha": "047bff48"
  }
 ]
