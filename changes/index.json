@@ -10941,5 +10941,40 @@
    }
   ],
   "sha": "96b17a84"
+ },
+ {
+  "id": "pinochle412",
+  "date": "2026-11-07T02:19:59.003Z",
+  "title": "Pinochle: französisches Blatt, Tisch, TV und Landingpage",
+  "text": "Pinochle läuft auf Binokels Tisch mit dem französischen 48er-Blatt (A 10 K D B 9). Neu: eigener Spieleintrag (im Bau), Lernrunde, Wirtshaus-TV-Tisch und die englische Seite /pinochle. Hermes-Subagent (claude-opus-5-5, effort high), Item 412.",
+  "issue": "wirtshaus#278",
+  "rows": [
+   {
+    "label": "Blatt: Binokel vorher (württembergisch) → Pinochle (französisch), gleiche Meldephase, 1280×800",
+    "before": "changes/2026-11-07-pinochle412/01-before-binokel-melds-desk.webp",
+    "after": "changes/2026-11-07-pinochle412/02-after-melds-desk.webp"
+   },
+   {
+    "label": "Pinochle zu viert in Paaren (Desktop) · online am Handy mit Meldungen",
+    "before": "changes/2026-11-07-pinochle412/03-before-p4-play-desk.webp",
+    "after": "changes/2026-11-07-pinochle412/04-after-online-B-play.webp"
+   },
+   {
+    "label": "Wirtshaus-TV: Pinochle-Meistertisch (Mini) und Zuschauertisch",
+    "before": "changes/2026-11-07-pinochle412/05-before-tv-pinochle-phone.webp",
+    "after": "changes/2026-11-07-pinochle412/06-after-tv-pinochle-table-desktop.webp"
+   },
+   {
+    "label": "Lernrunde: erster Tipp beim Reizen · Ende der Lernrunde",
+    "before": "changes/2026-11-07-pinochle412/07-before-guided-tip-bid-phone.webp",
+    "after": "changes/2026-11-07-pinochle412/08-after-guided-end-phone.webp"
+   },
+   {
+    "label": "Landingpage /pinochle (englisch, statisch): Desktop · Handy",
+    "before": "changes/2026-11-07-pinochle412/09-before-landing-desk2.webp",
+    "after": "changes/2026-11-07-pinochle412/10-after-landing-phone2.webp"
+   }
+  ],
+  "sha": "d8f8bb84"
  }
 ]
