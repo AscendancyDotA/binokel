@@ -11206,5 +11206,25 @@
    }
   ],
   "sha": "44fdbde0"
+ },
+ {
+  "id": "bot-stakes-427",
+  "date": "2026-11-07T06:42:05.713Z",
+  "title": "Bots am Taler-Tisch: Einsatz je Platz, eigene Namen",
+  "text": "Lupfen-Warteschlange zu viert, drei Bots derselben Stufe. Vorher: „Meischter Eugen“, „… II“, „… III“, jeder „Bot setzt bis 16“ (die drei Plätze teilten sich eine Bot-Geldbörse) – mehr als 16 ging auch für dich nicht. Jetzt: jeder Bot-Platz setzt bis 50, und die Bots heißen verschieden (Meischter Gotthilf, Meischter Ernscht). Gilt für alle Spiele. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Vortisch (Handy)",
+    "before": "changes/2026-11-07-bot-stakes-427/01-before-02-after-lupfen423-phone-vortisch.webp",
+    "after": "changes/2026-11-07-bot-stakes-427/02-after-lupfen423-phone-vortisch.webp"
+   },
+   {
+    "label": "Tisch (Desktop)",
+    "before": "changes/2026-11-07-bot-stakes-427/03-before-04-after-lupfen423-desk-table.webp",
+    "after": "changes/2026-11-07-bot-stakes-427/04-after-lupfen423-desk-table.webp"
+   }
+  ],
+  "sha": "1de1849a"
  }
 ]
