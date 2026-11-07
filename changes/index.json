@@ -10837,5 +10837,24 @@
    }
   ],
   "sha": "840a7ac4"
+ },
+ {
+  "id": "item411-binokel-hausregeln",
+  "date": "2026-11-07T01:32:47.479Z",
+  "title": "Binokel: Hausregeln Rufen zweite Karte, Tauschen nach Trumpf",
+  "text": "Zwei neue Schalter unter den Hausregeln (Standard aus). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#264",
+  "rows": [
+   {
+    "label": "Handy 444 – Tisch aufmachen",
+    "before": "changes/2026-11-07-item411-binokel-hausregeln/01-before-before-create-444.webp",
+    "after": "changes/2026-11-07-item411-binokel-hausregeln/02-after-after-create-444.webp"
+   },
+   {
+    "label": "Neu: Zurückgeben nach Trumpfansage",
+    "img": "changes/2026-11-07-item411-binokel-hausregeln/03-img-return-fixed-1280.webp"
+   }
+  ],
+  "sha": "d1d4fd7c"
  }
 ]
