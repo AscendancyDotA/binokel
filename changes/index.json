@@ -11745,5 +11745,20 @@
    }
   ],
   "sha": "deaf26a1"
+ },
+ {
+  "id": "store-shots-447",
+  "date": "2026-11-07T18:52:07.544Z",
+  "title": "Neue Store-Bilder (alle Play-Apps)",
+  "text": "Die Bilder im Play Store sind neu – aus der aktuellen App, ohne Tipp-Fenster über dem Tisch. Ab jetzt per Skript je Version erneuerbar.",
+  "issue": "wirtshaus#205",
+  "rows": [
+   {
+    "label": "Play-Store-Bild Wirtshaus: Binokel-Tisch",
+    "before": "changes/2026-11-07-store-shots-447/01-before-before.webp",
+    "after": "changes/2026-11-07-store-shots-447/02-after-after.webp"
+   }
+  ],
+  "sha": "86ee6b1a"
  }
 ]
