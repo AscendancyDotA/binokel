@@ -11501,5 +11501,40 @@
    }
   ],
   "sha": "02da44b0"
+ },
+ {
+  "id": "item436-layout-rest",
+  "date": "2026-11-07T11:07:23.973Z",
+  "title": "Rest-Layoutpunkte: Zuschauen, Canasta-Punkte, Skat-Stapel, Statuszeile",
+  "text": "Commit 665d2cc3 – Hermes-Subagent (claude-opus-5-5, effort medium). Beim Zuschauen hängt die Kartenliste des Partners nach unten statt unter die Leiste, Seitenbilder halten Abstand zum Rand, Canasta zeigt die Punkte als Kurzform, der Skat liegt nicht mehr an den Fächern, die Zeile „… überlegt“ weicht einer Stichkarte aus. Rommé: Das Meldfeld bleibt unter der offenen Hand des Nordplatzes.",
+  "issue": "wirtshaus#291",
+  "rows": [
+   {
+    "label": "Binokel zuschauen 360×780: Name unter der Leiste",
+    "before": "changes/2026-11-07-item436-layout-rest/01-before-spectate-binokel-360x780.webp",
+    "after": "changes/2026-11-07-item436-layout-rest/02-after-spectate-binokel-360x780.webp"
+   },
+   {
+    "label": "Binokel zuschauen 844×390: Bilder am Rand",
+    "before": "changes/2026-11-07-item436-layout-rest/03-before-spectate-binokel-844x390.webp",
+    "after": "changes/2026-11-07-item436-layout-rest/04-after-spectate-binokel-844x390.webp"
+   },
+   {
+    "label": "Canasta zuschauen 444×987: Punkte im Feldkopf",
+    "before": "changes/2026-11-07-item436-layout-rest/05-before-spectate-canasta-444x987.webp",
+    "after": "changes/2026-11-07-item436-layout-rest/06-after-spectate-canasta-444x987.webp"
+   },
+   {
+    "label": "Skat 360×780: Skat an den Fächern",
+    "before": "changes/2026-11-07-item436-layout-rest/07-before-play-skat-360x780.webp",
+    "after": "changes/2026-11-07-item436-layout-rest/08-after-play-skat-360x780.webp"
+   },
+   {
+    "label": "Watten zu viert 1366×640: Statuszeile unter der Stichkarte",
+    "before": "changes/2026-11-07-item436-layout-rest/09-before-pp-watten-1366x640.webp",
+    "after": "changes/2026-11-07-item436-layout-rest/10-after-dx-watten-1366x640.webp"
+   }
+  ],
+  "sha": "665d2cc3"
  }
 ]
