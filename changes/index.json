@@ -11651,5 +11651,25 @@
    }
   ],
   "sha": "047bff48"
+ },
+ {
+  "id": "2026-11-07-item441-avatar-centre",
+  "date": "2026-11-07T17:25:02.892Z",
+  "title": "Schocken/Fünf Würfel: Bild mittig im Kreis",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium), Commit b5d97fb5 auf main. Das Roboter-Gesicht (und jedes andere Bild) der Mitspieler in der Namensleiste von Schocken und Fünf Würfel saß 6–9 px links im runden Rahmen. Jetzt steht es in der Mitte, in jeder Fenstergröße. Ein neuer Layout-Check prüft auf allen Tischen, dass das Bild höchstens 1,5 px neben der Kreismitte liegt. Ausprobieren: Schocken oder Fünf Würfel gegen Bots, auf die Bilder oben schauen.",
+  "issue": "wirtshaus#291",
+  "rows": [
+   {
+    "label": "PC 827×800 (Ausschnitt, 4× vergrößert)",
+    "before": "changes/2026-11-07-2026-11-07-item441-avatar-centre/01-before-cs-before-zoom-827.webp",
+    "after": "changes/2026-11-07-2026-11-07-item441-avatar-centre/02-after-cs-after-zoom-827.webp"
+   },
+   {
+    "label": "Handy 444×987, 6 Spieler (Ausschnitt, 3× vergrößert)",
+    "before": "changes/2026-11-07-2026-11-07-item441-avatar-centre/03-before-cs-before-zoom-444.webp",
+    "after": "changes/2026-11-07-2026-11-07-item441-avatar-centre/04-after-cs-after-zoom-444.webp"
+   }
+  ],
+  "sha": "b5d97fb5"
  }
 ]
