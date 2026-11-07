@@ -10822,5 +10822,20 @@
    }
   ],
   "sha": "840a7ac4"
+ },
+ {
+  "id": "item413-taverne-wischen",
+  "date": "2026-11-07T01:01:52.425Z",
+  "title": "Taverne am Handy lässt sich mit dem Finger scrollen",
+  "text": "Mit aufgeklappter Raumliste schluckte die Liste jedes Wischen – die Seite blieb stehen. Jetzt ist die offene Liste am Handy kein eigener Scrollbereich mehr, die Seite scrollt beim Wischen über der Taverne, und unten zeigt ein leichter Schatten, dass noch mehr kommt (links: Wischen über der Liste ohne Wirkung, rechts: nach zwei Wischern, Schatten unten). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Handy 508×624",
+    "before": "changes/2026-11-07-item413-taverne-wischen/01-before-taverne239-508x624-touch-members-before413.webp",
+    "after": "changes/2026-11-07-item413-taverne-wischen/02-after-taverne239-508x624-touch-members-413.webp"
+   }
+  ],
+  "sha": "840a7ac4"
  }
 ]
