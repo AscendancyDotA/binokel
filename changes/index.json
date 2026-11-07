@@ -11790,5 +11790,30 @@
    }
   ],
   "sha": "af7c3e19"
+ },
+ {
+  "id": "i454-pets",
+  "date": "2026-11-07T23:05:16.093Z",
+  "title": "Haustiere gemalt + Goldener Schnitt neu",
+  "text": "Eule, Igel, Katze und Dackel sind jetzt gemalte Bilder und am Tisch 1,2–1,5× so hoch (vorher Eule/Igel nur braune Flecken). Neu: Huhn Berta. Der Kartenrücken Goldener Schnitt ist ein gemaltes Bild mit Goldrand je Karte und einem Glanz, der über den Fächer läuft. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Lupfen zu sechst, Desktop 1280×800 (alle Sitze mit Haustier + Goldener Schnitt)",
+    "before": "changes/2026-11-07-i454-pets/01-before-before-lf6-desktop.webp",
+    "after": "changes/2026-11-07-i454-pets/02-after-after-lf6-desktop.webp"
+   },
+   {
+    "label": "Ausschnitte 2× (Eule, Igel, Dackel, Katze, Huhn, Rücken)",
+    "before": "changes/2026-11-07-i454-pets/03-before-before-detail.webp",
+    "after": "changes/2026-11-07-i454-pets/04-after-after-detail.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-i454-pets/05-before-before-lf6-phone.webp",
+    "after": "changes/2026-11-07-i454-pets/06-after-after-lf6-phone.webp"
+   }
+  ],
+  "sha": "d90754d5"
  }
 ]
