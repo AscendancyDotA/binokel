@@ -11536,5 +11536,60 @@
    }
   ],
   "sha": "665d2cc3"
+ },
+ {
+  "id": "item438-layout-rest2",
+  "date": "2026-11-07T12:19:47.622Z",
+  "title": "Layout-Rest nach 436: Würfelleiste, Schnapsen flach, Zuschauen, Tipp-Blase",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Fünf Würfel/Schocken: Der rechte Platz der Namensleiste steht wieder mittig über seiner Spalte (750–1280 px). Schnapsen in flachen Fenstern: Die Karten des Gegners hängen links neben seinem Bild statt in die Stichkarte. Zuschauen: Binokel-Seitenplatz rückt unter die Info-Pillen, Schwimmen-Notizen bleiben über dem eigenen Namen, Mau-Mau/Bid-Whist-Knöpfe und Punktefeld weichen Bildern und Infozeile. Lupfen „Ätsch“: Die Einblendung lässt alle Knöpfe bedienbar, ein Tipp beendet sie. Tipp-Blasen: nach Drehen/Größenänderung neu vermessen, nie mehr abgeschnitten.",
+  "issue": "wirtshaus#291",
+  "rows": [
+   {
+    "label": "Schocken 827×800: Namen übereinander",
+    "before": "changes/2026-11-07-item438-layout-rest2/01-before-pw-b-schocken-827x800.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/02-after-pw-a-schocken-827x800.webp"
+   },
+   {
+    "label": "Fünf Würfel 827×800: rechter Name am Rand",
+    "before": "changes/2026-11-07-item438-layout-rest2/03-before-pw-b-wuerfel-827x800.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/04-after-pw-a-wuerfel-827x800.webp"
+   },
+   {
+    "label": "Schnapsen 1900×420: Gegnerkarten auf dem Stich",
+    "before": "changes/2026-11-07-item438-layout-rest2/05-before-pw-b-schnapsen-1900x420.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/06-after-pw-a-schnapsen-1900x420.webp"
+   },
+   {
+    "label": "Schnapsen 844×390",
+    "before": "changes/2026-11-07-item438-layout-rest2/07-before-pw-b-schnapsen-844x390.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/08-after-pw-a-schnapsen-844x390.webp"
+   },
+   {
+    "label": "Binokel zuschauen 740×360: Punkte-Pille am linken Namen",
+    "before": "changes/2026-11-07-item438-layout-rest2/09-before-b-binokel-740x360-2.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/10-after-a-binokel-740x360-1.webp"
+   },
+   {
+    "label": "Schwimmen zuschauen 600×800: Notizen auf dem Namen",
+    "before": "changes/2026-11-07-item438-layout-rest2/11-before-b-schwimmen-600x800-4.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/12-after-sw-schwimmen-600x800-1.webp"
+   },
+   {
+    "label": "Mau-Mau zuschauen 640×800: Chat-Knopf auf dem Bild",
+    "before": "changes/2026-11-07-item438-layout-rest2/13-before-b-maumau-640x800-2.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/14-after-ov-maumau-640x800-4.webp"
+   },
+   {
+    "label": "SSP 412 px nach Drehen: Tipp-Blase abgeschnitten",
+    "before": "changes/2026-11-07-item438-layout-rest2/15-before-pw-tb-ssp-412x915.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/16-after-pw-ta1280x800-ssp-412x915.webp"
+   },
+   {
+    "label": "Fünf Würfel 360 px: Tipp-Titel abgeschnitten",
+    "before": "changes/2026-11-07-item438-layout-rest2/17-before-wuerfel-first-phone360-wirtshaus-0.webp",
+    "after": "changes/2026-11-07-item438-layout-rest2/18-after-wuerfel-first-phone360-wirtshaus-0.webp"
+   }
+  ],
+  "sha": "f5f6ade2"
  }
 ]
