@@ -10911,5 +10911,20 @@
    }
   ],
   "sha": "96b17a84"
+ },
+ {
+  "id": "item417-romme",
+  "date": "2026-11-07T02:06:30.497Z",
+  "title": "Rommé: Joker-Hausregeln (Item 417)",
+  "text": "Unter Hausregeln neu: „Getauschter Joker muss sofort wieder ausgelegt werden“ (Wikipedia, DSkV) und „Joker nicht abwerfen“ (DSkV). Standard aus – die offene Frage an den Besitzer ist damit ein Schalter. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#277",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-item417-romme/01-before-Romm_-before-p.webp",
+    "after": "changes/2026-11-07-item417-romme/02-after-Romm_-after-p.webp"
+   }
+  ],
+  "sha": "96b17a84"
  }
 ]
