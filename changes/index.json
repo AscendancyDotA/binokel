@@ -10807,5 +10807,20 @@
    }
   ],
   "sha": "366f47a6"
+ },
+ {
+  "id": "item413-kopfzeile-411",
+  "date": "2026-11-07T01:01:39.039Z",
+  "title": "Spielauswahl oben links bleibt ganz sichtbar",
+  "text": "Bei 411 px Breite mit großer Systemschrift (Android-Textzoom) wurde die Spielauswahl oben links zusammengedrückt und vom Bildschirmrand abgeschnitten. Jetzt schrumpft sie nie; stattdessen rücken die Knöpfe enger zusammen, der grüne Online-Punkt geht weg und zuletzt wird die ganze Zeile etwas kleiner. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#26",
+  "rows": [
+   {
+    "label": "Handy 411×454, Textzoom 1,3",
+    "before": "changes/2026-11-07-item413-kopfzeile-411/01-before-gs413-before-de-binokel-411x454-z1.3.webp",
+    "after": "changes/2026-11-07-item413-kopfzeile-411/02-after-gs413-after-de-binokel-411x454-z1.3.webp"
+   }
+  ],
+  "sha": "840a7ac4"
  }
 ]
