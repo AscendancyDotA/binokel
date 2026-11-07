@@ -11127,5 +11127,29 @@
    }
   ],
   "sha": "ce5f90b3"
+ },
+ {
+  "id": "lupfen-triumph-gold",
+  "date": "2026-11-07T05:22:55.404Z",
+  "title": "Entwurf Lupfen: Gold-Konfetti beim Drei-Unter-Triumph",
+  "text": "Beim Triumph mit drei Untern regnet es Gold aus dem Banner und am Platz des Gewinners; mit Animationen Sanft nur ein kleines Funkeln, mit Aus nichts. Beim Ätsch spielt eine traurige Posaune (CC0). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "rows": [
+   {
+    "label": "Handy 444×987: Triumph vorher / Entwurf",
+    "before": "changes/2026-11-07-lupfen-triumph-gold/01-before-phone-triumph.webp",
+    "after": "changes/2026-11-07-lupfen-triumph-gold/02-after-444x987-triumph-1300.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Triumph vorher / Entwurf",
+    "before": "changes/2026-11-07-lupfen-triumph-gold/03-before-landscape-triumph.webp",
+    "after": "changes/2026-11-07-lupfen-triumph-gold/04-after-844x390-triumph-1300.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Triumph vorher / Entwurf",
+    "before": "changes/2026-11-07-lupfen-triumph-gold/05-before-desktop-triumph.webp",
+    "after": "changes/2026-11-07-lupfen-triumph-gold/06-after-1280x800-triumph-1300.webp"
+   }
+  ],
+  "sha": "e33f5dd6"
  }
 ]
