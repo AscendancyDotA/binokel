@@ -11424,5 +11424,24 @@
    }
   ],
   "sha": "fd1c3fbe"
+ },
+ {
+  "id": "item433-tagesblatt-los",
+  "date": "2026-11-07T09:15:14.830Z",
+  "title": "Kasse: „Los →“ öffnet das Tagesblatt direkt",
+  "text": "In der Kasse unter „Erste Schritte“ führt „Los →“ beim ersten Tagesblatt jetzt direkt zum Tagesblatt (Weg vorgewählt, Karte im Bild) statt nur zum Spielen-Reiter. Notizbuch-Hinweise liegen auch auf der Kasse in der Hinweis-Leiste unter den Karten. – Hermes-Subagent (claude-opus-5-5, effort medium), Item 433",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Handy 444×987: Tipp auf „Los →“ → Ergebnis",
+    "before": "changes/2026-11-07-item433-tagesblatt-los/01-before-430-phone-de-glas.webp",
+    "after": "changes/2026-11-07-item433-tagesblatt-los/02-after-433-R4-starter-daily-go.webp"
+   },
+   {
+    "label": "Handy quer 844×390: Notizbuch-Hinweis unter den Kasse-Karten",
+    "img": "changes/2026-11-07-item433-tagesblatt-los/03-img-433-R1-kasse-toast-scrolled.webp"
+   }
+  ],
+  "sha": "db12e44b"
  }
 ]
