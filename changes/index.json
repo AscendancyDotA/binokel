@@ -11151,5 +11151,35 @@
    }
   ],
   "sha": "e33f5dd6"
+ },
+ {
+  "id": "lupfen-taler-423",
+  "date": "2026-11-07T06:13:29.491Z",
+  "title": "Lupfen: Taler und Chips getrennt – auch gegen Bots um Taler",
+  "text": "Solo-Warteschlange zu viert mit drei Bots. Vorher: Bots können die Chips nicht als Taler setzen, die Partie läuft ohne Einsatz. Jetzt: alle setzen gleich viel (Vortisch-Zeile mit Kurs), Kurs unter dem Pott, am Ende „Endstapel → Taler“. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Vortisch (Handy)",
+    "before": "changes/2026-11-07-lupfen-taler-423/01-before-lupfen423-before-phone-vortisch.webp",
+    "after": "changes/2026-11-07-lupfen-taler-423/02-after-lupfen423-phone-vortisch.webp"
+   },
+   {
+    "label": "Tisch (Desktop)",
+    "before": "changes/2026-11-07-lupfen-taler-423/03-before-lupfen423-before-desk-table.webp",
+    "after": "changes/2026-11-07-lupfen-taler-423/04-after-lupfen423-desk-table.webp"
+   },
+   {
+    "label": "Partie-Ende (Desktop)",
+    "before": "changes/2026-11-07-lupfen-taler-423/05-before-lupfen423-before-desk-end.webp",
+    "after": "changes/2026-11-07-lupfen-taler-423/06-after-lupfen423-desk-end.webp"
+   },
+   {
+    "label": "Partie-Ende (Handy)",
+    "before": "changes/2026-11-07-lupfen-taler-423/07-before-lupfen423-before-phone-end.webp",
+    "after": "changes/2026-11-07-lupfen-taler-423/08-after-lupfen423-phone-end.webp"
+   }
+  ],
+  "sha": "f7f80410"
  }
 ]
