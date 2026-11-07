@@ -11339,5 +11339,40 @@
    }
   ],
   "sha": "3ce379b0"
+ },
+ {
+  "id": "lob428-erster-besuch",
+  "date": "2026-11-07T08:32:47.791Z",
+  "title": "Erster Besuch: Lernrunde oben, Hinweise nie über Knöpfen, ein Weg im Spielen-Reiter (LOB-01/02/12)",
+  "text": "Frisches Profil, erste Sekunden: die geführte Runde steht direkt unter dem Gruß (Taverne rutscht bis zur ersten Partie nach unten), kein Notizbuch-Hinweis über den Knöpfen. Spielen ohne offene Tische: kein „Offene Tische (0)“ mehr, genau ein „Tisch aufmachen“. Nach der ersten Partie stehen Hinweise in einer eigenen Leiste über der Startleiste. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Willkommen, Handy 444×987, erster Besuch (3 s)",
+    "before": "changes/2026-11-07-lob428-erster-besuch/01-before-before-p444-1-welcome-3s.webp",
+    "after": "changes/2026-11-07-lob428-erster-besuch/02-after-after-p444-1-welcome-3s.webp"
+   },
+   {
+    "label": "Spielen, Handy 444×987, 0 offene Tische",
+    "before": "changes/2026-11-07-lob428-erster-besuch/03-before-before-p444-3-spielen.webp",
+    "after": "changes/2026-11-07-lob428-erster-besuch/04-after-after-p444-3-spielen.webp"
+   },
+   {
+    "label": "Spielen, Desktop 1280×800",
+    "before": "changes/2026-11-07-lob428-erster-besuch/05-before-before-desk-3-spielen.webp",
+    "after": "changes/2026-11-07-lob428-erster-besuch/06-after-after-desk-3-spielen.webp"
+   },
+   {
+    "label": "Nach der ersten Partie: Hinweis in eigener Leiste (Handy 360×780)",
+    "before": "changes/2026-11-07-lob428-erster-besuch/07-before-before-p360-5-back-spielen-toast.webp",
+    "after": "changes/2026-11-07-lob428-erster-besuch/08-after-after-p360-5-back-spielen-toast.webp"
+   },
+   {
+    "label": "Querformat 844×390, erster Besuch",
+    "before": "changes/2026-11-07-lob428-erster-besuch/09-before-before-land-1-welcome-3s.webp",
+    "after": "changes/2026-11-07-lob428-erster-besuch/10-after-after-land-1-welcome-3s.webp"
+   }
+  ],
+  "sha": "f6138a1f"
  }
 ]
