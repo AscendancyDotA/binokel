@@ -11671,5 +11671,32 @@
    }
   ],
   "sha": "b5d97fb5"
+ },
+ {
+  "id": "item449-taler-je-app",
+  "date": "2026-11-07T18:00:53.156Z",
+  "title": "Taler je App: hier nutzbar + wo die gekauften Taler gelten",
+  "text": "Die Kopfleiste zeigt die hier nutzbaren Taler. In der Kasse steht für jede andere App, wie viele Taler dort gekauft wurden und dass sie nur dort gelten, dazu „Warum?“. Kauf-Dialog, Käufe-Seite und Buchungen sagen, wo gekaufte Taler gelten. (Hermes-Subagent claude-opus-5-5, effort medium)",
+  "issue": "binokel#21",
+  "rows": [
+   {
+    "label": "Handy 444×987: Kasse → Shop (vorher: Meldung aus der Schnapsen-App)",
+    "before": "changes/2026-11-07-item449-taler-je-app/01-before-r1.webp",
+    "after": "changes/2026-11-07-item449-taler-je-app/02-after-taler449-phone-shop.webp"
+   },
+   {
+    "label": "Kasse → Taler (Handy, Schwäbisch)",
+    "img": "changes/2026-11-07-item449-taler-je-app/03-img-taler449-phone-taler.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Kasse → Taler",
+    "img": "changes/2026-11-07-item449-taler-je-app/04-img-taler449-desktop-taler.webp"
+   },
+   {
+    "label": "Kauf-Dialog",
+    "img": "changes/2026-11-07-item449-taler-je-app/05-img-taler449-desktop-buydialog.webp"
+   }
+  ],
+  "sha": "66232413"
  }
 ]
