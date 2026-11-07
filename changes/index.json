@@ -11310,5 +11310,34 @@
    }
   ],
   "sha": "13bb90ca"
+ },
+ {
+  "id": "item429-ziel-erklaerung",
+  "date": "2026-11-07T08:21:41.545Z",
+  "title": "Gesperrte Karte erklärt sich + nächstes Ziel nach jeder Partie",
+  "text": "LRN-14: Tippst du eine Karte an, die gerade nicht geht, hebt sie sich rot umrandet und ein Satz sagt warum – in allen Stichspielen. CMP-02: Am Partie-Ende zeigt eine Zeile mit Balken das Ziel, das am nächsten dran ist (Liga, Aufgabe, Tage in Folge). Hermes-Subagent (claude-opus-5-5, effort medium), Item 429.",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Gesperrte Karte – Handy 444×987",
+    "before": "changes/2026-11-07-item429-ziel-erklaerung/01-before-blocked-wirtshaus-phone.webp",
+    "after": "changes/2026-11-07-item429-ziel-erklaerung/02-after-blocked-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Partie-Ende – Handy 444×987",
+    "before": "changes/2026-11-07-item429-ziel-erklaerung/03-before-goal-wirtshaus-phone.webp",
+    "after": "changes/2026-11-07-item429-ziel-erklaerung/04-after-goal-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Gesperrte Karte – Desktop 1280×800",
+    "before": "changes/2026-11-07-item429-ziel-erklaerung/05-before-blocked-wirtshaus-desk.webp",
+    "after": "changes/2026-11-07-item429-ziel-erklaerung/06-after-blocked-wirtshaus-desk.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "img": "changes/2026-11-07-item429-ziel-erklaerung/07-img-grid-land.webp"
+   }
+  ],
+  "sha": "3ce379b0"
  }
 ]
