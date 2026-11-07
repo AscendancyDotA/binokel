@@ -11476,5 +11476,30 @@
    }
   ],
   "sha": "0183c76c"
+ },
+ {
+  "id": "item435-reizstreifen",
+  "date": "2026-11-07T09:50:53.321Z",
+  "title": "TAB-03 umgesetzt: Reizen als Streifen über der Hand (Binokel + Pinochle)",
+  "text": "Das Reiz-Fenster liegt jetzt als schmaler Streifen direkt über den eigenen Karten: drei große Gebote, „⋯“ für ein eigenes Gebot, „Weg“. Dabb, Tischmitte und Gegner bleiben frei. „Gereizt“ steht nur noch einmal (Sprechblase am Platz des Bietenden), „Raus kommt“ erst nach dem Reizen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-item435-reizstreifen/01-before-cs-before-p3-444x987.webp",
+    "after": "changes/2026-11-07-item435-reizstreifen/02-after-cs-after-p3-444x987.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-07-item435-reizstreifen/03-before-cs-before-p3-1280x800.webp",
+    "after": "changes/2026-11-07-item435-reizstreifen/04-after-cs-after-p3-1280x800.webp"
+   },
+   {
+    "label": "Handy quer 844×390, 4 Spieler",
+    "before": "changes/2026-11-07-item435-reizstreifen/05-before-cs-before-p4-844x390.webp",
+    "after": "changes/2026-11-07-item435-reizstreifen/06-after-cs-after-p4-844x390.webp"
+   }
+  ],
+  "sha": "02da44b0"
  }
 ]
