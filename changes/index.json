@@ -11834,5 +11834,39 @@
    }
   ],
   "sha": "d90754d5"
+ },
+ {
+  "id": "item452-einsatz",
+  "date": "2026-11-07T23:20:26.712Z",
+  "title": "Entwurf: Kosmetik-Fach „Einsatz“ (PR #295)",
+  "text": "Dein Taler-Einsatz liegt in einem Behälter, der mit dem Betrag wächst (Kartenschachtel aus binokel#19, Lederbeutel, Taler-Scheine, Zigarrenkiste, Schatztruhe, Edelsteine, Goldhort); der Pott trägt den Behälter des größten Einsatzes. Ohne Stück bleibt alles wie bisher. Entwurf – noch nicht live. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#218",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: Einsätze 400 / 25 / 5 Taler (Truhe, Scheine, Beutel)",
+    "before": "changes/2026-11-07-item452-einsatz/01-before-tiers-desk.webp",
+    "after": "changes/2026-11-07-item452-einsatz/02-after-stash452-seats-desk.webp"
+   },
+   {
+    "label": "Handy 444×987 (vorher 412×915)",
+    "before": "changes/2026-11-07-item452-einsatz/03-before-tiers-phone.webp",
+    "after": "changes/2026-11-07-item452-einsatz/04-after-stash452-seats-phone.webp"
+   },
+   {
+    "label": "Neu: der Pott in der Truhe / der Vortisch",
+    "img": "changes/2026-11-07-item452-einsatz/05-img-stash452-pot-desk.webp"
+   },
+   {
+    "img": "changes/2026-11-07-item452-einsatz/06-img-stash452-vortisch-desk.webp"
+   },
+   {
+    "label": "Neu: Laden-Kacheln und Mein Raum",
+    "img": "changes/2026-11-07-item452-einsatz/07-img-after-shop-stash-desktop.webp"
+   },
+   {
+    "img": "changes/2026-11-07-item452-einsatz/08-img-room-shelf-after.webp"
+   }
+  ],
+  "sha": "e8ed6065"
  }
 ]
