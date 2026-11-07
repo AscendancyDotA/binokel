@@ -11374,5 +11374,55 @@
    }
   ],
   "sha": "f6138a1f"
+ },
+ {
+  "id": "item422-fenster",
+  "date": "2026-11-07T08:56:28.152Z",
+  "title": "Fenster-Verhältnisse: jedes Seitenverhältnis, Nord-Reihe für alle Vierer-Tische",
+  "text": "Das Fenster lässt sich jetzt durch flache, hohe und quadratische Größen ziehen, ohne dass der Tisch bricht. Auf dem Handy quer sitzt der Gegenüber in allen Vierer-Spielen oben in der Leiste, der Stich hat die Mitte für sich. Beim Zuschauen mit „Alle Karten“ halten die Canasta-Felder Abstand zu den offenen Händen. Commit fd1c3fbe. – Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#291",
+  "rows": [
+   {
+    "label": "Bid Whist zuschauen 844×390 (Stich lag auf Gegenüber)",
+    "before": "changes/2026-11-07-item422-fenster/01-before-spectate-bidwhist-844x390.webp",
+    "after": "changes/2026-11-07-item422-fenster/02-after-spectate-bidwhist-844x390.webp"
+   },
+   {
+    "label": "Doppelkopf zuschauen 740×360",
+    "before": "changes/2026-11-07-item422-fenster/03-before-spectate-doppelkopf-740x360.webp",
+    "after": "changes/2026-11-07-item422-fenster/04-after-spectate-doppelkopf-740x360.webp"
+   },
+   {
+    "label": "Canasta zuschauen „Alle Karten“ 444×987",
+    "before": "changes/2026-11-07-item422-fenster/05-before-spectate-canasta-444x987.webp",
+    "after": "changes/2026-11-07-item422-fenster/06-after-spectate-canasta-444x987.webp"
+   },
+   {
+    "label": "Doppelkopf zuschauen 1280×629 (Knöpfe auf dem Punktestand)",
+    "before": "changes/2026-11-07-item422-fenster/07-before-spectate-doppelkopf-1280x629-find.webp",
+    "after": "changes/2026-11-07-item422-fenster/08-after-spectate-doppelkopf-1280x629.webp"
+   },
+   {
+    "label": "Binokel 1000×1000 (Gebotsfeld auf den Namen)",
+    "before": "changes/2026-11-07-item422-fenster/09-before-play-binokel-1000x1000.webp",
+    "after": "changes/2026-11-07-item422-fenster/10-after-play-binokel-1000x1000.webp"
+   },
+   {
+    "label": "Lupfen 760×1000 (hochkant zu groß)",
+    "before": "changes/2026-11-07-item422-fenster/11-before-play-lupfen-760x1000.webp",
+    "after": "changes/2026-11-07-item422-fenster/12-after-play-lupfen-760x1000.webp"
+   },
+   {
+    "label": "Schwimmen 883×800 (Stapel am Namen)",
+    "before": "changes/2026-11-07-item422-fenster/13-before-play-schwimmen-883x800-find.webp",
+    "after": "changes/2026-11-07-item422-fenster/14-after-play-schwimmen-883x800.webp"
+   },
+   {
+    "label": "Heimlauf 1000×1000",
+    "before": "changes/2026-11-07-item422-fenster/15-before-play-heimlauf-1000x1000.webp",
+    "after": "changes/2026-11-07-item422-fenster/16-after-play-heimlauf-1000x1000.webp"
+   }
+  ],
+  "sha": "fd1c3fbe"
  }
 ]
