@@ -11070,5 +11070,34 @@
    }
   ],
   "sha": "0def6494"
+ },
+ {
+  "id": "item421-spectate-hand",
+  "date": "2026-11-07T04:47:58.853Z",
+  "title": "Zuschauen: Karten der gewählten Sicht, Canasta-Plätze am Rand",
+  "text": "Beim Zuschauen mit „Sicht: X“ zeigen Canasta und Rommé jetzt die Hand dieses Platzes unten (nur ansehen). Am öffentlichen Tisch steht die Kartenzahl am unteren Platz. Canasta auf breiten, niedrigen Fenstern: die Seitenplätze sitzen am Tischrand und liegen nicht mehr auf den Meldefeldern. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Canasta 1280×800, „Nur …“ – vorher keine Hand",
+    "before": "changes/2026-11-07-item421-spectate-hand/01-before-canasta-only-1280x800.webp",
+    "after": "changes/2026-11-07-item421-spectate-hand/02-after-canasta-only-1280x800.webp"
+   },
+   {
+    "label": "Canasta 1280×569 (Fenster aus der Meldung)",
+    "before": "changes/2026-11-07-item421-spectate-hand/03-before-canasta-overlap-1280x569.webp",
+    "after": "changes/2026-11-07-item421-spectate-hand/04-after-canasta-only-1280x569.webp"
+   },
+   {
+    "label": "Rommé 1280×800, „Nur …“",
+    "before": "changes/2026-11-07-item421-spectate-hand/05-before-romme-only-1280x800.webp",
+    "after": "changes/2026-11-07-item421-spectate-hand/06-after-romme-only-1280x800.webp"
+   },
+   {
+    "label": "Öffentlicher Tisch: Kartenzahl am unteren Platz",
+    "img": "changes/2026-11-07-item421-spectate-hand/07-img-canasta-public-1280x569.webp"
+   }
+  ],
+  "sha": "dbd0c465"
  }
 ]
