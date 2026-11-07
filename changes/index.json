@@ -10896,5 +10896,20 @@
    }
   ],
   "sha": "1e063da3"
+ },
+ {
+  "id": "item417-watten",
+  "date": "2026-11-07T02:06:15.782Z",
+  "title": "Watten: zwei neue Hausregeln (Item 417)",
+  "text": "Unter Hausregeln neu: „Weli ist in jeder Trumpffarbe der kleinste Trumpf“ (Tiroler Hauptform) und „Ohne Trumpf muss ein Kritischer zugegeben werden“ (nur mit Kritischen wählbar). Standard aus, bisherige Partien unverändert. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#279",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-item417-watten/01-before-Watten-before-p.webp",
+    "after": "changes/2026-11-07-item417-watten/02-after-Watten-after-p.webp"
+   }
+  ],
+  "sha": "96b17a84"
  }
 ]
