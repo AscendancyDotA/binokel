@@ -10976,5 +10976,50 @@
    }
   ],
   "sha": "d8f8bb84"
+ },
+ {
+  "id": "shell415",
+  "date": "2026-11-07T02:37:03.782Z",
+  "title": "Feinschliff Tisch-Rahmen",
+  "text": "Gemeinsamer Tisch aller Spiele: am Handy quer liegt die Stichkarte des oberen Mitspielers nicht mehr auf seinem Bild, kleine Schrift am Handy ab 10 px, Kartenzahl nur einmal, Glas-Fenster lesbar, Kurzname statt abgeschnittenem Bot-Namen, Backgammon auf kurzen Handys. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#288",
+  "rows": [
+   {
+    "label": "Lupfen, Handy quer 844×390: Stich unter dem oberen Schild",
+    "before": "changes/2026-11-07-shell415/01-before-lupfen4-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-07-shell415/02-after-lupfen4-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Bid Whist quer: Schild 5 px unter der Kopfleiste",
+    "before": "changes/2026-11-07-shell415/03-before-bidwhist-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-07-shell415/04-after-bidwhist-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Doppelkopf Glas 360×780: Titel ganz, Vorbehalt-Feld lesbar, Schrift ≥ 10 px",
+    "before": "changes/2026-11-07-shell415/05-before-doppelkopf-glas-360x780.webp",
+    "after": "changes/2026-11-07-shell415/06-after-doppelkopf-glas-360x780.webp"
+   },
+   {
+    "label": "Skat Arena 360×780: Titel, Kartenzahl einmal",
+    "before": "changes/2026-11-07-shell415/07-before-skat-arena-360x780.webp",
+    "after": "changes/2026-11-07-shell415/08-after-skat-arena-360x780.webp"
+   },
+   {
+    "label": "Heimlauf 1280×800: Kurzname statt „Lehrbua …“",
+    "before": "changes/2026-11-07-shell415/09-before-heimlauf4-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-07-shell415/10-after-heimlauf4-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Backgammon 508×624: Zugzeile ganz, Knöpfe frei vom Chat",
+    "before": "changes/2026-11-07-shell415/11-before-backgammon-wirtshaus-508x624.webp",
+    "after": "changes/2026-11-07-shell415/12-after-backgammon-wirtshaus-508x624.webp"
+   },
+   {
+    "label": "Watten 360×780: Schnellchat bei offenem Trumpf-Feld oben",
+    "before": "changes/2026-11-07-shell415/13-before-watten4-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-07-shell415/14-after-watten4-wirtshaus-360x780.webp"
+   }
+  ],
+  "sha": "1e436ca3"
  }
 ]
