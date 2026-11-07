@@ -10926,5 +10926,20 @@
    }
   ],
   "sha": "96b17a84"
+ },
+ {
+  "id": "item417-schwimmen",
+  "date": "2026-11-07T02:06:42.760Z",
+  "title": "Schwimmen: Gleichstand nach Farbe, 31 beim Geben (Item 417)",
+  "text": "Unter Hausregeln neu: Gleichstand beim schwächsten Blatt nach Farbe (Kreuz vor Pik vor Herz vor Karo, Drillinge nach Rang; pagat) und „31 gleich nach dem Geben: alle anderen verlieren (Feuer: zwei Leben)“. Standard aus. Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#276",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-07-item417-schwimmen/01-before-Schwimmen-before-p.webp",
+    "after": "changes/2026-11-07-item417-schwimmen/02-after-Schwimmen-after-p.webp"
+   }
+  ],
+  "sha": "96b17a84"
  }
 ]
