@@ -11226,5 +11226,53 @@
    }
   ],
   "sha": "1de1849a"
+ },
+ {
+  "id": "emotes425",
+  "date": "2026-11-07T06:44:22.555Z",
+  "title": "Emotes & Trinkgeld: Bogenflug, Effekte, Taler fliegen",
+  "text": "Emotes bewegen sich je nach Art (aufploppen, wackeln, rot anlaufen), gerichtete fliegen im Bogen zum Ziel, ein Ring zeigt den Absender. Beim Trinkgeld fliegen die Taler (im Taler-Skin des Gebers) zum Empfänger, sein Platz leuchtet, „+5“ steht neben dem Lob; der Geber bekommt eine Bestätigung an seinem Platz. Zuschauer sehen alles mit. Videos: https://github.com/AscendancyDotA/binokel/blob/media/changes/2026-11-07-emotes425/tip-phone.webm · https://github.com/AscendancyDotA/binokel/blob/media/changes/2026-11-07-emotes425/tomato-desktop.webm · https://github.com/AscendancyDotA/binokel/blob/media/changes/2026-11-07-emotes425/tip-spectator.webm – Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#292",
+  "rows": [
+   {
+    "label": "Handy 444×987 · Trinkgeld, kurz nach dem Prost",
+    "before": "changes/2026-11-07-emotes425/01-before-before-tip-phone-650.webp",
+    "after": "changes/2026-11-07-emotes425/02-after-after-tip-phone-650.webp"
+   },
+   {
+    "label": "Handy · Trinkgeld angekommen",
+    "before": "changes/2026-11-07-emotes425/03-before-before-tip-phone-1450.webp",
+    "after": "changes/2026-11-07-emotes425/04-after-after-tip-phone-1450.webp"
+   },
+   {
+    "label": "Desktop 1280×800 · der Geber sieht die Bestätigung",
+    "before": "changes/2026-11-07-emotes425/05-before-before-tip-giver-desktop.webp",
+    "after": "changes/2026-11-07-emotes425/06-after-after-tip-giver-desktop.webp"
+   },
+   {
+    "label": "Desktop · Tomate im Flug",
+    "before": "changes/2026-11-07-emotes425/07-before-before-tomato-desktop-120.webp",
+    "after": "changes/2026-11-07-emotes425/08-after-after-tomato-desktop-120.webp"
+   },
+   {
+    "label": "Desktop · Tomate gelandet (Blase nicht mehr über dem Namen)",
+    "before": "changes/2026-11-07-emotes425/09-before-before-tomato-desktop-900.webp",
+    "after": "changes/2026-11-07-emotes425/10-after-after-tomato-desktop-900.webp"
+   },
+   {
+    "label": "Zuschauer 844×390",
+    "before": "changes/2026-11-07-emotes425/11-before-before-tip-spectator-landscape.webp",
+    "after": "changes/2026-11-07-emotes425/12-after-after-tip-spectator-landscape.webp"
+   },
+   {
+    "label": "Animationen: Sanft (kein Flug)",
+    "img": "changes/2026-11-07-emotes425/13-img-after-tip-gentle-phone.webp"
+   },
+   {
+    "label": "Animationen: Aus (alles steht)",
+    "img": "changes/2026-11-07-emotes425/14-img-after-tip-off-phone.webp"
+   }
+  ],
+  "sha": "65583c5f"
  }
 ]
