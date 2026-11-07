@@ -10856,5 +10856,25 @@
    }
   ],
   "sha": "d1d4fd7c"
+ },
+ {
+  "id": "item411-skat-kontra",
+  "date": "2026-11-07T01:32:57.222Z",
+  "title": "Skat: Kontra nur, wer mitgereizt hat",
+  "text": "Neuer Schalter unter Kontra & Re (Standard aus). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#272",
+  "rows": [
+   {
+    "label": "Desktop 1280",
+    "before": "changes/2026-11-07-item411-skat-kontra/01-before-before-skat-1280.webp",
+    "after": "changes/2026-11-07-item411-skat-kontra/02-after-after-skat-1280.webp"
+   },
+   {
+    "label": "Handy 444",
+    "before": "changes/2026-11-07-item411-skat-kontra/03-before-before-skat-444.webp",
+    "after": "changes/2026-11-07-item411-skat-kontra/04-after-after-skat-444.webp"
+   }
+  ],
+  "sha": "d1d4fd7c"
  }
 ]
