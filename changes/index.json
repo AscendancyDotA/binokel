@@ -11591,5 +11591,35 @@
    }
   ],
   "sha": "f5f6ade2"
+ },
+ {
+  "id": "item440-why-blocked",
+  "date": "2026-11-07T15:18:57.478Z",
+  "title": "LRN-14 Rest: gesperrte Knöpfe und Nicht-Stichspiele erklären sich (Item 440)",
+  "text": "Zum Sketch CMP-02/LRN-14: Wer einen ausgegrauten Knopf, eine gesperrte Figur oder eine Karte antippt, die gerade nicht geht, bekommt jetzt auch in Mau-Mau, Heimlauf, Rommé, Canasta, Schwimmen und den Würfelspielen die rote Blase mit einem Satz warum – ebenso bei gesperrten Knöpfen in Binokel (Ansagen vor dem Drücken), Skat (Drücken), Doppelkopf (verpasste Ansage), Lupfen. Vorher passierte beim Antippen nichts. Ab main 6b605b31 – Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Mau-Mau, Handy 444×987: Karte passt nicht",
+    "before": "changes/2026-11-07-item440-why-blocked/01-before-FAILED-maumau-444x987.webp",
+    "after": "changes/2026-11-07-item440-why-blocked/02-after-maumau-444x987.webp"
+   },
+   {
+    "label": "Heimlauf, Handy: Figur kann nicht ziehen",
+    "before": "changes/2026-11-07-item440-why-blocked/03-before-FAILED-heimlauf-444x987.webp",
+    "after": "changes/2026-11-07-item440-why-blocked/04-after-heimlauf-444x987.webp"
+   },
+   {
+    "label": "Rommé, Handy: Abwerfen ohne Karte",
+    "before": "changes/2026-11-07-item440-why-blocked/05-before-FAILED-romme-444x987.webp",
+    "after": "changes/2026-11-07-item440-why-blocked/06-after-romme-444x987.webp"
+   },
+   {
+    "label": "Fünf Würfel, Desktop 1280×800: keine Würfe mehr",
+    "before": "changes/2026-11-07-item440-why-blocked/07-before-FAILED-wuerfel-1280x800.webp",
+    "after": "changes/2026-11-07-item440-why-blocked/08-after-wuerfel-1280x800.webp"
+   }
+  ],
+  "sha": "6b605b31"
  }
 ]
