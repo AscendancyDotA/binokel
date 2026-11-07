@@ -11443,5 +11443,38 @@
    }
   ],
   "sha": "db12e44b"
+ },
+ {
+  "id": "tab04-dran",
+  "date": "2026-11-07T09:26:59.873Z",
+  "title": "Du bist dran: Licht hinter der Hand, warmer Ring",
+  "text": "Bist du dran, leuchtet es warm hinter deiner Hand, dein Bild bekommt einen warmen Ring, die anderen treten leicht zurück. Online wird der Bedenkzeit-Ring am eigenen Platz warm. Ton und Vibration wie bisher einmal je Zug. Alle Tischspiele (Karten, Würfel, Brett). Hermes-Subagent (claude-opus-5-5, effort medium), Item 434.",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Handy 444×987 (Binokel, Wirtshaus)",
+    "before": "changes/2026-11-07-tab04-dran/01-before-before-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-07-tab04-dran/02-after-after-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-07-tab04-dran/03-before-before-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-07-tab04-dran/04-after-after-wirtshaus-1280x800.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-07-tab04-dran/05-before-before-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-07-tab04-dran/06-after-after-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Online: Bedenkzeit-Ring vor dem eigenen Namen",
+    "img": "changes/2026-11-07-tab04-dran/07-img-online-ring-phone.webp"
+   },
+   {
+    "label": "Skins Wirtshaus / Klar / Arena",
+    "img": "changes/2026-11-07-tab04-dran/08-img-skins3-444.webp"
+   }
+  ],
+  "sha": "0183c76c"
  }
 ]
