@@ -11868,5 +11868,38 @@
    }
   ],
   "sha": "e8ed6065"
+ },
+ {
+  "id": "item453-tisch-raetsel",
+  "date": "2026-11-07T23:21:17.667Z",
+  "title": "Handy hochkant: Chat-Knopf, Skat, Rahmen-Krone frei; Rätsel-Taler groß",
+  "text": "Bid Whist: das Bietfeld endet über dem Schnellchat-Knopf. Skat auf kurzen Handys (360×640): kleinerer Skat zwischen den Fächern und dem Reizfeld. Seitensitze mit König/Thron/Geweih: das Schild rückt um die Aufsatzhöhe hoch, Spielmacher-Wappen steht neben dem Bild. Rätsel des Tages: +N Taler groß unter „Richtig!“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Bid Whist 360×780: Bietfeld über dem Chat-Knopf",
+    "before": "changes/2026-11-07-item453-tisch-raetsel/01-before-bidwhist-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-07-item453-tisch-raetsel/02-after-bidwhist-wirtshaus-360x780.webp"
+   },
+   {
+    "label": "Skat 360×640: Skat auf Benes Fächer",
+    "before": "changes/2026-11-07-item453-tisch-raetsel/03-before-skat-wirtshaus-360x640.webp",
+    "after": "changes/2026-11-07-item453-tisch-raetsel/04-after-skat-wirtshaus-360x640.webp"
+   },
+   {
+    "label": "Bid Whist 360×780, Seitensitze mit Rahmen + Spielmacher-Wappen",
+    "before": "changes/2026-11-07-item453-tisch-raetsel/05-before-bidwhist-wirtshaus-360x780.webp",
+    "after": "changes/2026-11-07-item453-tisch-raetsel/06-after-bidwhist-wirtshaus-360x780.webp"
+   },
+   {
+    "label": "Binokel zu viert 444×987 (nachher)",
+    "img": "changes/2026-11-07-item453-tisch-raetsel/07-img-binokel4-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Rätsel des Tages, Handy (nachher)",
+    "img": "changes/2026-11-07-item453-tisch-raetsel/08-img-puzzle-skat-reward-phone.webp"
+   }
+  ],
+  "sha": "45dd34ac"
  }
 ]
