@@ -11815,5 +11815,24 @@
    }
   ],
   "sha": "d90754d5"
+ },
+ {
+  "id": "i454-huhn",
+  "date": "2026-11-07T23:05:44.435Z",
+  "title": "Neues Haustier: Huhn Berta",
+  "text": "Huhn Berta (S4, 1000 Taler) sitzt neben dem Platz wie die anderen Tiere, im Shop, in Mein Raum und in der Werbepause. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#234",
+  "rows": [
+   {
+    "label": "Am Tisch (Desktop, eigenes Huhn unten links, Gast Frieda rechts)",
+    "before": "changes/2026-11-07-i454-huhn/01-before-before-lf6-desktop.webp",
+    "after": "changes/2026-11-07-i454-huhn/02-after-after-lf6-desktop.webp"
+   },
+   {
+    "label": "Mein Raum → Haustier: Kachel im Shop",
+    "img": "changes/2026-11-07-i454-huhn/03-img-room-desktop-armory-pet.webp"
+   }
+  ],
+  "sha": "d90754d5"
  }
 ]
