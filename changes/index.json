@@ -11181,5 +11181,30 @@
    }
   ],
   "sha": "f7f80410"
+ },
+ {
+  "id": "item426-canasta-rest",
+  "date": "2026-11-07T06:15:32.910Z",
+  "title": "Schautisch: kein altes Partie-Ende mehr, Canasta-Partnerschaften, rote Dreien am Handy",
+  "text": "Zuschauer am Schautisch: nach dem Neustart bleibt das Partie-Ende nicht mehr über Runde 1 stehen (alle Spiele). Canasta zu viert: eine Zeile pro Partnerschaft. Handy: die roten Dreien stehen direkt hinter den ausgelegten Punkten statt abgeschnitten am Rand. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#277",
+  "rows": [
+   {
+    "label": "Rommé-Schautisch nach dem Neustart (Desktop 1280×800)",
+    "before": "changes/2026-11-07-item426-canasta-rest/01-before-romme-restart-watched.webp",
+    "after": "changes/2026-11-07-item426-canasta-rest/02-after-romme-restart-watched.webp"
+   },
+   {
+    "label": "Canasta-Partie-Ende zu viert (Desktop 1280×800)",
+    "before": "changes/2026-11-07-item426-canasta-rest/03-before-canasta-matchend-1280x800.webp",
+    "after": "changes/2026-11-07-item426-canasta-rest/04-after-canasta-matchend-1280x800.webp"
+   },
+   {
+    "label": "Canasta Handy: rote Dreien im Feldkopf (vorher 444×987 Zuschauer, nachher 360×780 Spieler)",
+    "before": "changes/2026-11-07-item426-canasta-rest/05-before-canasta-all-444x987.webp",
+    "after": "changes/2026-11-07-item426-canasta-rest/06-after-ca-s8-360.webp"
+   }
+  ],
+  "sha": "44fdbde0"
  }
 ]
