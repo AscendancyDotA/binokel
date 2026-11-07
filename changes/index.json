@@ -11040,5 +11040,35 @@
    }
   ],
   "sha": "1e436ca3"
+ },
+ {
+  "id": "lupfen-weg-aetsch",
+  "date": "2026-11-07T04:29:17.717Z",
+  "title": "Lupfen: „Weg“ mit U-U-U / U-U-O und „Ätsch – Pech gehabt!“",
+  "text": "Wer in der Lupf-Runde U-U-O oder drei Unter hat, bekommt nur noch den Knopf „Weg“. Sperrt ein U-U-O die Auszahlung, fliegen die Chips los und wieder zurück in den Pott, der Weg-Mann ruft „Ätsch!“, seine Karten landen offen auf dem Tisch. Danach kommt die Rundenübersicht mit seiner Hand. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "binokel#24",
+  "rows": [
+   {
+    "label": "Handy: Sperren vorher / Ätsch jetzt",
+    "before": "changes/2026-11-07-lupfen-weg-aetsch/01-before-phone-gesperrt.webp",
+    "after": "changes/2026-11-07-lupfen-weg-aetsch/02-after-phone-aetsch-2500.webp"
+   },
+   {
+    "label": "Desktop: Sperren vorher / Ätsch jetzt",
+    "before": "changes/2026-11-07-lupfen-weg-aetsch/03-before-desk-gesperrt.webp",
+    "after": "changes/2026-11-07-lupfen-weg-aetsch/04-after-desktop-aetsch-2500.webp"
+   },
+   {
+    "label": "Handy: vorher Lupfen/Weiter / jetzt nur „Weg“",
+    "before": "changes/2026-11-07-lupfen-weg-aetsch/05-before-phone-lift.webp",
+    "after": "changes/2026-11-07-lupfen-weg-aetsch/06-after-phone-weg-panel.webp"
+   },
+   {
+    "label": "Drei Unter weg: Triumph, danach die Übersicht",
+    "before": "changes/2026-11-07-lupfen-weg-aetsch/07-before-phone-triumph.webp",
+    "after": "changes/2026-11-07-lupfen-weg-aetsch/08-after-phone-aetsch-summary.webp"
+   }
+  ],
+  "sha": "0def6494"
  }
 ]
