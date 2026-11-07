@@ -11698,5 +11698,52 @@
    }
   ],
   "sha": "66232413"
+ },
+ {
+  "id": "item446-einsteiger",
+  "date": "2026-11-07T18:39:32.296Z",
+  "title": "Einsteiger-Pfad: Lernrunde leuchtet, kurze erste Partie, Bots sehen deine Karten nie",
+  "text": "Item 446 (ONB-01, ONB-02, BOT-11) von Hermes-Subagent (claude-opus-5-5, effort medium). Lernrunde: an jeder Entscheidung leuchtet ein guter Zug (Reizen, Dabb-Karten, Trumpf, Ansagen, Karte). Danach: kurze erste Partie (2 Runden, ca. 4 Min.) und am Ende „Noch eine – etwas länger“. Überall, wo man Bots wählt oder ansieht: „Sieht deine Karten nie“ mit Erklärung.",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Handy 444×987 · Reizen in der Lernrunde",
+    "before": "changes/2026-11-07-item446-einsteiger/01-before-before-p444-wirtshaus-1-bid.webp",
+    "after": "changes/2026-11-07-item446-einsteiger/02-after-after-p444-wirtshaus-1-bid.webp"
+   },
+   {
+    "label": "Desktop 1280×800 · Reizen",
+    "before": "changes/2026-11-07-item446-einsteiger/03-before-before-desk-wirtshaus-1-bid.webp",
+    "after": "changes/2026-11-07-item446-einsteiger/04-after-after-desk-wirtshaus-1-bid.webp"
+   },
+   {
+    "label": "Handy · Dabb: die 4 Karten zum Drücken leuchten",
+    "img": "changes/2026-11-07-item446-einsteiger/05-img-after-p444-wirtshaus-4-dabbtip.webp"
+   },
+   {
+    "label": "Handy · Ende der Lernrunde",
+    "before": "changes/2026-11-07-item446-einsteiger/06-before-before-p444-wirtshaus-5-guideend.webp",
+    "after": "changes/2026-11-07-item446-einsteiger/07-after-after-p444-wirtshaus-5-guideend.webp"
+   },
+   {
+    "label": "Handy · Ende der kurzen ersten Partie",
+    "img": "changes/2026-11-07-item446-einsteiger/08-img-after-p444-wirtshaus-7-mini-end.webp"
+   },
+   {
+    "label": "Handy · Regelhilfe „Fair“",
+    "before": "changes/2026-11-07-item446-einsteiger/09-before-before-p444-wirtshaus-3-fairhelp.webp",
+    "after": "changes/2026-11-07-item446-einsteiger/10-after-after-p444-wirtshaus-3-fairhelp.webp"
+   },
+   {
+    "label": "Handy · Sitz-Karte eines Bots / Bots-Karte im Spielen-Reiter",
+    "before": "changes/2026-11-07-item446-einsteiger/11-before-after-p444-wirtshaus-2-botcard.webp",
+    "after": "changes/2026-11-07-item446-einsteiger/12-after-after-p444-wirtshaus-0-lobby-bots.webp"
+   },
+   {
+    "label": "Alle vier Stile (Wirtshaus, Arena, Klar, Glas) · Leuchten beim Spielen",
+    "img": "changes/2026-11-07-item446-einsteiger/13-img-m-play.webp"
+   }
+  ],
+  "sha": "deaf26a1"
  }
 ]
