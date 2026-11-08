@@ -11901,5 +11901,29 @@
    }
   ],
   "sha": "45dd34ac"
+ },
+ {
+  "id": "i456-smallcards",
+  "date": "2026-11-08T00:17:29.063Z",
+  "title": "Winzige Karten lesbar",
+  "text": "Eigene Meldungen im Querformat jetzt so groß wie die der Gegner (vorher 14 px). Karten unter 30 px Breite zeigen überall automatisch groß Wert + Farbe (Mini-Index), Antippen solcher Karten zeigt sie vergrößert. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Besitzer-Szene 900×416",
+    "before": "changes/2026-11-08-i456-smallcards/01-before-before-s5-900x416.webp",
+    "after": "changes/2026-11-08-i456-smallcards/02-after-after-s5-900x416.webp"
+   },
+   {
+    "label": "740×360: Mini-Index",
+    "before": "changes/2026-11-08-i456-smallcards/03-before-before-s6-740x360.webp",
+    "after": "changes/2026-11-08-i456-smallcards/04-after-after-s6-740x360.webp"
+   },
+   {
+    "label": "844×390: Antippen vergrößert",
+    "img": "changes/2026-11-08-i456-smallcards/05-img-melds-844x390.webp"
+   }
+  ],
+  "sha": "f4907060"
  }
 ]
