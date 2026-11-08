@@ -12256,5 +12256,29 @@
    }
   ],
   "sha": "55a97e07"
+ },
+ {
+  "id": "onb05-signs",
+  "date": "2026-11-08T20:31:05.548Z",
+  "title": "Entwurf ONB-05: Erklär-Schilder beim ersten Mal",
+  "text": "Neue Tisch-Schilder (V/M/H, kommt raus, Gereizt, Zähler) pulsieren beim ersten Mal je Spiel und bekommen ein kleines „?“; Antippen erklärt sie in einem Satz, danach nie wieder. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#311",
+  "rows": [
+   {
+    "label": "Binokel Handy 444×987",
+    "before": "changes/2026-11-08-onb05-signs/01-before-binokel-444x987-before.webp",
+    "after": "changes/2026-11-08-onb05-signs/02-after-binokel-444x987-role-bubble.webp"
+   },
+   {
+    "label": "Binokel Desktop 1280×800 (Gebot)",
+    "before": "changes/2026-11-08-onb05-signs/03-before-binokel-1280x800-before.webp",
+    "after": "changes/2026-11-08-onb05-signs/04-after-binokel-1280x800-bid-bubble.webp"
+   },
+   {
+    "label": "Skat Querformat 844×390",
+    "img": "changes/2026-11-08-onb05-signs/05-img-skat-844x390-role-ask.webp"
+   }
+  ],
+  "sha": "0dfb1ad3"
  }
 ]
