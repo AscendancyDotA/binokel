@@ -12329,5 +12329,20 @@
    }
   ],
   "sha": "743572d9"
+ },
+ {
+  "id": "item495-reportshot",
+  "date": "2026-11-08T23:15:45.465Z",
+  "title": "Fehler melden: Werbebanner im Bildschirmfoto markiert",
+  "text": "Vorher fehlte das native Werbebanner im Bild (und sein Platz). Jetzt bleibt der Platz, und ein beschrifteter Kasten zeigt, wo das Banner war; die Meldung nennt es in der Zeile „Werbebanner“. Außerdem bleibt die Tastatur beim Tippen am laufenden Tisch offen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "508×624",
+    "before": "changes/2026-11-08-item495-reportshot/01-before-adhide.webp",
+    "after": "changes/2026-11-08-item495-reportshot/02-after-bug495-captured-lobby.webp"
+   }
+  ],
+  "sha": "743572d9"
  }
 ]
