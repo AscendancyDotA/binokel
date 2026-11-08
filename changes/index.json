@@ -12013,5 +12013,35 @@
    }
   ],
   "sha": "35e54b54"
+ },
+ {
+  "id": "item480-quality",
+  "date": "2026-11-08T14:11:47.557Z",
+  "title": "Qualitäts-Durchgang 480: vier Layout-Fehler behoben",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium). Gefunden im Durchgang aller Spiele bei 6 Fenstergrößen; Commits 67ef6f2d, b12add0c, 8cd3f16d auf main.",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Zuschauen Handy quer 904×407: Übung/ⓘ Tisch/Zuschauer + Tischknöpfe bleiben in der Leiste (vorher alles im ⋯)",
+    "before": "changes/2026-11-08-item480-quality/01-before-main-10-table-904x407.webp",
+    "after": "changes/2026-11-08-item480-quality/02-after-after-10-table-904x407.webp"
+   },
+   {
+    "label": "Skat 844×390: Kartenzahl der Mitspieler sichtbar (vorher lag die 10 unter dem Fächer)",
+    "before": "changes/2026-11-08-item480-quality/03-before-skat-wirtshaus-844x390.webp",
+    "after": "changes/2026-11-08-item480-quality/04-after-skat-wirtshaus-844x390.webp"
+   },
+   {
+    "label": "Jass 412×915: Spielname ganz statt „J…“",
+    "before": "changes/2026-11-08-item480-quality/05-before-jass-before.webp",
+    "after": "changes/2026-11-08-item480-quality/06-after-jass-after.webp"
+   },
+   {
+    "label": "Solitär 360×780: „Neu“-Marke 10 px statt 7,3 px",
+    "before": "changes/2026-11-08-item480-quality/07-before-sol-before.webp",
+    "after": "changes/2026-11-08-item480-quality/08-after-sol-after.webp"
+   }
+  ],
+  "sha": "8cd3f16d"
  }
 ]
