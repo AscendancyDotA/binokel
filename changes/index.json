@@ -11925,5 +11925,20 @@
    }
   ],
   "sha": "f4907060"
+ },
+ {
+  "id": "item458-aufstehen-360",
+  "date": "2026-11-08T01:33:35.409Z",
+  "title": "Handy 360 px: „Aufstehen“ bleibt sichtbar",
+  "text": "Mit einer Einladung in der Leiste schob der neue „ⓘ Tisch“-Chip bei 360 px „Aufstehen“ aus dem Bild. Jetzt rückt „ⓘ Tisch“ bei Platzmangel ins „⋯“-Menü (dort öffnet es dasselbe Fenster). Hermes-Subagent (claude-opus-5-5, effort medium), Item 458.",
+  "issue": "wirtshaus#229",
+  "rows": [
+   {
+    "label": "360×780 mit Einladung",
+    "before": "changes/2026-11-08-item458-aufstehen-360/01-before-before-360-invite.webp",
+    "after": "changes/2026-11-08-item458-aufstehen-360/02-after-after-360-invite.webp"
+   }
+  ],
+  "sha": "379fff22"
  }
 ]
