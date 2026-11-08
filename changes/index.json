@@ -12155,5 +12155,34 @@
    }
   ],
   "sha": "a3ee99db"
+ },
+ {
+  "id": "cos01-roomrail",
+  "date": "2026-11-08T19:56:32.133Z",
+  "title": "Mein Raum: Slot-Leiste beschriftet und gruppiert (Entwurf)",
+  "text": "Die Leiste unter dem Raum hat Gruppen Karten · Tisch · Ich · Effekte, jede Kachel ihren Namen; leere Plätze zeigen ihr Symbol statt –.",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-08-cos01-roomrail/01-before-roomrail490-before-desktop.webp",
+    "after": "changes/2026-11-08-cos01-roomrail/02-after-roomrail490-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-08-cos01-roomrail/03-before-roomrail490-before-phone.webp",
+    "after": "changes/2026-11-08-cos01-roomrail/04-after-roomrail490-phone.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-08-cos01-roomrail/05-before-roomrail490-before-land.webp",
+    "after": "changes/2026-11-08-cos01-roomrail/06-after-roomrail490-land.webp"
+   },
+   {
+    "label": "Rüstkammer offen",
+    "before": "changes/2026-11-08-cos01-roomrail/07-before-roomrail490-before-desktop-armory.webp",
+    "after": "changes/2026-11-08-cos01-roomrail/08-after-roomrail490-desktop-armory.webp"
+   }
+  ],
+  "sha": "2af1edd3"
  }
 ]
