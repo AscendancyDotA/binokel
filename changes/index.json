@@ -11995,5 +11995,23 @@
    }
   ],
   "sha": "dc0492b6"
+ },
+ {
+  "id": "item477-xr-controls",
+  "date": "2026-11-08T13:01:53.714Z",
+  "title": "VR-Steuerung (Entwurf)",
+  "text": "Beim Tischbeitritt auf einer VR-Brille fragt der Tisch einmal „Am Tisch in VR spielen?“. In VR gibt es ein Handmenü (X/A oder Handfläche nach oben). Die Bilder stammen aus dem Emulator (IWER, headless); die VR-Bilder zeigen nur einen Ausschnitt der Leinwand.",
+  "issue": "wirtshaus#303",
+  "rows": [
+   {
+    "label": "2D-Tisch auf einem VR-Browser: Einladung (1280×800)",
+    "img": "changes/2026-11-08-item477-xr-controls/01-img-xr477-invite.webp"
+   },
+   {
+    "label": "VR: Handmenü (Emulator-Ausschnitt)",
+    "img": "changes/2026-11-08-item477-xr-controls/02-img-xr477-watten-handmenu.webp"
+   }
+  ],
+  "sha": "35e54b54"
  }
 ]
