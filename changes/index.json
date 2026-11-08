@@ -12131,5 +12131,29 @@
    }
   ],
   "sha": "54a1c797"
+ },
+ {
+  "id": "tab05-trickreview",
+  "date": "2026-11-08T19:52:59.222Z",
+  "title": "Entwurf TAB-05: Stich-Rückblick",
+  "text": "An Übungstischen blättert „Letzter Stich“ mit ‹ › oder Wischen durch alle Stiche der Runde; gewertete Tische zeigen weiter nur den letzten Stich. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#306",
+  "rows": [
+   {
+    "label": "Binokel Handy 444×987",
+    "before": "changes/2026-11-08-tab05-trickreview/01-before-binokel-444x987-before.webp",
+    "after": "changes/2026-11-08-tab05-trickreview/02-after-binokel-444x987-back.webp"
+   },
+   {
+    "label": "Doppelkopf Desktop 1280×800",
+    "before": "changes/2026-11-08-tab05-trickreview/03-before-doppelkopf-1280x800-before.webp",
+    "after": "changes/2026-11-08-tab05-trickreview/04-after-doppelkopf-1280x800-back.webp"
+   },
+   {
+    "label": "Gaigel Desktop (neu: Knopf „Letzter Stich“)",
+    "img": "changes/2026-11-08-tab05-trickreview/05-img-gaigel-1280x800-last.webp"
+   }
+  ],
+  "sha": "a3ee99db"
  }
 ]
