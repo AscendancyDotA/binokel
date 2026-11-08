@@ -12213,5 +12213,24 @@
    }
   ],
   "sha": "060c1fa0"
+ },
+ {
+  "id": "cmp12-ratingpreview",
+  "date": "2026-11-08T20:00:28.288Z",
+  "title": "Warteraum: Wertungs-Vorschau (Entwurf)",
+  "text": "Gewertete Tische zeigen über den Plätzen „Wertung: Sieg etwa +14 · Niederlage −9“; ⓘ erklärt es in einer Zeile.",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 – gewerteter 3er-Tisch, ⓘ offen",
+    "before": "changes/2026-11-08-cmp12-ratingpreview/01-before-ratingpreview490-before-rated3-desktop.webp",
+    "after": "changes/2026-11-08-cmp12-ratingpreview/02-after-ratingpreview490-rated3-why-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-08-cmp12-ratingpreview/03-before-ratingpreview490-before-rated3-phone.webp",
+    "after": "changes/2026-11-08-cmp12-ratingpreview/04-after-ratingpreview490-rated3-phone.webp"
+   }
+  ],
+  "sha": "d1b29672"
  }
 ]
