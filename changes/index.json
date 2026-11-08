@@ -12359,5 +12359,39 @@
    }
   ],
   "sha": "743572d9"
+ },
+ {
+  "id": "item496-tv-motion",
+  "date": "2026-11-08T23:36:04.163Z",
+  "title": "Wirtshaus-TV je Spielart + bewegte Kosmetik-Vorschau (Item 496)",
+  "text": "Das Wirtshaus-TV in der Lobby zeigt jede Spielart passend: Rommé/Canasta mit Auslagen und Stapeln, Mau-Mau mit Stapel, Schwimmen mit offener Reihe, Würfelspiele mit Würfeln, Lupfen mit Topf, Brettspiele mit ihrem Brett. Im Shop und in Mein Raum bewegen sich Auftritt, Ausspiel-Effekt, Jubel, Lampe, Tischplatz, bewegte Tischdecken und Goldrand/Neon-Rücken wie am Tisch – nur sichtbare Kacheln, aus bei Animationen Sanft/Aus und reduzierter Bewegung. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Canasta im TV (vorher: Handy-Meldung, nachher 508 px)",
+    "before": "changes/2026-11-08-item496-tv-motion/01-before-owner-canasta.webp",
+    "after": "changes/2026-11-08-item496-tv-motion/02-after-tv-canasta-508.webp"
+   },
+   {
+    "label": "Mau-Mau 508 px",
+    "before": "changes/2026-11-08-item496-tv-motion/03-before-tv-maumau-508.webp",
+    "after": "changes/2026-11-08-item496-tv-motion/04-after-tv-maumau-508.webp"
+   },
+   {
+    "label": "Schwimmen 508 px",
+    "before": "changes/2026-11-08-item496-tv-motion/05-before-tv-schwimmen-508.webp",
+    "after": "changes/2026-11-08-item496-tv-motion/06-after-tv-schwimmen-508.webp"
+   },
+   {
+    "label": "Alle 24 Spiele im TV, 508 px",
+    "img": "changes/2026-11-08-item496-tv-motion/07-img-sheet-508.webp"
+   },
+   {
+    "label": "Shop Auftritt: vorher Standbild, nachher läuft der Auftritt (Hallo beinand / Kutsche)",
+    "before": "changes/2026-11-08-item496-tv-motion/08-before-entrance-desktop.webp",
+    "after": "changes/2026-11-08-item496-tv-motion/09-after-entrance-desktop-b.webp"
+   }
+  ],
+  "sha": "fa3fb2d0"
  }
 ]
