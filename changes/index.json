@@ -12043,5 +12043,39 @@
    }
   ],
   "sha": "8cd3f16d"
+ },
+ {
+  "id": "i482-rahmen",
+  "date": "2026-11-08T14:50:28.807Z",
+  "title": "Kosmetik Runde 2 – Bilderrahmen (Entwurf)",
+  "text": "Sechs Rahmen neu gezeichnet: Wirtshaus-Thron (echte Thronlehne mit Samt, Pfosten und Herz), Goldrahmen (Barock-Rand, Lichtreflex wenn du dran bist), Messing (dunkler, nicht mehr wie Gold), Efeu (oben flacher, Punktezeile frei), Häs-Flecken (Stoff-Blätzle + Schellen), Tannenkranz (heller, Schnee, größere Kugeln). Ids, Preise und Besitz bleiben. Entwurf zur Entscheidung – Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Alle Rahmen am Seitenplatz, Handy 360 hoch (Bild 40 px)",
+    "before": "changes/2026-11-08-i482-rahmen/01-before-before-framesheet-phone360.webp",
+    "after": "changes/2026-11-08-i482-rahmen/02-after-after-framesheet-phone360.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-08-i482-rahmen/03-before-before-framesheet-phone.webp",
+    "after": "changes/2026-11-08-i482-rahmen/04-after-after-framesheet-phone.webp"
+   },
+   {
+    "label": "Desktop 1280 (Seitenplatz + oben)",
+    "before": "changes/2026-11-08-i482-rahmen/05-before-before-framesheet-desktop.webp",
+    "after": "changes/2026-11-08-i482-rahmen/06-after-after-framesheet-desktop.webp"
+   },
+   {
+    "label": "Am echten Tisch, Desktop (unten: Wirtshaus-Thron)",
+    "before": "changes/2026-11-08-i482-rahmen/07-before-before-binokel-o2-desktop.webp",
+    "after": "changes/2026-11-08-i482-rahmen/08-after-after-binokel-o2-desktop.webp"
+   },
+   {
+    "label": "Goldrahmen: Lichtreflex läuft einmal herum, wenn der Sitz dran ist (Standbild)",
+    "img": "changes/2026-11-08-i482-rahmen/09-img-after-framesheet-desktop-glint.webp"
+   }
+  ],
+  "sha": "9a39bbc0"
  }
 ]
