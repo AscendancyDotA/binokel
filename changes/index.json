@@ -12280,5 +12280,39 @@
    }
   ],
   "sha": "0dfb1ad3"
+ },
+ {
+  "id": "item489-ownseat",
+  "date": "2026-11-08T22:46:53.920Z",
+  "title": "Eigener Platz am Handy mit Bild, Rahmen und Effekt",
+  "text": "Am Handy zeigt der eigene Platz jetzt das Bild mit Rahmen und Spielmacher-Effekt – in allen Spielen über den gemeinsamen Tisch-Rahmen, ohne Hand, Leisten oder Knöpfe zu verdecken. Oben vorher, unten nachher (Rahmen + Effekt als schlimmster Fall).",
+  "issue": "wirtshaus#313",
+  "rows": [
+   {
+    "label": "Handy 360×780 (Rahmen + Effekt)",
+    "img": "changes/2026-11-08-item489-ownseat/01-img-sheet-before-360x780.webp"
+   },
+   {
+    "label": "Handy 360×780 vorher/nachher",
+    "img": "changes/2026-11-08-item489-ownseat/02-img-ba-360x780.webp"
+   },
+   {
+    "label": "Handy 412×915 vorher/nachher",
+    "img": "changes/2026-11-08-item489-ownseat/03-img-ba-412x915.webp"
+   },
+   {
+    "label": "Handy 444×987 vorher/nachher",
+    "img": "changes/2026-11-08-item489-ownseat/04-img-ba-444x987.webp"
+   },
+   {
+    "label": "Handy quer 844×390 vorher/nachher",
+    "img": "changes/2026-11-08-item489-ownseat/05-img-ba-844x390.webp"
+   },
+   {
+    "label": "360×780 mit einfachem Bild ohne Rahmen",
+    "img": "changes/2026-11-08-item489-ownseat/06-img-plain-360x780.webp"
+   }
+  ],
+  "sha": "e018f97e"
  }
 ]
