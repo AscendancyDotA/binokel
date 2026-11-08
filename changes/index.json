@@ -12232,5 +12232,29 @@
    }
   ],
   "sha": "d1b29672"
+ },
+ {
+  "id": "tab13-ctxhelp",
+  "date": "2026-11-08T20:10:29.452Z",
+  "title": "Entwurf TAB-13: „?“ am Tisch erklärt die Lage",
+  "text": "Das „?“ zeigt zuerst die aktuelle Phase in 1–2 Sätzen und „Was darf ich jetzt?“; „Erlaubte Züge zeigen“ lässt die erlaubten Karten kurz leuchten, „Alle Regeln“ führt zur bisherigen Regelhilfe. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#309",
+  "rows": [
+   {
+    "label": "Doppelkopf Handy 444×987 (vorher: ganze Regelhilfe)",
+    "before": "changes/2026-11-08-tab13-ctxhelp/01-before-doppelkopf-444x987-before.webp",
+    "after": "changes/2026-11-08-tab13-ctxhelp/02-after-doppelkopf-444x987-sheet.webp"
+   },
+   {
+    "label": "Schafkopf Desktop 1280×800",
+    "before": "changes/2026-11-08-tab13-ctxhelp/03-before-schafkopf-1280x800-before.webp",
+    "after": "changes/2026-11-08-tab13-ctxhelp/04-after-schafkopf-1280x800-sheet.webp"
+   },
+   {
+    "label": "„Erlaubte Züge zeigen“ (Hinweise aus)",
+    "img": "changes/2026-11-08-tab13-ctxhelp/05-img-doppelkopf-444x987-glow.webp"
+   }
+  ],
+  "sha": "55a97e07"
  }
 ]
