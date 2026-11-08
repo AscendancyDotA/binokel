@@ -12106,5 +12106,30 @@
    }
   ],
   "sha": "3bab3de7"
+ },
+ {
+  "id": "item483-table-rest",
+  "date": "2026-11-08T17:20:09.792Z",
+  "title": "Tisch-Reste: Tipp beim Drehen, Zuschauer-Überlappungen (Item 483, Hermes-Subagent claude-opus-5-5, effort medium)",
+  "text": "Tipp-Blase: nach Drehen oder Fenstergröße-Ändern sitzt der offene Tipp sofort am passenden Platz (vorher bis 1,5 s als schmale Spalte bzw. Streifen der alten Ansicht; geprüft in Skat, Schafkopf, Mau-Mau, Jass, Gaigel, Canasta). Zuschauer 360 px: Gaigels Trumpfkarte nicht mehr unter dem Chat-Knopf (Knöpfe zwei nebeneinander, mit der Punktetafel etwas tiefer); Canasta/Rommé mit „Alle Karten“: Stapel rückt rechts neben das linke Spielerbild. Nicht nachgestellt: Schnapsen 1280 eigenes Bild am Rundenende außerhalb (2 Läufe, 157 Proben). Commits 1ce4c424, 54a1c797.",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Tipp 0,4 s nach Wechsel 1280×800 → Handy 444×987 (Skat)",
+    "before": "changes/2026-11-08-item483-table-rest/01-before-skat-1280x800-to-444x987-1mid400ms.webp",
+    "after": "changes/2026-11-08-item483-table-rest/02-after-skat-1280x800-to-444x987-1mid400ms.webp"
+   },
+   {
+    "label": "Gaigel Zuschauer 360×780: Trumpf unter dem Talon",
+    "before": "changes/2026-11-08-item483-table-rest/03-before-gaigel-360x780-tools-1.webp",
+    "after": "changes/2026-11-08-item483-table-rest/04-after-gaigel-360x780-s12.webp"
+   },
+   {
+    "label": "Canasta Zuschauer 360×780, lange offene Liste links",
+    "before": "changes/2026-11-08-item483-table-rest/05-before-canasta-360x780-pile-0.webp",
+    "after": "changes/2026-11-08-item483-table-rest/06-after-canasta-360x780-last.webp"
+   }
+  ],
+  "sha": "54a1c797"
  }
 ]
