@@ -12393,5 +12393,35 @@
    }
   ],
   "sha": "fa3fb2d0"
+ },
+ {
+  "id": "xr492-huelle",
+  "date": "2026-11-08T23:48:51.238Z",
+  "title": "VR-Hülle: Wirtshaus mit App-Fernseher, VR-Einstellungen, Puppenhaus, MR",
+  "text": "Im Quest-Browser gibt es jetzt auch in der Lobby 🥽 VR: Du sitzt im Wirtshaus, die App läuft auf einem Fernseher, Tische mit 3D-Spiel öffnen sich von selbst. Bilder aus dem Emulator (ohne Brille). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#310",
+  "rows": [
+   {
+    "label": "Lobby: ohne VR-Browser unverändert · im Quest-Browser mit 🥽 VR",
+    "before": "changes/2026-11-08-xr492-huelle/01-before-xr492-lobby-2d-noxr.webp",
+    "after": "changes/2026-11-08-xr492-huelle/02-after-xr492-lobby-2d-chip.webp"
+   },
+   {
+    "label": "XR-Lobby: die App als Fernseher · VR-Tastenfeld",
+    "before": "changes/2026-11-08-xr492-huelle/03-before-xr492-xrlobby.webp",
+    "after": "changes/2026-11-08-xr492-huelle/04-after-xr492-keypad.webp"
+   },
+   {
+    "label": "VR-Einstellungen · Puppenhaus",
+    "before": "changes/2026-11-08-xr492-huelle/05-before-xr492-settings.webp",
+    "after": "changes/2026-11-08-xr492-huelle/06-after-xr492-dollhouse.webp"
+   },
+   {
+    "label": "3D-Tisch mit 📺 App vorn · Spiel ohne 3D-Tisch auf dem Fernseher (MR, Wände aus)",
+    "before": "changes/2026-11-08-xr492-huelle/07-before-xr492-table-tv-front.webp",
+    "after": "changes/2026-11-08-xr492-huelle/08-after-xr492-mr.webp"
+   }
+  ],
+  "sha": "d85fe2cd"
  }
 ]
