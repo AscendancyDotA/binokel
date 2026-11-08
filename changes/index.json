@@ -12077,5 +12077,34 @@
    }
   ],
   "sha": "9a39bbc0"
+ },
+ {
+  "id": "i484-spielmacher-effekte",
+  "date": "2026-11-08T15:44:32.000Z",
+  "title": "Kosmetik Runde 2 – Spielmacher-Effekte (Entwurf)",
+  "text": "Jeder Spielmacher-Effekt an allen vier Plätzen eines echten Binokel-Tisches. Funkenflug (Glutrand + aufsteigende Funken) und Wappen (blau-goldener Bord + gekrönter Schild) neu, Laterne/Hopfen am Handy neben dem Bild statt über der Punktzahl, alle Effekte still bei sanft/schwachem Gerät. Entwurf, nicht gemergt. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Handy 360: Zeilen = Effekte, Spalten = Plätze",
+    "before": "changes/2026-11-08-i484-spielmacher-effekte/01-before-sheet-before-phone360.webp",
+    "after": "changes/2026-11-08-i484-spielmacher-effekte/02-after-sheet-after-phone360.webp"
+   },
+   {
+    "label": "Desktop 1280",
+    "before": "changes/2026-11-08-i484-spielmacher-effekte/03-before-sheet-before-desktop.webp",
+    "after": "changes/2026-11-08-i484-spielmacher-effekte/04-after-sheet-after-desktop.webp"
+   },
+   {
+    "label": "Bewegung, oberer Platz, 0–5 s",
+    "before": "changes/2026-11-08-i484-spielmacher-effekte/05-before-strip-before.webp",
+    "after": "changes/2026-11-08-i484-spielmacher-effekte/06-after-strip-after.webp"
+   },
+   {
+    "label": "Shop-Kachel (gleiches CSS)",
+    "img": "changes/2026-11-08-i484-spielmacher-effekte/07-img-tiles-before-after.webp"
+   }
+  ],
+  "sha": "3bab3de7"
  }
 ]
