@@ -12344,5 +12344,20 @@
    }
   ],
   "sha": "743572d9"
+ },
+ {
+  "id": "item495-webnofill",
+  "date": "2026-11-08T23:15:52.286Z",
+  "title": "Web: kein leerer Werbe-Rahmen mehr",
+  "text": "Mit Werbeblocker (gpt.js blockiert oder stumm) oder ohne Füllung blieb ein leerer Rahmen „Anzeige ✕“ stehen. Jetzt gibt er den Platz nach spätestens 6 s frei (Lobby und Tisch). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "1280×800",
+    "before": "changes/2026-11-08-item495-webnofill/01-before-before495-495-silent-lobby.webp",
+    "after": "changes/2026-11-08-item495-webnofill/02-after-after495-495-silent-lobby.webp"
+   }
+  ],
+  "sha": "743572d9"
  }
 ]
