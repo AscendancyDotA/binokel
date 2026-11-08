@@ -11965,5 +11965,35 @@
    }
   ],
   "sha": "479796af"
+ },
+ {
+  "id": "i479-kartenruecken",
+  "date": "2026-11-08T11:15:53.097Z",
+  "title": "Entwurf: Kosmetik Runde 2 – Kartenrücken",
+  "text": "Sechs schwache Kartenrücken neu gezeichnet (Eichellaub, Herzrot, Goldrand, Wappen, Loden, Hirsch). Ids, Preise und Besitz bleiben gleich, nur die Zeichnung ändert sich. Goldrand bekommt einen ruhigen Goldglanz (still bei Ruhig). Entwurf – Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Alle Rücken, Desktop (Fächer in Gegner-Größe + eine Karte groß)",
+    "before": "changes/2026-11-08-i479-kartenruecken/01-before-before-backsheet-desktop.webp",
+    "after": "changes/2026-11-08-i479-kartenruecken/02-after-after-backsheet-desktop.webp"
+   },
+   {
+    "label": "Alle Rücken, Handy 444×987",
+    "before": "changes/2026-11-08-i479-kartenruecken/03-before-before-backsheet-phone.webp",
+    "after": "changes/2026-11-08-i479-kartenruecken/04-after-after-backsheet-phone.webp"
+   },
+   {
+    "label": "Am Tisch Handy: oben Eichellaub",
+    "before": "changes/2026-11-08-i479-kartenruecken/05-before-before-binokel-o0-phone.webp",
+    "after": "changes/2026-11-08-i479-kartenruecken/06-after-after-binokel-o0-phone.webp"
+   },
+   {
+    "label": "Am Tisch Desktop: oben Hirsch, rechts Kachelofen",
+    "before": "changes/2026-11-08-i479-kartenruecken/07-before-before-binokel-o2-desktop.webp",
+    "after": "changes/2026-11-08-i479-kartenruecken/08-after-after-binokel-o2-desktop.webp"
+   }
+  ],
+  "sha": "dc0492b6"
  }
 ]
