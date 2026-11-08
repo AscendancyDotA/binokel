@@ -12314,5 +12314,20 @@
    }
   ],
   "sha": "e018f97e"
+ },
+ {
+  "id": "item495-pill",
+  "date": "2026-11-08T23:15:37.898Z",
+  "title": "Lobby-Banner: „Anzeige“ und ✕ auf einer Linie",
+  "text": "Das Etikett „Anzeige“ saß oben in der Pille, das ✕ mittig. Jetzt beide auf der Mittellinie (508×624, simuliertes natives Banner). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "508×624",
+    "before": "changes/2026-11-08-item495-pill/01-before-before-pill.webp",
+    "after": "changes/2026-11-08-item495-pill/02-after-bug495-lobby-banner.webp"
+   }
+  ],
+  "sha": "743572d9"
  }
 ]
