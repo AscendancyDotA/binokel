@@ -11940,5 +11940,30 @@
    }
   ],
   "sha": "379fff22"
+ },
+ {
+  "id": "item468-aufgaben-kopfgeld",
+  "date": "2026-11-08T06:42:43.518Z",
+  "title": "Aufgaben und Kopfgeld: getrennte Bestenlisten + Filter „Nur gefestigte“ (Item 468)",
+  "text": "Aufgabenbrett: statt einer gemeinsamen Liste jetzt „Bestenliste Aufgaben“ und „Bestenliste Kopfgeld“, je Heute/Woche/Ewig. Ranglisten › Taler: Reiter „Aufgaben“ und „Kopfgeld“. Gilt rückwirkend (jede Auszahlung war schon als Aufgabe oder Kopfgeld gebucht). Wertungs-Ranglisten: neuer Schalter „Nur gefestigte“ (aus per Voreinstellung, pro Gerät gemerkt) – zeigt nur Wertungen, die nicht mehr vorläufig sind, Plätze neu gezählt, eigene Zeile bleibt. CMP-06 (Mindestpartien/Bot-Messlatte) zurückgestellt bis genug Spieler. Commit 479796af – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#262",
+  "rows": [
+   {
+    "label": "Aufgabenbrett Desktop – vorher / nachher",
+    "before": "changes/2026-11-08-item468-aufgaben-kopfgeld/01-before-tasks-after-desktop-wirtshaus.webp",
+    "after": "changes/2026-11-08-item468-aufgaben-kopfgeld/02-after-tasks-desk.webp"
+   },
+   {
+    "label": "Ranglisten › Taler – vorher (Aufgaben & Kopfgeld) / nachher (Kopfgeld)",
+    "before": "changes/2026-11-08-item468-aufgaben-kopfgeld/03-before-tasks-after-desktop-ranks.webp",
+    "after": "changes/2026-11-08-item468-aufgaben-kopfgeld/04-after-ranks-bounty.webp"
+   },
+   {
+    "label": "Wertung: Nur gefestigte aus (Standard) / an",
+    "before": "changes/2026-11-08-item468-aufgaben-kopfgeld/05-before-rating-default.webp",
+    "after": "changes/2026-11-08-item468-aufgaben-kopfgeld/06-after-settled.webp"
+   }
+  ],
+  "sha": "479796af"
  }
 ]
