@@ -12184,5 +12184,34 @@
    }
   ],
   "sha": "2af1edd3"
+ },
+ {
+  "id": "lob03-playnow-line",
+  "date": "2026-11-08T20:00:13.867Z",
+  "title": "„Jetzt spielen“ sagt, was passiert (Entwurf)",
+  "text": "Zweite Zeile im Knopf: Spiel · Gegner · ca. Minuten (Median echter Partien) · Übung/gewertet.",
+  "rows": [
+   {
+    "label": "Desktop 1280×800 – Online vorgewählt",
+    "before": "changes/2026-11-08-lob03-playnow-line/01-before-goline490-before-binokel-online-desktop.webp",
+    "after": "changes/2026-11-08-lob03-playnow-line/02-after-goline490-binokel-online-desktop.webp"
+   },
+   {
+    "label": "Handy 444×987 – Gegen Bots vorgewählt",
+    "before": "changes/2026-11-08-lob03-playnow-line/03-before-goline490-before-binokel-bots-phone.webp",
+    "after": "changes/2026-11-08-lob03-playnow-line/04-after-goline490-binokel-bots-phone.webp"
+   },
+   {
+    "label": "Desktop – Gegen Bots (Zeile bricht nach „·“)",
+    "before": "changes/2026-11-08-lob03-playnow-line/05-before-goline490-before-binokel-bots-desktop.webp",
+    "after": "changes/2026-11-08-lob03-playnow-line/06-after-goline490-binokel-bots-desktop.webp"
+   },
+   {
+    "label": "Handy – Skat ohne Messdaten (keine Minuten)",
+    "before": "changes/2026-11-08-lob03-playnow-line/07-before-goline490-before-skat-phone.webp",
+    "after": "changes/2026-11-08-lob03-playnow-line/08-after-goline490-skat-phone.webp"
+   }
+  ],
+  "sha": "060c1fa0"
  }
 ]
