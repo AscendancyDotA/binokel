@@ -12697,5 +12697,25 @@
    }
   ],
   "sha": "8ebd05fa"
+ },
+ {
+  "id": "item506-shop-motion",
+  "date": "2026-11-09T09:39:46.669Z",
+  "title": "Shop: bewegte Gegenstände laufen wieder, ▶ spielt ab (Item 506)",
+  "text": "Ursache: Windows „Animationseffekte aus“ meldet dem Browser „weniger Bewegung“ – der Shop hat darauf gehört (seit Item 362/496), auf dem Handy nicht betroffen. Jetzt zählt nur die eigene Einstellung „Animationen“: Kacheln laufen dauernd (auch bei „Sanft“), nur „Aus“ hält sie still; jedes ▶ spielt den Gegenstand ab (bei „Aus“ einmal). Je 6 Bilder im Abstand von 0,25 s, Desktop 1280×800, System „weniger Bewegung“ an. Hermes-Subagent (claude-opus-5-5, effort high), main 282e63ba.",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Sprüche-Pakete",
+    "before": "changes/2026-11-09-item506-shop-motion/01-before-before-emotes.webp",
+    "after": "changes/2026-11-09-item506-shop-motion/02-after-after-emotes.webp"
+   },
+   {
+    "label": "Auftritte",
+    "before": "changes/2026-11-09-item506-shop-motion/03-before-before-entrance.webp",
+    "after": "changes/2026-11-09-item506-shop-motion/04-after-after-entrance.webp"
+   }
+  ],
+  "sha": "282e63ba"
  }
 ]
