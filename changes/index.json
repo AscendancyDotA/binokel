@@ -12503,5 +12503,30 @@
    }
   ],
   "sha": "af09155a"
+ },
+ {
+  "id": "item501-room",
+  "date": "2026-11-09T02:57:05.367Z",
+  "title": "Mein Raum: Store-Bilder ohne Überlappung (Item 501)",
+  "text": "Fix auf main 3bba017c: im kurzen Querformat (Store-Tablet 960×540) ist die Slot-Leiste eine scrollende Reihe – der Raum hat 324 statt ~140 px; eine gemeinsame Kollisionsprüfung legt die Beschriftungen frei (verschieben, Kurzname, notfalls nur bei Hover). Auf diesem Branch nur die Raum-Bilder der 4 Apps (de+en) neu, Commit 5e46831d. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#314",
+  "rows": [
+   {
+    "label": "Wirtshaus Tablet de",
+    "before": "changes/2026-11-09-item501-room/01-before-docs_play_wirtshaus_screenshots_de_tablet-4-room.webp",
+    "after": "changes/2026-11-09-item501-room/02-after-tablet-4-room.webp"
+   },
+   {
+    "label": "Binokel Handy de",
+    "before": "changes/2026-11-09-item501-room/03-before-docs_play_screenshots-next_de_phone-6-room.webp",
+    "after": "changes/2026-11-09-item501-room/04-after-phone-6-room.webp"
+   },
+   {
+    "label": "Lupfen Handy de",
+    "before": "changes/2026-11-09-item501-room/05-before-docs_play_lupfen_screenshots_de_phone-6-room.webp",
+    "after": "changes/2026-11-09-item501-room/06-after-phone-6-room.webp"
+   }
+  ],
+  "sha": "3bba017c"
  }
 ]
