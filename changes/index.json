@@ -12644,5 +12644,58 @@
    }
   ],
   "sha": "48f88b53"
+ },
+ {
+  "id": "item509-room-store",
+  "date": "2026-11-09T09:33:06.186Z",
+  "title": "Store-Bilder Mein Raum: voll eingerichtet, keine Überlappung",
+  "rows": [
+   {
+    "label": "Ausschnitt x760–1080 / y540–800 (Binokel de Handy, volle Auflösung)",
+    "before": "changes/2026-11-09-item509-room-store/01-before-crop-stapel-before.webp",
+    "after": "changes/2026-11-09-item509-room-store/02-after-crop-stapel-final.webp"
+   },
+   {
+    "label": "Binokel de Handy (phone-6)",
+    "before": "changes/2026-11-09-item509-room-store/03-before-screenshots-next-de-phone-6-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/04-after-screenshots-next-de-phone-6-room.webp"
+   },
+   {
+    "label": "Binokel en Handy",
+    "before": "changes/2026-11-09-item509-room-store/05-before-screenshots-next-en-phone-6-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/06-after-screenshots-next-en-phone-6-room.webp"
+   },
+   {
+    "label": "Schnapsen de Handy (phone-5)",
+    "before": "changes/2026-11-09-item509-room-store/07-before-schnapsen-de-phone-5-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/08-after-schnapsen-de-phone-5-room.webp"
+   },
+   {
+    "label": "Schnapsen en Handy",
+    "before": "changes/2026-11-09-item509-room-store/09-before-schnapsen-en-phone-5-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/10-after-schnapsen-en-phone-5-room.webp"
+   },
+   {
+    "label": "Lupfen de Handy (phone-6)",
+    "before": "changes/2026-11-09-item509-room-store/11-before-lupfen-de-phone-6-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/12-after-lupfen-de-phone-6-room.webp"
+   },
+   {
+    "label": "Lupfen en Handy",
+    "before": "changes/2026-11-09-item509-room-store/13-before-lupfen-en-phone-6-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/14-after-lupfen-en-phone-6-room.webp"
+   },
+   {
+    "label": "Wirtshaus de Tablet (tablet-4)",
+    "before": "changes/2026-11-09-item509-room-store/15-before-wirtshaus-de-tablet-4-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/16-after-wirtshaus-de-tablet-4-room.webp"
+   },
+   {
+    "label": "Wirtshaus en Tablet",
+    "before": "changes/2026-11-09-item509-room-store/17-before-wirtshaus-en-tablet-4-room.webp",
+    "after": "changes/2026-11-09-item509-room-store/18-after-wirtshaus-en-tablet-4-room.webp"
+   }
+  ],
+  "sha": "8ebd05fa"
  }
 ]
