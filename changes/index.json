@@ -13066,5 +13066,105 @@
    }
   ],
   "sha": "da7fdef1"
+ },
+ {
+  "id": "i521-spielerfarben-wuerfel-brett",
+  "date": "2026-11-09T13:50:17.710Z",
+  "title": "Spielerfarben bei Würfel- und Brettspielen",
+  "text": "Sitzplatten-Zeile (Punkte, Deckel, Steine …) und Namen in der Punkte-Tafel in der Spielerfarbe; Fünf Würfel: Spaltenköpfe mit Farbpunkt und Endsumme getönt; Schocken: Deckel-Zahl. Bei Brettspielen kein zweiter Punkt neben dem Stein-/Figurenpunkt, nur der getönte Name. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Fünf Würfel Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/01-before-wuerfel3-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/02-after-wuerfel3-1280x800.webp"
+   },
+   {
+    "label": "Fünf Würfel Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/03-before-wuerfel3-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/04-after-wuerfel3-444x987.webp"
+   },
+   {
+    "label": "Schocken Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/05-before-schocken3-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/06-after-schocken3-1280x800.webp"
+   },
+   {
+    "label": "Schocken Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/07-before-schocken3-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/08-after-schocken3-444x987.webp"
+   },
+   {
+    "label": "Backgammon Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/09-before-backgammon-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/10-after-backgammon-1280x800.webp"
+   },
+   {
+    "label": "Backgammon Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/11-before-backgammon-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/12-after-backgammon-444x987.webp"
+   },
+   {
+    "label": "Dame Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/13-before-dame-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/14-after-dame-1280x800.webp"
+   },
+   {
+    "label": "Dame Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/15-before-dame-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/16-after-dame-444x987.webp"
+   },
+   {
+    "label": "Mühle Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/17-before-muehle-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/18-after-muehle-1280x800.webp"
+   },
+   {
+    "label": "Mühle Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/19-before-muehle-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/20-after-muehle-444x987.webp"
+   },
+   {
+    "label": "Vier in einer Reihe Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/21-before-vier-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/22-after-vier-1280x800.webp"
+   },
+   {
+    "label": "Vier in einer Reihe Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/23-before-vier-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/24-after-vier-444x987.webp"
+   },
+   {
+    "label": "Heimlauf Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/25-before-heimlauf4-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/26-after-heimlauf4-1280x800.webp"
+   },
+   {
+    "label": "Heimlauf Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/27-before-heimlauf4-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/28-after-heimlauf4-444x987.webp"
+   },
+   {
+    "label": "Schnick-Schnack-Schnuck Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/29-before-ssp-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/30-after-ssp-1280x800.webp"
+   },
+   {
+    "label": "Schnick-Schnack-Schnuck Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/31-before-ssp-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/32-after-ssp-444x987.webp"
+   },
+   {
+    "label": "Schach Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/33-before-schach-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/34-after-schach-1280x800.webp"
+   },
+   {
+    "label": "Schach Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/35-before-schach-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-wuerfel-brett/36-after-schach-444x987.webp"
+   }
+  ],
+  "sha": "da7fdef1"
  }
 ]
