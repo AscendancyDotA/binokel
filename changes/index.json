@@ -12567,5 +12567,30 @@
    }
   ],
   "sha": "c2493640"
+ },
+ {
+  "id": "item500-schnapsen-phone",
+  "date": "2026-11-09T03:17:19.079Z",
+  "title": "Schnapsen am Handy: „Letzter Stich“ frei vom Trumpf, Knöpfe frei vom Namen (Item 500)",
+  "text": "Store-Bilder Schnapsen Handy 1+2 (de+en) neu erzeugt nach dem Tisch-Fix auf main (e76948d2): „Letzter Stich“ steht jetzt rechts über der Werkzeugspalte, das Trumpf-Schild liegt frei (bei Bedarf über dem Talon), Spielerplatte und Punktetafel rücken über eine zweizeilige Knopfreihe. Nur diese vier Bilder geändert, nichts hochgeladen. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#314",
+  "rows": [
+   {
+    "label": "Bild 1 (de) vorher / nachher",
+    "before": "changes/2026-11-09-item500-schnapsen-phone/01-before-old-de-phone-1-live.webp",
+    "after": "changes/2026-11-09-item500-schnapsen-phone/02-after-new-de-phone-1-live.webp"
+   },
+   {
+    "label": "Bild 2 (de) vorher / nachher",
+    "before": "changes/2026-11-09-item500-schnapsen-phone/03-before-old-de-phone-2-closed.webp",
+    "after": "changes/2026-11-09-item500-schnapsen-phone/04-after-new-de-phone-2-closed.webp"
+   },
+   {
+    "label": "Bild 1 + 2 (en) neu",
+    "before": "changes/2026-11-09-item500-schnapsen-phone/05-before-new-en-phone-1-live.webp",
+    "after": "changes/2026-11-09-item500-schnapsen-phone/06-after-new-en-phone-2-closed.webp"
+   }
+  ],
+  "sha": "e76948d2"
  }
 ]
