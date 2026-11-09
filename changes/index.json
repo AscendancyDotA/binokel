@@ -13231,5 +13231,79 @@
    }
   ],
   "sha": "118cfb38"
+ },
+ {
+  "id": "poker522-stand",
+  "date": "2026-11-09T15:23:49.399Z",
+  "title": "Poker (im Bau): Stand am Tisch",
+  "text": "Mitten in der Hand (Flop), Aufdecken mit Nebenpott, Sit-&-Go mit Blind-Stufe, Lobby-Karte – je Handy hoch 412×915 und 444×987, Handy quer 915×412, Desktop 1280×800. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Mitten in der Hand · 412×915",
+    "img": "changes/2026-11-09-poker522-stand/01-img-stand-midhand-p412.webp"
+   },
+   {
+    "label": "Mitten in der Hand · 444×987",
+    "img": "changes/2026-11-09-poker522-stand/02-img-stand-midhand-p444.webp"
+   },
+   {
+    "label": "Mitten in der Hand · 915×412",
+    "img": "changes/2026-11-09-poker522-stand/03-img-stand-midhand-l915.webp"
+   },
+   {
+    "label": "Mitten in der Hand · 1280×800",
+    "img": "changes/2026-11-09-poker522-stand/04-img-stand-midhand-d1280.webp"
+   },
+   {
+    "label": "Aufdecken mit Nebenpott · 412×915",
+    "img": "changes/2026-11-09-poker522-stand/05-img-stand-sidepot-p412.webp"
+   },
+   {
+    "label": "Aufdecken mit Nebenpott · 444×987",
+    "img": "changes/2026-11-09-poker522-stand/06-img-stand-sidepot-p444.webp"
+   },
+   {
+    "label": "Aufdecken mit Nebenpott · 915×412",
+    "img": "changes/2026-11-09-poker522-stand/07-img-stand-sidepot-l915.webp"
+   },
+   {
+    "label": "Aufdecken mit Nebenpott · 1280×800",
+    "img": "changes/2026-11-09-poker522-stand/08-img-stand-sidepot-d1280.webp"
+   },
+   {
+    "label": "Sit-&-Go, Blind-Stufe · 412×915",
+    "img": "changes/2026-11-09-poker522-stand/09-img-stand-sng-p412.webp"
+   },
+   {
+    "label": "Sit-&-Go, Blind-Stufe · 444×987",
+    "img": "changes/2026-11-09-poker522-stand/10-img-stand-sng-p444.webp"
+   },
+   {
+    "label": "Sit-&-Go, Blind-Stufe · 915×412",
+    "img": "changes/2026-11-09-poker522-stand/11-img-stand-sng-l915.webp"
+   },
+   {
+    "label": "Sit-&-Go, Blind-Stufe · 1280×800",
+    "img": "changes/2026-11-09-poker522-stand/12-img-stand-sng-d1280.webp"
+   },
+   {
+    "label": "Lobby-Karte · 412×915",
+    "img": "changes/2026-11-09-poker522-stand/13-img-stand-lobby-p412.webp"
+   },
+   {
+    "label": "Lobby-Karte · 444×987",
+    "img": "changes/2026-11-09-poker522-stand/14-img-stand-lobby-p444.webp"
+   },
+   {
+    "label": "Lobby-Karte · 915×412",
+    "img": "changes/2026-11-09-poker522-stand/15-img-stand-lobby-l915.webp"
+   },
+   {
+    "label": "Lobby-Karte · 1280×800",
+    "img": "changes/2026-11-09-poker522-stand/16-img-stand-lobby-d1280.webp"
+   }
+  ],
+  "sha": "118cfb38"
  }
 ]
