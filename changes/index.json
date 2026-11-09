@@ -12717,5 +12717,40 @@
    }
   ],
   "sha": "282e63ba"
+ },
+ {
+  "id": "item513-spielende",
+  "date": "2026-11-09T10:54:08.251Z",
+  "title": "Entwurf: Spielende Punkte oder Runden",
+  "text": "Entwurf-PR (noch nicht live): beim Tisch-Aufmachen gilt genau ein Spielende – Runden ODER Punkte (Vorgaben + eigenes Feld 500–5000). Die Tags am Tisch zeigen nur noch das aktive Ende. – Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#298",
+  "rows": [
+   {
+    "label": "Lobby: Tisch-Zeilen (oben 4 Runden, unten Punkte)",
+    "before": "changes/2026-11-09-item513-spielende/01-before-before-desk-lobby-rows.webp",
+    "after": "changes/2026-11-09-item513-spielende/02-after-after-desk-lobby-rows.webp"
+   },
+   {
+    "label": "Tisch-Info ⓘ (Tisch mit 4 Runden)",
+    "before": "changes/2026-11-09-item513-spielende/03-before-before-desk-tableinfo.webp",
+    "after": "changes/2026-11-09-item513-spielende/04-after-after-desk-tableinfo.webp"
+   },
+   {
+    "label": "Tisch aufmachen, Punkte (PC 1280×800)",
+    "before": "changes/2026-11-09-item513-spielende/05-before-before-desk-create-points.webp",
+    "after": "changes/2026-11-09-item513-spielende/06-after-after-desk-create-points-own.webp"
+   },
+   {
+    "label": "Tisch aufmachen, Runden (PC)",
+    "before": "changes/2026-11-09-item513-spielende/07-before-before-desk-create-rounds5.webp",
+    "after": "changes/2026-11-09-item513-spielende/08-after-after-desk-create-rounds5.webp"
+   },
+   {
+    "label": "Handy 412×915, Punkte",
+    "before": "changes/2026-11-09-item513-spielende/09-before-before-phone-create-points.webp",
+    "after": "changes/2026-11-09-item513-spielende/10-after-after-phone-create-points.webp"
+   }
+  ],
+  "sha": "a148fbde"
  }
 ]
