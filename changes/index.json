@@ -12946,5 +12946,125 @@
    }
   ],
   "sha": "da7fdef1"
+ },
+ {
+  "id": "i521-spielerfarben-karten",
+  "date": "2026-11-09T13:49:09.541Z",
+  "title": "Spielerfarben in allen Kartenspielen",
+  "text": "Punkte-Tafeln mit Farbpunkt vor jedem Namen (Parteien mit beiden Farben), Punkte/Ansagen in der Sitzplatten-Zeile, Rundenabrechnung, Spielliste/Abrechnungsblatt, Gebots-/Spiel-Pillen (wer bietet/spielt), Namen im letzten Stich, Weis/Auslagen mit Schein in der Farbe des Spielers. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Skat Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/01-before-skat-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/02-after-skat-1280x800.webp"
+   },
+   {
+    "label": "Skat Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/03-before-skat-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/04-after-skat-444x987.webp"
+   },
+   {
+    "label": "Doppelkopf Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/05-before-doppelkopf-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/06-after-doppelkopf-1280x800.webp"
+   },
+   {
+    "label": "Doppelkopf Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/07-before-doppelkopf-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/08-after-doppelkopf-444x987.webp"
+   },
+   {
+    "label": "Schafkopf Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/09-before-schafkopf-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/10-after-schafkopf-1280x800.webp"
+   },
+   {
+    "label": "Schafkopf Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/11-before-schafkopf-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/12-after-schafkopf-444x987.webp"
+   },
+   {
+    "label": "Jass Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/13-before-jass-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/14-after-jass-1280x800.webp"
+   },
+   {
+    "label": "Jass Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/15-before-jass-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/16-after-jass-444x987.webp"
+   },
+   {
+    "label": "Watten Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/17-before-watten-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/18-after-watten-1280x800.webp"
+   },
+   {
+    "label": "Watten Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/19-before-watten-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/20-after-watten-444x987.webp"
+   },
+   {
+    "label": "Lupfen Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/21-before-lupfen4-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/22-after-lupfen4-1280x800.webp"
+   },
+   {
+    "label": "Lupfen Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/23-before-lupfen4-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/24-after-lupfen4-444x987.webp"
+   },
+   {
+    "label": "Bid Whist Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/25-before-bidwhist-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/26-after-bidwhist-1280x800.webp"
+   },
+   {
+    "label": "Bid Whist Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/27-before-bidwhist-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/28-after-bidwhist-444x987.webp"
+   },
+   {
+    "label": "Mau-Mau Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/29-before-maumau3-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/30-after-maumau3-1280x800.webp"
+   },
+   {
+    "label": "Mau-Mau Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/31-before-maumau3-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/32-after-maumau3-444x987.webp"
+   },
+   {
+    "label": "Schwimmen Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/33-before-schwimmen4-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/34-after-schwimmen4-1280x800.webp"
+   },
+   {
+    "label": "Schwimmen Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/35-before-schwimmen4-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/36-after-schwimmen4-444x987.webp"
+   },
+   {
+    "label": "Rommé Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/37-before-romme3-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/38-after-romme3-1280x800.webp"
+   },
+   {
+    "label": "Rommé Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/39-before-romme3-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/40-after-romme3-444x987.webp"
+   },
+   {
+    "label": "Canasta Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/41-before-canasta-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/42-after-canasta-1280x800.webp"
+   },
+   {
+    "label": "Canasta Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-karten/43-before-canasta-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-karten/44-after-canasta-444x987.webp"
+   }
+  ],
+  "sha": "da7fdef1"
  }
 ]
