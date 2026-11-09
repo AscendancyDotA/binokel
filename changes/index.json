@@ -13339,5 +13339,86 @@
    }
   ],
   "sha": "118cfb38"
+ },
+ {
+  "id": "item523-laendle",
+  "date": "2026-11-09T17:52:04.772Z",
+  "title": "Ländle (im Bau): so sieht das Spiel jetzt aus",
+  "text": "Damit du das Spiel beim Namen-Aussuchen vor Augen hast: Ländle zu dritt gegen zwei Lehrlinge – Tal mitten in der Partie, das Handelsblatt und das Partie-Ende, auf drei Handy-Größen und am Desktop. Neu in Item 523: Startausgleich (wer als Letzter würfelt, bekommt 1 Most zum zweiten Hof), Spielerfarben über den gemeinsamen Besitzer-Hook, die Profi-Stufe, der Wirtshaus-TV-Tisch, die Partie-Auswertung, das Rätsel des Tages (wohin mit dem Vogt?) und die Lernrunde. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#318",
+  "rows": [
+   {
+    "label": "Handy 412×915 – Tal mitten in der Partie",
+    "img": "changes/2026-11-09-item523-laendle/01-img-offline-play-412x915.webp"
+   },
+   {
+    "label": "Handy 412×915 – Handeln",
+    "img": "changes/2026-11-09-item523-laendle/02-img-offline-trade-412x915.webp"
+   },
+   {
+    "label": "Handy 412×915 – Partie-Ende",
+    "img": "changes/2026-11-09-item523-laendle/03-img-offline-matchend-412x915.webp"
+   },
+   {
+    "label": "Handy 444×987 – Tal mitten in der Partie",
+    "img": "changes/2026-11-09-item523-laendle/04-img-offline-play-444x987.webp"
+   },
+   {
+    "label": "Handy 444×987 – Handeln (vorher lag der runde Eckknopf über dem Blatt)",
+    "before": "changes/2026-11-09-item523-laendle/05-before-offline-trade-444x987.webp",
+    "after": "changes/2026-11-09-item523-laendle/06-after-offline-trade-444x987.webp"
+   },
+   {
+    "label": "Handy 444×987 – Partie-Ende",
+    "img": "changes/2026-11-09-item523-laendle/07-img-offline-matchend-444x987.webp"
+   },
+   {
+    "label": "Handy quer 915×412 – Tal mitten in der Partie",
+    "img": "changes/2026-11-09-item523-laendle/08-img-offline-play-915x412.webp"
+   },
+   {
+    "label": "Handy quer 915×412 – Handeln",
+    "img": "changes/2026-11-09-item523-laendle/09-img-offline-trade-915x412.webp"
+   },
+   {
+    "label": "Handy quer 915×412 – Partie-Ende (vorher verdeckte die volle Kasse den Platz darunter)",
+    "before": "changes/2026-11-09-item523-laendle/10-before-offline-matchend-915x412.webp",
+    "after": "changes/2026-11-09-item523-laendle/11-after-offline-matchend-915x412.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – Tal mitten in der Partie",
+    "img": "changes/2026-11-09-item523-laendle/12-img-offline-play-1280x800.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – Handeln",
+    "img": "changes/2026-11-09-item523-laendle/13-img-offline-trade-1280x800.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – Partie-Ende",
+    "img": "changes/2026-11-09-item523-laendle/14-img-offline-matchend-1280x800.webp"
+   },
+   {
+    "label": "Rätsel des Tages – die leuchtenden Felder kommen für den Vogt in Frage (Handy)",
+    "img": "changes/2026-11-09-item523-laendle/15-img-puzzle-laendle-ask-phone.webp"
+   },
+   {
+    "label": "Rätsel des Tages – Auflösung nach Siegchance (Desktop)",
+    "img": "changes/2026-11-09-item523-laendle/16-img-puzzle-laendle-reveal-desktop.webp"
+   },
+   {
+    "label": "Lernrunde – erster Tipp: Hof auf die leuchtende Ecke (Handy)",
+    "img": "changes/2026-11-09-item523-laendle/17-img-laendle-tip-welcome-phone.webp"
+   },
+   {
+    "label": "Lernrunde – Bank-Tipp, „Handeln“ leuchtet (Desktop)",
+    "img": "changes/2026-11-09-item523-laendle/18-img-laendle-tip-bank-desk.webp"
+   },
+   {
+    "label": "Lernrunde – Abschluss (vorher reichte die Karte unter den runden Eckknopf)",
+    "before": "changes/2026-11-09-item523-laendle/19-before-laendle-end-desk.webp",
+    "after": "changes/2026-11-09-item523-laendle/20-after-laendle-end-desk.webp"
+   }
+  ],
+  "sha": "28ccd5e8"
  }
 ]
