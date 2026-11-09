@@ -13473,5 +13473,35 @@
    }
   ],
   "sha": "4aa7fa88"
+ },
+ {
+  "id": "item531-replay-phones",
+  "date": "2026-11-09T20:52:36.685Z",
+  "title": "Wiederholung am Handy: nichts liegt mehr übereinander (Item 531)",
+  "text": "Gaigel zu viert am Handy: der eigene Platz lag unter Talon + Trumpfkarte, „Trumpf Schella“ über dem Namen. Die Wiederholung hat am Handy nur gut die halbe Bildschirmhöhe für den Tisch – jetzt passen sich die Karten der Höhe an, der eigene Platz steht direkt über der Hand, die Info-Chips weichen den Namensschildern aus, der Talon liegt wie am Live-Tisch. Gilt für alle Spiele (neue Prüfung tools/e2e-replay-phones531.mjs: jede Wiederholung in 360/412/444/508 hochkant und 915×412 quer). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Gaigel zu viert, 444×987, Auswertung offen",
+    "before": "changes/2026-11-09-item531-replay-phones/01-before-gaigel-s444-40.webp",
+    "after": "changes/2026-11-09-item531-replay-phones/02-after-gaigel-s444.webp"
+   },
+   {
+    "label": "Gaigel, 360×780",
+    "before": "changes/2026-11-09-item531-replay-phones/03-before-gaigel-s360-13.webp",
+    "after": "changes/2026-11-09-item531-replay-phones/04-after-gaigel-s360.webp"
+   },
+   {
+    "label": "Gaigel quer, 915×412",
+    "before": "changes/2026-11-09-item531-replay-phones/05-before-gaigel-land-13.webp",
+    "after": "changes/2026-11-09-item531-replay-phones/06-after-gaigel-land.webp"
+   },
+   {
+    "label": "Doppelkopf, 412×915",
+    "before": "changes/2026-11-09-item531-replay-phones/07-before-doppelkopf-s412-13.webp",
+    "after": "changes/2026-11-09-item531-replay-phones/08-after-doppelkopf-s412.webp"
+   }
+  ],
+  "sha": "5918c8ff"
  }
 ]
