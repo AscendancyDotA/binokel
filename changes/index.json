@@ -12752,5 +12752,95 @@
    }
   ],
   "sha": "a148fbde"
+ },
+ {
+  "id": "item516-spielende",
+  "date": "2026-11-09T11:53:56.580Z",
+  "title": "Entwurf: Spielende Punkte oder Runden – Canasta, Bid Whist, Rommé, Backgammon",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort medium), Item 516, Entwurf in PR #317 (nicht gemergt). Canasta und Bid Whist: Spielende = Punkte oder feste Runden; Rommé: Runden oder Strafpunkte-Grenze; nie beides. Backgammon zeigt überall nur den aktiven Modus.",
+  "issue": "wirtshaus#298",
+  "rows": [
+   {
+    "label": "Canasta: Tisch aufmachen, zweites Spielende (PC)",
+    "before": "changes/2026-11-09-item516-spielende/01-before-before-canasta-desk-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/02-after-after-canasta-desk-create-alt.webp"
+   },
+   {
+    "label": "Canasta: Tisch aufmachen (Handy 444×987)",
+    "before": "changes/2026-11-09-item516-spielende/03-before-before-canasta-phone-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/04-after-after-canasta-phone-create-alt.webp"
+   },
+   {
+    "label": "Canasta: Lobby-Zeilen (PC)",
+    "before": "changes/2026-11-09-item516-spielende/05-before-before-canasta-desk-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/06-after-after-canasta-desk-lobby.webp"
+   },
+   {
+    "label": "Canasta: Lobby-Zeilen (Handy)",
+    "before": "changes/2026-11-09-item516-spielende/07-before-before-canasta-phone-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/08-after-after-canasta-phone-lobby.webp"
+   },
+   {
+    "label": "Bid Whist: Tisch aufmachen, zweites Spielende (PC)",
+    "before": "changes/2026-11-09-item516-spielende/09-before-before-bidwhist-desk-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/10-after-after-bidwhist-desk-create-alt.webp"
+   },
+   {
+    "label": "Bid Whist: Tisch aufmachen (Handy 444×987)",
+    "before": "changes/2026-11-09-item516-spielende/11-before-before-bidwhist-phone-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/12-after-after-bidwhist-phone-create-alt.webp"
+   },
+   {
+    "label": "Bid Whist: Lobby-Zeilen (PC)",
+    "before": "changes/2026-11-09-item516-spielende/13-before-before-bidwhist-desk-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/14-after-after-bidwhist-desk-lobby.webp"
+   },
+   {
+    "label": "Bid Whist: Lobby-Zeilen (Handy)",
+    "before": "changes/2026-11-09-item516-spielende/15-before-before-bidwhist-phone-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/16-after-after-bidwhist-phone-lobby.webp"
+   },
+   {
+    "label": "Rommé: Tisch aufmachen, zweites Spielende (PC)",
+    "before": "changes/2026-11-09-item516-spielende/17-before-before-romme-desk-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/18-after-after-romme-desk-create-alt.webp"
+   },
+   {
+    "label": "Rommé: Tisch aufmachen (Handy 444×987)",
+    "before": "changes/2026-11-09-item516-spielende/19-before-before-romme-phone-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/20-after-after-romme-phone-create-alt.webp"
+   },
+   {
+    "label": "Rommé: Lobby-Zeilen (PC)",
+    "before": "changes/2026-11-09-item516-spielende/21-before-before-romme-desk-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/22-after-after-romme-desk-lobby.webp"
+   },
+   {
+    "label": "Rommé: Lobby-Zeilen (Handy)",
+    "before": "changes/2026-11-09-item516-spielende/23-before-before-romme-phone-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/24-after-after-romme-phone-lobby.webp"
+   },
+   {
+    "label": "Backgammon: Tisch aufmachen, zweites Spielende (PC)",
+    "before": "changes/2026-11-09-item516-spielende/25-before-before-backgammon-desk-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/26-after-after-backgammon-desk-create-alt.webp"
+   },
+   {
+    "label": "Backgammon: Tisch aufmachen (Handy 444×987)",
+    "before": "changes/2026-11-09-item516-spielende/27-before-before-backgammon-phone-create-alt.webp",
+    "after": "changes/2026-11-09-item516-spielende/28-after-after-backgammon-phone-create-alt.webp"
+   },
+   {
+    "label": "Backgammon: Lobby-Zeilen (PC)",
+    "before": "changes/2026-11-09-item516-spielende/29-before-before-backgammon-desk-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/30-after-after-backgammon-desk-lobby.webp"
+   },
+   {
+    "label": "Backgammon: Lobby-Zeilen (Handy)",
+    "before": "changes/2026-11-09-item516-spielende/31-before-before-backgammon-phone-lobby.webp",
+    "after": "changes/2026-11-09-item516-spielende/32-after-after-backgammon-phone-lobby.webp"
+   }
+  ],
+  "sha": "5886c363"
  }
 ]
