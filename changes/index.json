@@ -13305,5 +13305,39 @@
    }
   ],
   "sha": "118cfb38"
+ },
+ {
+  "id": "poker522-neu",
+  "date": "2026-11-09T15:24:31.901Z",
+  "title": "Poker: Lernrunde, Rätsel des Tages, Partie-Auswertung",
+  "text": "Neu für Poker, wie bei den anderen Spielen: die Lernrunde (drei Hände, Tipps, leuchtender Knopf), das Rätsel des Tages (Passen, Mitgehen, Erhöhen oder All-in nach dem Flop) und die Auswertung in der Wiederholung (jede Setz-Entscheidung in Big Blinds). Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Lernrunde · 444×987",
+    "img": "changes/2026-11-09-poker522-neu/01-img-guided-p444.webp"
+   },
+   {
+    "label": "Lernrunde · 1280×800",
+    "img": "changes/2026-11-09-poker522-neu/02-img-guided-d1280.webp"
+   },
+   {
+    "label": "Rätsel des Tages · 444×987",
+    "img": "changes/2026-11-09-poker522-neu/03-img-puzzle-p444.webp"
+   },
+   {
+    "label": "Rätsel des Tages · 1280×800",
+    "img": "changes/2026-11-09-poker522-neu/04-img-puzzle-d1280.webp"
+   },
+   {
+    "label": "Auswertung · 444×987",
+    "img": "changes/2026-11-09-poker522-neu/05-img-ana-p444.webp"
+   },
+   {
+    "label": "Auswertung · 1280×800",
+    "img": "changes/2026-11-09-poker522-neu/06-img-ana-d1280.webp"
+   }
+  ],
+  "sha": "118cfb38"
  }
 ]
