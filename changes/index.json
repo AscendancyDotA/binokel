@@ -12552,5 +12552,20 @@
    }
   ],
   "sha": "301e0ce7"
+ },
+ {
+  "id": "2026-11-09-497-signbubble",
+  "date": "2026-11-09T03:03:56.574Z",
+  "title": "Erklärblase weicht der Punktetafel aus (Item 497)",
+  "text": "Vorher lag die Erklärblase am Handy (444×987) über der Punktetafel. Jetzt wird sie über, unter oder neben das „?“ gelegt, wo sie Punktetafel, Namen, Karten und Knöpfe frei lässt, und folgt dem Tisch, wenn das Aktionsfeld aufgeht. Geprüft in Binokel, Skat, Doppelkopf und Schafkopf bei 360×780, 412×915, 444×987, 508×624, 844×390, 1130×324 und 1280×800 (e2e-signs491). In Doppelkopf und Schafkopf erschien kein Schild, dort gab es also keine Blase zu prüfen. swb gegenlesen: „botta“, „nach em Geber“, „sei Gebot gschafft“. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#311",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-09-2026-11-09-497-signbubble/01-before-b02.webp",
+    "after": "changes/2026-11-09-2026-11-09-497-signbubble/02-after-binokel-444x987-role-bubble.webp"
+   }
+  ],
+  "sha": "c2493640"
  }
 ]
