@@ -12625,5 +12625,24 @@
    }
   ],
   "sha": "ffe18ea8"
+ },
+ {
+  "id": "item510-laden",
+  "date": "2026-11-09T07:06:44.694Z",
+  "title": "Entwurf: Heute im Laden (nur Vorschau)",
+  "text": "Statische Vorschau, kein App-Code.",
+  "rows": [
+   {
+    "label": "Handy 412×915 von oben: heute / Entwurf",
+    "before": "changes/2026-11-09-item510-laden/01-before-before-phone.webp",
+    "after": "changes/2026-11-09-item510-laden/02-after-after-phone.webp"
+   },
+   {
+    "label": "Entwurf: Filter aufgeklappt / Desktop heute (bleibt)",
+    "before": "changes/2026-11-09-item510-laden/03-before-after-phone-filter.webp",
+    "after": "changes/2026-11-09-item510-laden/04-after-before-desktop.webp"
+   }
+  ],
+  "sha": "48f88b53"
  }
 ]
