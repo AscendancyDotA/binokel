@@ -12592,5 +12592,38 @@
    }
   ],
   "sha": "e76948d2"
+ },
+ {
+  "id": "item510-rundenende",
+  "date": "2026-11-09T07:05:40.711Z",
+  "title": "Entwurf: Rundenende mit Gefühl (nur Vorschau)",
+  "text": "Statische Vorschau, kein App-Code. Links der heutige Build, rechts der Entwurf für dieselbe Runde.",
+  "rows": [
+   {
+    "label": "Handy 412×915: heute / Entwurf",
+    "before": "changes/2026-11-09-item510-rundenende/01-before-before-phone.webp",
+    "after": "changes/2026-11-09-item510-rundenende/02-after-after-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800: heute / Entwurf",
+    "before": "changes/2026-11-09-item510-rundenende/03-before-before-desktop.webp",
+    "after": "changes/2026-11-09-item510-rundenende/04-after-after-desktop.webp"
+   },
+   {
+    "label": "Verspielt (erfundenes Beispiel) / Details aufgeklappt",
+    "before": "changes/2026-11-09-item510-rundenende/05-before-after-phone-failed.webp",
+    "after": "changes/2026-11-09-item510-rundenende/06-after-after-phone-details.webp"
+   },
+   {
+    "label": "Höhepunkt „Durch geschafft“, drei Bilder (0,0 s · 0,4 s · 1,2 s)",
+    "img": "changes/2026-11-09-item510-rundenende/07-img-fx-strip-durch.webp"
+   },
+   {
+    "label": "1000er-Meldung (Acht Ober): Höhepunkt und danach",
+    "before": "changes/2026-11-09-item510-rundenende/08-before-fx-meld-2.webp",
+    "after": "changes/2026-11-09-item510-rundenende/09-after-fx-meld-3.webp"
+   }
+  ],
+  "sha": "ffe18ea8"
  }
 ]
