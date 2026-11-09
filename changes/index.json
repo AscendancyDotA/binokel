@@ -12453,5 +12453,55 @@
    }
   ],
   "sha": "6a8c2eaf"
+ },
+ {
+  "id": "store-bilder-498",
+  "date": "2026-11-09T01:09:07.506Z",
+  "title": "Entwurf: Store-Bilder neu (Item 498)",
+  "text": "Oben jeweils, was heute auf Play liegt, darunter der neue Satz (de). Neu: Mitspieler mit Haustieren vorn, Mein Raum, Ranglisten, Rätsel des Tages, höchstens ein Taler-Bild, keine Dopplungen. Noch nicht hochgeladen. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#314",
+  "rows": [
+   {
+    "label": "Binokel Handy",
+    "before": "changes/2026-11-09-store-bilder-498/01-before-sheet-binokel-phone.webp",
+    "after": "changes/2026-11-09-store-bilder-498/02-after-after-binokel-phone-de.webp"
+   },
+   {
+    "label": "Binokel Tablet",
+    "before": "changes/2026-11-09-store-bilder-498/03-before-sheet-binokel-tablet.webp",
+    "after": "changes/2026-11-09-store-bilder-498/04-after-after-binokel-tablet-de.webp"
+   },
+   {
+    "label": "Wirtshaus Handy",
+    "before": "changes/2026-11-09-store-bilder-498/05-before-sheet-wirtshaus-phone.webp",
+    "after": "changes/2026-11-09-store-bilder-498/06-after-after-wirtshaus-phone-de.webp"
+   },
+   {
+    "label": "Wirtshaus Tablet",
+    "before": "changes/2026-11-09-store-bilder-498/07-before-sheet-wirtshaus-tablet.webp",
+    "after": "changes/2026-11-09-store-bilder-498/08-after-after-wirtshaus-tablet-de.webp"
+   },
+   {
+    "label": "Schnapsen Handy",
+    "before": "changes/2026-11-09-store-bilder-498/09-before-sheet-schnapsen-phone.webp",
+    "after": "changes/2026-11-09-store-bilder-498/10-after-after-schnapsen-phone-de.webp"
+   },
+   {
+    "label": "Schnapsen Tablet",
+    "before": "changes/2026-11-09-store-bilder-498/11-before-sheet-schnapsen-tablet.webp",
+    "after": "changes/2026-11-09-store-bilder-498/12-after-after-schnapsen-tablet-de.webp"
+   },
+   {
+    "label": "Lupfen Handy",
+    "before": "changes/2026-11-09-store-bilder-498/13-before-sheet-lupfen-phone.webp",
+    "after": "changes/2026-11-09-store-bilder-498/14-after-after-lupfen-phone-de.webp"
+   },
+   {
+    "label": "Lupfen Tablet",
+    "before": "changes/2026-11-09-store-bilder-498/15-before-sheet-lupfen-tablet.webp",
+    "after": "changes/2026-11-09-store-bilder-498/16-after-after-lupfen-tablet-de.webp"
+   }
+  ],
+  "sha": "af09155a"
  }
 ]
