@@ -13420,5 +13420,38 @@
    }
   ],
   "sha": "28ccd5e8"
+ },
+ {
+  "id": "poker528-showdown",
+  "date": "2026-11-09T18:58:14.619Z",
+  "title": "Poker: aufgedeckte Hände neben den Namensschildern, „?“ erklärt Dealer/Blinds, Lernrunden-Text",
+  "text": "Beim Aufdecken lagen die Karten der Seitenplätze auf deren Namensschildern (und oben auf der Pott-Zeile). Jetzt sucht sich jede aufgedeckte Hand den ersten freien Platz neben ihrem Schild, der Handname steht unter den Karten; wo es eng ist (6 Plätze, oben Mitte) wird sie kleiner. Geprüft für 2–6 Plätze bei 1280×800, 1440×760, 1920×1080 und 915×412 (e2e-poker). Das „?“ am Bild ist die einmalige Erklär-Marke für das Rollen-Schild – sie erklärte bei Poker Vorhand/Mittelhand/Hinterhand, jetzt Dealer und Blinds. Die Lernrunden-Karte in der Lobby spricht jetzt von drei Händen und dem leuchtenden Knopf. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "6 Plätze · 1280×800 (vorher: Karten auf den Schildern oben)",
+    "before": "changes/2026-11-09-poker528-showdown/01-before-showdown-1280x800-6p.webp",
+    "after": "changes/2026-11-09-poker528-showdown/02-after-showdown-1280x800-6p.webp"
+   },
+   {
+    "label": "2 Plätze · 1280×800",
+    "before": "changes/2026-11-09-poker528-showdown/03-before-showdown-1280x800-2p.webp",
+    "after": "changes/2026-11-09-poker528-showdown/04-after-showdown-1280x800-2p.webp"
+   },
+   {
+    "label": "6 Plätze · 1440×760 und 1920×1080 (nachher)",
+    "before": "changes/2026-11-09-poker528-showdown/05-before-showdown-1440x760-6p.webp",
+    "after": "changes/2026-11-09-poker528-showdown/06-after-showdown-1920x1080-6p.webp"
+   },
+   {
+    "label": "„?“ am Rollen-Schild: jetzt Dealer und Blinds",
+    "img": "changes/2026-11-09-poker528-showdown/07-img-sign-desk.webp"
+   },
+   {
+    "label": "Lernrunden-Karte (Handy)",
+    "img": "changes/2026-11-09-poker528-showdown/08-img-poker-card-phone.webp"
+   }
+  ],
+  "sha": "4aa7fa88"
  }
 ]
