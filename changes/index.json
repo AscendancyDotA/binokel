@@ -12842,5 +12842,39 @@
    }
   ],
   "sha": "5886c363"
+ },
+ {
+  "id": "i515-rahmen-luecken",
+  "date": "2026-11-09T12:13:20.291Z",
+  "title": "Kosmetik Runde 2 – Rahmen: Zinnkranz (S4), Kupfer neu, nichts mehr über Name/Punkten (Entwurf)",
+  "text": "Neuer S4-Rahmen Zinnkranz mit Hirschhornknöpfen (1 200 Taler, Vorschlag), Kupfer als gehämmertes Braukessel-Kupfer mit Nietenrand. Am echten Tisch gemessen: vorher lagen Rahmen in 56 von 160 Sitzbildern auf Punktzahl oder Positions-Chip, jetzt in 0 von 192 (360/412/444/1280, spielend + zuschauend). Entwurf in PR #304 – Hermes-Subagent (claude-opus-5-5, effort medium).",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Handy 360, Bild + Namensschild je Platz (eigener · links · oben · rechts)",
+    "before": "changes/2026-11-09-i515-rahmen-luecken/01-before-cs-phone360-before.webp",
+    "after": "changes/2026-11-09-i515-rahmen-luecken/02-after-cs-phone360-after.webp"
+   },
+   {
+    "label": "Desktop 1280, je Platz",
+    "before": "changes/2026-11-09-i515-rahmen-luecken/03-before-cs-desktop-before.webp",
+    "after": "changes/2026-11-09-i515-rahmen-luecken/04-after-cs-desktop-after.webp"
+   },
+   {
+    "label": "Alle Rahmen am Seitenplatz, Handy 360",
+    "before": "changes/2026-11-09-i515-rahmen-luecken/05-before-before-framesheet-phone360.webp",
+    "after": "changes/2026-11-09-i515-rahmen-luecken/06-after-after-framesheet-phone360.webp"
+   },
+   {
+    "label": "Echter Tisch Handy 412 (Häs · Tanne · Efeu · Thron)",
+    "before": "changes/2026-11-09-i515-rahmen-luecken/07-before-b-binokel-o0-phone412.webp",
+    "after": "changes/2026-11-09-i515-rahmen-luecken/08-after-a-binokel-o0-phone412.webp"
+   },
+   {
+    "label": "Arena-Entwürfe (nur Vorlage): Zinnkranz A1/A2, Krugdeckel B1/B2, Kupfer K1 – gewählt A2 + K1",
+    "img": "changes/2026-11-09-i515-rahmen-luecken/09-img-arena-sheet.webp"
+   }
+  ],
+  "sha": "428fbce1"
  }
 ]
