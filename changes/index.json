@@ -13166,5 +13166,45 @@
    }
   ],
   "sha": "da7fdef1"
+ },
+ {
+  "id": "item524-seatcolors",
+  "date": "2026-11-09T14:50:46.771Z",
+  "title": "Spielerfarben: Wiederholungen, 6 Farben, 20/40 neben den Augen",
+  "text": "Wiederholungen und Auswertung tragen jetzt dieselben Sitzfarben wie der Tisch. Tische mit 5–6 Plätzen bekommen zwei neue Farben statt Wiederholungen (2–4 Plätze unverändert). Beim Schnapsen auf dem Handy hochkant steht das angesagte 20/40 unter bzw. über den Augen-Zählern statt darauf. Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Schnapsen, Handy hochkant 444×987: 20 angesagt (vorher / nachher)",
+    "before": "changes/2026-11-09-item524-seatcolors/01-before-schnapsen-444x987.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/02-after-schnapsen-444x987.webp"
+   },
+   {
+    "label": "Poker zu sechst 1280×800: vorher 4 Farben für 6 Plätze, nachher 6",
+    "before": "changes/2026-11-09-item524-seatcolors/03-before-poker6-1280x800.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/04-after-poker6-1280x800.webp"
+   },
+   {
+    "label": "Rommé zu sechst, Handy 444×987",
+    "before": "changes/2026-11-09-item524-seatcolors/05-before-romme6-444x987.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/06-after-romme6-444x987.webp"
+   },
+   {
+    "label": "Wiederholung Gaigel, Handy 444×987: Platten + „Wem sei Spiel?“ in Sitzfarben",
+    "before": "changes/2026-11-09-item524-seatcolors/07-before-gaigel-port.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/08-after-gaigel-port.webp"
+   },
+   {
+    "label": "Wiederholung Rommé zu sechst mit Auswertung 1280×800: vorher Absturz, nachher 6 Farben",
+    "before": "changes/2026-11-09-item524-seatcolors/09-before-romme6-desk.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/10-after-romme6-desk.webp"
+   },
+   {
+    "label": "Einstellungen → Spielerfarben: Vorschau mit 6 Farben",
+    "before": "changes/2026-11-09-item524-seatcolors/11-before-binokel3-444x987.webp",
+    "after": "changes/2026-11-09-item524-seatcolors/12-after-binokel3-444x987.webp"
+   }
+  ],
+  "sha": "403f6c37"
  }
 ]
