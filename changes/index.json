@@ -12423,5 +12423,35 @@
    }
   ],
   "sha": "d85fe2cd"
+ },
+ {
+  "id": "item494-handy-layout",
+  "date": "2026-11-09T01:02:06.393Z",
+  "title": "Handy-Test 08.11.: kurze/ungewöhnliche Fenster (Item 494)",
+  "text": "Hermes-Subagent (claude-opus-5-5, effort high), Commit 6a8c2eaf auf main. Sitzplatten bleiben im Bild (Schnapsen: eigene Platte mit „+20 Auga“ war links abgeschnitten). Zuschauer mit „Alle Karten“: die seitlichen Spieler zeigen ihre Hand als kleine Karten (Schafkopf, Doppelkopf, Watten, Gaigel, Lupfen, Bauernschnapsen, Bid Whist, Jass, Canasta …), wo Platz ist – sonst bleibt die Kartenzahl an der Platte. Große Stichkarten bleiben groß. Lupfen: Einsatz-Behälter im Pott kleiner, Pott weicht der Platte aus, Hinweise weichen dem Pott aus, Knöpfe dem Trumpf.",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Schnapsen Zuschauer 1085×508, große Karten",
+    "before": "changes/2026-11-09-item494-handy-layout/01-before-schnapsen-1085x508-big-0.webp",
+    "after": "changes/2026-11-09-item494-handy-layout/02-after-schnapsen-1085x508-big-1.webp"
+   },
+   {
+    "label": "Schafkopf Zuschauer „Alle Karten“ 1085×508",
+    "before": "changes/2026-11-09-item494-handy-layout/03-before-schafkopf-1085x508-big-0.webp",
+    "after": "changes/2026-11-09-item494-handy-layout/04-after-schafkopf-1085x508-big-0.webp"
+   },
+   {
+    "label": "Canasta Zuschauer „Alle Karten“ 1085×508",
+    "before": "changes/2026-11-09-item494-handy-layout/05-before-canasta-1085x508-big-1.webp",
+    "after": "changes/2026-11-09-item494-handy-layout/06-after-canasta-1085x508-big-0.webp"
+   },
+   {
+    "label": "Lupfen hochkant 508×1085, Scheine-Pott",
+    "before": "changes/2026-11-09-item494-handy-layout/07-before-lupfen-508x1085-big-0.webp",
+    "after": "changes/2026-11-09-item494-handy-layout/08-after-lupfen-508x1085-big-3.webp"
+   }
+  ],
+  "sha": "6a8c2eaf"
  }
 ]
