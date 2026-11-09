@@ -13206,5 +13206,30 @@
    }
   ],
   "sha": "403f6c37"
+ },
+ {
+  "id": "poker522-chip",
+  "date": "2026-11-09T15:23:25.350Z",
+  "title": "Poker: eigener Einsatz-Chip nicht mehr unter dem Setz-Feld",
+  "text": "Während des eigenen Zugs lag der eigene Einsatz (hier 160) am Desktop unter dem Setz-Feld. Jetzt steht er über dem Feld, wenn dort Platz ist, sonst daneben. Gleiche Stelle vorher/nachher. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-09-poker522-chip/01-before-chip-before-d1280.webp",
+    "after": "changes/2026-11-09-poker522-chip/02-after-chip-after-d1280.webp"
+   },
+   {
+    "label": "Handy hoch 412×915",
+    "before": "changes/2026-11-09-poker522-chip/03-before-chip-before-p412.webp",
+    "after": "changes/2026-11-09-poker522-chip/04-after-chip-after-p412.webp"
+   },
+   {
+    "label": "Handy quer 915×412",
+    "before": "changes/2026-11-09-poker522-chip/05-before-chip-before-l915.webp",
+    "after": "changes/2026-11-09-poker522-chip/06-after-chip-after-l915.webp"
+   }
+  ],
+  "sha": "118cfb38"
  }
 ]
