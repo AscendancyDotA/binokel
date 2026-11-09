@@ -12876,5 +12876,75 @@
    }
   ],
   "sha": "428fbce1"
+ },
+ {
+  "id": "i521-spielerfarben-schnapsen",
+  "date": "2026-11-09T13:48:16.714Z",
+  "title": "Spielerfarben + gespiegelte Augen: Schnapsen, Gaigel, Bauernschnapsen",
+  "text": "Owner-Meldung 09.11.: Augen-Zähler stehen jetzt gespiegelt um die Tischmitte rechts neben dem Stich (oben der Gegner, unten du; Gaigel zu zweit hochkant links vom Stich), und alles, was einem Spieler gehört, trägt seine Spielerfarbe: Augen-Zähler, Meldungen, Punkte-Tafel (Farbpunkt), Rundenabrechnung, Bummerl-Tafel, Partie-Ende-Plätze. Gemeinsamer Hook im Tischrahmen – neue Spiele bekommen ihn mit, ein Test wacht darüber. Einstellung „Spielerfarben“ aus = neutral wie bisher. Hermes-Subagent (claude-opus-5-5, effort high)",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Schnapsen 900×420 (Ansicht aus der Meldung)",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/01-before-schnapsen-900x420.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/02-after-schnapsen-900x420.webp"
+   },
+   {
+    "label": "Schnapsen Desktop 1280×800",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/03-before-schnapsen-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/04-after-schnapsen-1280x800.webp"
+   },
+   {
+    "label": "Schnapsen Handy 444×987",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/05-before-schnapsen-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/06-after-schnapsen-444x987.webp"
+   },
+   {
+    "label": "Schnapsen Rundenabrechnung",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/07-before-schnapsen-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/08-after-schnapsen-1280x800.webp"
+   },
+   {
+    "label": "Schnapsen Partie-Ende",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/09-before-schnapsen-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/10-after-schnapsen-1280x800.webp"
+   },
+   {
+    "label": "Gaigel zu zweit 900×420",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/11-before-gaigel2-900x420.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/12-after-gaigel2-900x420.webp"
+   },
+   {
+    "label": "Gaigel zu zweit Desktop",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/13-before-gaigel2-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/14-after-gaigel2-1280x800.webp"
+   },
+   {
+    "label": "Gaigel zu zweit Handy",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/15-before-gaigel2-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/16-after-gaigel2-444x987.webp"
+   },
+   {
+    "label": "Gaigel zu dritt Desktop",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/17-before-gaigel3-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/18-after-gaigel3-1280x800.webp"
+   },
+   {
+    "label": "Gaigel zu dritt Handy",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/19-before-gaigel3-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/20-after-gaigel3-444x987.webp"
+   },
+   {
+    "label": "Bauernschnapsen Desktop",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/21-before-bauernschnapsen-1280x800.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/22-after-bauernschnapsen-1280x800.webp"
+   },
+   {
+    "label": "Bauernschnapsen Handy",
+    "before": "changes/2026-11-09-i521-spielerfarben-schnapsen/23-before-bauernschnapsen-444x987.webp",
+    "after": "changes/2026-11-09-i521-spielerfarben-schnapsen/24-after-bauernschnapsen-444x987.webp"
+   }
+  ],
+  "sha": "da7fdef1"
  }
 ]
