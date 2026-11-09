@@ -13453,5 +13453,25 @@
    }
   ],
   "sha": "4aa7fa88"
+ },
+ {
+  "id": "laendle528-lessonend",
+  "date": "2026-11-09T18:58:44.958Z",
+  "title": "Ländle: Lernrunden-Abschluss lässt die Zoom-Knöpfe frei; Profi zu zweit stärker",
+  "text": "Am Desktop lag die Abschlusskarte der Lernrunde über „−“ und „Ganzes Tal“. Jetzt rücken die Zoom-Knöpfe über die Karte und bleiben klickbar (e2e-laendle prüft 1280×800, 1440×760, 1920×1080). Profi zu zweit: die Bots rechnen auf dem Server, die Handy-Tiefe war nicht der Grund – zu zweit fehlte eine eigene Regel. Jetzt nimmt der Profi zu zweit keine Angebote an (jedes hilft dem einzigen Gegner) und zählt den Ertrag des Gegners beim Hang stärker: Profi gegen Meister zu zweit 58,8 % → 62,4 % (7200 Partien, docs/bots/laendle.md). Hermes-Subagent (claude-opus-5-5, effort medium)",
+  "issue": "wirtshaus#318",
+  "rows": [
+   {
+    "label": "Lernrunde – Abschluss · 1280×800",
+    "before": "changes/2026-11-09-laendle528-lessonend/01-before-lesson-end-1280x800.webp",
+    "after": "changes/2026-11-09-laendle528-lessonend/02-after-lesson-end-1280x800.webp"
+   },
+   {
+    "label": "1440×760 und 1920×1080 (nachher)",
+    "before": "changes/2026-11-09-laendle528-lessonend/03-before-lesson-end-1440x760.webp",
+    "after": "changes/2026-11-09-laendle528-lessonend/04-after-lesson-end-1920x1080.webp"
+   }
+  ],
+  "sha": "4aa7fa88"
  }
 ]
