@@ -12528,5 +12528,29 @@
    }
   ],
   "sha": "3bba017c"
+ },
+ {
+  "id": "quest499-google-xr",
+  "date": "2026-11-09T03:02:29.776Z",
+  "title": "Quest: Google-Anmeldung ohne weiße Seite, #xr führt ins VR-Wirtshaus",
+  "text": "Quest-Browser mit schon besuchter Seite: „Mit Google im Browser anmelden“ zeigte eine weiße Seite (der Offline-Speicher fing die Anmeldung ab) – jetzt geht es zu Google und zurück, verbunden. #xr öffnet die normale App mit „In VR gehen“ statt der Bot-Demo (die bleibt unter #xr=demo). Wirtshaus-APK auf der Quest: 🥽 VR + einmaliger Hinweis auf Wirtshaus Quest. Hermes-Subagent (claude-opus-5-5, effort medium), Item 499.",
+  "issue": "wirtshaus#183",
+  "rows": [
+   {
+    "label": "Google im Quest-Browser (Handy hoch)",
+    "before": "changes/2026-11-09-quest499-google-xr/01-before-q499-quest-sw-after-google.webp",
+    "after": "changes/2026-11-09-quest499-google-xr/02-after-q499-quest-sw-after-google.webp"
+   },
+   {
+    "label": "#xr auf der Quest",
+    "before": "changes/2026-11-09-quest499-google-xr/03-before-before-xr-demo.webp",
+    "after": "changes/2026-11-09-quest499-google-xr/04-after-q499-xr-entry.webp"
+   },
+   {
+    "label": "Wirtshaus-APK auf der Quest: Hinweis + 🥽 VR",
+    "img": "changes/2026-11-09-quest499-google-xr/05-img-q499-apk-quest-note.webp"
+   }
+  ],
+  "sha": "301e0ce7"
  }
 ]
