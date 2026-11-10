@@ -13717,5 +13717,43 @@
    }
   ],
   "sha": "f07f10a2"
+ },
+ {
+  "id": "kasse-reiter-kommen-mit",
+  "date": "2026-11-10T04:43:29.617Z",
+  "title": "Kasse: Reiter und Kategorien bleiben beim Scrollen oben",
+  "text": "Wer im Laden weit nach unten scrollt, sieht jetzt immer die Reiter „Mein Raum · Shop · Taler · Käufe“ und direkt darunter die Kategorien. Die Kategorie, in der man gerade liest, ist markiert. In niedrigen Fenstern und am Handy quer sind die Zeilen schmaler.",
+  "issue": "wirtshaus#320",
+  "rows": [
+   {
+    "label": "Fenster 1236×582, tief im Laden",
+    "before": "changes/2026-11-10-kasse-reiter-kommen-mit/01-before-before-shop-fenster-tief.webp",
+    "after": "changes/2026-11-10-kasse-reiter-kommen-mit/02-after-after-shop-fenster-tief.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-10-kasse-reiter-kommen-mit/03-before-before-shop-desktop-tief.webp",
+    "after": "changes/2026-11-10-kasse-reiter-kommen-mit/04-after-after-shop-desktop-tief.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-10-kasse-reiter-kommen-mit/05-before-before-shop-phone-tief.webp",
+    "after": "changes/2026-11-10-kasse-reiter-kommen-mit/06-after-after-shop-phone-tief.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-10-kasse-reiter-kommen-mit/07-before-before-shop-phone-quer-tief.webp",
+    "after": "changes/2026-11-10-kasse-reiter-kommen-mit/08-after-after-shop-phone-quer-tief.webp"
+   },
+   {
+    "label": "Mit geöffneter Kategorie (Fenster 1236×582)",
+    "img": "changes/2026-11-10-kasse-reiter-kommen-mit/09-img-after-shop-fenster-gruppe.webp"
+   },
+   {
+    "label": "Seite „Taler“: die Reiter kommen auch hier mit (Handy)",
+    "img": "changes/2026-11-10-kasse-reiter-kommen-mit/10-img-after-taler-phone-gescrollt.webp"
+   }
+  ],
+  "sha": "804532c4"
  }
 ]
