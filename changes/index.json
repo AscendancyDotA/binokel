@@ -13863,5 +13863,89 @@
    }
   ],
   "sha": "e5d6e4e9"
+ },
+ {
+  "id": "item537-notizbuch-entwurf",
+  "date": "2026-11-10T05:49:32.536Z",
+  "title": "Entwurf: Notizbuch zeigt alle Einträge, Lernrunden jederzeit",
+  "text": "Vorschlag (noch nicht im Spiel): Im Notizbuch stehen auch die Einträge, die noch nicht gekommen sind – blasser und gestrichelt, mit einer Zeile, wodurch sie kommen. Antippen öffnet sie trotzdem. Ganz oben startet man die Lernrunde des Spiels, in dem man gerade ist; „Weitere Lernrunden“ klappt die anderen Spiele auf. Wer eine Lernrunde überspringt, bekommt einmal den Hinweis, wo er sie wiederfindet.",
+  "issue": "wirtshaus#326",
+  "rows": [
+   {
+    "label": "Handy 444×987: Liste",
+    "before": "changes/2026-11-10-item537-notizbuch-entwurf/01-before-phone-8-list.webp",
+    "after": "changes/2026-11-10-item537-notizbuch-entwurf/02-after-phone-8-list.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Liste",
+    "before": "changes/2026-11-10-item537-notizbuch-entwurf/03-before-desk-2-list.webp",
+    "after": "changes/2026-11-10-item537-notizbuch-entwurf/04-after-desk-2-list.webp"
+   },
+   {
+    "label": "Noch nicht entdeckte Einträge (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/05-img-A1-list-greyed-phone.webp"
+   },
+   {
+    "label": "Noch nicht entdeckte Einträge (Desktop)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/06-img-A2-list-greyed-lower-desk.webp"
+   },
+   {
+    "label": "Noch nicht entdeckte Einträge (Fenster 1236×582)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/07-img-A1-list-greyed-owner.webp"
+   },
+   {
+    "label": "Noch nicht entdeckte Einträge (Handy quer 844×390)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/08-img-A2-list-greyed-lower-land.webp"
+   },
+   {
+    "label": "Ein grauer Eintrag, angetippt: ganz lesbar (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/09-img-A4-greyed-entry-open-phone.webp"
+   },
+   {
+    "label": "Ein grauer Eintrag, angetippt (Desktop)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/10-img-A4-greyed-entry-open-desk.webp"
+   },
+   {
+    "label": "Lernrunden zugeklappt (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/11-img-B1-lessons-folded-phone.webp"
+   },
+   {
+    "label": "Lernrunden aufgeklappt (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/12-img-B2-lessons-unfolded-phone.webp"
+   },
+   {
+    "label": "Lernrunden zugeklappt (Handy quer)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/13-img-B1-lessons-folded-land.webp"
+   },
+   {
+    "label": "Lernrunden aufgeklappt (Desktop)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/14-img-B2-lessons-unfolded-desk.webp"
+   },
+   {
+    "label": "Lernrunden aufgeklappt (Fenster 1236×582)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/15-img-B2-lessons-unfolded-owner.webp"
+   },
+   {
+    "label": "Am Tisch: Lernrunde erst nach der Partie",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/16-img-B4-lessons-at-table.webp"
+   },
+   {
+    "label": "Hinweis nach dem Überspringen (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/17-img-B9-skip-hint-phone.webp"
+   },
+   {
+    "label": "Hinweis nach dem Überspringen (Handy quer)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/18-img-B9-skip-hint-land.webp"
+   },
+   {
+    "label": "Hinweis nach dem Überspringen (Desktop)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/19-img-B9-skip-hint-desk.webp"
+   },
+   {
+    "label": "Regelhilfe: „Lernrunde zu diesem Spiel“ (Handy)",
+    "img": "changes/2026-11-10-item537-notizbuch-entwurf/20-img-B6-help-link-phone.webp"
+   }
+  ],
+  "sha": "d3350c0f"
  }
 ]
