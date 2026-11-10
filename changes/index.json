@@ -13671,5 +13671,51 @@
    }
   ],
   "sha": "baf91031"
+ },
+ {
+  "id": "533-sprecher-entwurf",
+  "date": "2026-11-10T04:42:56.042Z",
+  "title": "Entwurf: Wer am Tisch spricht, ist nicht mehr zu übersehen",
+  "text": "Entwurf zum Ansehen (noch nicht im Spiel): Wer spricht, bekommt einen grünen Lichthof außen um Bild und Zuguhr, kleine Pegel-Balken hinter dem Namen und einen grünen Rand am Namensschild. In den Bildern sprechen zwei Leute am 6er-Tisch – bei einem läuft gerade die Zuguhr.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Handy hochkant 444×987",
+    "before": "changes/2026-11-10-533-sprecher-entwurf/01-before-before-444x987.webp",
+    "after": "changes/2026-11-10-533-sprecher-entwurf/02-after-after-444x987.webp"
+   },
+   {
+    "label": "PC 1280×800",
+    "before": "changes/2026-11-10-533-sprecher-entwurf/03-before-before-1280x800.webp",
+    "after": "changes/2026-11-10-533-sprecher-entwurf/04-after-after-1280x800.webp"
+   },
+   {
+    "label": "Platz mit laufender Uhr: vorher · nachher · nachher mit Animationen „Aus“",
+    "img": "changes/2026-11-10-533-sprecher-entwurf/05-img-seat-compare-1280x800.webp"
+   },
+   {
+    "label": "Der Lichthof geht mit der Stimme mit (leise → laut)",
+    "img": "changes/2026-11-10-533-sprecher-entwurf/06-img-frames-1280x800.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-10-533-sprecher-entwurf/07-before-before-844x390.webp",
+    "after": "changes/2026-11-10-533-sprecher-entwurf/08-after-after-844x390.webp"
+   },
+   {
+    "label": "Großer Bildschirm 1920×1080",
+    "before": "changes/2026-11-10-533-sprecher-entwurf/09-before-before-1920x1080.webp",
+    "after": "changes/2026-11-10-533-sprecher-entwurf/10-after-after-1920x1080.webp"
+   },
+   {
+    "label": "Sprachraum-Liste: Zeile des Sprechers",
+    "img": "changes/2026-11-10-533-sprecher-entwurf/11-img-voice533-list-speaking.webp"
+   },
+   {
+    "label": "Zuschauer spricht: Hinweis mit Balken",
+    "img": "changes/2026-11-10-533-sprecher-entwurf/12-img-voice533-spectator-chip.webp"
+   }
+  ],
+  "sha": "f07f10a2"
  }
 ]
