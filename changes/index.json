@@ -13600,5 +13600,23 @@
    }
   ],
   "sha": "d1021023"
+ },
+ {
+  "id": "533-sprachraum-neuversuch",
+  "date": "2026-11-10T04:17:45.824Z",
+  "title": "Sprachchat verbindet sich von selbst neu",
+  "text": "Bricht die Verbindung zum Sprachraum ab oder klappt der Beitritt nicht, versucht es die App von selbst wieder – Mikro und Kamera bleiben an. Der Sprachraum-Knopf zeigt das mit rotem Rand und ↻; ein Tipp darauf verbindet sofort.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Am PC: Sprachraum-Knopf rechts unten",
+    "img": "changes/2026-11-10-533-sprachraum-neuversuch/01-img-voice533-retry-desk.webp"
+   },
+   {
+    "label": "Am Handy",
+    "img": "changes/2026-11-10-533-sprachraum-neuversuch/02-img-voice533-retry-phone.webp"
+   }
+  ],
+  "sha": "b0418b32"
  }
 ]
