@@ -13651,5 +13651,25 @@
    }
   ],
   "sha": "baf91031"
+ },
+ {
+  "id": "fehler-melden-scrollposition",
+  "date": "2026-11-10T04:22:15.865Z",
+  "title": "Fehler melden: Bildschirmfoto zeigt die gescrollte Stelle",
+  "text": "Das Bildschirmfoto der Meldung zeigte immer den Seitenanfang, auch wenn man weit nach unten gescrollt hatte. Jetzt zeigt es genau das, was beim Öffnen der Meldung zu sehen war – samt der Leiste, die oben stehen bleibt.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Kasse → Shop, weit nach unten gescrollt: das Foto in der Meldung",
+    "before": "changes/2026-11-10-fehler-melden-scrollposition/01-before-bug536-desk-captured.webp",
+    "after": "changes/2026-11-10-fehler-melden-scrollposition/02-after-bug536-desk-captured.webp"
+   },
+   {
+    "label": "Dasselbe am Handy hochkant",
+    "before": "changes/2026-11-10-fehler-melden-scrollposition/03-before-bug536-phone-captured.webp",
+    "after": "changes/2026-11-10-fehler-melden-scrollposition/04-after-bug536-phone-captured.webp"
+   }
+  ],
+  "sha": "baf91031"
  }
 ]
