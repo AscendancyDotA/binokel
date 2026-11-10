@@ -13838,5 +13838,30 @@
    }
   ],
   "sha": "e5d6e4e9"
+ },
+ {
+  "id": "jass-watten-handkarten",
+  "date": "2026-11-10T05:25:46.337Z",
+  "title": "Jass und Watten: Handkarten nach Spielstärke sortiert",
+  "text": "Trumpf steht zuerst, in jeder Farbe die stärkste Karte links – wie in den anderen Stichspielen. Beim Jass folgt die Trumpffarbe der Jass-Reihenfolge (Puur, Nell, Ass, König, Ober, Banner, 8, 7, 6), beim Watten stehen Kritische und Schläge vorn.",
+  "issue": "wirtshaus#323",
+  "rows": [
+   {
+    "label": "Jass, Trumpf Schellen (1280×800)",
+    "before": "changes/2026-11-10-jass-watten-handkarten/01-before-jass-follow-1280.webp",
+    "after": "changes/2026-11-10-jass-watten-handkarten/02-after-jass-follow-1280.webp"
+   },
+   {
+    "label": "Jass am Handy (444×987)",
+    "before": "changes/2026-11-10-jass-watten-handkarten/03-before-jass-follow-444.webp",
+    "after": "changes/2026-11-10-jass-watten-handkarten/04-after-jass-follow-444.webp"
+   },
+   {
+    "label": "Watten, Schlag Sau, Trumpf Laub (1280×800)",
+    "before": "changes/2026-11-10-jass-watten-handkarten/05-before-watten-1280.webp",
+    "after": "changes/2026-11-10-jass-watten-handkarten/06-after-watten-1280.webp"
+   }
+  ],
+  "sha": "e5d6e4e9"
  }
 ]
