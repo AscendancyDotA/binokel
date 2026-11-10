@@ -14071,5 +14071,33 @@
    }
   ],
   "sha": "efc89743"
+ },
+ {
+  "id": "vortisch-uhr-541",
+  "date": "2026-11-10T08:57:13.366Z",
+  "title": "Bereit-Check vor der Partie: mit mehreren Leuten 30 Sekunden Zeit",
+  "text": "Sitzen zwei oder mehr Menschen am Tisch, läuft der Bereit-Check jetzt 30 Sekunden statt 5 bis 8. Wer noch etwas ändert, bekommt wieder mindestens 15 Sekunden, nach 60 Sekunden ist Schluss. Sind alle bereit, wird wie bisher sofort ausgeteilt.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-10-vortisch-uhr-541/01-before-table2-A-check.webp",
+    "after": "changes/2026-11-10-vortisch-uhr-541/02-after-clock541-A-open.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-10-vortisch-uhr-541/03-before-table2-B-check.webp",
+    "after": "changes/2026-11-10-vortisch-uhr-541/04-after-clock541-B-open.webp"
+   },
+   {
+    "label": "Einer ist bereit und wartet auf die anderen",
+    "img": "changes/2026-11-10-vortisch-uhr-541/05-img-clock541-A-ready-waits.webp"
+   },
+   {
+    "label": "Sechs am Tisch (Handy)",
+    "img": "changes/2026-11-10-vortisch-uhr-541/06-img-people541-6-phone-others-ready.webp"
+   }
+  ],
+  "sha": "466a0264"
  }
 ]
