@@ -13972,5 +13972,34 @@
    }
   ],
   "sha": "3466c433"
+ },
+ {
+  "id": "mehrtisch-bot-reiter-pause",
+  "date": "2026-11-10T07:56:50.516Z",
+  "title": "Mehrere Tische: Der Tisch gegen Bots wartet auf dich",
+  "text": "Liegt ein anderer Reiter oder die Lobby vorne, macht der Tisch gegen Bots Pause: Die Bots spielen nicht mehr unsichtbar weiter und es kommt kein Ton von dort. Der Reiter leuchtet mit „Du bist dran“, wenn du dort am Zug bist, sonst steht „Pause“ dran.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Handy 444×987 – du bist am Bot-Tisch dran, die Lobby liegt vorne",
+    "before": "changes/2026-11-10-mehrtisch-bot-reiter-pause/01-before-multitable536-phone-parked-tab-turn.webp",
+    "after": "changes/2026-11-10-mehrtisch-bot-reiter-pause/02-after-multitable536-phone-parked-tab-turn.webp"
+   },
+   {
+    "label": "Desktop 1236×582",
+    "before": "changes/2026-11-10-mehrtisch-bot-reiter-pause/03-before-multitable536-desk-parked-tab-turn.webp",
+    "after": "changes/2026-11-10-mehrtisch-bot-reiter-pause/04-after-multitable536-desk-parked-tab-turn.webp"
+   },
+   {
+    "label": "Bots sind dran, ein anderer Tisch liegt vorne (Handy)",
+    "before": "changes/2026-11-10-mehrtisch-bot-reiter-pause/05-before-multitable536-phone-parked-tab.webp",
+    "after": "changes/2026-11-10-mehrtisch-bot-reiter-pause/06-after-multitable536-phone-parked-tab.webp"
+   },
+   {
+    "label": "Nebeneinander: der Bot-Reiter öffnet seinen Tisch allein",
+    "img": "changes/2026-11-10-mehrtisch-bot-reiter-pause/07-img-multitable536-desk-split-bot-tab.webp"
+   }
+  ],
+  "sha": "4172609f"
  }
 ]
