@@ -13567,5 +13567,38 @@
    }
   ],
   "sha": "d1021023"
+ },
+ {
+  "id": "binokel-auswertung-druecken",
+  "date": "2026-11-10T03:12:26.331Z",
+  "title": "Binokel-Auswertung: Beim Drücken steht jetzt, ob die Ansage oder das Drücken der Fehler war",
+  "text": "Bei „Drücken & Trumpf“ zeigte die Auswertung einen Fehler, obwohl in der Tabelle darunter die eigene Ansage als bester Zug stand – der Verlust kam vom Drücken, das die Tabelle nicht zeigte. Jetzt sagt die Karte, woran es lag: an der Ansage, am Drücken oder an beidem. Beim Drücken werden die besten Ablagen für die eigene Ansage verglichen, die abweichenden Karten sind hervorgehoben und mit Namen genannt (besser behalten / dafür drücken). Die Zahlen passen zusammen: Die Zeile des eigenen Zugs trägt denselben Abstand wie das Urteil.",
+  "issue": "wirtshaus#321",
+  "rows": [
+   {
+    "label": "Fehler nur beim Drücken (großes Fenster)",
+    "before": "changes/2026-11-10-binokel-auswertung-druecken/01-before-B-before-karte-fenster.webp",
+    "after": "changes/2026-11-10-binokel-auswertung-druecken/02-after-B-after-karte-fenster.webp"
+   },
+   {
+    "label": "Dasselbe auf dem Handy 444×987",
+    "before": "changes/2026-11-10-binokel-auswertung-druecken/03-before-before-discard-phone.webp",
+    "after": "changes/2026-11-10-binokel-auswertung-druecken/04-after-after-discard-phone.webp"
+   },
+   {
+    "label": "Ansage und Drücken beide nicht ideal: erst die Ansage, das Drücken zum Aufklappen",
+    "before": "changes/2026-11-10-binokel-auswertung-druecken/05-before-B-before-beides.webp",
+    "after": "changes/2026-11-10-binokel-auswertung-druecken/06-after-B-after-beides-aufgeklappt.webp"
+   },
+   {
+    "label": "Aufgeklappt: Ansagen im Vergleich – „jeweils mit dem besten Drücken“",
+    "img": "changes/2026-11-10-binokel-auswertung-druecken/07-img-B-after-karte-aufgeklappt.webp"
+   },
+   {
+    "label": "Fehler nur bei der Ansage",
+    "img": "changes/2026-11-10-binokel-auswertung-druecken/08-img-B-after-ansage.webp"
+   }
+  ],
+  "sha": "d1021023"
  }
 ]
