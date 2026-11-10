@@ -14001,5 +14001,37 @@
    }
   ],
   "sha": "4172609f"
+ },
+ {
+  "id": "notizbuch-alle-eintraege-lernrunden",
+  "date": "2026-11-10T08:05:07.861Z",
+  "title": "Notizbuch: alle Einträge sichtbar, Lernrunden jederzeit",
+  "text": "Das Notizbuch zeigt jetzt alle Einträge: Die noch nicht gefundenen stehen blasser unter den gefundenen, mit einem Hinweis, wann sie kommen – antippen und lesen geht schon vorher. Ganz oben startest du jederzeit eine Lernrunde, auch wenn du sie am Anfang übersprungen hast.",
+  "issue": "wirtshaus#326",
+  "rows": [
+   {
+    "label": "Handy 444×987: Liste",
+    "before": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/01-before-01-before-phone-8-list.webp",
+    "after": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/02-after-02-after-phone-8-list.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Liste",
+    "before": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/03-before-03-before-desk-2-list.webp",
+    "after": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/04-after-04-after-desk-2-list.webp"
+   },
+   {
+    "label": "Ein blasser Eintrag, angetippt: ganz lesbar",
+    "img": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/05-img-09-img-A4-greyed-entry-open-phone.webp"
+   },
+   {
+    "label": "Lernrunden aufgeklappt",
+    "img": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/06-img-12-img-B2-lessons-unfolded-phone.webp"
+   },
+   {
+    "label": "Hinweis nach dem Überspringen",
+    "img": "changes/2026-11-10-notizbuch-alle-eintraege-lernrunden/07-img-17-img-B9-skip-hint-phone.webp"
+   }
+  ],
+  "sha": "d2fb698a"
  }
 ]
