@@ -13503,5 +13503,35 @@
    }
   ],
   "sha": "5918c8ff"
+ },
+ {
+  "id": "desktop-grosse-fenster",
+  "date": "2026-11-10T00:25:56.910Z",
+  "title": "Große Fenster: Tische wachsen mit",
+  "text": "Am PC mit großem Fenster (ab etwa 1440×900) blieben die Würfeltische und Schere-Stein-Papier so klein wie bei 1280 Pixeln. Jetzt wachsen Sitzleiste, Würfel, Ablage und Knöpfe mit dem Fenster. Auf Handys und in kleinen Fenstern bleibt alles, wie es war.",
+  "issue": "wirtshaus#293",
+  "rows": [
+   {
+    "label": "Fünf Würfel, 1920×1080",
+    "before": "changes/2026-11-10-desktop-grosse-fenster/01-before-play-wuerfel6-1920x1080.webp",
+    "after": "changes/2026-11-10-desktop-grosse-fenster/02-after-play-wuerfel6-1920x1080.webp"
+   },
+   {
+    "label": "Schocken zu acht, 1920×1080",
+    "before": "changes/2026-11-10-desktop-grosse-fenster/03-before-play-schocken8-1920x1080.webp",
+    "after": "changes/2026-11-10-desktop-grosse-fenster/04-after-play-schocken8-1920x1080.webp"
+   },
+   {
+    "label": "Schere-Stein-Papier, 1920×1080",
+    "before": "changes/2026-11-10-desktop-grosse-fenster/05-before-play-ssp2-1920x1080.webp",
+    "after": "changes/2026-11-10-desktop-grosse-fenster/06-after-play-ssp2-1920x1080.webp"
+   },
+   {
+    "label": "Ländle zu viert, 1920×1080",
+    "before": "changes/2026-11-10-desktop-grosse-fenster/07-before-play-laendle4-1920x1080.webp",
+    "after": "changes/2026-11-10-desktop-grosse-fenster/08-after-play-laendle4-1920x1080.webp"
+   }
+  ],
+  "sha": "72db1c73"
  }
 ]
