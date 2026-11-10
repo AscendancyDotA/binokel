@@ -13636,5 +13636,20 @@
    }
   ],
   "sha": "b0418b32"
+ },
+ {
+  "id": "mehrtisch-bots-reiter",
+  "date": "2026-11-10T04:22:09.169Z",
+  "title": "Mehrere Tische: Spiel gegen Bots öffnet sich als Reiter",
+  "text": "Wer mehrere Tische offen hat und in der Lobby ein Spiel gegen Bots startet, bleibt in der Reiterleiste: Der Bot-Tisch ist ein weiterer Reiter („gegen Bots“), die anderen Tische bleiben offen. Dasselbe gilt jetzt für das Tagesblatt und einen gefundenen Gegner aus der Warteschlange.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Fenster quer 1236×582: Lupfen gegen Bots, ein Tisch wird nebenher angeschaut",
+    "before": "changes/2026-11-10-mehrtisch-bots-reiter/01-before-multitable536-desk-bots-lupfen-table.webp",
+    "after": "changes/2026-11-10-mehrtisch-bots-reiter/02-after-multitable536-desk-bots-lupfen-table.webp"
+   }
+  ],
+  "sha": "baf91031"
  }
 ]
