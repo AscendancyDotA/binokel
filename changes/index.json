@@ -14033,5 +14033,43 @@
    }
   ],
   "sha": "d2fb698a"
+ },
+ {
+  "id": "laden-schaufenster",
+  "date": "2026-11-10T08:55:26.821Z",
+  "title": "Entwurf: Der Shop zeigt sofort Stücke",
+  "text": "Im Shop stehen die Stücke jetzt gleich auf dem ersten Bildschirm, in schlanken Kacheln. Antippen öffnet „Mein Raum“ mit dem Stück anprobiert; dort wird angelegt und gekauft. Neu sind die Reihen „Neu“ und „Sätze“. Noch ein Entwurf, nicht ausgeliefert.",
+  "issue": "wirtshaus#320",
+  "rows": [
+   {
+    "label": "Shop, Fenster 1236×582",
+    "before": "changes/2026-11-10-laden-schaufenster/01-before-laden-fenster.webp",
+    "after": "changes/2026-11-10-laden-schaufenster/02-after-after-fenster-1-laden.webp"
+   },
+   {
+    "label": "Shop, Handy 444×987",
+    "before": "changes/2026-11-10-laden-schaufenster/03-before-laden-handy.webp",
+    "after": "changes/2026-11-10-laden-schaufenster/04-after-after-phone-1-laden.webp"
+   },
+   {
+    "label": "Nach dem Antippen: „Mein Raum“ im Fach, Stück anprobiert (Fenster)",
+    "before": "changes/2026-11-10-laden-schaufenster/05-before-raum-fach-fenster.webp",
+    "after": "changes/2026-11-10-laden-schaufenster/06-after-after-fenster-5-raum.webp"
+   },
+   {
+    "label": "Nach dem Antippen: „Mein Raum“ (Handy)",
+    "before": "changes/2026-11-10-laden-schaufenster/07-before-raum-fach-handy.webp",
+    "after": "changes/2026-11-10-laden-schaufenster/08-after-after-phone-5-raum.webp"
+   },
+   {
+    "label": "Kategorie „Sätze“ (Fenster)",
+    "img": "changes/2026-11-10-laden-schaufenster/09-img-after-fenster-4-saetze.webp"
+   },
+   {
+    "label": "Kategorie „Sätze“ (Handy)",
+    "img": "changes/2026-11-10-laden-schaufenster/10-img-after-phone-4-saetze.webp"
+   }
+  ],
+  "sha": "efc89743"
  }
 ]
