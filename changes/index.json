@@ -13823,5 +13823,20 @@
    }
   ],
   "sha": "7f47b81f"
+ },
+ {
+  "id": "rundenende-eigener-zug",
+  "date": "2026-11-10T05:25:38.974Z",
+  "title": "Nach dem Rundenende ist der eigene Zug wieder da",
+  "text": "Wer am Rundenende nicht rechtzeitig „Weiter“ gedrückt hat, bekam in der nächsten Runde keine Knöpfe und keine spielbaren Karten mehr – erst Neuladen half. Betroffen waren Schwimmen, Mau-Mau, Rommé, Canasta, Gaigel, Jass, Watten und weitere. Jetzt schließt die Abrechnung von selbst, sobald neu gegeben ist, und der eigene Zug ist sofort spielbar.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Schwimmen online, Runde 2, eigener Zug (1280×800)",
+    "before": "changes/2026-11-10-rundenende-eigener-zug/01-before-slow-schwimmen-FAIL.webp",
+    "after": "changes/2026-11-10-rundenende-eigener-zug/02-after-slow-schwimmen-turn.webp"
+   }
+  ],
+  "sha": "e5d6e4e9"
  }
 ]
