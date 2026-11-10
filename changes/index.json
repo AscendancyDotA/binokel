@@ -14124,5 +14124,29 @@
    }
   ],
   "sha": "6980d8ca"
+ },
+ {
+  "id": "sprecher-am-tisch",
+  "date": "2026-11-10T09:15:17.848Z",
+  "title": "Sprachchat: Wer am Tisch spricht, ist nicht mehr zu übersehen",
+  "text": "Wer spricht, bekommt einen grünen Lichthof außen um Bild und Zuguhr, kleine Pegel-Balken hinter dem Namen und einen grünen Rand am Namensschild. In den Bildern sprechen zwei Leute am 6er-Tisch – bei einem läuft gerade die Zuguhr.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-10-sprecher-am-tisch/01-before-01-before-before-444x987.webp",
+    "after": "changes/2026-11-10-sprecher-am-tisch/02-after-02-after-after-444x987.webp"
+   },
+   {
+    "label": "PC 1280×800",
+    "before": "changes/2026-11-10-sprecher-am-tisch/03-before-03-before-before-1280x800.webp",
+    "after": "changes/2026-11-10-sprecher-am-tisch/04-after-04-after-after-1280x800.webp"
+   },
+   {
+    "label": "Platz mit laufender Uhr: vorher · nachher · nachher mit Animationen „Aus“",
+    "img": "changes/2026-11-10-sprecher-am-tisch/05-img-05-img-seat-compare-1280x800.webp"
+   }
+  ],
+  "sha": "6980d8ca"
  }
 ]
