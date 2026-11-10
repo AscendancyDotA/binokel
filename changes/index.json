@@ -13533,5 +13533,39 @@
    }
   ],
   "sha": "72db1c73"
+ },
+ {
+  "id": "laden-leiste-angedockt",
+  "date": "2026-11-10T03:12:01.115Z",
+  "title": "Laden: Die Kategorie-Leiste sitzt beim Scrollen direkt unter dem Menü",
+  "text": "Im Laden (Kasse → Shop) hing die Leiste „Alles · Karten · Tisch & Raum …“ beim Scrollen ein Stück unter dem Menü. Die Kacheln liefen durch den Spalt und standen links und rechts daneben – das sah wie ein Fehler aus. Jetzt dockt die Leiste ohne Spalt unter dem Menü an und geht über die ganze Breite. Oben im Laden steht sie wie bisher an ihrem Platz.",
+  "issue": "wirtshaus#320",
+  "rows": [
+   {
+    "label": "Großes Fenster (1540×750), gescrollt",
+    "before": "changes/2026-11-10-laden-leiste-angedockt/01-before-before-kasse-fenster-gescrollt.webp",
+    "after": "changes/2026-11-10-laden-leiste-angedockt/02-after-after-kasse-fenster-gescrollt.webp"
+   },
+   {
+    "label": "Desktop 1280×800, mit Fächer-Zeile",
+    "before": "changes/2026-11-10-laden-leiste-angedockt/03-before-before-kasse-desktop-gruppe.webp",
+    "after": "changes/2026-11-10-laden-leiste-angedockt/04-after-after-kasse-desktop-gruppe.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987",
+    "before": "changes/2026-11-10-laden-leiste-angedockt/05-before-before-kasse-phone-gescrollt.webp",
+    "after": "changes/2026-11-10-laden-leiste-angedockt/06-after-after-kasse-phone-gescrollt.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-10-laden-leiste-angedockt/07-before-before-kasse-phone-quer-gescrollt.webp",
+    "after": "changes/2026-11-10-laden-leiste-angedockt/08-after-after-kasse-phone-quer-gescrollt.webp"
+   },
+   {
+    "label": "Oben im Laden: die Leiste an ihrem Platz",
+    "img": "changes/2026-11-10-laden-leiste-angedockt/09-img-after-kasse-fenster-oben.webp"
+   }
+  ],
+  "sha": "d1021023"
  }
 ]
