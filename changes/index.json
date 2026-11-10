@@ -13618,5 +13618,23 @@
    }
   ],
   "sha": "b0418b32"
+ },
+ {
+  "id": "533-lautstaerke-300",
+  "date": "2026-11-10T04:17:53.754Z",
+  "title": "Leise Mitspieler bis 300 % lauter stellen",
+  "text": "Im Menü eines Mitspielers (Tipp auf den Spieler am Tisch oder im Sprachraum) gibt es jetzt einen Lautstärke-Regler bis 300 %, mit Marke bei 100 %. Über 100 % wird die Stimme verstärkt und ein Begrenzer fängt laute Stellen ab, damit nichts übersteuert. Die Einstellung merkt sich das Gerät je Person.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Am PC",
+    "img": "changes/2026-11-10-533-lautstaerke-300/01-img-voice533-volume-desk.webp"
+   },
+   {
+    "label": "Am Handy",
+    "img": "changes/2026-11-10-533-lautstaerke-300/02-img-voice533-volume-phone.webp"
+   }
+  ],
+  "sha": "b0418b32"
  }
 ]
