@@ -13755,5 +13755,25 @@
    }
   ],
   "sha": "804532c4"
+ },
+ {
+  "id": "laden-ohne-spielzeit",
+  "date": "2026-11-10T04:43:46.075Z",
+  "title": "Laden: keine Spielzeit-Schätzung mehr unter den Stücken",
+  "text": "Unter Stücken, für die die Taler noch nicht reichen, steht wieder nur „es fehlen … Taler“. Die Schätzung in Spielzeit gibt es weiter beim „Nächsten Ziel“ oben in der Kasse und beim anprobierten Stück in „Mein Raum“.",
+  "issue": "wirtshaus#320",
+  "rows": [
+   {
+    "label": "Spielmacher-Effekte, Fenster 1236×582 (rechts: Funkenflug)",
+    "before": "changes/2026-11-10-laden-ohne-spielzeit/01-before-before-spielmacher-fenster.webp",
+    "after": "changes/2026-11-10-laden-ohne-spielzeit/02-after-after-spielmacher-fenster.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-10-laden-ohne-spielzeit/03-before-before-spielmacher-phone.webp",
+    "after": "changes/2026-11-10-laden-ohne-spielzeit/04-after-after-spielmacher-phone.webp"
+   }
+  ],
+  "sha": "804532c4"
  }
 ]
