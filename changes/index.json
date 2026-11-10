@@ -13947,5 +13947,30 @@
    }
   ],
   "sha": "d3350c0f"
+ },
+ {
+  "id": "lobby-quer-reiter-wort",
+  "date": "2026-11-10T07:43:47.802Z",
+  "title": "Lobby im Querformat: Reiter oben mit Wort unter dem Symbol",
+  "text": "Im Querformat stand oben nur eine Reihe Symbole, nur der offene Reiter sagte, was er ist. Jetzt steht unter jedem Symbol klein das Wort, wie in der Leiste unten am Handy. Die Leiste wird dabei nicht höher.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Fenster 1236×582",
+    "before": "changes/2026-11-10-lobby-quer-reiter-wort/01-before-01-before-nav536-before-1236x582-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-wort/02-after-02-after-nav536-after-1236x582-welcome.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-10-lobby-quer-reiter-wort/03-before-09-before-nav536-before-844x390-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-wort/04-after-10-after-nav536-after-844x390-welcome.webp"
+   },
+   {
+    "label": "Großer Bildschirm 1920×1080",
+    "before": "changes/2026-11-10-lobby-quer-reiter-wort/05-before-07-before-nav536-before-1920x1080-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-wort/06-after-08-after-nav536-after-1920x1080-welcome.webp"
+   }
+  ],
+  "sha": "3466c433"
  }
 ]
