@@ -14099,5 +14099,30 @@
    }
   ],
   "sha": "466a0264"
+ },
+ {
+  "id": "rahmen-runde-2",
+  "date": "2026-11-10T09:09:12.568Z",
+  "title": "Bilderrahmen: sieben neu gezeichnet, neuer Rahmen „Zinnkranz“",
+  "text": "Thron, Gold, Messing, Efeu, Häs-Flecken, Tannenkranz und Kupfer sind neu gezeichnet und am Tisch besser zu unterscheiden. Neu im Laden ist der „Zinnkranz“. Kein Rahmen liegt mehr über Name, Punktzahl oder Chips.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Alle Rahmen am Seitenplatz (Handy)",
+    "before": "changes/2026-11-10-rahmen-runde-2/01-before-a1.webp",
+    "after": "changes/2026-11-10-rahmen-runde-2/02-after-a2.webp"
+   },
+   {
+    "label": "Am Tisch, Handy",
+    "before": "changes/2026-11-10-rahmen-runde-2/03-before-b1.webp",
+    "after": "changes/2026-11-10-rahmen-runde-2/04-after-b2.webp"
+   },
+   {
+    "label": "Am Tisch, Desktop",
+    "before": "changes/2026-11-10-rahmen-runde-2/05-before-c1.webp",
+    "after": "changes/2026-11-10-rahmen-runde-2/06-after-c2.webp"
+   }
+  ],
+  "sha": "6980d8ca"
  }
 ]
