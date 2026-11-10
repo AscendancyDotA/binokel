@@ -13775,5 +13775,53 @@
    }
   ],
   "sha": "804532c4"
+ },
+ {
+  "id": "lobby-quer-reiter-mit-wort",
+  "date": "2026-11-10T05:13:30.844Z",
+  "title": "Entwurf: Lobby im Querformat – jeder Reiter oben trägt sein Wort",
+  "text": "Im Querformat stand oben nur eine Reihe Symbole, nur der offene Reiter sagte, was er ist. Im Entwurf steht unter jedem Symbol klein das Wort, wie in der Leiste unten am Handy. Die Leiste wird dabei nicht höher. Noch nicht eingebaut – wartet auf die Entscheidung.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Fenster 1236×582 – Willkommen",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/01-before-nav536-before-1236x582-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/02-after-nav536-after-1236x582-welcome.webp"
+   },
+   {
+    "label": "Fenster 1236×582 – Kasse",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/03-before-nav536-before-1236x582-kasse.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/04-after-nav536-after-1236x582-kasse.webp"
+   },
+   {
+    "label": "1280×800 (Wörter eine Stufe kleiner)",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/05-before-nav536-before-1280x800-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/06-after-nav536-after-1280x800-welcome.webp"
+   },
+   {
+    "label": "1920×1080",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/07-before-nav536-before-1920x1080-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/08-after-nav536-after-1920x1080-welcome.webp"
+   },
+   {
+    "label": "Handy quer 844×390 (gleiche Höhe der Leiste)",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/09-before-nav536-before-844x390-welcome.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/10-after-nav536-after-844x390-welcome.webp"
+   },
+   {
+    "label": "Handy hochkant 444×987 – unverändert",
+    "before": "changes/2026-11-10-lobby-quer-reiter-mit-wort/11-before-nav536-mbefore-444x987-kasse.webp",
+    "after": "changes/2026-11-10-lobby-quer-reiter-mit-wort/12-after-nav536-mafter-444x987-kasse.webp"
+   },
+   {
+    "label": "Zum Vergleich, nicht eingebaut: Leiste links an der Seite (1236×582)",
+    "img": "changes/2026-11-10-lobby-quer-reiter-mit-wort/13-img-nav536-rail-1236x582-welcome.webp"
+   },
+   {
+    "label": "Leiste links bei 1920×1080",
+    "img": "changes/2026-11-10-lobby-quer-reiter-mit-wort/14-img-nav536-rail-1920x1080-welcome.webp"
+   }
+  ],
+  "sha": "7f47b81f"
  }
 ]
