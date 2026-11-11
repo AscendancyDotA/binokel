@@ -14148,5 +14148,67 @@
    }
   ],
   "sha": "6980d8ca"
+ },
+ {
+  "id": "332-lobby-vorschau",
+  "date": "2026-11-11T07:30:43.400Z",
+  "title": "Entwurf: Lobby-Vorschau zu den Ideen aus #332 (nur Prototyp)",
+  "text": "Entwurf - noch nicht im Spiel. Prototypen auf dem Branch mockup/332-lobby, jede Variante per #mock=<id> schaltbar. Gebaut von Claude Code via Arena (coding-router-preview).",
+  "issue": "wirtshaus#332",
+  "rows": [
+   {
+    "label": "a) Wertung pro Spiel",
+    "img": "changes/2026-11-11-332-lobby-vorschau/01-img-sheet-a.webp"
+   },
+   {
+    "label": "b) Regelhilfe sichtbarer (Desktop)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/02-img-sheet-b.webp"
+   },
+   {
+    "label": "b) Regelhilfe sichtbarer (Handy)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/03-img-sheet-b-phone.webp"
+   },
+   {
+    "label": "c) Rechts oben kompakter (2560 px)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/04-img-sheet-c-d2560.webp"
+   },
+   {
+    "label": "c) Rechts oben kompakter (Handy)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/05-img-sheet-c-phone.webp"
+   },
+   {
+    "label": "d) Mini-Schrift unter den Tab-Icons",
+    "img": "changes/2026-11-11-332-lobby-vorschau/06-img-sheet-d.webp"
+   },
+   {
+    "label": "e) Tabs als eigene Felder (2560 px)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/07-img-sheet-e-d2560.webp"
+   },
+   {
+    "label": "Kombi b1 + c2 + e1 + d",
+    "img": "changes/2026-11-11-332-lobby-vorschau/08-img-sheet-combo-full.webp"
+   },
+   {
+    "label": "f1) Freunde-Leiste angedockt",
+    "img": "changes/2026-11-11-332-lobby-vorschau/09-img-sheet-f1.webp"
+   },
+   {
+    "label": "f1) Freunde-Schublade (Handy)",
+    "img": "changes/2026-11-11-332-lobby-vorschau/10-img-sheet-f1-phone.webp"
+   },
+   {
+    "label": "f2) Spielen-Knopf immer da",
+    "img": "changes/2026-11-11-332-lobby-vorschau/11-img-sheet-f2.webp"
+   },
+   {
+    "label": "f3) Wettkampf-Tab mit Unterreitern",
+    "img": "changes/2026-11-11-332-lobby-vorschau/12-img-sheet-f3.webp"
+   },
+   {
+    "label": "f4) Regeln anpassen am offenen Tisch",
+    "img": "changes/2026-11-11-332-lobby-vorschau/13-img-sheet-f4.webp"
+   }
+  ],
+  "sha": "f2e91686"
  }
 ]
