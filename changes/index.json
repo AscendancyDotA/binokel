@@ -14324,5 +14324,30 @@
    }
   ],
   "sha": "c34053af"
+ },
+ {
+  "id": "stash-label-layer",
+  "date": "2026-11-11T11:45:20.668Z",
+  "title": "Entwurf: Einsatz-Kosmetik verdeckt nie mehr den Taler-Zähler",
+  "text": "Entwurf – noch nicht im Spiel.",
+  "issue": "wirtshaus#338",
+  "rows": [
+   {
+    "label": "Lupfen, Zuschauer, Topf 4 (Desktop)",
+    "before": "changes/2026-11-11-stash-label-layer/01-before-stashLupfen-scheine-desk-spectator-4.webp",
+    "after": "changes/2026-11-11-stash-label-layer/02-after-stashLupfen-scheine-desk-spectator-4.webp"
+   },
+   {
+    "label": "Lupfen, Handy, Topf 200",
+    "before": "changes/2026-11-11-stash-label-layer/03-before-stashLupfen-scheine-phone-player-200.webp",
+    "after": "changes/2026-11-11-stash-label-layer/04-after-stashLupfen-scheine-phone-player-200.webp"
+   },
+   {
+    "label": "Gemeinsamer Einsatz-Topf (Desktop)",
+    "before": "changes/2026-11-11-stash-label-layer/05-before-stash452-pot-desk.webp",
+    "after": "changes/2026-11-11-stash-label-layer/06-after-stash452-pot-desk.webp"
+   }
+  ],
+  "sha": "740efa98"
  }
 ]
