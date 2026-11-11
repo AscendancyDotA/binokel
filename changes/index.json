@@ -14210,5 +14210,27 @@
    }
   ],
   "sha": "f2e91686"
+ },
+ {
+  "id": "polish-funde-1111",
+  "date": "2026-11-11T08:59:16.915Z",
+  "title": "Entwurf: Feinschliff-Funde 11.11. (nur Befunde, nichts geändert)",
+  "text": "Nur Befunde – nichts geändert. Übersicht der wichtigsten Funde, darunter zwei in voller Größe.",
+  "issue": "wirtshaus#334",
+  "rows": [
+   {
+    "label": "Übersicht der 12 wichtigsten Funde",
+    "img": "changes/2026-11-11-polish-funde-1111/01-img-sheet-top.webp"
+   },
+   {
+    "label": "Binokel: Punktetafel vor dem Rundenende-Dialog (Handy hoch)",
+    "img": "changes/2026-11-11-polish-funde-1111/02-img-roundend-p.webp"
+   },
+   {
+    "label": "Rommé: eigener Name doppelt (Handy hoch)",
+    "img": "changes/2026-11-11-polish-funde-1111/03-img-romme-phone.webp"
+   }
+  ],
+  "sha": "f9b31f07"
  }
 ]
