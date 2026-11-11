@@ -14232,5 +14232,35 @@
    }
   ],
   "sha": "f9b31f07"
+ },
+ {
+  "id": "cosm-r2-bestand",
+  "date": "2026-11-11T09:02:15.555Z",
+  "title": "Entwurf: Kosmetik Runde 2 – Bestandsaufnahme der übrigen Fächer (nur Befunde)",
+  "text": "Nur Bestandsaufnahme – nichts geändert. Je Fach jedes Stück als Kachel, auf der Vorschau-Bühne und am echten Tisch (Desktop + Handy). Hier die fünf Fächer mit dem größten Hebel.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Tischdecke – fremde Decken am echten Tisch grau/kaum sichtbar (z. B. Goldbrokat S6)",
+    "img": "changes/2026-11-11-cosm-r2-bestand/01-img-sheet-cloth.webp"
+   },
+   {
+    "label": "Einsatz-Fach – Wachstum mit dem Einsatz kaum zu sehen",
+    "img": "changes/2026-11-11-cosm-r2-bestand/02-img-sheet-stash.webp"
+   },
+   {
+    "label": "Tischplatz – S5 als flache Clipart",
+    "img": "changes/2026-11-11-cosm-r2-bestand/03-img-sheet-spot.webp"
+   },
+   {
+    "label": "Ausspiel-Effekt – fünf Effekte nur andersfarbiger Lichthof",
+    "img": "changes/2026-11-11-cosm-r2-bestand/04-img-sheet-play.webp"
+   },
+   {
+    "label": "Sprüche – System-Emoji statt eigener Kunst",
+    "img": "changes/2026-11-11-cosm-r2-bestand/05-img-sheet-emotes.webp"
+   }
+  ],
+  "sha": "bf1d8884"
  }
 ]
