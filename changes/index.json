@@ -14302,5 +14302,27 @@
    }
   ],
   "sha": "2da58371"
+ },
+ {
+  "id": "cosm-r2-tischdecken",
+  "date": "2026-11-11T11:34:12.195Z",
+  "title": "Entwurf: Kosmetik Runde 2 – Tischdecken",
+  "text": "Entwurf – noch nicht im Spiel. Fremde Decken behalten ihre Farbe, sieben Decken neu gezeichnet, neue Loden-Decke (Preis-Vorschlag).",
+  "issue": "wirtshaus#337",
+  "rows": [
+   {
+    "label": "Jede neu gezeichnete Decke an einem fremden Platz – vorher | nachher",
+    "img": "changes/2026-11-11-cosm-r2-tischdecken/01-img-sheet-cloth-table.webp"
+   },
+   {
+    "label": "Alle Decken im Laden (Desktop)",
+    "img": "changes/2026-11-11-cosm-r2-tischdecken/02-img-rv-tiles.webp"
+   },
+   {
+    "label": "Voll angezogener Tisch (Desktop) – vorher | nachher",
+    "img": "changes/2026-11-11-cosm-r2-tischdecken/03-img-rv-decl-desk.webp"
+   }
+  ],
+  "sha": "c34053af"
  }
 ]
