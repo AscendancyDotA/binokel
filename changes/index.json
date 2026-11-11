@@ -14371,5 +14371,25 @@
    }
   ],
   "sha": "6384f646"
+ },
+ {
+  "id": "329-prep",
+  "date": "2026-11-11T12:27:58.082Z",
+  "title": "Entwurf: Laden – Namen trennen an Silben, Goldbarren-Glanz weicher",
+  "text": "Entwurf – noch nicht im Spiel.",
+  "issue": "wirtshaus#329",
+  "rows": [
+   {
+    "label": "Laden am Handy: Namen",
+    "before": "changes/2026-11-11-329-prep/01-before-before-phone-1-laden.webp",
+    "after": "changes/2026-11-11-329-prep/02-after-after-phone-1-laden.webp"
+   },
+   {
+    "label": "Goldbarren-Glanz (5-fach)",
+    "before": "changes/2026-11-11-329-prep/03-before-glint-glint-hart.webp",
+    "after": "changes/2026-11-11-329-prep/04-after-glint-glint.webp"
+   }
+  ],
+  "sha": "646660a3"
  }
 ]
