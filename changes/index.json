@@ -14515,5 +14515,35 @@
    }
   ],
   "sha": "a27ffb60"
+ },
+ {
+  "id": "546-regeln-offener-tisch",
+  "date": "2026-11-12T18:58:49.169Z",
+  "title": "Entwurf: Regeln am offenen Tisch anpassen",
+  "text": "Entwurf – noch nicht im Spiel. Solange der Tisch offen ist, ändert der Gastgeber im Warteraum mit „Regeln anpassen“ Spielende, Uhr und die anderen Regeln – im selben Formular wie beim Tisch aufmachen. Alle am Tisch sehen den neuen Stand sofort: der geänderte Chip leuchtet kurz auf, im Tisch-Chat steht, was sich geändert hat.",
+  "issue": "wirtshaus#332",
+  "rows": [
+   {
+    "label": "Gastgeber, Handy: Regeln anpassen",
+    "img": "changes/2026-11-12-546-regeln-offener-tisch/01-img-openrules546-host-dialog-changed-phone.webp"
+   },
+   {
+    "label": "Gastgeber, PC",
+    "img": "changes/2026-11-12-546-regeln-offener-tisch/02-img-openrules546-host-dialog-desktop.webp"
+   },
+   {
+    "label": "Mitspieler, PC: neuer Chip + Zeile im Tisch-Chat",
+    "img": "changes/2026-11-12-546-regeln-offener-tisch/03-img-openrules546-guest-desktop.webp"
+   },
+   {
+    "label": "Gastgeber, Handy: Knopf unter den Chips",
+    "img": "changes/2026-11-12-546-regeln-offener-tisch/04-img-openrules546-host-after-phone.webp"
+   },
+   {
+    "label": "Mitspieler, Handy quer",
+    "img": "changes/2026-11-12-546-regeln-offener-tisch/05-img-openrules546-guest-landscape.webp"
+   }
+  ],
+  "sha": "2a048dbd"
  }
 ]
