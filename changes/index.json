@@ -14266,24 +14266,14 @@
  {
   "id": "fixes-334",
   "date": "2026-11-11T10:15:15.311Z",
-  "title": "Entwurf: Feinschliff – 8 Fehler aus #334",
-  "text": "Entwurf – noch nicht im Spiel.",
+  "title": "Feinschliff an fünf Tischen: Bauernschnapsen, Rommé, Fünf Würfel, Vier, Schocken",
+  "text": "Kleine Fehler behoben: verdeckte Knöpfe, doppelte Namen, abgeschnittene Zeilen.",
   "issue": "wirtshaus#335",
   "rows": [
-   {
-    "label": "Schocken zu acht, Handy 360",
-    "before": "changes/2026-11-11-fixes-334/01-before-play-schocken8-360x800.webp",
-    "after": "changes/2026-11-11-fixes-334/02-after-play-schocken8-360x800.webp"
-   },
    {
     "label": "Bauernschnapsen quer: Letzter Stich frei",
     "before": "changes/2026-11-11-fixes-334/03-before-audit-bslead-p4-844x390-s1.webp",
     "after": "changes/2026-11-11-fixes-334/04-after-audit-bslead-p4-844x390-s1.webp"
-   },
-   {
-    "label": "Lupfen zu sechst quer",
-    "before": "changes/2026-11-11-fixes-334/05-before-play-lupfen6-844x390.webp",
-    "after": "changes/2026-11-11-fixes-334/06-after-play-lupfen6-844x390.webp"
    },
    {
     "label": "Rommé: eigener Name nur einmal",
