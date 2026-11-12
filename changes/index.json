@@ -14545,5 +14545,78 @@
    }
   ],
   "sha": "2a048dbd"
+ },
+ {
+  "id": "332-lobby-kopfzeile",
+  "date": "2026-11-12T20:32:42.085Z",
+  "title": "Lobby: neue Kopfzeile, Wettkampf-Tab, Regel-Leiste",
+  "text": "Die Bereiche der Lobby stehen als eigene schräge Felder in einer Leiste, das offene Feld leuchtet. Rechts oben sitzen die Knöpfe als ruhige Reihe mit kleinem Wort darunter, die Verbindung zeigt ein grüner Punkt am eigenen Bild. Ranglisten, Liga und Turniere liegen gemeinsam unter „Wettkampf“. Im Spielen-Tab führt eine schmale Leiste zu den Regeln des gewählten Spiels; sie lässt sich je Spiel ausblenden. Am Handy hat die untere Leiste dieselbe Form, ebenso die Reiter der Kasse.",
+  "issue": "wirtshaus#332",
+  "rows": [
+   {
+    "label": "Desktop 1920×950",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/01-before-bw-wirtshaus-de-1920x950.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/02-after-aw-wirtshaus-de-1920x950.webp"
+   },
+   {
+    "label": "Kopfzeile bei 2560 px",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/03-before-bw-wirtshaus-de-d2560-top.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/04-after-aw-wirtshaus-de-d2560-top.webp"
+   },
+   {
+    "label": "Fenster 1280×800",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/05-before-bw-wirtshaus-de-d1280.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/06-after-f1-wirtshaus-de-d1280.webp"
+   },
+   {
+    "label": "Handy quer 915×412",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/07-before-bw-wirtshaus-de-l915.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/08-after-f1-wirtshaus-de-l915.webp"
+   },
+   {
+    "label": "Handy 412×915",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/09-before-bw-wirtshaus-de-p412.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/10-after-f1-wirtshaus-de-p412.webp"
+   },
+   {
+    "label": "Wettkampf: Turniere",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/11-before-br-wirtshaus-de-1920x950.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/12-after-ar-wirtshaus-de-1920x950.webp"
+   },
+   {
+    "label": "Wettkampf am Handy",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/13-before-br-wirtshaus-de-p412.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/14-after-ar-wirtshaus-de-p412.webp"
+   },
+   {
+    "label": "Spielen mit Regel-Leiste",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/15-before-bp-wirtshaus-de-1920x950.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/16-after-ap-wirtshaus-de-1920x950.webp"
+   },
+   {
+    "label": "Spielen am Handy",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/17-before-bp-wirtshaus-de-p412.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/18-after-ap-wirtshaus-de-p412.webp"
+   },
+   {
+    "label": "Kasse",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/19-before-bk-wirtshaus-de-1920x950.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/20-after-ak-wirtshaus-de-1920x950.webp"
+   },
+   {
+    "label": "Kasse am Handy",
+    "before": "changes/2026-11-12-332-lobby-kopfzeile/21-before-bk-wirtshaus-de-p412.webp",
+    "after": "changes/2026-11-12-332-lobby-kopfzeile/22-after-ak-wirtshaus-de-p412.webp"
+   },
+   {
+    "label": "Stil Arena",
+    "img": "changes/2026-11-12-332-lobby-kopfzeile/23-img-at-arena-en-1920x950.webp"
+   },
+   {
+    "label": "Stil Klar",
+    "img": "changes/2026-11-12-332-lobby-kopfzeile/24-img-at-klar-en-1920x950.webp"
+   }
+  ],
+  "sha": "be292309"
  }
 ]
