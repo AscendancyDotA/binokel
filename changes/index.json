@@ -14444,5 +14444,27 @@
    }
   ],
   "sha": "8bb88216"
+ },
+ {
+  "id": "play347-forms",
+  "date": "2026-11-12T09:03:10.409Z",
+  "title": "Ausspiel-Effekte: sechs Effekte, je drei wählbare Formen",
+  "text": "Jeder Ausspiel-Effekt hat drei Formen (aus den drei Claude-Läufen von #339). Die Wahl ist frei, wird gespeichert und alle am Tisch sehen sie. Gewählt wird neben ▶ in Mein Raum und im Laden.",
+  "issue": "wirtshaus#347",
+  "rows": [
+   {
+    "label": "Alle 6 Effekte × 3 Formen an einer Gegner-Karte, Desktop und Handy",
+    "img": "changes/2026-11-12-play347-forms/01-img-sheet-forms.webp"
+   },
+   {
+    "label": "Form-Wahl im Laden (Funkenregen, Form 3)",
+    "img": "changes/2026-11-12-play347-forms/02-img-kasse-stage-funken-f3-desktop.webp"
+   },
+   {
+    "label": "Mein Raum am Handy",
+    "img": "changes/2026-11-12-play347-forms/03-img-room-form3-phone.webp"
+   }
+  ],
+  "sha": "8bb88216"
  }
 ]
