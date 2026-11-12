@@ -14466,5 +14466,38 @@
    }
   ],
   "sha": "8bb88216"
+ },
+ {
+  "id": "stil-veredlung-544",
+  "date": "2026-11-12T13:44:03.961Z",
+  "title": "Entwurf: Stile und Veredlung – Omas Spitzendecke mit zwei Stilen",
+  "text": "Entwurf – noch nicht im Spiel. Frei wählbare Varianten eines Stücks heißen jetzt „Stil 1 · Stil 2 …“, die erspielten Stufen „Veredlung“ (englisch „Finish“). Omas Spitzendecke gibt es in zwei Stilen: das Häkeldeckchen (Stil 1) und den Spitzenläufer mit Spitzenband (Stil 2); die Wahl wird gespeichert und alle am Tisch sehen sie.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Mein Raum, Handy: Stil 1 → Stil 2",
+    "before": "changes/2026-11-12-stil-veredlung-544/01-before-ff-room-spitze-stil1-phone.webp",
+    "after": "changes/2026-11-12-stil-veredlung-544/02-after-ff-room-spitze-stil2-phone.webp"
+   },
+   {
+    "label": "Mein Raum, Desktop: Stil 1 → Stil 2",
+    "before": "changes/2026-11-12-stil-veredlung-544/03-before-ff-room-spitze-stil1-desktop.webp",
+    "after": "changes/2026-11-12-stil-veredlung-544/04-after-ff-room-spitze-stil2-desktop.webp"
+   },
+   {
+    "label": "Tisch zu viert: Bärbel trägt Stil 2, Christa Stil 1",
+    "img": "changes/2026-11-12-stil-veredlung-544/05-img-c299-s544-table4-desktop.webp"
+   },
+   {
+    "label": "Ausspiel-Effekt: Stil 1 · Stil 2 · Stil 3 (Handy)",
+    "img": "changes/2026-11-12-stil-veredlung-544/06-img-s544-playpicker-phone.webp"
+   },
+   {
+    "label": "Veredlung (deutsch) / Finish (englisch), Handy",
+    "before": "changes/2026-11-12-stil-veredlung-544/07-before-s544-veredlung-de-phone.webp",
+    "after": "changes/2026-11-12-stil-veredlung-544/08-after-s544-veredlung-en-phone.webp"
+   }
+  ],
+  "sha": "eba2a06b"
  }
 ]
