@@ -14519,8 +14519,8 @@
  {
   "id": "546-regeln-offener-tisch",
   "date": "2026-11-12T18:58:49.169Z",
-  "title": "Entwurf: Regeln am offenen Tisch anpassen",
-  "text": "Entwurf – noch nicht im Spiel. Solange der Tisch offen ist, ändert der Gastgeber im Warteraum mit „Regeln anpassen“ Spielende, Uhr und die anderen Regeln – im selben Formular wie beim Tisch aufmachen. Alle am Tisch sehen den neuen Stand sofort: der geänderte Chip leuchtet kurz auf, im Tisch-Chat steht, was sich geändert hat.",
+  "title": "Regeln am offenen Tisch anpassen",
+  "text": "Solange der Tisch offen ist, ändert der Gastgeber im Warteraum mit „Regeln anpassen“ Spielende, Uhr und die anderen Regeln – im selben Formular wie beim Tisch aufmachen. Alle am Tisch sehen den neuen Stand sofort: der geänderte Chip leuchtet kurz auf, im Tisch-Chat steht, was sich geändert hat.",
   "issue": "wirtshaus#332",
   "rows": [
    {
