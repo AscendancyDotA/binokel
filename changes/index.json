@@ -14421,5 +14421,28 @@
    }
   ],
   "sha": "8bb88216"
+ },
+ {
+  "id": "cloth337-oma-halo",
+  "date": "2026-11-12T05:12:00.203Z",
+  "title": "Tischdecken: Omas Häkelspitze und Namen mit Schein statt Abblendung",
+  "text": "Nacharbeit nach Besitzer-Rückmeldung 11.11. (Commit 42783321): Omas Spitzendecke neu als Häkelspitze in zwei Varianten (A Häkeldeckchen = Standard, B Spitzenläufer hinter dem Schalter localStorage binokel.dev.spitze=b). Die Abblendung unter Namen und Bildern ist weg, die Namen tragen einen dunklen Schein: 0 von 90 gemessenen Namen unter 4,5:1 (vorher 44 von 84). Hauptagent-Review: A liest sich klar als Deckchen, Empfehlung A. Offen: Die Unterzeile (Vorhand · Partner · 1500) hat auf hellen Decken wenig Kontrast; Firefox nicht geprüft.",
+  "issue": "wirtshaus#337",
+  "rows": [
+   {
+    "label": "Omas Decke, Variante A Häkeldeckchen",
+    "img": "changes/2026-11-12-cloth337-oma-halo/01-img-omaa-binokel-o0-desktop.webp"
+   },
+   {
+    "label": "Variante B Spitzenläufer",
+    "img": "changes/2026-11-12-cloth337-oma-halo/02-img-omab-binokel-o0-desktop.webp"
+   },
+   {
+    "label": "Namen auf Decken, vorher (Abblendung) / nachher (Schein)",
+    "before": "changes/2026-11-12-cloth337-oma-halo/03-before-before-binokel-o13-desktop.webp",
+    "after": "changes/2026-11-12-cloth337-oma-halo/04-after-after-binokel-o13-desktop.webp"
+   }
+  ],
+  "sha": "8bb88216"
  }
 ]
