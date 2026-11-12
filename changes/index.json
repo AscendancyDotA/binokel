@@ -14504,5 +14504,24 @@
    }
   ],
   "sha": "a27ffb60"
+ },
+ {
+  "id": "laden-schaufenster-live",
+  "date": "2026-11-12T14:05:45.033Z",
+  "title": "Der Laden zeigt sofort die Stücke",
+  "text": "Im Laden stehen die Stücke gleich auf dem ersten Bildschirm. Antippen öffnet „Mein Raum“ mit dem Stück anprobiert; neu sind die Reihen „Neu“ und „Sätze“.",
+  "issue": "wirtshaus#329",
+  "rows": [
+   {
+    "label": "Laden am Handy",
+    "before": "changes/2026-11-12-laden-schaufenster-live/01-before-before-phone-1-laden.webp",
+    "after": "changes/2026-11-12-laden-schaufenster-live/02-after-after-phone-1-laden.webp"
+   },
+   {
+    "label": "Nach dem Antippen: Mein Raum",
+    "img": "changes/2026-11-12-laden-schaufenster-live/03-img-after-phone-5-raum.webp"
+   }
+  ],
+  "sha": "a27ffb60"
  }
 ]
