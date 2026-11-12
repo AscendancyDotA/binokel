@@ -14438,8 +14438,8 @@
  {
   "id": "play347-forms",
   "date": "2026-11-12T09:03:10.409Z",
-  "title": "Ausspiel-Effekte: sechs Effekte, je drei wählbare Formen",
-  "text": "Jeder Ausspiel-Effekt hat drei Formen (aus den drei Claude-Läufen von #339). Die Wahl ist frei, wird gespeichert und alle am Tisch sehen sie. Gewählt wird neben ▶ in Mein Raum und im Laden.",
+  "title": "Ausspiel-Effekte: sechs Effekte, je drei wählbare Stile",
+  "text": "Jeder Ausspiel-Effekt hat drei Stile. Die Wahl ist frei, wird gespeichert, und alle am Tisch sehen sie.",
   "issue": "wirtshaus#347",
   "rows": [
    {
