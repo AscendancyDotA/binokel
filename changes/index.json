@@ -14343,8 +14343,8 @@
  {
   "id": "fixes-334-nordreihe",
   "date": "2026-11-11T12:00:13.203Z",
-  "title": "Entwurf: Obere Sitzreihe im Handy-Querformat sitzt höher (alle Spiele ab 5 Plätzen)",
-  "text": "Entwurf – noch nicht im Spiel. Oben vorher, unten nachher. Die oberen Plätze rücken in die freie Mitte der Kopfzeile, statt dass die Tischmitte nach unten weicht.",
+  "title": "Handy quer: Die oberen Plätze sitzen höher (Tische ab 5 Plätzen)",
+  "text": "Oben vorher, unten nachher. Die oberen Plätze rücken in die freie Mitte der Kopfzeile, die Tischmitte bleibt frei.",
   "issue": "wirtshaus#335",
   "rows": [
    {
