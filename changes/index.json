@@ -14489,5 +14489,20 @@
    }
   ],
   "sha": "eba2a06b"
+ },
+ {
+  "id": "schocken-78-handy",
+  "date": "2026-11-12T14:05:37.565Z",
+  "title": "Schocken zu siebt und acht am Handy: jedes Schild über seiner Würfelspalte",
+  "text": "Die Namen sind lesbar, und jedes Schild steht über den eigenen Würfeln: Die Schilder wechseln sich in zwei Reihen ab.",
+  "issue": "wirtshaus#335",
+  "rows": [
+   {
+    "label": "Schocken zu acht, Handy 360 px",
+    "before": "changes/2026-11-12-schocken-78-handy/01-before-play-schocken8-360x800.webp",
+    "after": "changes/2026-11-12-schocken-78-handy/02-after-shot-schocken8-360-after.webp"
+   }
+  ],
+  "sha": "a27ffb60"
  }
 ]
