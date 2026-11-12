@@ -14318,8 +14318,8 @@
  {
   "id": "stash-label-layer",
   "date": "2026-11-11T11:45:20.668Z",
-  "title": "Entwurf: Einsatz-Kosmetik verdeckt nie mehr den Taler-Zähler",
-  "text": "Entwurf – noch nicht im Spiel.",
+  "title": "Einsatz-Kosmetik verdeckt den Taler-Zähler nicht mehr",
+  "text": "Scheine, Truhe und Goldhort bleiben in ihrem Feld, die Zahl steht immer davor.",
   "issue": "wirtshaus#338",
   "rows": [
    {
