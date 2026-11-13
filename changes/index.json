@@ -14788,5 +14788,35 @@
    }
   ],
   "sha": "9d9d7994"
+ },
+ {
+  "id": "344-raum-tisch-kasten",
+  "date": "2026-11-13T06:05:34.975Z",
+  "title": "Mein Raum, „Am echten Tisch“: Plätze und Hand passen in den Kasten",
+  "text": "Ursache: Der Tisch wurde für eine größere Höhe aufgestellt, als der Kasten hat (in deinem Fenster 748 statt 533 px). Deshalb lag die Hand unter dem Rand und dein Platz saß auf dem linken Nachbarn; am Handy lagen bei 6 Spielern die Namen links und rechts aufeinander. Jetzt wird in der echten Kastenhöhe aufgestellt. Am Handy ist die Hand ganz zu sehen; in deinem Desktop-Fenster zeigt der niedrige Kasten die obere Hälfte der Karten (Wert und Farbe), nicht die ganze Karte. Noch offen: Bei 6 Spielern in sehr niedrigen Kästen (360 px breites Handy) berührt dein Platz den linken Nachbarn, und der Titel „Mein Raum · Vorschau“ klebt am linken Rand und ist dort angeschnitten (war vorher schon so) – beides nehme ich mir als Nächstes vor.",
+  "issue": "wirtshaus#344",
+  "rows": [
+   {
+    "label": "Dein Fenster 686×954, 4 Spieler",
+    "before": "changes/2026-11-13-344-raum-tisch-kasten/01-before-before-686x954-n4.webp",
+    "after": "changes/2026-11-13-344-raum-tisch-kasten/02-after-room344-686x954-n4.webp"
+   },
+   {
+    "label": "686×954, 6 Spieler",
+    "before": "changes/2026-11-13-344-raum-tisch-kasten/03-before-before-686x954-n6.webp",
+    "after": "changes/2026-11-13-344-raum-tisch-kasten/04-after-room344-686x954-n6.webp"
+   },
+   {
+    "label": "Handy 412×915, 6 Spieler",
+    "before": "changes/2026-11-13-344-raum-tisch-kasten/05-before-before-412x915m-n6.webp",
+    "after": "changes/2026-11-13-344-raum-tisch-kasten/06-after-room344-412x915m-n6.webp"
+   },
+   {
+    "label": "Handy 360×740, 4 Spieler",
+    "before": "changes/2026-11-13-344-raum-tisch-kasten/07-before-before-360x740m-n4.webp",
+    "after": "changes/2026-11-13-344-raum-tisch-kasten/08-after-room344-360x740m-n4.webp"
+   }
+  ],
+  "sha": "9d9d7994"
  }
 ]
