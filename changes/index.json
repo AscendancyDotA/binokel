@@ -14618,5 +14618,26 @@
    }
   ],
   "sha": "be292309"
+ },
+ {
+  "id": "547-entwickler-anzeige",
+  "date": "2026-11-13T03:15:43.098Z",
+  "title": "Entwickler-Einstellungen: Leistungsanzeige",
+  "text": "Unter Einstellungen → Hilfe & Über → Mehr Einstellungen gibt es „Entwickler“: eine kleine Anzeige oben links mit Bildern pro Sekunde, Auslastung des Haupt-Threads (geschätzt), Hängern ab 50 ms und der Zahl laufender Dauer-Animationen. Ein Schalter hält die Dauer-Animationen an, ein Knopf kopiert die Messwerte als Text.",
+  "rows": [
+   {
+    "label": "Anzeige im Shop",
+    "img": "changes/2026-11-13-547-entwickler-anzeige/01-img-meter-desktop.webp"
+   },
+   {
+    "label": "Dauer-Animationen angehalten",
+    "img": "changes/2026-11-13-547-entwickler-anzeige/02-img-halted-desktop.webp"
+   },
+   {
+    "label": "Einstellungen am Handy",
+    "img": "changes/2026-11-13-547-entwickler-anzeige/03-img-settings-phone.webp"
+   }
+  ],
+  "sha": "d2ccb926"
  }
 ]
