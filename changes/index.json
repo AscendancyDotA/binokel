@@ -15093,8 +15093,8 @@
  {
   "id": "pub29-lupfer-tabelle",
   "date": "2026-11-13T16:24:55.996Z",
-  "title": "Entwurf: Lupfen – wer lupft, steht in der Tabelle",
-  "text": "Entwurf – noch nicht im Spiel. Wer in der Runde lupft, bekommt in der Tabelle einen Stern und einen Rahmen in seiner Farbe, wie bei Binokel der Spielmacher; neben den anderen steht klein „mit“ oder „passt“. Am Sitzschild steht der Stern hinter dem Namen.",
+  "title": "Lupfen: wer lupft, steht in der Tabelle",
+  "text": "Wer in der Runde lupft, bekommt in der Tabelle einen Stern und einen Rahmen in seiner Farbe; bei den anderen steht „mit“ oder „passt“ neben dem Namen.",
   "issue": "binokel#29",
   "rows": [
    {
