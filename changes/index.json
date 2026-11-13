@@ -14769,5 +14769,24 @@
    }
   ],
   "sha": "92ebef83"
+ },
+ {
+  "id": "354-kartenruecken-bewegung",
+  "date": "2026-11-13T05:33:29.156Z",
+  "title": "Bewegte Kartenrücken laufen jetzt an jedem Platz",
+  "text": "Du hattest recht, und die Ursache war gröber als gedacht: Am Tisch lief die Bewegung fast nie. Sie hängt an der obersten Karte des Fächers, und die Regel fand diese Karte nur dort, wo der Kartenzähler in der Namenszeile steht (Seitenplätze am Handy). Überall sonst – Desktop, Zuschauen, oberer Platz – traf sie nichts. Dasselbe galt für den Lichtstreif des Goldrückens, den Schein des Goldschnitts und den Rand der Höllenglut. Jetzt läuft alles an jedem Platz. Dazu flackert das Neon-Schild deutlicher: alle 5 s geht es zweimal kurz aus (vorher alle 7 s einmal und nur 28 % dunkler). Nicht bewegt bleiben der Dabb und die eigene Hand; bei Animationen „aus“ oder „sanft“ steht alles still. Der Höllenglut-Rand steht jetzt ruhig und die Glut in der Karte atmet – die alte Rand-Schleife hätte an jedem Platz zu viel Rechenzeit gekostet.",
+  "issue": "wirtshaus#354",
+  "rows": [
+   {
+    "label": "Zuschauer am Desktop, Fächer 3-fach vergrößert: Schild ohne / mit Leuchten",
+    "before": "changes/2026-11-13-354-kartenruecken-bewegung/01-before-spec-neon-before.webp",
+    "after": "changes/2026-11-13-354-kartenruecken-bewegung/02-after-spec-neon.webp"
+   },
+   {
+    "label": "Schild an / aus",
+    "img": "changes/2026-11-13-354-kartenruecken-bewegung/03-img-354-neon.webp"
+   }
+  ],
+  "sha": "9d9d7994"
  }
 ]
