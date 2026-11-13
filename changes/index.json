@@ -15010,5 +15010,20 @@
    }
   ],
   "sha": "b4786991"
+ },
+ {
+  "id": "pub29-kasse-reiter",
+  "date": "2026-11-13T15:12:05.093Z",
+  "title": "Kasse: Pfeil zeigt weitere Reiter",
+  "text": "Passen nicht alle Reiter der Kasse in die Zeile, blendet der Rand aus und ein kleiner Pfeil scrollt weiter – wie bei den Räumen der Taverne. Der gewählte Reiter rückt immer ins Bild.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 508 px, größte Größe",
+    "before": "changes/2026-11-13-pub29-kasse-reiter/01-before-max508-de-kasse-row.webp",
+    "after": "changes/2026-11-13-pub29-kasse-reiter/02-after-max508-de-kasse-row.webp"
+   }
+  ],
+  "sha": "b4786991"
  }
 ]
