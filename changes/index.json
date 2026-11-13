@@ -14928,5 +14928,20 @@
    }
   ],
   "sha": "ce2c8680"
+ },
+ {
+  "id": "pub29-tischdecke",
+  "date": "2026-11-13T13:54:48.709Z",
+  "title": "Tischdecken: kein Zipfel mehr in der Tischecke",
+  "text": "Beim Zuschauen liegen die Tischdecken vor dem richtigen Spieler, auch nach dem Wechsel der Sicht. Wo vor einem Platz kein Streifen Tisch mehr frei ist (gedrehtes Handy, größte Größen, oben und unten), bleibt die Decke weg statt als schmaler Zipfel in der Ecke zu liegen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Binokel, gedrehtes Handy 1085×508, größte Größen",
+    "before": "changes/2026-11-13-pub29-tischdecke/01-before-tisch559-bk-1085x508-max-top.webp",
+    "after": "changes/2026-11-13-pub29-tischdecke/02-after-tisch559-bk-1085x508-max-top.webp"
+   }
+  ],
+  "sha": "ce2c8680"
  }
 ]
