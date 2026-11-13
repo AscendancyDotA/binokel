@@ -14943,5 +14943,30 @@
    }
   ],
   "sha": "ce2c8680"
+ },
+ {
+  "id": "item565-settings-reset",
+  "date": "2026-11-13T14:51:31.108Z",
+  "title": "Einstellungen: Zurücksetzen pro Seite, Server-Adresse bei den Entwicklern",
+  "text": "Jede Einstellungs-Seite hat unten „Diese Seite auf Standard“ und setzt nur zurück, was auf dieser Seite steht. „Alles auf Standard“ lässt Werbe-Einstellungen, Konto und Server-Adresse in Ruhe. Die Server-Adresse steht jetzt unter Hilfe & Über → Mehr bei „Entwickler“, mit einem Warnhinweis.",
+  "issue": "wirtshaus#359",
+  "rows": [
+   {
+    "label": "Handy: Server-Adresse vorher unter Konto, jetzt unter Entwickler",
+    "before": "changes/2026-11-13-item565-settings-reset/01-before-phone-account-more.webp",
+    "after": "changes/2026-11-13-item565-settings-reset/02-after-phone-help-more.webp"
+   },
+   {
+    "label": "Handy: unten auf jeder Seite „Diese Seite auf Standard“",
+    "before": "changes/2026-11-13-item565-settings-reset/03-before-phone-game-end.webp",
+    "after": "changes/2026-11-13-item565-settings-reset/04-after-phone-game-end.webp"
+   },
+   {
+    "label": "Desktop: die Rückfrage sagt, was bleibt",
+    "before": "changes/2026-11-13-item565-settings-reset/05-before-desk-confirm.webp",
+    "after": "changes/2026-11-13-item565-settings-reset/06-after-desk-confirm.webp"
+   }
+  ],
+  "sha": "ae789683"
  }
 ]
