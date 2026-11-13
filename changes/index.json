@@ -15059,5 +15059,35 @@
    }
   ],
   "sha": "99844848"
+ },
+ {
+  "id": "item565-entwurf-blocks",
+  "date": "2026-11-13T15:36:37.622Z",
+  "title": "Entwurf: Einstellungen mit aufklappbaren Blöcken",
+  "text": "Entwurf – noch nicht im Spiel. Zusammengehörige Einstellungen stehen in aufklappbaren Blöcken; zugeklappt zeigt jeder Block in einer Zeile, was eingestellt ist. „Karten & Aussehen“ ist auf dem Handy nur noch gut eine Bildschirmhöhe lang statt fast drei.",
+  "issue": "wirtshaus#359",
+  "rows": [
+   {
+    "label": "Handy: Karten & Aussehen",
+    "before": "changes/2026-11-13-item565-entwurf-blocks/01-before-phone-looks-end.webp",
+    "after": "changes/2026-11-13-item565-entwurf-blocks/02-after-phone-looks-end.webp"
+   },
+   {
+    "label": "Handy: Spiel & Tisch",
+    "before": "changes/2026-11-13-item565-entwurf-blocks/03-before-phone-game.webp",
+    "after": "changes/2026-11-13-item565-entwurf-blocks/04-after-phone-game.webp"
+   },
+   {
+    "label": "Handy: Ton & Vibration",
+    "before": "changes/2026-11-13-item565-entwurf-blocks/05-before-phone-sound-end.webp",
+    "after": "changes/2026-11-13-item565-entwurf-blocks/06-after-phone-sound-end.webp"
+   },
+   {
+    "label": "Desktop: Karten & Aussehen",
+    "before": "changes/2026-11-13-item565-entwurf-blocks/07-before-desk-looks.webp",
+    "after": "changes/2026-11-13-item565-entwurf-blocks/08-after-desk-looks.webp"
+   }
+  ],
+  "sha": "d41083e0"
  }
 ]
