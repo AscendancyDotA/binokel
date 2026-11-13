@@ -14749,5 +14749,25 @@
    }
   ],
   "sha": "92ebef83"
+ },
+ {
+  "id": "351-kreidestaub",
+  "date": "2026-11-13T05:12:39.183Z",
+  "title": "Ausspiel-Effekt „Kreidestaub“ neu gezeichnet",
+  "text": "Du hattest recht: Drei Striche neben der Karte sind eine Strichliste – Buchführung, kein Aufprall, und Staub war auch keiner dabei. Neu: Die Karte schlägt auf, rundum platzen kurze Kreidestriche heraus, an der Kante steht ein Staubrand, Krümel fallen. Weil die drei Stile dieselbe Idee dreimal waren, gibt es für Kreidestaub nur noch diese eine Zeichnung (keine Stil-Knöpfe mehr; wer Stil 2/3 gewählt hatte, sieht die neue). Gefällt es dir nicht, nehme ich es zurück oder zeichne etwas anderes.",
+  "issue": "wirtshaus#351",
+  "rows": [
+   {
+    "label": "Vorschau-Bühne, 0,3 s nach dem Aufschlag",
+    "before": "changes/2026-11-13-351-kreidestaub/01-before-351-stage-before.webp",
+    "after": "changes/2026-11-13-351-kreidestaub/02-after-351-stage-after.webp"
+   },
+   {
+    "label": "Shop-Kachel: Ablauf (60 / 130 / 300 / 550 / 800 ms)",
+    "before": "changes/2026-11-13-351-kreidestaub/03-before-351-frames-before.webp",
+    "after": "changes/2026-11-13-351-kreidestaub/04-after-351-frames-after.webp"
+   }
+  ],
+  "sha": "92ebef83"
  }
 ]
