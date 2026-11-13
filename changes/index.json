@@ -14685,7 +14685,7 @@
   "id": "350-stapel-am-rand",
   "date": "2026-11-13T05:11:49.554Z",
   "title": "Chip-Stapel der Spieler: am Tischrand und nach Stand verschieden groß",
-  "text": "Was ein Spieler noch hat, liegt jetzt an der Rand-Seite seines Platzes – in der Mitte liegt nur noch der Pott. Die Stapel (und Truhen) sind unter sich verschieden groß: Breite nach dem Anteil am Durchschnitt des Tisches, 0,7- bis 1,4-fach. Deine drei Truhen mit 113 / 122 / 155 wären jetzt 0,9 / 0,95 / 1,15 – 113 und 122 bleiben fast gleich, weil sie fast gleich sind. Am Handy bleibt der Stapel des oberen Platzes unter dem Namen (darüber ist die Kopfzeile).",
+  "text": "Was ein Spieler noch hat, liegt jetzt an der Rand-Seite seines Platzes – in der Mitte liegt nur noch der Pott. Die Stapel (und Truhen) sind verschieden groß: Breite nach dem Anteil am Durchschnitt des Tisches, 0,7- bis 1,4-fach. Am Handy bleibt der Stapel des oberen Platzes unter dem Namen (darüber ist die Kopfzeile).",
   "issue": "wirtshaus#350",
   "rows": [
    {
@@ -14754,7 +14754,7 @@
   "id": "351-kreidestaub",
   "date": "2026-11-13T05:12:39.183Z",
   "title": "Ausspiel-Effekt „Kreidestaub“ neu gezeichnet",
-  "text": "Du hattest recht: Drei Striche neben der Karte sind eine Strichliste – Buchführung, kein Aufprall, und Staub war auch keiner dabei. Neu: Die Karte schlägt auf, rundum platzen kurze Kreidestriche heraus, an der Kante steht ein Staubrand, Krümel fallen. Weil die drei Stile dieselbe Idee dreimal waren, gibt es für Kreidestaub nur noch diese eine Zeichnung (keine Stil-Knöpfe mehr; wer Stil 2/3 gewählt hatte, sieht die neue). Gefällt es dir nicht, nehme ich es zurück oder zeichne etwas anderes.",
+  "text": "Statt einer Strichliste neben der Karte: Die Karte schlägt auf, rundum platzen kurze Kreidestriche heraus, an der Kante steht ein Staubrand, Krümel fallen. Für Kreidestaub gibt es nur noch diese eine Zeichnung (keine Stil-Knöpfe mehr; wer Stil 2 oder 3 gewählt hatte, sieht die neue).",
   "issue": "wirtshaus#351",
   "rows": [
    {
@@ -14774,7 +14774,7 @@
   "id": "354-kartenruecken-bewegung",
   "date": "2026-11-13T05:33:29.156Z",
   "title": "Bewegte Kartenrücken laufen jetzt an jedem Platz",
-  "text": "Du hattest recht, und die Ursache war gröber als gedacht: Am Tisch lief die Bewegung fast nie. Sie hängt an der obersten Karte des Fächers, und die Regel fand diese Karte nur dort, wo der Kartenzähler in der Namenszeile steht (Seitenplätze am Handy). Überall sonst – Desktop, Zuschauen, oberer Platz – traf sie nichts. Dasselbe galt für den Lichtstreif des Goldrückens, den Schein des Goldschnitts und den Rand der Höllenglut. Jetzt läuft alles an jedem Platz. Dazu flackert das Neon-Schild deutlicher: alle 5 s geht es zweimal kurz aus (vorher alle 7 s einmal und nur 28 % dunkler). Nicht bewegt bleiben der Dabb und die eigene Hand; bei Animationen „aus“ oder „sanft“ steht alles still. Der Höllenglut-Rand steht jetzt ruhig und die Glut in der Karte atmet – die alte Rand-Schleife hätte an jedem Platz zu viel Rechenzeit gekostet.",
+  "text": "Die Bewegung der Kartenrücken lief am Tisch bisher nur an den Seitenplätzen am Handy. Jetzt läuft sie an jedem Platz, auch am Desktop und beim Zuschauen – ebenso der Lichtstreif des Goldrückens, der Schein des Goldschnitts und die Höllenglut. Das Neon-Schild flackert deutlicher: alle 5 s geht es zweimal kurz aus. Nicht bewegt bleiben der Dabb und die eigene Hand; bei Animationen „aus“ oder „sanft“ steht alles still. Der Rand der Höllenglut steht jetzt ruhig, die Glut in der Karte atmet.",
   "issue": "wirtshaus#354",
   "rows": [
    {
@@ -14793,11 +14793,11 @@
   "id": "344-raum-tisch-kasten",
   "date": "2026-11-13T06:05:34.975Z",
   "title": "Mein Raum, „Am echten Tisch“: Plätze und Hand passen in den Kasten",
-  "text": "Ursache: Der Tisch wurde für eine größere Höhe aufgestellt, als der Kasten hat (in deinem Fenster 748 statt 533 px). Deshalb lag die Hand unter dem Rand und dein Platz saß auf dem linken Nachbarn; am Handy lagen bei 6 Spielern die Namen links und rechts aufeinander. Jetzt wird in der echten Kastenhöhe aufgestellt. Am Handy ist die Hand ganz zu sehen; in deinem Desktop-Fenster zeigt der niedrige Kasten die obere Hälfte der Karten (Wert und Farbe), nicht die ganze Karte. Noch offen: Bei 6 Spielern in sehr niedrigen Kästen (360 px breites Handy) berührt dein Platz den linken Nachbarn, und der Titel „Mein Raum · Vorschau“ klebt am linken Rand und ist dort angeschnitten (war vorher schon so) – beides nehme ich mir als Nächstes vor.",
+  "text": "Der Tisch wurde für eine größere Höhe aufgestellt, als der Kasten hat. Deshalb lag die Hand unter dem Rand und der eigene Platz saß auf dem linken Nachbarn; am Handy lagen bei 6 Spielern die Namen links und rechts aufeinander. Jetzt wird in der echten Kastenhöhe aufgestellt. Am Handy ist die Hand ganz zu sehen; in einem niedrigen Desktop-Fenster zeigt der Kasten die obere Hälfte der Karten (Wert und Farbe). Noch offen: Bei 6 Spielern in sehr niedrigen Kästen (360 px breites Handy) berührt der eigene Platz den linken Nachbarn.",
   "issue": "wirtshaus#344",
   "rows": [
    {
-    "label": "Dein Fenster 686×954, 4 Spieler",
+    "label": "Fenster 686×954, 4 Spieler",
     "before": "changes/2026-11-13-344-raum-tisch-kasten/01-before-before-686x954-n4.webp",
     "after": "changes/2026-11-13-344-raum-tisch-kasten/02-after-room344-686x954-n4.webp"
    },
@@ -14823,7 +14823,7 @@
   "id": "549-warteraum-teams",
   "date": "2026-11-13T06:22:08.070Z",
   "title": "Warteraum mit Teams",
-  "text": "Aus dem Vergleich mit der Dota-Lobby: Bei Spielen mit festen Partnern stehen die Plätze als zwei Team-Blöcke (am Handy untereinander), das Team des Gastgebers zuerst. Jeder freie Platz hat „Hier hinsetzen“ – wer schon sitzt, wechselt dorthin (ruhiger Knopf), wer zuschaut, setzt sich genau dort hin. Der Gastgeber kann die Plätze mischen, und Zuschauer stehen mit Namen unter den Plätzen. Gegenüber dem Entwurf von heute früh geändert: „Hier hinsetzen“ ist für Sitzende kein gefüllter Knopf mehr, damit „Los geht's“ der einzige laute bleibt. Dein weißes Namensfeld mit blauem Rand ist das Emaille-Schild und bleibt, wie es ist. Dabei behoben: An Tischen mit mehr als vier Plätzen (Lupfen, Poker, Rommé …) ließen sich Bots auf Platz 5 und höher nicht setzen oder entfernen.",
+  "text": "Bei Spielen mit festen Partnern stehen die Plätze als zwei Team-Blöcke (am Handy untereinander), das Team des Gastgebers zuerst. Jeder freie Platz hat „Hier hinsetzen“ – wer schon sitzt, wechselt dorthin, wer zuschaut, setzt sich genau dort hin. Der Gastgeber kann die Plätze mischen, und Zuschauer stehen mit Namen unter den Plätzen. Dabei behoben: An Tischen mit mehr als vier Plätzen ließen sich Bots auf Platz 5 und höher nicht setzen oder entfernen.",
   "issue": "wirtshaus#332",
   "rows": [
    {
