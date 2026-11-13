@@ -15044,8 +15044,8 @@
  {
   "id": "pub29-sprachknoepfe-entwurf",
   "date": "2026-11-13T15:14:44.792Z",
-  "title": "Entwurf: Sprach-Knöpfe in der Taverne in einer Zeile",
-  "text": "Entwurf – noch nicht im Spiel. Mikro, Kamera, Anzahl im Sprachchat und Verlassen stehen als runde Symbol-Knöpfe in einer Zeile; an ist grün, aus ist umrandet und durchgestrichen.",
+  "title": "Taverne: Sprach-Knöpfe in einer Zeile",
+  "text": "Mikro, Kamera, Anzahl im Sprachchat und Verlassen stehen als runde Symbol-Knöpfe in einer Zeile; an ist grün, aus ist umrandet und durchgestrichen.",
   "issue": "binokel#29",
   "rows": [
    {
