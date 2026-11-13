@@ -15054,11 +15054,6 @@
     "after": "changes/2026-11-13-pub29-sprachknoepfe-entwurf/02-after-v508-en-voice.webp"
    },
    {
-    "label": "Handy 444 px (de) und 360 px (Schwäbisch)",
-    "before": "changes/2026-11-13-pub29-sprachknoepfe-entwurf/03-before-v444-de-voice.webp",
-    "after": "changes/2026-11-13-pub29-sprachknoepfe-entwurf/04-after-v360-swb-voice.webp"
-   },
-   {
     "label": "Desktop 1280×800",
     "img": "changes/2026-11-13-pub29-sprachknoepfe-entwurf/05-img-vdesk-de-voice.webp"
    }
