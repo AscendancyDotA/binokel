@@ -15141,5 +15141,50 @@
    }
   ],
   "sha": "fcc3dd83"
+ },
+ {
+  "id": "w358-schriftschutz",
+  "date": "2026-11-13T23:16:09.610Z",
+  "title": "Entwurf: kleine Schrift am Tisch bleibt auf jeder Decke lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Die kleinen Texte am Platz (Name, Zeile darunter, Rollen-Marke, „kurz weg“, Punktetafel, „Dabb“) tragen einen gemeinsamen Schein in der Grundfarbe des Skins. Auf hellen Decken (Leinen, Spitze) und auf Klar mit dunklen Decken (Samt, Höllenfeuer) waren sie vorher teils unlesbar.",
+  "issue": "wirtshaus#358",
+  "rows": [
+   {
+    "label": "„kurz weg“ auf der Leinen-Decke (Handy)",
+    "before": "changes/2026-11-13-w358-schriftschutz/01-before-kurzweg-before.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/02-after-kurzweg-after.webp"
+   },
+   {
+    "label": "Klar mit Samt-Decke: Zeile unter dem Namen",
+    "before": "changes/2026-11-13-w358-schriftschutz/03-before-klar-before.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/04-after-klar-after.webp"
+   },
+   {
+    "label": "Name und Zeile in Spielerfarbe auf dem grünen Filz",
+    "before": "changes/2026-11-13-w358-schriftschutz/05-before-name-before.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/06-after-name-after.webp"
+   },
+   {
+    "label": "„Dabb“ auf dem Filz (Handy)",
+    "before": "changes/2026-11-13-w358-schriftschutz/07-before-dabb-before.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/08-after-dabb-after.webp"
+   },
+   {
+    "label": "Punktetafel über den Decken (Lupfen, Handy)",
+    "before": "changes/2026-11-13-w358-schriftschutz/09-before-tafel-before.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/10-after-tafel-after.webp"
+   },
+   {
+    "label": "Ganzer Tisch Handy 444×987 (Binokel, Leinen- und andere Decken)",
+    "before": "changes/2026-11-13-w358-schriftschutz/11-before-beforecrop-binokel_4_wirtshaus_std_phone_base.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/12-after-aftercrop-binokel_4_wirtshaus_std_phone_base.webp"
+   },
+   {
+    "label": "Ganzer Tisch Desktop 1280×800 (Klar, dunkle Decken)",
+    "before": "changes/2026-11-13-w358-schriftschutz/13-before-beforecrop-binokel_2_klar_std_desktop_base.webp",
+    "after": "changes/2026-11-13-w358-schriftschutz/14-after-aftercrop-binokel_2_klar_std_desktop_base.webp"
+   }
+  ],
+  "sha": "7dff0089"
  }
 ]
