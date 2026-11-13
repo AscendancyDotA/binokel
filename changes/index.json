@@ -14704,5 +14704,30 @@
    }
   ],
   "sha": "92ebef83"
+ },
+ {
+  "id": "352-bierkeller-faesser",
+  "date": "2026-11-13T05:12:06.348Z",
+  "title": "Bierkeller: gezeichnete Fässer statt Ringe",
+  "text": "Die Fässer waren Ringe aus Farbverläufen, sechs Stück, vier davon vom Bildrand halbiert. Jetzt sind es gezeichnete Fässer von oben: oben rechts und unten links je ein stehendes (Bretter-Deckel im Eisenreifen) und ein liegendes, das halb unter dem Tisch steckt. Bei sechs Spielern sitzen in den Ecken Plätze – dort schaut dann weniger Fass heraus.",
+  "issue": "wirtshaus#352",
+  "rows": [
+   {
+    "label": "Binokel zu viert",
+    "before": "changes/2026-11-13-352-bierkeller-faesser/01-before-bk4-desktop-keller.webp",
+    "after": "changes/2026-11-13-352-bierkeller-faesser/02-after-bk4-desktop-keller.webp"
+   },
+   {
+    "label": "Lupfen zu sechst",
+    "before": "changes/2026-11-13-352-bierkeller-faesser/03-before-lf6-desktop-keller.webp",
+    "after": "changes/2026-11-13-352-bierkeller-faesser/04-after-lf6-desktop-keller.webp"
+   },
+   {
+    "label": "Handy",
+    "before": "changes/2026-11-13-352-bierkeller-faesser/05-before-bk4-phone-keller.webp",
+    "after": "changes/2026-11-13-352-bierkeller-faesser/06-after-bk4-phone-keller.webp"
+   }
+  ],
+  "sha": "92ebef83"
  }
 ]
