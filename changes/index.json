@@ -14913,5 +14913,20 @@
    }
   ],
   "sha": "ce2c8680"
+ },
+ {
+  "id": "pub29-taverne-kamera",
+  "date": "2026-11-13T13:54:39.301Z",
+  "title": "Taverne am Tisch: ganzes Kamerabild, „Letzter Stich“ frei",
+  "text": "Mit offener Taverne ist das eigene Kamerabild eine ganze Kachel im Seitenverhältnis 4:3 statt eines abgeschnittenen Streifens. Der Knopf „Letzter Stich“ rückt unter einen Mitspieler, auf dessen Bild er sonst läge.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy hochkant 508×1085, größte Größen, Taverne offen",
+    "before": "changes/2026-11-13-pub29-taverne-kamera/01-before-tisch559-lf-508x1085-max-drawer.webp",
+    "after": "changes/2026-11-13-pub29-taverne-kamera/02-after-tisch559-lf-508x1085-max-drawer.webp"
+   }
+  ],
+  "sha": "ce2c8680"
  }
 ]
