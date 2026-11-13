@@ -14729,5 +14729,25 @@
    }
   ],
   "sha": "92ebef83"
+ },
+ {
+  "id": "353-sprueche-kacheln",
+  "date": "2026-11-13T05:12:23.751Z",
+  "title": "Shop: Sprüche-Pakete in den schmalen Kacheln nicht mehr abgeschnitten",
+  "text": "Das Bild der schmalen Kachel ist 62 px hoch – die Zeilen mit Worten waren mitten durchgeschnitten, Stufen-Marke und Vorschau-Knopf lagen darüber. Dort zeigt ein Paket jetzt nur seine Emojis in einer Reihe (wie der Chip in „Mein Raum“), sie bewegen sich weiter reihum. Die Worte stehen in der Vorschau (▶) und auf der großen Karte.",
+  "issue": "wirtshaus#353",
+  "rows": [
+   {
+    "label": "Desktop",
+    "before": "changes/2026-11-13-353-sprueche-kacheln/01-before-353-desk-before.webp",
+    "after": "changes/2026-11-13-353-sprueche-kacheln/02-after-353-desk-after.webp"
+   },
+   {
+    "label": "Handy 360 px",
+    "before": "changes/2026-11-13-353-sprueche-kacheln/03-before-353-phone-before.webp",
+    "after": "changes/2026-11-13-353-sprueche-kacheln/04-after-353-phone-after.webp"
+   }
+  ],
+  "sha": "92ebef83"
  }
 ]
