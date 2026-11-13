@@ -15145,8 +15145,8 @@
  {
   "id": "w358-schriftschutz",
   "date": "2026-11-13T23:16:09.610Z",
-  "title": "Entwurf: kleine Schrift am Tisch bleibt auf jeder Decke lesbar",
-  "text": "Entwurf – noch nicht im Spiel. Die kleinen Texte am Platz (Name, Zeile darunter, Rollen-Marke, „kurz weg“, Punktetafel, „Dabb“) tragen einen gemeinsamen Schein in der Grundfarbe des Skins. Auf hellen Decken (Leinen, Spitze) und auf Klar mit dunklen Decken (Samt, Höllenfeuer) waren sie vorher teils unlesbar.",
+  "title": "Kleine Schrift am Tisch bleibt auf jeder Decke lesbar",
+  "text": "Namen, die Zeile darunter, „kurz weg“, die Punktetafel und „Dabb“ tragen einen feinen Schein in der Grundfarbe des Erscheinungsbilds. Damit bleiben sie auf jeder Tischdecke und in jeder Spielerfarbe lesbar.",
   "issue": "wirtshaus#358",
   "rows": [
    {
