@@ -14639,5 +14639,46 @@
    }
   ],
   "sha": "d2ccb926"
+ },
+ {
+  "id": "wr549-teams",
+  "date": "2026-11-13T04:51:50.239Z",
+  "title": "Entwurf: Warteraum mit Teams",
+  "text": "Entwurf – noch nicht im Spiel. Bei Spielen mit Partnern stehen die Plätze als zwei Team-Blöcke nebeneinander (am Handy untereinander), jeder freie Platz hat „Hier hinsetzen“, der Gastgeber kann die Plätze mischen, und Zuschauer stehen mit Namen unter den Plätzen.",
+  "issue": "wirtshaus#332",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-13-wr549-teams/01-before-wrteams549-before-host-desktop.webp",
+    "after": "changes/2026-11-13-wr549-teams/02-after-wrteams549-host-desktop.webp"
+   },
+   {
+    "label": "Handy 412×915",
+    "before": "changes/2026-11-13-wr549-teams/03-before-wrteams549-before-host-phone.webp",
+    "after": "changes/2026-11-13-wr549-teams/04-after-wrteams549-host-phone.webp"
+   },
+   {
+    "label": "Handy quer 915×412",
+    "img": "changes/2026-11-13-wr549-teams/05-img-wrteams549-host-landscape.webp"
+   },
+   {
+    "label": "Gast hat sich zum Gastgeber gesetzt – „dein Team“",
+    "img": "changes/2026-11-13-wr549-teams/06-img-wrteams549-guest-partner-desktop.webp"
+   },
+   {
+    "label": "Nach „Plätze mischen“ – Hinweis im Tisch-Chat",
+    "img": "changes/2026-11-13-wr549-teams/07-img-wrteams549-host-shuffled-desktop.webp"
+   },
+   {
+    "label": "Arena und Klar",
+    "before": "changes/2026-11-13-wr549-teams/08-before-wrteams549-viewer-arena-desktop.webp",
+    "after": "changes/2026-11-13-wr549-teams/09-after-wrteams549-viewer-klar-desktop.webp"
+   },
+   {
+    "label": "Namensschild „Emaille“ im Team-Block (unverändert)",
+    "img": "changes/2026-11-13-wr549-teams/10-img-wrteams549-host-emaille-desktop.webp"
+   }
+  ],
+  "sha": "2c2e6724"
  }
 ]
