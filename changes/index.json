@@ -14874,8 +14874,8 @@
  {
   "id": "profil557-unterreiter",
   "date": "2026-11-13T13:27:43.375Z",
-  "title": "Entwurf: Profil mit Unterreitern",
-  "text": "Entwurf – noch nicht im Spiel. Das eigene Profil ist eine Seite mit vier Unterreitern wie bei Wettkampf: Übersicht, Statistik (Rang, Wertungs-Verlauf, Kartenglück, eigene Zahlen), Partien (Verlauf mit Wiederholung) und Erfolge (Ehre, Pokale, Notizbuch).",
+  "title": "Profil mit Unterreitern",
+  "text": "Das eigene Profil ist eine Seite mit vier Unterreitern wie bei Wettkampf: Übersicht, Statistik (Rang, Wertungs-Verlauf, Kartenglück, eigene Zahlen), Partien (Verlauf mit Wiederholung) und Erfolge (Ehre, Pokale, Notizbuch).",
   "issue": "wirtshaus#356",
   "rows": [
    {
