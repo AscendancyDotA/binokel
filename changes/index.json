@@ -15064,7 +15064,7 @@
   "id": "item565-entwurf-blocks",
   "date": "2026-11-13T15:36:37.622Z",
   "title": "Einstellungen aufgeräumt: aufklappbare Blöcke mit Vorschau",
-  "text": "Entwurf – noch nicht im Spiel. Zusammengehörige Einstellungen stehen in aufklappbaren Blöcken; zugeklappt zeigt jeder Block in einer Zeile, was eingestellt ist. „Karten & Aussehen“ ist auf dem Handy nur noch gut eine Bildschirmhöhe lang statt fast drei.",
+  "text": "Zusammengehörige Einstellungen stehen in aufklappbaren Blöcken; zugeklappt zeigt jeder Block in einer Zeile, was eingestellt ist. „Karten & Aussehen“ ist auf dem Handy nur noch gut eine Bildschirmhöhe lang statt mehr als zweieinhalb.",
   "issue": "wirtshaus#359",
   "rows": [
    {
