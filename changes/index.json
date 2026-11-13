@@ -14680,5 +14680,29 @@
    }
   ],
   "sha": "2c2e6724"
+ },
+ {
+  "id": "350-stapel-am-rand",
+  "date": "2026-11-13T05:11:49.554Z",
+  "title": "Chip-Stapel der Spieler: am Tischrand und nach Stand verschieden groß",
+  "text": "Was ein Spieler noch hat, liegt jetzt an der Rand-Seite seines Platzes – in der Mitte liegt nur noch der Pott. Die Stapel (und Truhen) sind unter sich verschieden groß: Breite nach dem Anteil am Durchschnitt des Tisches, 0,7- bis 1,4-fach. Deine drei Truhen mit 113 / 122 / 155 wären jetzt 0,9 / 0,95 / 1,15 – 113 und 122 bleiben fast gleich, weil sie fast gleich sind. Am Handy bleibt der Stapel des oberen Platzes unter dem Namen (darüber ist die Kopfzeile).",
+  "issue": "wirtshaus#350",
+  "rows": [
+   {
+    "label": "Lupfen zu sechst, Desktop",
+    "before": "changes/2026-11-13-350-stapel-am-rand/01-before-lf6-desktop-none.webp",
+    "after": "changes/2026-11-13-350-stapel-am-rand/02-after-lf6-desktop-none.webp"
+   },
+   {
+    "label": "Handy",
+    "before": "changes/2026-11-13-350-stapel-am-rand/03-before-lf6-phone-none.webp",
+    "after": "changes/2026-11-13-350-stapel-am-rand/04-after-lf6-phone-none.webp"
+   },
+   {
+    "label": "Größe nach Stand (Partie-Ende: 387 / 194 / 147 / 60 / 36)",
+    "img": "changes/2026-11-13-350-stapel-am-rand/05-img-n6-matchend-A.webp"
+   }
+  ],
+  "sha": "92ebef83"
  }
 ]
