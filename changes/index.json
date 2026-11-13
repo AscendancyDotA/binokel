@@ -14990,5 +14990,25 @@
    }
   ],
   "sha": "a1d00b6c"
+ },
+ {
+  "id": "pub29-raetselkarte",
+  "date": "2026-11-13T15:11:44.283Z",
+  "title": "Rätsel-Karte passt bei größter Schrift",
+  "text": "Auf der Karte „Rätsel des Tages“ ragte der Serien-Hinweis bei größter Oberfläche und Schrift aus der Karte und drückte den Titel in drei Zeilen. Jetzt steht der Hinweis neben dem Titel, wenn beides passt, sonst darunter.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 508 px, größte Größe (Schwäbisch)",
+    "before": "changes/2026-11-13-pub29-raetselkarte/01-before-max508-swb-puzzle.webp",
+    "after": "changes/2026-11-13-pub29-raetselkarte/02-after-max508-swb-puzzle.webp"
+   },
+   {
+    "label": "Englisch",
+    "before": "changes/2026-11-13-pub29-raetselkarte/03-before-max508-en-puzzle.webp",
+    "after": "changes/2026-11-13-pub29-raetselkarte/04-after-max508-en-puzzle.webp"
+   }
+  ],
+  "sha": "b4786991"
  }
 ]
