@@ -14818,5 +14818,37 @@
    }
   ],
   "sha": "9d9d7994"
+ },
+ {
+  "id": "549-warteraum-teams",
+  "date": "2026-11-13T06:22:08.070Z",
+  "title": "Warteraum mit Teams",
+  "text": "Aus dem Vergleich mit der Dota-Lobby: Bei Spielen mit festen Partnern stehen die Plätze als zwei Team-Blöcke (am Handy untereinander), das Team des Gastgebers zuerst. Jeder freie Platz hat „Hier hinsetzen“ – wer schon sitzt, wechselt dorthin (ruhiger Knopf), wer zuschaut, setzt sich genau dort hin. Der Gastgeber kann die Plätze mischen, und Zuschauer stehen mit Namen unter den Plätzen. Gegenüber dem Entwurf von heute früh geändert: „Hier hinsetzen“ ist für Sitzende kein gefüllter Knopf mehr, damit „Los geht's“ der einzige laute bleibt. Dein weißes Namensfeld mit blauem Rand ist das Emaille-Schild und bleibt, wie es ist. Dabei behoben: An Tischen mit mehr als vier Plätzen (Lupfen, Poker, Rommé …) ließen sich Bots auf Platz 5 und höher nicht setzen oder entfernen.",
+  "issue": "wirtshaus#332",
+  "rows": [
+   {
+    "label": "Gastgeber, Desktop 1280×800",
+    "before": "changes/2026-11-13-549-warteraum-teams/01-before-wrteams549-before-host-desktop.webp",
+    "after": "changes/2026-11-13-549-warteraum-teams/02-after-wrteams549-host-desktop.webp"
+   },
+   {
+    "label": "Gastgeber, Handy 412×915",
+    "before": "changes/2026-11-13-549-warteraum-teams/03-before-wrteams549-before-host-phone.webp",
+    "after": "changes/2026-11-13-549-warteraum-teams/04-after-wrteams549-host-phone.webp"
+   },
+   {
+    "label": "Gast hat sich zum Gastgeber gesetzt – „dein Team“",
+    "img": "changes/2026-11-13-549-warteraum-teams/05-img-wrteams549-guest-partner-desktop.webp"
+   },
+   {
+    "label": "Zuschauer: gefüllter Knopf, Namen unter den Plätzen",
+    "img": "changes/2026-11-13-549-warteraum-teams/06-img-wrteams549-spec-desktop.webp"
+   },
+   {
+    "label": "Nach „Plätze mischen“ – Hinweis im Tisch-Chat",
+    "img": "changes/2026-11-13-549-warteraum-teams/07-img-wrteams549-host-shuffled-desktop.webp"
+   }
+  ],
+  "sha": "c8b58365"
  }
 ]
