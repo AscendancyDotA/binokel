@@ -14898,5 +14898,20 @@
    }
   ],
   "sha": "0cdf3a3d"
+ },
+ {
+  "id": "pub29-sitzzeile",
+  "date": "2026-11-13T13:54:30.825Z",
+  "title": "Sitzschild: was der Spieler in der Runde tut, bleibt stehen",
+  "text": "Wird die Zeile unter dem Namen zu eng, fällt zuerst das Wort „Chips“ weg, dann die Zahl – „lupft“, „mit“ oder „passt“ bleibt immer lesbar. Gilt für Lupfen, Poker, Blackjack und Watten.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Gedrehtes Handy 1085×508, größte Größen",
+    "before": "changes/2026-11-13-pub29-sitzzeile/01-before-tisch559-lf-1085x508-max.webp",
+    "after": "changes/2026-11-13-pub29-sitzzeile/02-after-tisch559-lf-1085x508-max.webp"
+   }
+  ],
+  "sha": "ce2c8680"
  }
 ]
