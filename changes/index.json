@@ -14850,5 +14850,25 @@
    }
   ],
   "sha": "c8b58365"
+ },
+ {
+  "id": "564-schrift-stufen",
+  "date": "2026-11-13T13:23:02.382Z",
+  "title": "Kartengröße und Schriftgröße als feste Stufen",
+  "text": "Statt zweier Regler gibt es feste Stufen: Karten „Normal“ oder „Groß“, Schrift „Normal“, „Groß“ oder „Sehr groß“. In der Android-App zählt die Schriftgröße des Handys mit; zusammen geht es höchstens bis „Sehr groß“, damit nichts mehr aus dem Bild läuft.",
+  "issue": "wirtshaus#357",
+  "rows": [
+   {
+    "label": "Einstellungen am Handy",
+    "before": "changes/2026-11-13-564-schrift-stufen/01-before-before-start-wirtshaus-444x987.webp",
+    "after": "changes/2026-11-13-564-schrift-stufen/02-after-after-start-wirtshaus-444x987.webp"
+   },
+   {
+    "label": "Einstellungen am Desktop",
+    "before": "changes/2026-11-13-564-schrift-stufen/03-before-before-start-wirtshaus-1280x800.webp",
+    "after": "changes/2026-11-13-564-schrift-stufen/04-after-after-start-wirtshaus-1280x800.webp"
+   }
+  ],
+  "sha": "a282faf4"
  }
 ]
