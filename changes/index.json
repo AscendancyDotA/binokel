@@ -14870,5 +14870,38 @@
    }
   ],
   "sha": "a282faf4"
+ },
+ {
+  "id": "profil557-unterreiter",
+  "date": "2026-11-13T13:27:43.375Z",
+  "title": "Entwurf: Profil mit Unterreitern",
+  "text": "Entwurf – noch nicht im Spiel. Das eigene Profil ist eine Seite mit vier Unterreitern wie bei Wettkampf: Übersicht, Statistik (Rang, Wertungs-Verlauf, Kartenglück, eigene Zahlen), Partien (Verlauf mit Wiederholung) und Erfolge (Ehre, Pokale, Notizbuch).",
+  "issue": "wirtshaus#356",
+  "rows": [
+   {
+    "label": "Desktop 1280×800: vorher / Übersicht",
+    "before": "changes/2026-11-13-profil557-unterreiter/01-before-before-1280x800.webp",
+    "after": "changes/2026-11-13-profil557-unterreiter/02-after-after-1280x800-overview.webp"
+   },
+   {
+    "label": "Handy 444×987: vorher / Übersicht",
+    "before": "changes/2026-11-13-profil557-unterreiter/03-before-before-444x987.webp",
+    "after": "changes/2026-11-13-profil557-unterreiter/04-after-after-444x987-overview.webp"
+   },
+   {
+    "label": "Desktop: Statistik",
+    "img": "changes/2026-11-13-profil557-unterreiter/05-img-after-1280x800-stats.webp"
+   },
+   {
+    "label": "Desktop: Partien",
+    "img": "changes/2026-11-13-profil557-unterreiter/06-img-after-1280x800-matches.webp"
+   },
+   {
+    "label": "Handy, größte Schrift: Partien / Erfolge",
+    "before": "changes/2026-11-13-profil557-unterreiter/07-before-after-508x1085-max-matches.webp",
+    "after": "changes/2026-11-13-profil557-unterreiter/08-after-after-508x1085-max-awards.webp"
+   }
+  ],
+  "sha": "0cdf3a3d"
  }
 ]
