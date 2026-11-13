@@ -14968,5 +14968,27 @@
    }
   ],
   "sha": "ae789683"
+ },
+ {
+  "id": "kurve568-entwurf",
+  "date": "2026-11-13T14:52:43.693Z",
+  "title": "Entwurf: Kurve – Chart-Ratespiel als Prototyp",
+  "text": "Entwurf – noch nicht im Spiel. Ein neues Ratespiel auf einer eigenen Testseite: Das Ende einer verdeckten Kerzen-Kurve tippen, gegen drei Bots, acht Runden, Spiel-Chips im Topf.",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Tippen (Handy)",
+    "img": "changes/2026-11-13-kurve568-entwurf/01-img-kurve-444x987-tippen.webp"
+   },
+   {
+    "label": "Auflösung (Wertung Mut, Topf anteilig)",
+    "img": "changes/2026-11-13-kurve568-entwurf/02-img-kurve-444x987-aufloesung.webp"
+   },
+   {
+    "label": "Ergebnis nach 8 Runden",
+    "img": "changes/2026-11-13-kurve568-entwurf/03-img-kurve-444x987-ergebnis.webp"
+   }
+  ],
+  "sha": "a1d00b6c"
  }
 ]
