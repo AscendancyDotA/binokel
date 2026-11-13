@@ -14895,11 +14895,6 @@
    {
     "label": "Desktop: Partien",
     "img": "changes/2026-11-13-profil557-unterreiter/06-img-after-1280x800-matches.webp"
-   },
-   {
-    "label": "Handy, größte Schrift: Partien / Erfolge",
-    "before": "changes/2026-11-13-profil557-unterreiter/07-before-after-508x1085-max-matches.webp",
-    "after": "changes/2026-11-13-profil557-unterreiter/08-after-after-508x1085-max-awards.webp"
    }
   ],
   "sha": "0cdf3a3d"
