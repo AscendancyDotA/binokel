@@ -15025,5 +15025,20 @@
    }
   ],
   "sha": "b4786991"
+ },
+ {
+  "id": "pub29-taler-einmal",
+  "date": "2026-11-13T15:12:14.068Z",
+  "title": "Taler-Seite: „So verdienst du Taler“ nur noch einmal",
+  "text": "Auf der Taler-Seite der Kasse stand derselbe Satz dreimal (Knopf, Aufklapper, Überschrift). Jetzt steht die Liste mit Einleitung und Regeln unter einer Überschrift.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Kasse → Taler",
+    "before": "changes/2026-11-13-pub29-taler-einmal/01-before-max508-de-taler.webp",
+    "after": "changes/2026-11-13-pub29-taler-einmal/02-after-max508-de-taler.webp"
+   }
+  ],
+  "sha": "b4786991"
  }
 ]
