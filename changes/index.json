@@ -15298,5 +15298,35 @@
    }
   ],
   "sha": "8061109f"
+ },
+ {
+  "id": "item579-schilder",
+  "date": "2026-11-14T07:49:28.849Z",
+  "title": "Große Karten und große Schrift: Schilder und Meldungen bleiben lesbar",
+  "text": "Bei Lupfen kürzt das obere Schild in der Kopfzeile das Wort „mit“ / „lupft“ nicht mehr zu „m…“ – dafür weichen die Denkpunkte und das Rang-Abzeichen. Im schmalen Fenster 500×482 mit großen Karten liegen die eigenen Meldungen neben der Tabelle statt darunter, und das eigene Schild steht über der Hand, wenn der Dabb aufgenommen ist. Bei Schocken mit sieben oder acht Spielern hängt „▶ Anführer“ im Hochformat unter dem Schild, „0 Deckel“ bleibt sichtbar.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Lupfen, gedrehtes Handy 1085×508, größte Größe",
+    "before": "changes/2026-11-14-item579-schilder/01-before-tisch559-lf-1085x508-max.webp",
+    "after": "changes/2026-11-14-item579-schilder/02-after-tisch559-lf-1085x508-max.webp"
+   },
+   {
+    "label": "Binokel 500×482, Karten „Groß“: Meldungen",
+    "before": "changes/2026-11-14-item579-schilder/03-before-base135-melds-p3-500x482-s1.35.webp",
+    "after": "changes/2026-11-14-item579-schilder/04-after-n500-melds-p3-500x482-s1.35.webp"
+   },
+   {
+    "label": "Binokel 500×482, Karten „Groß“: Dabb aufgenommen",
+    "before": "changes/2026-11-14-item579-schilder/05-before-base135-dabb-p3-500x482-s1.35.webp",
+    "after": "changes/2026-11-14-item579-schilder/06-after-n500-dabb-p3-500x482-s1.35.webp"
+   },
+   {
+    "label": "Schocken zu acht, 800×1180",
+    "before": "changes/2026-11-14-item579-schilder/07-before-play-schocken8-800x1180.webp",
+    "after": "changes/2026-11-14-item579-schilder/08-after-play-schocken8-800x1180.webp"
+   }
+  ],
+  "sha": "5967ab00"
  }
 ]
