@@ -15440,5 +15440,39 @@
    }
   ],
   "sha": "8d15ab08"
+ },
+ {
+  "id": "lobbybild592",
+  "date": "2026-11-14T21:52:24.752Z",
+  "title": "Entwurf: Gemalte Wirtsstube hinter der Lobby",
+  "text": "Entwurf – noch nicht im Spiel. Hinter der Lobby steht ein abgedunkeltes, unscharfes Bild einer Wirtsstube; die Karten und Menüs scrollen davor. Zwei Bilder zur Wahl, Arena bekommt eine dunkle Halle, der Stil Klar bleibt ohne Bild. Dazu leise Wirtshaus-Geräusche mit eigenem Schalter.",
+  "issue": "wirtshaus#342",
+  "rows": [
+   {
+    "label": "Handy: bisher – Wirtsstube 1",
+    "before": "changes/2026-11-14-lobbybild592/01-before-lobby-phone-ohne.webp",
+    "after": "changes/2026-11-14-lobbybild592/02-after-lobby-phone-stube1.webp"
+   },
+   {
+    "label": "Handy: Wirtsstube 2 – Arena",
+    "before": "changes/2026-11-14-lobbybild592/03-before-lobby-phone-stube2.webp",
+    "after": "changes/2026-11-14-lobbybild592/04-after-lobby-phone-arena.webp"
+   },
+   {
+    "label": "Desktop: bisher – Wirtsstube 1",
+    "before": "changes/2026-11-14-lobbybild592/05-before-lobby-desktop-ohne.webp",
+    "after": "changes/2026-11-14-lobbybild592/06-after-lobby-desktop-stube1.webp"
+   },
+   {
+    "label": "Desktop: Wirtsstube 2 – Arena",
+    "before": "changes/2026-11-14-lobbybild592/07-before-lobby-desktop-stube2.webp",
+    "after": "changes/2026-11-14-lobbybild592/08-after-lobby-desktop-arena.webp"
+   },
+   {
+    "label": "Einstellungen → Ton: Hintergrund in der Lobby",
+    "img": "changes/2026-11-14-lobbybild592/09-img-settings-ton-phone.webp"
+   }
+  ],
+  "sha": "897941b4"
  }
 ]
