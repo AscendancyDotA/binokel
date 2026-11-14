@@ -15208,5 +15208,24 @@
    }
   ],
   "sha": "1232b385"
+ },
+ {
+  "id": "quadrat585",
+  "date": "2026-11-14T05:50:25.263Z",
+  "title": "Fast quadratische Fenster: der Tisch ordnet sich hochkant an",
+  "text": "In einem fast quadratischen Fenster ließ die breite Anordnung die untere Hälfte des Tischs leer. Dort gilt jetzt die hochkante Anordnung: größere Karten, die Hand über die ganze Breite, die Plätze am Rand. Das gilt auch für jede Hälfte von „Zwei Tische nebeneinander“ auf einem Bildschirm mit 1920×1080.",
+  "rows": [
+   {
+    "label": "Fenster 760×760",
+    "before": "changes/2026-11-14-quadrat585/01-before-play-binokel4-760x760.webp",
+    "after": "changes/2026-11-14-quadrat585/02-after-play-binokel4-760x760.webp"
+   },
+   {
+    "label": "Eine Hälfte von „Zwei Tische nebeneinander“ (952×1028)",
+    "before": "changes/2026-11-14-quadrat585/03-before-play-binokel4-952x1028.webp",
+    "after": "changes/2026-11-14-quadrat585/04-after-play-binokel4-952x1028.webp"
+   }
+  ],
+  "sha": "b330dc6f"
  }
 ]
