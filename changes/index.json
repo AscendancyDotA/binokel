@@ -15368,5 +15368,25 @@
    }
   ],
   "sha": "1232b385"
+ },
+ {
+  "id": "reel594-faecher",
+  "date": "2026-11-14T21:30:50.879Z",
+  "title": "Rundenende: gezählte Karten im Fächer lesbar",
+  "text": "Im Fächer der gezählten Karten am Rundenende zeigt jede Karte jetzt Wert und Farbe groß. Hat eine Seite viele Stiche, werden die Karten kleiner, statt sich bis auf einen schmalen Streifen zu überdecken.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 508×1085",
+    "before": "changes/2026-11-14-reel594-faecher/01-before-cs2-before-phone.webp",
+    "after": "changes/2026-11-14-reel594-faecher/02-after-cs2-after-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-14-reel594-faecher/03-before-cs2-before-desk.webp",
+    "after": "changes/2026-11-14-reel594-faecher/04-after-cs2-after-desk.webp"
+   }
+  ],
+  "sha": "f4236654"
  }
 ]
