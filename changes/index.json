@@ -15227,5 +15227,35 @@
    }
   ],
   "sha": "b330dc6f"
+ },
+ {
+  "id": "bj580-reste",
+  "date": "2026-11-14T06:23:37.921Z",
+  "title": "Entwurf: Blackjack – Lernrunde, Tagesrätsel und geteilte Hände",
+  "text": "Entwurf – noch nicht im Spiel (Blackjack ist noch im Bau). Die Lernrunde führt in drei Händen allein gegen die Bank durch Karte, Halten, Verdoppeln und Teilen. Das Tagesrätsel fragt nach dem richtigen Zug gegen die offene Bankkarte; der beste Zug liegt immer mindestens 6 % des Einsatzes vor dem zweitbesten. Bis zu vier geteilte Hände stehen jetzt in einer Reihe, am Handy auch auf den oberen Eck-Schildern.",
+  "issue": "wirtshaus#330",
+  "rows": [
+   {
+    "label": "Lernrunde: der Tipp zum Teilen (Handy) · das Ende (PC)",
+    "before": "changes/2026-11-14-bj580-reste/01-before-blackjack-tip-split-phone.webp",
+    "after": "changes/2026-11-14-bj580-reste/02-after-blackjack-end-desk.webp"
+   },
+   {
+    "label": "Tagesrätsel: die Frage (Handy) · die Auflösung (PC)",
+    "before": "changes/2026-11-14-bj580-reste/03-before-puzzle-blackjack-ask-phone.webp",
+    "after": "changes/2026-11-14-bj580-reste/04-after-puzzle-blackjack-reveal-desktop.webp"
+   },
+   {
+    "label": "Vier geteilte Hände (Handy) · am Ende der Hand (PC)",
+    "before": "changes/2026-11-14-bj580-reste/05-before-forced-split-phone-play.webp",
+    "after": "changes/2026-11-14-bj580-reste/06-after-forced-split-desk-result.webp"
+   },
+   {
+    "label": "Sechs Plätze am Handy: ein Eck-Schild mit vier Händen · Versicherung gegen das Ass",
+    "before": "changes/2026-11-14-bj580-reste/07-before-forced-corner-ne-444x987.webp",
+    "after": "changes/2026-11-14-bj580-reste/08-after-forced-insure-phone-ask.webp"
+   }
+  ],
+  "sha": "e661dcdb"
  }
 ]
