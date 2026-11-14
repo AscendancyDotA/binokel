@@ -15186,5 +15186,35 @@
    }
   ],
   "sha": "7dff0089"
+ },
+ {
+  "id": "w370-decken-aufteilung",
+  "date": "2026-11-14T00:54:15.852Z",
+  "title": "Tischdecken: zwei neue Aufteilungen des Tischs zum Ausprobieren",
+  "text": "Unter Einstellungen → Hilfe & Über → Mehr → Entwickler lässt sich umschalten, wie der Tisch auf die Tischdecken verteilt wird: wie bisher, der ganze Tisch ohne freie Mitte, oder eine kleine Insel unter dem Stich. In den beiden neuen hat jeder Platz in jedem Fenster seine Decke.",
+  "issue": "wirtshaus#370",
+  "rows": [
+   {
+    "label": "Binokel, Handy gedreht, größte Größe",
+    "img": "changes/2026-11-14-w370-decken-aufteilung/01-img-split575-binokel-turnedmax.webp"
+   },
+   {
+    "label": "Binokel, Handy hochkant",
+    "img": "changes/2026-11-14-w370-decken-aufteilung/02-img-split575-binokel-phone.webp"
+   },
+   {
+    "label": "Binokel, Desktop",
+    "img": "changes/2026-11-14-w370-decken-aufteilung/03-img-split575-binokel-desktop.webp"
+   },
+   {
+    "label": "Lupfen zu sechst, Handy hochkant",
+    "img": "changes/2026-11-14-w370-decken-aufteilung/04-img-split575-lupfen-phone.webp"
+   },
+   {
+    "label": "Lupfen zu sechst, Handy gedreht",
+    "img": "changes/2026-11-14-w370-decken-aufteilung/05-img-split575-lupfen-turned.webp"
+   }
+  ],
+  "sha": "1232b385"
  }
 ]
