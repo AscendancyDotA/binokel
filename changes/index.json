@@ -15388,5 +15388,35 @@
    }
   ],
   "sha": "f4236654"
+ },
+ {
+  "id": "kurve591-quote",
+  "date": "2026-11-14T21:35:34.386Z",
+  "title": "Entwurf: Kurve – freier Punkt, Wertung „Quote“ und Paar-Duelle",
+  "text": "Entwurf – noch nicht im Spiel. Der Tipp ist jetzt ein freier Punkt aus Kerze und Kurs; blasse Bänder zeigen, wie gewagt er ist, und die Quote (×1,2 bis ×10) steht live unter dem Chart. Nach jeder Runde rechnet jeder mit jedem ab, höchstens 20 Chips je Gegner. In der Simulation über 100 000 erzeugte Kurven bringen faule Tipps (immer letzter Kurs, immer ganz außen, Zufallspunkt) im Schnitt gleich viele Punkte (Abweichung unter 1 %), ein Bot, der Trend und Unruhe der Kurve liest, holt 23 % mehr; zu zweit entscheidet eine einzige Runde 39 % der Partien, zu viert 61 %.",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Handy 444×987 – Tippen: vorher (alte Wertung „Mut“) / jetzt (Punkt, Bänder, Quote live)",
+    "before": "changes/2026-11-14-kurve591-quote/01-before-kurve-444x987-tippen.webp",
+    "after": "changes/2026-11-14-kurve591-quote/02-after-kurve591-444x987-tippen.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – Tippen: vorher (alte Wertung „Nähe“) / jetzt",
+    "before": "changes/2026-11-14-kurve591-quote/03-before-kurve-1280x800-tippen.webp",
+    "after": "changes/2026-11-14-kurve591-quote/04-after-kurve591-1280x800-tippen.webp"
+   },
+   {
+    "label": "Auflösung: Punkte, Quote und Treffer je Platz, Duell-Chips – Handy / Desktop",
+    "before": "changes/2026-11-14-kurve591-quote/05-before-kurve591-444x987-aufloesung.webp",
+    "after": "changes/2026-11-14-kurve591-quote/06-after-kurve591-1280x800-aufloesung.webp"
+   },
+   {
+    "label": "Ende der Partie – Handy / Desktop",
+    "before": "changes/2026-11-14-kurve591-quote/07-before-kurve591-444x987-ergebnis.webp",
+    "after": "changes/2026-11-14-kurve591-quote/08-after-kurve591-1280x800-ergebnis.webp"
+   }
+  ],
+  "sha": "f2e959b1"
  }
 ]
