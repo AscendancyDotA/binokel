@@ -15348,5 +15348,25 @@
    }
   ],
   "sha": "28c23e78"
+ },
+ {
+  "id": "lupfen-tv-mini",
+  "date": "2026-11-14T08:33:54.539Z",
+  "title": "Entwurf: Lupfen im Wirtshaus-TV zeigt Handkarten, Topf und Talon",
+  "text": "Entwurf – noch nicht im Spiel. Das kleine TV-Bild in der Lobby zeigt bei Lupfen jetzt die verdeckten Karten neben jedem Spieler, wer aussetzt (abgedunkelt), den Topf auf dem Filz, den Talon mit der aufgedeckten Trumpfkarte und den letzten Stich bis zum nächsten.",
+  "issue": "wirtshaus#369",
+  "rows": [
+   {
+    "label": "Handy (Lobby 444×987), eine Runde",
+    "before": "changes/2026-11-14-lupfen-tv-mini/01-before-before-lupfen-444.webp",
+    "after": "changes/2026-11-14-lupfen-tv-mini/02-after-after-lupfen-444.webp"
+   },
+   {
+    "label": "Desktop 1280×800, eine Runde",
+    "before": "changes/2026-11-14-lupfen-tv-mini/03-before-before-lupfen-1280.webp",
+    "after": "changes/2026-11-14-lupfen-tv-mini/04-after-after-lupfen-1280.webp"
+   }
+  ],
+  "sha": "28c23e78"
  }
 ]
