@@ -15328,5 +15328,25 @@
    }
   ],
   "sha": "5967ab00"
+ },
+ {
+  "id": "lupfen-pot-handy",
+  "date": "2026-11-14T08:33:28.168Z",
+  "title": "Lupfen am Handy: Topf und Talon nicht mehr unter den Stichkarten",
+  "text": "Auf schmalen Handys hochkant lag die linke Stichkarte über dem Topf mit dem Wechselkurs und die rechte über dem Talon. Ist neben dem Stich kein Platz, liegen Topf und Talon jetzt in einer Reihe darunter, und der Hinweis zur Runde steht über dem Stich.",
+  "issue": "wirtshaus#369",
+  "rows": [
+   {
+    "label": "390×844, 4 Spieler",
+    "before": "changes/2026-11-14-lupfen-pot-handy/01-before-pot-390-before.webp",
+    "after": "changes/2026-11-14-lupfen-pot-handy/02-after-pot-390-after.webp"
+   },
+   {
+    "label": "360×740, 6 Spieler, große Karten",
+    "before": "changes/2026-11-14-lupfen-pot-handy/03-before-pot-360-before.webp",
+    "after": "changes/2026-11-14-lupfen-pot-handy/04-after-pot-360-after.webp"
+   }
+  ],
+  "sha": "28c23e78"
  }
 ]
