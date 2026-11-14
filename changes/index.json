@@ -15418,5 +15418,27 @@
    }
   ],
   "sha": "f2e959b1"
+ },
+ {
+  "id": "bj580b-taler",
+  "date": "2026-11-14T21:39:44.899Z",
+  "title": "Entwurf: Blackjack um Taler – gemeinsamer Topf, Stapel an jedem Platz, mit Chips gehen",
+  "text": "Entwurf – noch nicht im Spiel (Schalter aus). Am Taler-Tisch zahlt jeder denselben Einsatz in einen Topf; die Bank bewegt nur Chips. Am Ende wird der Topf nach den Chips geteilt. Wer zwischen zwei Händen geht, bekommt sofort seinen Anteil.",
+  "issue": "wirtshaus#330",
+  "rows": [
+   {
+    "label": "Handy: Topf mit Kurs, Stapel, „Mit 3 000 Chips gehen“",
+    "img": "changes/2026-11-14-bj580b-taler/01-img-taler-leave-B.webp"
+   },
+   {
+    "label": "Desktop: dieselbe Hand",
+    "img": "changes/2026-11-14-bj580b-taler/02-img-taler-running-A.webp"
+   },
+   {
+    "label": "Partie-Ende: Anteil am Topf",
+    "img": "changes/2026-11-14-bj580b-taler/03-img-taler-matchend-A.webp"
+   }
+  ],
+  "sha": "8d15ab08"
  }
 ]
