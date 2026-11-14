@@ -15278,5 +15278,25 @@
    }
   ],
   "sha": "e661dcdb"
+ },
+ {
+  "id": "w358-klar-dunkle-decken",
+  "date": "2026-11-14T06:26:31.781Z",
+  "title": "Helles Design: Namen auf dunklen Tischdecken in heller Schrift",
+  "text": "Im hellen Design „Klar“ standen Namen über einer dunklen Tischdecke in dunkler Schrift mit hellem Schein. Dort stehen der Name und die Zeile darunter jetzt in heller Schrift mit dunklem Rand.",
+  "issue": "wirtshaus#358",
+  "rows": [
+   {
+    "label": "Binokel am Desktop, vier dunkle Decken",
+    "before": "changes/2026-11-14-w358-klar-dunkle-decken/01-before-crop-before-desk.webp",
+    "after": "changes/2026-11-14-w358-klar-dunkle-decken/02-after-crop-after2-desk.webp"
+   },
+   {
+    "label": "Binokel am Handy",
+    "before": "changes/2026-11-14-w358-klar-dunkle-decken/03-before-before-binokel_1_klar_std_phone_base.webp",
+    "after": "changes/2026-11-14-w358-klar-dunkle-decken/04-after-after2-binokel_1_klar_std_phone_base.webp"
+   }
+  ],
+  "sha": "8061109f"
  }
 ]
