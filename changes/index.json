@@ -15683,5 +15683,40 @@
    }
   ],
   "sha": "b97d67c3"
+ },
+ {
+  "id": "gems610",
+  "date": "2026-11-15T11:29:47.398Z",
+  "title": "Entwurf: Edelstein-Haufen",
+  "text": "Entwurf – noch nicht im Spiel. Der Einsatz „Edelsteine“ liegt jetzt als Haufen auf dem Tisch: die unterste Reihe auf der Tischlinie, jeder Stein auf zwei darunter, der Schatten unter dem Haufen. Vier Schliffe mit Facetten und ein ruhiges Funkeln auf den obersten Steinen. Die Taler-Scheine liegen bei jedem Betrag auf dem Tisch.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Vorschau-Bühne: 1 · 5 · 50 · 200 Taler",
+    "before": "changes/2026-11-15-gems610/01-before-before-gems-sheet.webp",
+    "after": "changes/2026-11-15-gems610/02-after-after-gems-sheet.webp"
+   },
+   {
+    "label": "Laden-Kachel",
+    "before": "changes/2026-11-15-gems610/03-before-before-tile-edelsteine-desktop.webp",
+    "after": "changes/2026-11-15-gems610/04-after-after-tile-edelsteine-desktop.webp"
+   },
+   {
+    "label": "Am Tisch, Desktop (eigener Platz 400, Gegner 25 und 5)",
+    "before": "changes/2026-11-15-gems610/05-before-stash452-seats-desk.webp",
+    "after": "changes/2026-11-15-gems610/06-after-stash452-seats-desk.webp"
+   },
+   {
+    "label": "Am Tisch, Handy",
+    "before": "changes/2026-11-15-gems610/07-before-stash452-seats-phone.webp",
+    "after": "changes/2026-11-15-gems610/08-after-stash452-seats-phone.webp"
+   },
+   {
+    "label": "Taler-Scheine 1 · 10 · 200 Taler",
+    "before": "changes/2026-11-15-gems610/09-before-before-scheine-strip.webp",
+    "after": "changes/2026-11-15-gems610/10-after-after-scheine-strip.webp"
+   }
+  ],
+  "sha": "068c7fb5"
  }
 ]
