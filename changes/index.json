@@ -15445,7 +15445,7 @@
   "id": "lobbybild592",
   "date": "2026-11-14T21:52:24.752Z",
   "title": "Lobby: gemalte Wirtsstube im Hintergrund",
-  "text": "Hinter der Lobby steht ein abgedunkeltes, unscharfes Bild einer Wirtsstube; Karten und Menüs scrollen davor. Im Stil Arena ist es eine dunkle Halle, der Stil Klar bleibt ohne Bild. Dazu laufen leise Wirtshaus-Geräusche, abschaltbar unter Einstellungen → Ton.",
+  "text": "Hinter der Lobby steht ein abgedunkeltes, unscharfes Bild einer Wirtsstube; Karten und Menüs scrollen davor. Im Stil Arena ist es eine dunkle Halle, der Stil Klar bleibt ohne Bild. Neu unter Einstellungen → Ton: leise Wirtshaus-Geräusche für die Lobby zum Einschalten.",
   "issue": "wirtshaus#342",
   "rows": [
    {
