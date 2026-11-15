@@ -15838,5 +15838,35 @@
    }
   ],
   "sha": "abc4ee5d"
+ },
+ {
+  "id": "raum-vorschau-offen",
+  "date": "2026-11-15T13:30:11.035Z",
+  "title": "Entwurf: Mein Raum – die Vorschau ist sofort zu sehen",
+  "text": "Entwurf – noch nicht im Spiel. Wer in Mein Raum ein Stück anprobiert, sieht seine Vorschau-Bühne sofort über den Kacheln, ohne Aufklappen; „Vorschau ausblenden“ blendet sie aus. Die Kaufleiste nimmt höchstens ein Drittel der Schublade, die Veredlung steht dann in einer Zeile mit „mehr“, und eine ganze Kachelreihe bleibt immer sichtbar – vom Handy über Tablets bis zum Desktop.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 390×844 (Höllenfeuer anprobiert)",
+    "before": "changes/2026-11-15-raum-vorschau-offen/01-before-before-613-390x844-hoelle.webp",
+    "after": "changes/2026-11-15-raum-vorschau-offen/02-after-after-613-390x844-hoelle.webp"
+   },
+   {
+    "label": "Tablet hochkant 768×1024",
+    "before": "changes/2026-11-15-raum-vorschau-offen/03-before-before-613-768x1024-hoelle.webp",
+    "after": "changes/2026-11-15-raum-vorschau-offen/04-after-after-613-768x1024-hoelle.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-15-raum-vorschau-offen/05-before-before-613-1280x800-hoelle.webp",
+    "after": "changes/2026-11-15-raum-vorschau-offen/06-after-after-613-1280x800-hoelle.webp"
+   },
+   {
+    "label": "Fenster 650×950",
+    "before": "changes/2026-11-15-raum-vorschau-offen/07-before-before-613-650x950-hoelle.webp",
+    "after": "changes/2026-11-15-raum-vorschau-offen/08-after-after-613-650x950-hoelle.webp"
+   }
+  ],
+  "sha": "cb3facf8"
  }
 ]
