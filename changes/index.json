@@ -15813,5 +15813,30 @@
    }
   ],
   "sha": "9f4802e9"
+ },
+ {
+  "id": "q612-found-vortisch",
+  "date": "2026-11-15T13:04:41.429Z",
+  "title": "Entwurf: Match gefunden und „Nicht diese Partie“ am Vortisch",
+  "text": "Entwurf – noch nicht im Spiel. Wenn die Warteschlange einen Tisch gefunden hat, zeigt ein kurzes Fenster Spiel, Spielerzahl, Länge und Mitspieler; am Vortisch führt „Nicht diese Partie“ zurück in die Warteschlange, die Wartezeit bleibt.",
+  "issue": "wirtshaus#380",
+  "rows": [
+   {
+    "label": "Fenster baut sich auf (0,1 s · 0,9 s, Desktop)",
+    "before": "changes/2026-11-15-q612-found-vortisch/01-before-qw612-found-0.1s-desk.webp",
+    "after": "changes/2026-11-15-q612-found-vortisch/02-after-qw612-found-0.9s-desk.webp"
+   },
+   {
+    "label": "Handy: Fenster · Vortisch mit Knopf",
+    "before": "changes/2026-11-15-q612-found-vortisch/03-before-qw612-found-phone.webp",
+    "after": "changes/2026-11-15-q612-found-vortisch/04-after-qw612-vortisch-phone.webp"
+   },
+   {
+    "label": "Desktop: Vortisch · zurück in der Warteschlange",
+    "before": "changes/2026-11-15-q612-found-vortisch/05-before-qw612-vortisch-desk.webp",
+    "after": "changes/2026-11-15-q612-found-vortisch/06-after-qw612-back-in-queue-desk.webp"
+   }
+  ],
+  "sha": "abc4ee5d"
  }
 ]
