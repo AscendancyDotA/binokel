@@ -15640,11 +15640,6 @@
    {
     "label": "4 Spieler – Feld offen",
     "img": "changes/2026-11-15-item588-tinfo3-entwurf-frage/06-img-sh-tinfosignopen-p4-360x740-s1.35.webp"
-   },
-   {
-    "label": "430×932, 3 und 4 Spieler – Feld offen",
-    "before": "changes/2026-11-15-item588-tinfo3-entwurf-frage/07-before-sh-tinfosignopen-p3-430x932-s1.35.webp",
-    "after": "changes/2026-11-15-item588-tinfo3-entwurf-frage/08-after-sh-tinfosignopen-p4-430x932-s1.35.webp"
    }
   ],
   "sha": "7e5ab9dc"
