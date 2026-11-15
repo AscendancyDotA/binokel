@@ -15883,5 +15883,25 @@
    }
   ],
   "sha": "5a0894ba"
+ },
+ {
+  "id": "item614-online-karte",
+  "date": "2026-11-15T15:37:39.316Z",
+  "title": "Online-Karte bei allen Spielen gleich",
+  "text": "Bei jedem Spiel zeigt die Online-Karte jetzt die großen Knöpfe „Warteschlange / Eigener Tisch“ und darunter den Umschalter „Wie viele Spieler?“ – so wie bisher nur bei Binokel. Hier am Beispiel Canasta.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-15-item614-online-karte/01-before-canasta-390x844-t1.webp",
+    "after": "changes/2026-11-15-item614-online-karte/02-after-canasta-390x844-t1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-15-item614-online-karte/03-before-canasta-1280x800-t1.webp",
+    "after": "changes/2026-11-15-item614-online-karte/04-after-canasta-1280x800-t1.webp"
+   }
+  ],
+  "sha": "e5bf80c0"
  }
 ]
