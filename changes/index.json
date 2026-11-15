@@ -15973,5 +15973,23 @@
    }
   ],
   "sha": "e18429e4"
+ },
+ {
+  "id": "laendle-tischliste-chips",
+  "date": "2026-11-15T22:14:51.796Z",
+  "title": "Entwurf: Ländle-Tische in der Tischliste mit Spielerzahl und Ziel",
+  "text": "Entwurf – noch nicht im Spiel. Offene Ländle-Tische zeigen jetzt Spielerzahl und Ziel in Ansehen statt der Binokel-Angaben.",
+  "issue": "wirtshaus#318",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "img": "changes/2026-11-15-laendle-tischliste-chips/01-img-tablelist625-phone.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-15-laendle-tischliste-chips/02-img-tablelist625-desk.webp"
+   }
+  ],
+  "sha": "c59b16a9"
  }
 ]
