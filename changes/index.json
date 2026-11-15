@@ -15929,8 +15929,8 @@
  {
   "id": "q612-wunschlaenge",
   "date": "2026-11-15T16:47:12.892Z",
-  "title": "Entwurf: Wunsch-Länge in der Warteschlange, Länge und „Nicht diese Partie“ am Vortisch",
-  "text": "Entwurf – noch nicht im Spiel. Auf der Warteschlangen-Karte wählt man die gewünschte Partielänge (Runden oder Punkte, „egal“ als Vorgabe, auf Wunsch nur diesen Modus). Am Vortisch stehen die entschiedene Länge und der Grund; „Nicht diese Partie“ liegt als Nebenknopf neben „Bereit“.",
+  "title": "Warteschlange: Wunsch-Länge bei Binokel, Länge und „Nicht diese Partie“ am Vortisch",
+  "text": "Auf der Online-Karte lässt sich eine Partielänge wünschen: Runden oder Punkte, auf Wunsch „nur diesen Modus“. Die Mehrheit am Tisch entscheidet. Am Vortisch steht die Länge im Kopf, und „Nicht diese Partie“ bringt alle zurück in die Warteschlange.",
   "issue": "wirtshaus#380",
   "rows": [
    {
