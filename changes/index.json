@@ -15464,5 +15464,40 @@
    }
   ],
   "sha": "897941b4"
+ },
+ {
+  "id": "item588-layout",
+  "date": "2026-11-15T00:14:57.264Z",
+  "title": "Tablet hochkant und kleines Querformat: nichts liegt mehr aufeinander",
+  "text": "Im hochkanten Tablet-Fenster rückt der Chat-Knopf unter ein Aktionsfeld, die Backgammon-Knöpfe bleiben einzeilig. Im kleinen Querformat mit großen Karten ist der Stich am Vierertisch wieder lesbar, und bei Binokel zu dritt laufen die Gegner-Schilder nicht mehr in die Trumpf-Anzeige.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Bauernschnapsen, Tablet 800×1180: Chat-Knopf unter „Trumpf ansagen“",
+    "before": "changes/2026-11-15-item588-layout/01-before-play-bauernschnapsen4-800x1180.webp",
+    "after": "changes/2026-11-15-item588-layout/02-after-play-bauernschnapsen4-800x1180.webp"
+   },
+   {
+    "label": "Backgammon, Tablet 800×1180: Knöpfe einzeilig, frei vom Chat-Knopf",
+    "before": "changes/2026-11-15-item588-layout/03-before-play-backgammon2-800x1180.webp",
+    "after": "changes/2026-11-15-item588-layout/04-after-play-backgammon2-800x1180.webp"
+   },
+   {
+    "label": "Lupfen zu viert, 500×482, Karten „Groß“: Stich und Trumpfkarte lesbar",
+    "before": "changes/2026-11-15-item588-layout/05-before-lfb-lfplay-p4-500x482-s1.35.webp",
+    "after": "changes/2026-11-15-item588-layout/06-after-sp2-lfplay-p4-500x482-s1.35.webp"
+   },
+   {
+    "label": "Binokel zu viert, 500×482, Karten „Groß“: Stich lesbar",
+    "before": "changes/2026-11-15-item588-layout/07-before-bkb-playing-p4-500x482-s1.35.webp",
+    "after": "changes/2026-11-15-item588-layout/08-after-sp2-playing-p4-500x482-s1.35.webp"
+   },
+   {
+    "label": "Binokel zu dritt, 500×482, Karten „Groß“: Schild rechts endet vor der Trumpf-Anzeige",
+    "before": "changes/2026-11-15-item588-layout/09-before-bkb-meldpre-p3-500x482-s1.35.webp",
+    "after": "changes/2026-11-15-item588-layout/10-after-sp2-meldpre-p3-500x482-s1.35.webp"
+   }
+  ],
+  "sha": "acea9146"
  }
 ]
