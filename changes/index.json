@@ -15551,5 +15551,27 @@
    }
   ],
   "sha": "5ea90ebd"
+ },
+ {
+  "id": "603-poker-app",
+  "date": "2026-11-15T05:41:03.540Z",
+  "title": "Entwurf: Poker als eigene App – Symbol und Store-Bilder",
+  "text": "Entwurf – noch nicht im Store. Symbol, Titelbild und Store-Bilder der Einzel-App „Poker Wirtshaus“ für den offenen Test.",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "App-Symbol",
+    "img": "changes/2026-11-15-603-poker-app/01-img-icon-poker.webp"
+   },
+   {
+    "label": "Titelbild",
+    "img": "changes/2026-11-15-603-poker-app/02-img-feature-graphic-de.webp"
+   },
+   {
+    "label": "Store-Bilder (Telefon + Tablet)",
+    "img": "changes/2026-11-15-603-poker-app/03-img-poker-de.webp"
+   }
+  ],
+  "sha": "d06fbe52"
  }
 ]
