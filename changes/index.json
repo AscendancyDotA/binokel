@@ -15793,5 +15793,25 @@
    }
   ],
   "sha": "9f4802e9"
+ },
+ {
+  "id": "item608-online-zeilen",
+  "date": "2026-11-15T12:36:11.523Z",
+  "title": "Lobby am Desktop: Feld „Online“ kompakter",
+  "text": "Im Feld „Online“ teilen sich zusammengehörige Angaben eine Zeile: Titel und Platzwahl, Wertung und Warteschlange, „Format egal“ und „Wunschliste“. Reicht das Feld tiefer als das Fenster, wartet der Knopf „Mitspieler suchen“ am unteren Rand – er ist ohne Scrollen zu sehen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Desktop 1280×800, normale Schrift",
+    "before": "changes/2026-11-15-item608-online-zeilen/01-before-cs-pp-before.webp",
+    "after": "changes/2026-11-15-item608-online-zeilen/02-after-cs-pp-after.webp"
+   },
+   {
+    "label": "Desktop 1920×1080, Schrift sehr groß",
+    "before": "changes/2026-11-15-item608-online-zeilen/03-before-cs-pp-before-max.webp",
+    "after": "changes/2026-11-15-item608-online-zeilen/04-after-cs-pp-after-max.webp"
+   }
+  ],
+  "sha": "9f4802e9"
  }
 ]
