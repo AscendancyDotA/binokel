@@ -16017,5 +16017,55 @@
    }
   ],
   "sha": "d7028744"
+ },
+ {
+  "id": "kasse-statt-shopfenster",
+  "date": "2026-11-15T23:15:54.126Z",
+  "title": "Entwurf: Der Shop öffnet überall als Kasse",
+  "text": "Entwurf – noch nicht im Spiel. Jeder Weg in den Shop führt jetzt in die Kasse: in der Lobby auf ihren Reiter, am Tisch, im Warteraum und über den Einstellungen als Kasse über dem Bildschirm. Die Partie läuft darunter weiter; bist du dran, schließt sich die Kasse von selbst.",
+  "issue": "wirtshaus#385",
+  "rows": [
+   {
+    "label": "Handy: gesperrter Stil in den Einstellungen",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/01-before-before-phone-1-arena.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/02-after-after-phone-1-arena.webp"
+   },
+   {
+    "label": "Handy: „So verdienst du Taler“",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/03-before-before-phone-2-earn.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/04-after-after-phone-2-earn.webp"
+   },
+   {
+    "label": "Handy: „Aussehen“ im Warteraum",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/05-before-before-phone-3-aussehen.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/06-after-after-phone-3-aussehen.webp"
+   },
+   {
+    "label": "Handy: „Anprobieren“ auf der Look-Karte am Tisch",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/07-before-before-phone-4-anprobieren.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/08-after-after-phone-4-anprobieren.webp"
+   },
+   {
+    "label": "Desktop: gesperrter Stil in den Einstellungen",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/09-before-before-desktop-1-arena.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/10-after-after-desktop-1-arena.webp"
+   },
+   {
+    "label": "Desktop: „So verdienst du Taler“",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/11-before-before-desktop-2-earn.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/12-after-after-desktop-2-earn.webp"
+   },
+   {
+    "label": "Desktop: „Aussehen“ im Warteraum",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/13-before-before-desktop-3-aussehen.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/14-after-after-desktop-3-aussehen.webp"
+   },
+   {
+    "label": "Desktop: „Anprobieren“ auf der Look-Karte am Tisch",
+    "before": "changes/2026-11-15-kasse-statt-shopfenster/15-before-before-desktop-4-anprobieren.webp",
+    "after": "changes/2026-11-15-kasse-statt-shopfenster/16-after-after-desktop-4-anprobieren.webp"
+   }
+  ],
+  "sha": "37985e6a"
  }
 ]
