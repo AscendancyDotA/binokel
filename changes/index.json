@@ -15753,5 +15753,25 @@
    }
   ],
   "sha": "172f37d5"
+ },
+ {
+  "id": "item607-teamfarben",
+  "date": "2026-11-15T11:41:42.905Z",
+  "title": "Canasta: Die Auslagen der beiden Teams tragen die Farben ihrer zwei Spieler",
+  "text": "Im Titel einer Team-Auslage und in der Punkte-Tafel steht jeder Name in der Farbe seines Spielers – dieselbe Farbe wie am Platz; das „&“ bleibt neutral. Gilt auch für die Team-Zeilen von Bid Whist, Jass, Watten, Bauernschnapsen und Gaigel zu viert.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Desktop 1110×1080, zuschauen",
+    "before": "changes/2026-11-15-item607-teamfarben/01-before-team-desk-before.webp",
+    "after": "changes/2026-11-15-item607-teamfarben/02-after-team-desk-after.webp"
+   },
+   {
+    "label": "Handy 390×844, zuschauen",
+    "before": "changes/2026-11-15-item607-teamfarben/03-before-team-phone-before.webp",
+    "after": "changes/2026-11-15-item607-teamfarben/04-after-team-phone-after.webp"
+   }
+  ],
+  "sha": "172f37d5"
  }
 ]
