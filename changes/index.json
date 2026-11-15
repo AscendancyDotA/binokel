@@ -15615,5 +15615,38 @@
    }
   ],
   "sha": "8b5c352a"
+ },
+ {
+  "id": "item588-tinfo3-entwurf-frage",
+  "date": "2026-11-15T07:01:49.454Z",
+  "title": "Entwurf: Tisch-Info-Feld – „i“ und „?“ getrennt",
+  "text": "Entwurf – noch nicht im Spiel. Beim ersten Mal erklärt ein „?“ den Punkte-Zähler. Es lag im Tisch-Info-Feld auf dem „i“; jetzt öffnet das „i“ das Feld, und das „?“ steht dort neben dem Zähler – bei drei und vier Spielern.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "3 Spieler, 360×740, größte Größen – Feld zu",
+    "before": "changes/2026-11-15-item588-tinfo3-entwurf-frage/01-before-before-de-tmax-tinfosign-p3-360x740-s1.35.webp",
+    "after": "changes/2026-11-15-item588-tinfo3-entwurf-frage/02-after-sh-tinfosign-p3-360x740-s1.35.webp"
+   },
+   {
+    "label": "3 Spieler – Feld offen, „?“ neben dem Zähler",
+    "img": "changes/2026-11-15-item588-tinfo3-entwurf-frage/03-img-sh-tinfosignopen-p3-360x740-s1.35.webp"
+   },
+   {
+    "label": "4 Spieler, 360×740, größte Größen – Feld zu",
+    "before": "changes/2026-11-15-item588-tinfo3-entwurf-frage/04-before-before-de-tmax-tinfosign-p4-360x740-s1.35.webp",
+    "after": "changes/2026-11-15-item588-tinfo3-entwurf-frage/05-after-sh-tinfosign-p4-360x740-s1.35.webp"
+   },
+   {
+    "label": "4 Spieler – Feld offen",
+    "img": "changes/2026-11-15-item588-tinfo3-entwurf-frage/06-img-sh-tinfosignopen-p4-360x740-s1.35.webp"
+   },
+   {
+    "label": "430×932, 3 und 4 Spieler – Feld offen",
+    "before": "changes/2026-11-15-item588-tinfo3-entwurf-frage/07-before-sh-tinfosignopen-p3-430x932-s1.35.webp",
+    "after": "changes/2026-11-15-item588-tinfo3-entwurf-frage/08-after-sh-tinfosignopen-p4-430x932-s1.35.webp"
+   }
+  ],
+  "sha": "7e5ab9dc"
  }
 ]
