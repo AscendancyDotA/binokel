@@ -15718,5 +15718,40 @@
    }
   ],
   "sha": "068c7fb5"
+ },
+ {
+  "id": "item607-kartenform",
+  "date": "2026-11-15T11:40:31.578Z",
+  "title": "Karten zeigen überall dieselbe Regel: ab normaler Größe das Bild mit Eckzeichen",
+  "text": "Im Zähl-Fächer am Rundenende, in der Wirtshaus-TV-Vorschau und bei den Tagesblatt-Karten in der Lobby zeigen Karten ab normaler Größe jetzt das Kartenbild mit Eckzeichen statt eines Bildes ohne Buchstaben; kleinere Karten zeigen die Miniatur mit großem Wert und Farbzeichen. Bei den Karten als Text an den Plätzen (Zuschauen mit „Alle Karten“, z. B. Canasta) stehen die Farbzeichen auf einem hellen Feld – Pik und Kreuz sind auf dunklem Grund wieder lesbar.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Rundenende, Desktop 1280×800, Karten Groß",
+    "before": "changes/2026-11-15-item607-kartenform/01-before-reel-desk-before.webp",
+    "after": "changes/2026-11-15-item607-kartenform/02-after-reel-desk-after.webp"
+   },
+   {
+    "label": "Rundenende, Handy 508×1085",
+    "before": "changes/2026-11-15-item607-kartenform/03-before-reel-phone-before.webp",
+    "after": "changes/2026-11-15-item607-kartenform/04-after-reel-phone-after.webp"
+   },
+   {
+    "label": "Wirtshaus-TV, Handy 390×844",
+    "before": "changes/2026-11-15-item607-kartenform/05-before-tv-phone-before.webp",
+    "after": "changes/2026-11-15-item607-kartenform/06-after-tv-phone-after.webp"
+   },
+   {
+    "label": "Tagesblatt in der Lobby, Desktop",
+    "before": "changes/2026-11-15-item607-kartenform/07-before-daily-desk-before.webp",
+    "after": "changes/2026-11-15-item607-kartenform/08-after-daily-desk-after.webp"
+   },
+   {
+    "label": "Karten als Text am Platz (Canasta, zuschauen)",
+    "before": "changes/2026-11-15-item607-kartenform/09-before-textform-before.webp",
+    "after": "changes/2026-11-15-item607-kartenform/10-after-textform-after.webp"
+   }
+  ],
+  "sha": "172f37d5"
  }
 ]
