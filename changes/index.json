@@ -15499,5 +15499,25 @@
    }
   ],
   "sha": "acea9146"
+ },
+ {
+  "id": "item588-tinfo3-entwurf",
+  "date": "2026-11-15T00:25:51.045Z",
+  "title": "Entwurf: Binokel zu dritt hochkant – Tisch-Info als ein Feld",
+  "text": "Entwurf – noch nicht im Spiel. Trumpf, Gereizt und Punkte stehen in einem Feld unter den Karten der Gegner statt in zwei Reihen in der Tischmitte; der Stich hat dadurch Platz.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "360×740, Karten „Groß“, größte Schrift",
+    "before": "changes/2026-11-15-item588-tinfo3-entwurf/01-before-gb-playing-p3-360x740-s1.35.webp",
+    "after": "changes/2026-11-15-item588-tinfo3-entwurf/02-after-ga4-playing-p3-360x740-s1.35.webp"
+   },
+   {
+    "label": "412×915, Karten „Groß“, größte Schrift",
+    "before": "changes/2026-11-15-item588-tinfo3-entwurf/03-before-gb-playing-p3-412x915-s1.35.webp",
+    "after": "changes/2026-11-15-item588-tinfo3-entwurf/04-after-ga4-playing-p3-412x915-s1.35.webp"
+   }
+  ],
+  "sha": "acea9146"
  }
 ]
