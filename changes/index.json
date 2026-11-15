@@ -15925,5 +15925,35 @@
    }
   ],
   "sha": "b1ec01be"
+ },
+ {
+  "id": "q612-wunschlaenge",
+  "date": "2026-11-15T16:47:12.892Z",
+  "title": "Entwurf: Wunsch-Länge in der Warteschlange, Länge und „Nicht diese Partie“ am Vortisch",
+  "text": "Entwurf – noch nicht im Spiel. Auf der Warteschlangen-Karte wählt man die gewünschte Partielänge (Runden oder Punkte, „egal“ als Vorgabe, auf Wunsch nur diesen Modus). Am Vortisch stehen die entschiedene Länge und der Grund; „Nicht diese Partie“ liegt als Nebenknopf neben „Bereit“.",
+  "issue": "wirtshaus#380",
+  "rows": [
+   {
+    "label": "Karte mit Wunschzeile (Handy · Desktop)",
+    "before": "changes/2026-11-15-q612-wunschlaenge/01-before-qw612-card-picked-phone.webp",
+    "after": "changes/2026-11-15-q612-wunschlaenge/02-after-qw612-card-picked-desk.webp"
+   },
+   {
+    "label": "Warteschlange mit Wunsch (Handy · Desktop)",
+    "before": "changes/2026-11-15-q612-wunschlaenge/03-before-qw612-queue-screen-phone.webp",
+    "after": "changes/2026-11-15-q612-wunschlaenge/04-after-qw612-queue-screen-desk.webp"
+   },
+   {
+    "label": "Vortisch: Länge im Kopf, Knopf im Bereit-Feld (Handy · Desktop)",
+    "before": "changes/2026-11-15-q612-wunschlaenge/05-before-qw612-vortisch-phone.webp",
+    "after": "changes/2026-11-15-q612-wunschlaenge/06-after-qw612-vortisch-desk.webp"
+   },
+   {
+    "label": "Gesperrt mit Grund (Handy) · Match gefunden (Desktop)",
+    "before": "changes/2026-11-15-q612-wunschlaenge/07-before-qw612-vortisch-locked-phone.webp",
+    "after": "changes/2026-11-15-q612-wunschlaenge/08-after-qw612-found-0.9s-desk.webp"
+   }
+  ],
+  "sha": "a650fb88"
  }
 ]
