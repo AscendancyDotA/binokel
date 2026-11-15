@@ -15991,5 +15991,31 @@
    }
   ],
   "sha": "c59b16a9"
+ },
+ {
+  "id": "ent-schach-raetsel626",
+  "date": "2026-11-15T22:43:51.788Z",
+  "title": "Entwurf: Schach – Rätsel des Tages",
+  "text": "Entwurf – noch nicht im Spiel. Schach bekommt das Rätsel des Tages: Matt in 1, 2 oder 3 Zügen oder eine Figur gewinnen, mit genau einem klar besten Zug. Farbe und Ziel stehen über dem Brett, gezogen wird direkt auf dem Brett vom Schachtisch.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy: Weiß am Zug, Figur gewinnen",
+    "img": "changes/2026-11-15-ent-schach-raetsel626/01-img-puzzle-schach-white-picked-phone.webp"
+   },
+   {
+    "label": "Handy: Schwarz am Zug, Matt in 2 – die Auflösung",
+    "img": "changes/2026-11-15-ent-schach-raetsel626/02-img-puzzle-schach-black-explain-phone.webp"
+   },
+   {
+    "label": "Desktop: die Aufgabe",
+    "img": "changes/2026-11-15-ent-schach-raetsel626/03-img-puzzle-schach-white-ask-desktop.webp"
+   },
+   {
+    "label": "Desktop: Auflösung mit Pfeil",
+    "img": "changes/2026-11-15-ent-schach-raetsel626/04-img-puzzle-schach-black-reveal-desktop.webp"
+   }
+  ],
+  "sha": "d7028744"
  }
 ]
