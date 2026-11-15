@@ -15903,5 +15903,27 @@
    }
   ],
   "sha": "e5bf80c0"
+ },
+ {
+  "id": "topf-mix",
+  "date": "2026-11-15T15:49:17.246Z",
+  "title": "Entwurf: Topf – gemischte Einsätze",
+  "text": "Entwurf – noch nicht im Spiel. So liegen die verschiedenen Einsätze (Edelsteine, Scheine, Goldtaler, Chips, Silbertaler) heute im gemeinsamen Topf, bei Lupfen mit sechs und Binokel mit vier Plätzen, kleiner bis großer Pott.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Topf, dreifach vergrößert",
+    "img": "changes/2026-11-15-topf-mix/01-img-potmix-sheet.webp"
+   },
+   {
+    "label": "Lupfen, Handy 390 × 844, Pott 400",
+    "img": "changes/2026-11-15-topf-mix/02-img-lupfen-phone390-400.webp"
+   },
+   {
+    "label": "Binokel, Desktop, Topf 800",
+    "img": "changes/2026-11-15-topf-mix/03-img-binokel-desk-800.webp"
+   }
+  ],
+  "sha": "b1ec01be"
  }
 ]
