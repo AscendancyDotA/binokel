@@ -15643,5 +15643,45 @@
    }
   ],
   "sha": "7e5ab9dc"
+ },
+ {
+  "id": "lava609",
+  "date": "2026-11-15T11:12:33.595Z",
+  "title": "Entwurf: Höllenfeuer – fließende Lava",
+  "text": "Entwurf – noch nicht im Spiel. Zwischen den Schollen der Tischdecke Höllenfeuer fließt langsam Lava: ein heller, heißer Streifen wandert die Risse entlang. Je sechs Bilder einer Runde (18 Sekunden), links vorher, rechts nachher.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Laden-Kachel",
+    "before": "changes/2026-11-15-lava609/01-before-before-edge-full-tile.webp",
+    "after": "changes/2026-11-15-lava609/02-after-after-edge-full-tile.webp"
+   },
+   {
+    "label": "Vorschau-Bühne",
+    "before": "changes/2026-11-15-lava609/03-before-before-edge-full-stage.webp",
+    "after": "changes/2026-11-15-lava609/04-after-after-edge-full-stage.webp"
+   },
+   {
+    "label": "Tisch Handy, eigener Platz",
+    "before": "changes/2026-11-15-lava609/05-before-before-edge-full-table-phone-own.webp",
+    "after": "changes/2026-11-15-lava609/06-after-after-edge-full-table-phone-own.webp"
+   },
+   {
+    "label": "Tisch Handy, Gegnerplatz",
+    "before": "changes/2026-11-15-lava609/07-before-before-edge-full-table-phone-opp.webp",
+    "after": "changes/2026-11-15-lava609/08-after-after-edge-full-table-phone-opp.webp"
+   },
+   {
+    "label": "Tisch Desktop, eigener Platz",
+    "before": "changes/2026-11-15-lava609/09-before-before-edge-full-table-desktop-own.webp",
+    "after": "changes/2026-11-15-lava609/10-after-after-edge-full-table-desktop-own.webp"
+   },
+   {
+    "label": "Tisch Desktop, Gegnerplatz",
+    "before": "changes/2026-11-15-lava609/11-before-before-edge-full-table-desktop-opp.webp",
+    "after": "changes/2026-11-15-lava609/12-after-after-edge-full-table-desktop-opp.webp"
+   }
+  ],
+  "sha": "b97d67c3"
  }
 ]
