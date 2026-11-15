@@ -15573,5 +15573,27 @@
    }
   ],
   "sha": "d06fbe52"
+ },
+ {
+  "id": "603-blackjack-app",
+  "date": "2026-11-15T05:41:12.237Z",
+  "title": "Entwurf: Blackjack als eigene App – Symbol und Store-Bilder",
+  "text": "Entwurf – noch nicht im Store. Symbol, Titelbild und Store-Bilder der Einzel-App „Blackjack Wirtshaus“ für den offenen Test.",
+  "issue": "wirtshaus#330",
+  "rows": [
+   {
+    "label": "App-Symbol",
+    "img": "changes/2026-11-15-603-blackjack-app/01-img-icon-blackjack.webp"
+   },
+   {
+    "label": "Titelbild",
+    "img": "changes/2026-11-15-603-blackjack-app/02-img-feature-graphic-de.webp"
+   },
+   {
+    "label": "Store-Bilder (Telefon + Tablet)",
+    "img": "changes/2026-11-15-603-blackjack-app/03-img-blackjack-de.webp"
+   }
+  ],
+  "sha": "d06fbe52"
  }
 ]
