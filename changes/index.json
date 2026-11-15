@@ -15773,5 +15773,25 @@
    }
   ],
   "sha": "172f37d5"
+ },
+ {
+  "id": "item608-taverne-schrift",
+  "date": "2026-11-15T12:35:47.307Z",
+  "title": "Taverne: Namen im Raum mit sehr großer Schrift",
+  "text": "Mit sehr großer Schrift liegen die Namen im Raum nicht mehr übereinander. Jede Zeile wächst mit ihrem Text, Knöpfe wie „Mitschauen“ rutschen bei Bedarf in eine zweite Zeile, und die offene Liste zeigt mindestens drei ganze Zeilen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Desktop 1920×1080, Schrift sehr groß",
+    "before": "changes/2026-11-15-item608-taverne-schrift/01-before-cs-tv-before.webp",
+    "after": "changes/2026-11-15-item608-taverne-schrift/02-after-cs-tv-after.webp"
+   },
+   {
+    "label": "Desktop 1280×800, normale Schrift",
+    "before": "changes/2026-11-15-item608-taverne-schrift/03-before-cs-tv-before-n.webp",
+    "after": "changes/2026-11-15-item608-taverne-schrift/04-after-cs-tv-after-n.webp"
+   }
+  ],
+  "sha": "9f4802e9"
  }
 ]
