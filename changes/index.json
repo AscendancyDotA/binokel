@@ -15595,5 +15595,25 @@
    }
   ],
   "sha": "d06fbe52"
+ },
+ {
+  "id": "poker-setzfeld",
+  "date": "2026-11-15T06:59:34.727Z",
+  "title": "Entwurf: Poker – das Setzfeld liegt nicht mehr auf den Tischkarten",
+  "text": "Entwurf – noch nicht im Spiel. Am Pokertisch lag das Setzfeld (Min, ½ Pott, Pott, All-in, Regler, Schieben/Setzen) auf Handys und Tablets über den offenen Karten in der Mitte. Jetzt steht es über der eigenen Hand, die Tischkarten rücken darüber, und wo es eng wird, werden sie etwas kleiner.",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Handy (Store-Bild)",
+    "before": "changes/2026-11-15-poker-setzfeld/01-before-before-phone-1-live.webp",
+    "after": "changes/2026-11-15-poker-setzfeld/02-after-after-phone-1-live.webp"
+   },
+   {
+    "label": "Kleines Handy 360×740, sechs Spieler, große Karten und Schrift",
+    "before": "changes/2026-11-15-poker-setzfeld/03-before-RED-360x740p-6p-pre-c1.35-t1.3.webp",
+    "after": "changes/2026-11-15-poker-setzfeld/04-after-360x740p-6p-pre-c1.35-t1.3.webp"
+   }
+  ],
+  "sha": "8b5c352a"
  }
 ]
