@@ -15619,8 +15619,8 @@
  {
   "id": "item588-tinfo3-entwurf-frage",
   "date": "2026-11-15T07:01:49.454Z",
-  "title": "Entwurf: Tisch-Info-Feld – „i“ und „?“ getrennt",
-  "text": "Entwurf – noch nicht im Spiel. Beim ersten Mal erklärt ein „?“ den Punkte-Zähler. Es lag im Tisch-Info-Feld auf dem „i“; jetzt öffnet das „i“ das Feld, und das „?“ steht dort neben dem Zähler – bei drei und vier Spielern.",
+  "title": "Tisch-Info: „i“ und „?“ liegen nicht mehr aufeinander",
+  "text": "Beim ersten Mal erklärt ein „?“ den Punkte-Zähler. Es lag im Tisch-Info-Feld auf dem „i“; jetzt öffnet das „i“ das Feld, und das „?“ steht dort neben dem Zähler – bei drei und vier Spielern.",
   "issue": "binokel#29",
   "rows": [
    {
