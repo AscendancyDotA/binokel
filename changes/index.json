@@ -15955,5 +15955,23 @@
    }
   ],
   "sha": "a650fb88"
+ },
+ {
+  "id": "topf-mix2",
+  "date": "2026-11-15T16:57:21.509Z",
+  "title": "Entwurf: Topf – jeder Einsatz zu erkennen",
+  "text": "Entwurf – noch nicht im Spiel. Im gemeinsamen Topf liegen die Scheine jetzt unten, Münzen, Chips und Edelsteine obenauf; jeder Spieler zeigt mindestens zwei Stücke und keiner mehr als gut ein Drittel. Am Handy ist der Lupfen-Topf so groß wie bei den anderen Spielen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Topf vorher / nachher, dreifach vergrößert",
+    "img": "changes/2026-11-15-topf-mix2/01-img-potmix-beforeafter.webp"
+   },
+   {
+    "label": "Lupfen am Handy (390 × 844), Pott 400",
+    "img": "changes/2026-11-15-topf-mix2/02-img-lupfen-phone-pair.webp"
+   }
+  ],
+  "sha": "e18429e4"
  }
 ]
