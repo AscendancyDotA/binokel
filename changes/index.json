@@ -15519,5 +15519,37 @@
    }
   ],
   "sha": "acea9146"
+ },
+ {
+  "id": "kurve598-echt",
+  "date": "2026-11-15T04:34:14.172Z",
+  "title": "Entwurf: Kurve – echte Kurven mit Volumen und Auflösung",
+  "text": "Entwurf – noch nicht im Spiel. Die Prototyp-Seite spielt jetzt echte historische Ausschnitte (Strompreise und US-Aktien) mit Volumen-Balken unter den Kerzen; was es war, verrät erst die Auflösung nach dem Tipp: Name, Zeitraum, echte Preise und wie es weiterging. Die erzeugten Kurven bleiben als zweiter Modus.",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Handy 444×987 – Tippen: vorher (erzeugte Kurve) / jetzt (echte Kurve, Volumen darunter)",
+    "before": "changes/2026-11-15-kurve598-echt/01-before-before-02-after-kurve591-444x987-tippen.webp",
+    "after": "changes/2026-11-15-kurve598-echt/02-after-kurve598-444x987-tippen.webp"
+   },
+   {
+    "label": "Desktop 1280×800 – Tippen: vorher / jetzt",
+    "before": "changes/2026-11-15-kurve598-echt/03-before-before-04-after-kurve591-1280x800-tippen.webp",
+    "after": "changes/2026-11-15-kurve598-echt/04-after-kurve598-1280x800-tippen.webp"
+   },
+   {
+    "label": "Neu: Auflösung – Handy",
+    "img": "changes/2026-11-15-kurve598-echt/05-img-kurve598-444x987-aufloesung.webp"
+   },
+   {
+    "label": "Neu: Auflösung – Desktop",
+    "img": "changes/2026-11-15-kurve598-echt/06-img-kurve598-1280x800-aufloesung.webp"
+   },
+   {
+    "label": "Neu: Ergebnis mit den acht Kurven der Partie",
+    "img": "changes/2026-11-15-kurve598-echt/07-img-kurve598-444x987-ergebnis.webp"
+   }
+  ],
+  "sha": "5ea90ebd"
  }
 ]
