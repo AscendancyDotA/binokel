@@ -16085,5 +16085,63 @@
    }
   ],
   "sha": "03737dd1"
+ },
+ {
+  "id": "kosmetik-runde2-623",
+  "date": "2026-11-16T01:34:33.309Z",
+  "title": "Entwurf: Kartenschachtel, Sektkübel, Goldbarren und Sprüche neu gezeichnet",
+  "text": "Entwurf – noch nicht im Spiel. Die Kartenschachtel zeigt ihre Chips in Säulen, die Zigarrenkiste wächst sichtbar mit dem Einsatz, Champagner und Goldbarren sind neu gezeichnet. Die Sprüche-Pakete haben eigene gezeichnete Bilder, die auf jedem Gerät gleich aussehen. Neu sind der Wanderpokal für den Tischplatz und ein Fasnets-Paket.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Kartenschachtel in der Vorschau",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/01-before-b-stash-kartenbox-stage-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/02-after-a-stash-kartenbox-stage-phone412.webp"
+   },
+   {
+    "label": "Zigarrenkiste in der Vorschau",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/03-before-b-stash-zigarren-stage-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/04-after-a-stash-zigarren-stage-phone412.webp"
+   },
+   {
+    "label": "Champagner im Kühler",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/05-before-b-spot-champagner-stage-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/06-after-a-spot-champagner-stage-phone412.webp"
+   },
+   {
+    "label": "Goldbarren",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/07-before-b-spot-goldbarren-stage-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/08-after-a-spot-goldbarren-stage-phone412.webp"
+   },
+   {
+    "label": "Neu: Wanderpokal",
+    "img": "changes/2026-11-16-kosmetik-runde2-623/09-img-a-spot-pokal-stage-phone412.webp"
+   },
+   {
+    "label": "Stammtisch-Paket",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/10-before-b-emotes-stammtisch-stage-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/11-after-a-emotes-stammtisch-stage-phone412.webp"
+   },
+   {
+    "label": "Derbe Sprüch",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/12-before-b-emotes-derb-tile-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/13-after-a-emotes-derb-tile-phone412.webp"
+   },
+   {
+    "label": "Neu: Fasnets-Paket",
+    "img": "changes/2026-11-16-kosmetik-runde2-623/14-img-a-emotes-fasnet-stage-phone412.webp"
+   },
+   {
+    "label": "Am Tisch, Desktop 1280×800",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/15-before-b-binokel-o2-desktop.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/16-after-a-binokel-o2-desktop.webp"
+   },
+   {
+    "label": "Am Tisch, Handy 444×987",
+    "before": "changes/2026-11-16-kosmetik-runde2-623/17-before-b-binokel-o2-phone.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623/18-after-a-binokel-o2-phone.webp"
+   }
+  ],
+  "sha": "b6941de5"
  }
 ]
