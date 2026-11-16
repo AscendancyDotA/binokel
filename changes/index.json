@@ -16729,5 +16729,20 @@
    }
   ],
   "sha": "55891161"
+ },
+ {
+  "id": "i648-stufen",
+  "date": "2026-11-16T17:04:50.312Z",
+  "title": "Entwurf: Laden – Stufen-Abzeichen besser lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Die Abzeichen S2 (grün) und S3 (blau) sind einen Ton dunkler, S5 bleibt orange und hat dunkle Schrift wie das goldene S6 – in allen drei Stilen gut lesbar.",
+  "issue": "wirtshaus#406",
+  "rows": [
+   {
+    "label": "Laden im Arena-Stil",
+    "before": "changes/2026-11-16-i648-stufen/01-before-tier-before.webp",
+    "after": "changes/2026-11-16-i648-stufen/02-after-tier-after.webp"
+   }
+  ],
+  "sha": "55891161"
  }
 ]
