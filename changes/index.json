@@ -16936,5 +16936,39 @@
    }
   ],
   "sha": "dd77a38b"
+ },
+ {
+  "id": "2026-11-16-aufgaben-je-app-659",
+  "date": "2026-11-16T19:50:26.320Z",
+  "title": "Entwurf: Aufgaben und Kopfgeld je App",
+  "text": "Entwurf – noch nicht im Spiel. Jede App zeigt ihre eigenen Aufgaben und ihr eigenes Kopfgeld des Tages: die Schnapsen-App nur Schnapsen und allgemeine Aufgaben, das Hinterzimmer die Casino-Spiele. Die Taler bleiben ein gemeinsames Konto.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Wirtshaus (Handy): Aufgaben",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/01-img-tasks-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Binokel-App: Kopfgeld mit Großer Runde und Meld",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/02-img-tasks-binokel-phone-bounty.webp"
+   },
+   {
+    "label": "Schnapsen-App: nur Schnapsen-Aufgaben",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/03-img-tasks-schnapsen-phone.webp"
+   },
+   {
+    "label": "Schnapsen-App: eigenes Kopfgeld",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/04-img-tasks-schnapsen-phone-bounty.webp"
+   },
+   {
+    "label": "Hinterzimmer: Casino-Aufgaben",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/05-img-tasks-hinterzimmer-phone.webp"
+   },
+   {
+    "label": "Hinterzimmer: eigenes Kopfgeld",
+    "img": "changes/2026-11-16-2026-11-16-aufgaben-je-app-659/06-img-tasks-hinterzimmer-phone-bounty.webp"
+   }
+  ],
+  "sha": "f2f28def"
  }
 ]
