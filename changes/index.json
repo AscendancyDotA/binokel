@@ -16217,5 +16217,26 @@
    }
   ],
   "sha": "1ef69142"
+ },
+ {
+  "id": "item634-pk-tips",
+  "date": "2026-11-16T02:28:32.380Z",
+  "title": "Entwurf: Poker – Tipps für die ersten Partien",
+  "text": "Entwurf – noch nicht im Spiel. In den ersten drei Partien erklären kurze Tipps das Ziel, die Setz-Knöpfe, die offenen Karten, die Blinds und die Rangfolge der Hände.",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Handy 390×844, größte Schrift",
+    "img": "changes/2026-11-16-item634-pk-tips/01-img-poker-first-phone390-wirtshaus-0.webp"
+   },
+   {
+    "img": "changes/2026-11-16-item634-pk-tips/02-img-poker-first-phone390-wirtshaus-1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-16-item634-pk-tips/03-img-poker-first-desk-wirtshaus-1.webp"
+   }
+  ],
+  "sha": "1ef69142"
  }
 ]
