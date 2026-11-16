@@ -16921,5 +16921,20 @@
    }
   ],
   "sha": "dd77a38b"
+ },
+ {
+  "id": "i656-sn-trumpf",
+  "date": "2026-11-16T19:47:38.447Z",
+  "title": "Entwurf: Schnapsen – Trumpf-Schild nicht mehr unter dem Hinweis",
+  "text": "Entwurf – noch nicht im Spiel. Auf dem Tablet lag „Du bist dran“ über dem Trumpf-Schild, sobald darunter Knöpfe wie „Talon zudrehen“ standen. Das Schild rückt dann über den Talon.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Tablet 960×540, Arena",
+    "before": "changes/2026-11-16-i656-sn-trumpf/01-before-u-snclose.webp",
+    "after": "changes/2026-11-16-i656-sn-trumpf/02-after-u-snclose2.webp"
+   }
+  ],
+  "sha": "dd77a38b"
  }
 ]
