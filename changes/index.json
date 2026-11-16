@@ -16744,5 +16744,20 @@
    }
   ],
   "sha": "55891161"
+ },
+ {
+  "id": "i648-datenschutz",
+  "date": "2026-11-16T17:04:58.773Z",
+  "title": "Entwurf: Datenschutz – Rückmeldungen nach der Partie nur noch einmal je Sprache",
+  "text": "Entwurf – noch nicht im Spiel. Der Absatz zu den freiwilligen Rückmeldungen nach der Partie stand dreisprachig über dem deutschen Teil. Er steht jetzt im deutschen und im englischen Teil an seinem Platz; die Profilbilder ebenso.",
+  "issue": "wirtshaus#406",
+  "rows": [
+   {
+    "label": "Datenschutz am Handy",
+    "before": "changes/2026-11-16-i648-datenschutz/01-before-dsbefore-top.webp",
+    "after": "changes/2026-11-16-i648-datenschutz/02-after-dsafter-top.webp"
+   }
+  ],
+  "sha": "55891161"
  }
 ]
