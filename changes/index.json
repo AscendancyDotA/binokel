@@ -17175,5 +17175,24 @@
    }
   ],
   "sha": "b5f7da1b"
+ },
+ {
+  "id": "i660-vorschau",
+  "date": "2026-11-16T20:29:44.894Z",
+  "title": "Vorschau im Raum am Handy in voller Breite",
+  "text": "Die Vorschau von Tischdecke oder Kartenrücken nutzt am Handy die ganze Breite; die Knöpfe stehen darunter in einer Reihe.",
+  "rows": [
+   {
+    "label": "Hochformat 360×740, Kartenrücken",
+    "before": "changes/2026-11-16-i660-vorschau/01-before-p3-360x740-back-eichel.webp",
+    "after": "changes/2026-11-16-i660-vorschau/02-after-p3-360x740-back-eichel.webp"
+   },
+   {
+    "label": "Hochformat 360×740, Tischdecke",
+    "before": "changes/2026-11-16-i660-vorschau/03-before-p3-360x740-cloth-hoelle.webp",
+    "after": "changes/2026-11-16-i660-vorschau/04-after-p3-360x740-cloth-hoelle.webp"
+   }
+  ],
+  "sha": "b5f7da1b"
  }
 ]
