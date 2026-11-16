@@ -16196,5 +16196,26 @@
    }
   ],
   "sha": "b6941de5"
+ },
+ {
+  "id": "item634-bj-tips",
+  "date": "2026-11-16T02:28:19.575Z",
+  "title": "Entwurf: Blackjack – Tipps für die ersten Partien",
+  "text": "Entwurf – noch nicht im Spiel. In den ersten drei Partien erklären kurze Tipps das Ziel, den Einsatz, die Versicherung und die Knöpfe am Tisch.",
+  "issue": "wirtshaus#330",
+  "rows": [
+   {
+    "label": "Handy 390×844, größte Schrift",
+    "img": "changes/2026-11-16-item634-bj-tips/01-img-blackjack-first-phone390-wirtshaus-0.webp"
+   },
+   {
+    "img": "changes/2026-11-16-item634-bj-tips/02-img-blackjack-first-phone390-wirtshaus-1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-16-item634-bj-tips/03-img-blackjack-first-desk-wirtshaus-1.webp"
+   }
+  ],
+  "sha": "1ef69142"
  }
 ]
