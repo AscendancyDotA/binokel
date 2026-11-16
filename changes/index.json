@@ -17198,8 +17198,8 @@
  {
   "id": "i660-startknopf",
   "date": "2026-11-16T20:29:55.165Z",
-  "title": "Tisch-Knopf bei größter Schrift",
-  "text": "Bei größter Schrift bricht die Aufschrift des Knopfs zum Tisch-Aufmachen um, statt über den Knopf hinauszulaufen.",
+  "title": "Größte Schrift: Aufschrift passt in den Knopf",
+  "text": "Bei größter Schrift passt die Aufschrift „Privaten Tisch aufmachen“ wieder in ihren Knopf.",
   "rows": [
    {
     "label": "Hochformat 360×740, größte Schrift",
