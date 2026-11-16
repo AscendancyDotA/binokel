@@ -16403,5 +16403,27 @@
    }
   ],
   "sha": "23e952a3"
+ },
+ {
+  "id": "pinochle-tipps",
+  "date": "2026-11-16T12:28:27.903Z",
+  "title": "Entwurf: Pinochle – Tipps für die ersten Partien",
+  "text": "Entwurf – noch nicht im Spiel. In den ersten drei Pinochle-Partien erklärt ein kurzer Tipp das Ziel und dann jede Phase, hier das Reizen.",
+  "issue": "wirtshaus#278",
+  "rows": [
+   {
+    "label": "Handy 390×844: Ziel",
+    "img": "changes/2026-11-16-pinochle-tipps/01-img-pinochle-firsttip-goal-390.webp"
+   },
+   {
+    "label": "Handy 390×844, größte Schrift: Reizen",
+    "img": "changes/2026-11-16-pinochle-tipps/02-img-pinochle-firsttip-phase-390-maxtext.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Reizen",
+    "img": "changes/2026-11-16-pinochle-tipps/03-img-pinochle-firsttip-phase-desktop.webp"
+   }
+  ],
+  "sha": "40687ad0"
  }
 ]
