@@ -17010,5 +17010,20 @@
    }
   ],
   "sha": "6edbba4c"
+ },
+ {
+  "id": "657-profil-google",
+  "date": "2026-11-16T19:54:16.309Z",
+  "title": "Entwurf: Kein grauer „Kommt bald“-Knopf mehr im Profil",
+  "text": "Entwurf – noch nicht im Spiel. Der ausgegraute Knopf „Später mit Google sichern · Kommt bald“ ist weg. Wo die Google-Anmeldung geht (Browser, Android-App), steht weiter „Mit Google sichern“.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Eigenes Profil, Handy",
+    "before": "changes/2026-11-16-657-profil-google/01-before-before-profile-390.webp",
+    "after": "changes/2026-11-16-657-profil-google/02-after-after-profile-390.webp"
+   }
+  ],
+  "sha": "6edbba4c"
  }
 ]
