@@ -16463,5 +16463,33 @@
    }
   ],
   "sha": "332f82f6"
+ },
+ {
+  "id": "handel-tisch-entwurf",
+  "date": "2026-11-16T13:05:32.631Z",
+  "title": "Entwurf: Handel – der Spieltisch am Handy und am Rechner",
+  "text": "Entwurf – noch nicht im Spiel. Das neue Würfel-und-Handelsspiel: Ganze Ortsnamen auf größeren Feldern, die Figuren stehen unten im Feld statt auf dem Namen, bei Kauf, Versteigerung und Angebot liegt die Karte des Orts offen, die Feld-Aktionen verdecken weder Brett noch Schilder.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 390×844: vorher / nachher",
+    "before": "changes/2026-11-16-handel-tisch-entwurf/01-before-offline-play.webp",
+    "after": "changes/2026-11-16-handel-tisch-entwurf/02-after-offline-play.webp"
+   },
+   {
+    "label": "Handy: ein Tauschangebot",
+    "img": "changes/2026-11-16-handel-tisch-entwurf/03-img-offline-offer.webp"
+   },
+   {
+    "label": "Rechner 1280×800: vorher / nachher",
+    "before": "changes/2026-11-16-handel-tisch-entwurf/04-before-online-table.webp",
+    "after": "changes/2026-11-16-handel-tisch-entwurf/05-after-offline-play.webp"
+   },
+   {
+    "label": "Rechner: Versteigerung mit offener Ortskarte",
+    "img": "changes/2026-11-16-handel-tisch-entwurf/06-img-offline-auction.webp"
+   }
+  ],
+  "sha": "7ffbaf2b"
  }
 ]
