@@ -17041,8 +17041,8 @@
  {
   "id": "item654-wertungen",
   "date": "2026-11-16T20:00:14.489Z",
-  "title": "Entwurf: Ranglisten je Spiel – Solo- und Party-Wertung statt Wertung je Tischgröße",
-  "text": "Jedes Spiel außer Binokel hatte eine Wertung je Tischgröße, manche Reiter ohne Namen. Jetzt hat jedes Spiel eine Solo- und eine Party-Wertung für alle Tischgrößen; Lupfen zu siebt wird gewertet. Binokel bleibt unverändert.",
+  "title": "Ranglisten je Spiel: Solo- und Party-Wertung",
+  "text": "Jedes Spiel hat jetzt eine Solo- und eine Party-Wertung statt einer Wertung je Tischgröße; leere Reiter gibt es nicht mehr.",
   "issue": "binokel#30",
   "rows": [
    {
