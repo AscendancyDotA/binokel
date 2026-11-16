@@ -16268,5 +16268,39 @@
    }
   ],
   "sha": "6853411f"
+ },
+ {
+  "id": "eroberung631-entwurf",
+  "date": "2026-11-16T07:54:48.613Z",
+  "title": "Entwurf: Eroberung – neues Spiel auf der Karte Württembergs",
+  "text": "Entwurf – noch nicht im Spiel. Ein eigenes Würfel-Eroberungsspiel auf den 35 Ämtern des alten Königreichs: Mannen ausheben, angreifen, nachrücken; nach der letzten Runde zählen Ämter, ganze Landschaften und Aufträge.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Handy 390×844",
+    "img": "changes/2026-11-16-eroberung631-entwurf/01-img-offline-play-390x844.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-16-eroberung631-entwurf/02-img-offline-play-1280x800.webp"
+   },
+   {
+    "label": "Desktop 1920×1080",
+    "img": "changes/2026-11-16-eroberung631-entwurf/03-img-offline-play-1920x1080.webp"
+   },
+   {
+    "label": "Handy quer, größte Schrift",
+    "img": "changes/2026-11-16-eroberung631-entwurf/04-img-eroberung-844x390-max.webp"
+   },
+   {
+    "label": "Wiederholung 360 px",
+    "img": "changes/2026-11-16-eroberung631-entwurf/05-img-eroberung-s360.webp"
+   },
+   {
+    "label": "Spielabzeichen",
+    "img": "changes/2026-11-16-eroberung631-entwurf/06-img-badge2.webp"
+   }
+  ],
+  "sha": "15751a66"
  }
 ]
