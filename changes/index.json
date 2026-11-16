@@ -16779,5 +16779,35 @@
    }
   ],
   "sha": "55891161"
+ },
+ {
+  "id": "item649-niedrige-fenster",
+  "date": "2026-11-16T17:20:07.981Z",
+  "title": "Entwurf: Breite, niedrige Fenster – Partieende, Rundenende und Spielauswahl nebeneinander",
+  "text": "Entwurf – noch nicht im Spiel. Auf breiten, aber niedrigen Fenstern (etwa ein Laptop mit 150 % Skalierung) stehen Partieende, Rundenende und Spielauswahl nebeneinander statt untereinander, damit alles ohne Scrollen sichtbar ist.",
+  "issue": "wirtshaus#410",
+  "rows": [
+   {
+    "label": "Partieende 1280×600",
+    "before": "changes/2026-11-16-item649-niedrige-fenster/01-before-binokel-matchend.webp",
+    "after": "changes/2026-11-16-item649-niedrige-fenster/02-after-matchend-binokel-1280x600.webp"
+   },
+   {
+    "label": "Binokel Rundenende 1280×600",
+    "before": "changes/2026-11-16-item649-niedrige-fenster/03-before-re-binokel4-1280x600.webp",
+    "after": "changes/2026-11-16-item649-niedrige-fenster/04-after-roundend-binokel-1280x600.webp"
+   },
+   {
+    "label": "Schwimmen Rundenende 1280×600",
+    "before": "changes/2026-11-16-item649-niedrige-fenster/05-before-re-schwimmen6-1280x600.webp",
+    "after": "changes/2026-11-16-item649-niedrige-fenster/06-after-re-schwimmen6-1280x600.webp"
+   },
+   {
+    "label": "Spielauswahl 1707×760",
+    "before": "changes/2026-11-16-item649-niedrige-fenster/07-before-chooser-1707x760.webp",
+    "after": "changes/2026-11-16-item649-niedrige-fenster/08-after-chooser-1707x760.webp"
+   }
+  ],
+  "sha": "8b6c319f"
  }
 ]
