@@ -16238,5 +16238,35 @@
    }
   ],
   "sha": "1ef69142"
+ },
+ {
+  "id": "pinochle-raetsel",
+  "date": "2026-11-16T03:23:38.237Z",
+  "title": "Entwurf: Pinochle – Rätsel des Tages",
+  "text": "Entwurf – noch nicht im Spiel. Pinochle bekommt ein tägliches Rätsel mit französischen Karten: welche Karte jetzt, welcher Trumpf mit dem Stock – oder lieber aufgeben. Jede Aufgabe hat genau eine klar beste Antwort.",
+  "issue": "wirtshaus#278",
+  "rows": [
+   {
+    "label": "Handy: welche Karte?",
+    "img": "changes/2026-11-16-pinochle-raetsel/01-img-puzzle-pinochle-pnCard-ask-phone.webp"
+   },
+   {
+    "label": "Handy: welcher Trumpf mit dem Stock?",
+    "img": "changes/2026-11-16-pinochle-raetsel/02-img-puzzle-pinochle-pnTrump-ask-phone.webp"
+   },
+   {
+    "label": "Handy: Auflösung (Aufgeben)",
+    "img": "changes/2026-11-16-pinochle-raetsel/03-img-puzzle-pinochle-pnThrow-explain-phone.webp"
+   },
+   {
+    "label": "Desktop: Trumpfwahl",
+    "img": "changes/2026-11-16-pinochle-raetsel/04-img-puzzle-pinochle-pnTrump-ask-desktop.webp"
+   },
+   {
+    "label": "Desktop: Auflösung (Karte)",
+    "img": "changes/2026-11-16-pinochle-raetsel/05-img-puzzle-pinochle-pnCard-explain-desktop.webp"
+   }
+  ],
+  "sha": "6853411f"
  }
 ]
