@@ -16491,5 +16491,39 @@
    }
   ],
   "sha": "7ffbaf2b"
+ },
+ {
+  "id": "item645-ein-profil",
+  "date": "2026-11-16T14:53:44.771Z",
+  "title": "Entwurf: Ein Profil für alle",
+  "text": "Entwurf – noch nicht im Spiel. Das eigene Bild oben öffnet jetzt das Profil mit seinen Reitern, Profile anderer Spieler sehen genauso aus (mit Freund, Blockieren und Melden), und das Profilbild änderst du mit einem Tipp aufs Bild.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Eigenes Bild oben angetippt (1707×760)",
+    "before": "changes/2026-11-16-item645-ein-profil/01-before-before-1707x760-header.webp",
+    "after": "changes/2026-11-16-item645-ein-profil/02-after-after-1707x760-wirtshaus-own.webp"
+   },
+   {
+    "label": "Profil eines anderen Spielers (1707×760)",
+    "before": "changes/2026-11-16-item645-ein-profil/03-before-before-1707x760-other.webp",
+    "after": "changes/2026-11-16-item645-ein-profil/04-after-after-1707x760-wirtshaus-other.webp"
+   },
+   {
+    "label": "Handy 390×844: Profil eines anderen Spielers",
+    "before": "changes/2026-11-16-item645-ein-profil/05-before-before-390x844-other.webp",
+    "after": "changes/2026-11-16-item645-ein-profil/06-after-after-390x844-wirtshaus-other.webp"
+   },
+   {
+    "label": "Handy 390×844: eigenes Profil, Bild mit Kamera-Zeichen",
+    "before": "changes/2026-11-16-item645-ein-profil/07-before-before-390x844-header.webp",
+    "after": "changes/2026-11-16-item645-ein-profil/08-after-after-390x844-wirtshaus-own.webp"
+   },
+   {
+    "label": "Bild antippen: Bildwahl direkt im Profil",
+    "img": "changes/2026-11-16-item645-ein-profil/09-img-after-1280x800-picker.webp"
+   }
+  ],
+  "sha": "f010a787"
  }
 ]
