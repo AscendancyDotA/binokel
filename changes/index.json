@@ -17131,5 +17131,25 @@
    }
   ],
   "sha": "178a4c11"
+ },
+ {
+  "id": "hinterzimmer-spieleliste",
+  "date": "2026-11-16T20:23:55.362Z",
+  "title": "Entwurf: Hinterzimmer – Poker und Blackjack ganz oben in der Spieleliste",
+  "text": "Entwurf – noch nicht im Spiel. In der Hinterzimmer-App stehen Poker und Blackjack in einer eigenen Gruppe ganz oben, die App startet mit Poker, andere Spiele im Bau sind dort ausgeblendet.",
+  "issue": "wirtshaus#419",
+  "rows": [
+   {
+    "label": "Handy, deutsch",
+    "before": "changes/2026-11-16-hinterzimmer-spieleliste/01-before-de-phone-4-games.webp",
+    "after": "changes/2026-11-16-hinterzimmer-spieleliste/02-after-phone-4-games.webp"
+   },
+   {
+    "label": "Handy, englisch",
+    "before": "changes/2026-11-16-hinterzimmer-spieleliste/03-before-en-phone-4-games.webp",
+    "after": "changes/2026-11-16-hinterzimmer-spieleliste/04-after-phone-4-games.webp"
+   }
+  ],
+  "sha": "3158716a"
  }
 ]
