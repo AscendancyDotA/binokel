@@ -16525,5 +16525,35 @@
    }
   ],
   "sha": "f010a787"
+ },
+ {
+  "id": "roulette-nacharbeit-641b",
+  "date": "2026-11-16T14:56:18.373Z",
+  "title": "Entwurf: Roulette – Einsätze in einfachen Worten, größerer Handy-Tisch, ohne Wertung",
+  "text": "Entwurf – noch nicht im Spiel. Roulette (noch im Bau): Einsätze heißen jetzt „Nur die 20 · 35:1“ oder „Dreierreihe 19–21 · 11:1“, jedes Außenfeld zeigt seine Auszahlung, Chips liegen neben der Schrift. Auf dem Handy wird der Tisch größer, die Auswahl liegt über allen Plätzen. Roulette ist reines Glück und hat keine Wertung mehr.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy: Auswahl der Einsätze",
+    "before": "changes/2026-11-16-roulette-nacharbeit-641b/01-before-sweep-390x844-chooser.webp",
+    "after": "changes/2026-11-16-roulette-nacharbeit-641b/02-after-sweep-390x844-chooser.webp"
+   },
+   {
+    "label": "Handy: Tisch",
+    "before": "changes/2026-11-16-roulette-nacharbeit-641b/03-before-sweep-390x844-bet.webp",
+    "after": "changes/2026-11-16-roulette-nacharbeit-641b/04-after-sweep-390x844-bet.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-16-roulette-nacharbeit-641b/05-before-sweep-1280x800-result.webp",
+    "after": "changes/2026-11-16-roulette-nacharbeit-641b/06-after-sweep-1280x800-result.webp"
+   },
+   {
+    "label": "Partie-Ende ohne Wertung",
+    "before": "changes/2026-11-16-roulette-nacharbeit-641b/07-before-online-matchend-A.webp",
+    "after": "changes/2026-11-16-roulette-nacharbeit-641b/08-after-online-matchend-A.webp"
+   }
+  ],
+  "sha": "5b6f34c6"
  }
 ]
