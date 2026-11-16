@@ -16017,8 +16017,8 @@
  {
   "id": "kasse-statt-shopfenster",
   "date": "2026-11-15T23:15:54.126Z",
-  "title": "Entwurf: Der Shop öffnet überall als Kasse",
-  "text": "Entwurf – noch nicht im Spiel. Jeder Weg in den Shop führt jetzt in die Kasse: in der Lobby auf ihren Reiter, am Tisch, im Warteraum und über den Einstellungen als Kasse über dem Bildschirm. Die Partie läuft darunter weiter; bist du dran, schließt sich die Kasse von selbst.",
+  "title": "Der Shop öffnet überall als Kasse",
+  "text": "Am Tisch und im Warteraum liegt die Kasse über dem Spiel, das weiterläuft; sobald man dran ist, schließt sie sich von selbst.",
   "issue": "wirtshaus#385",
   "rows": [
    {
