@@ -16966,8 +16966,8 @@
  {
   "id": "657-lobbykopf",
   "date": "2026-11-16T19:53:43.069Z",
-  "title": "Entwurf: Lobby-Reiter springen beim Start nicht mehr",
-  "text": "Entwurf – noch nicht im Spiel. Die Reiter oben in der Lobby stehen ab dem ersten Bild still: Schrift, Taler, Aufgaben-Reiter und Glocke haben ihren Platz schon, bevor sie ankommen. Vorher rückte „Kasse“ kurz nach dem Start um gut eine Reiterbreite nach links.",
+  "title": "Lobby-Reiter springen beim Start nicht mehr",
+  "text": "Die Reiter oben in der Lobby springen beim Start nicht mehr – ein Klick trifft den Reiter, den man sieht.",
   "issue": "binokel#29",
   "rows": [
    {
