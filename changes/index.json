@@ -16809,5 +16809,37 @@
    }
   ],
   "sha": "8b6c319f"
+ },
+ {
+  "id": "eroberung631-karte",
+  "date": "2026-11-16T18:34:38.199Z",
+  "title": "Entwurf: Landkarte – Ortsnamen lesbar, Landschaften auf der Karte zeigen",
+  "text": "Entwurf – noch nicht im Spiel. Die Ämter tragen ihre Namen in lesbarer Größe, wo Platz ist, und kein Name liegt auf einer Truppen-Marke; mit größerer Schrift wachsen Namen und Zahlen mit. Eine Landschaft oder ein Auftrag im Info-Kasten zeigt die Ämter dazu auf der Karte.",
+  "issue": "wirtshaus#395",
+  "rows": [
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-16-eroberung631-karte/01-before-offline-play-390x844.webp",
+    "after": "changes/2026-11-16-eroberung631-karte/02-after-offline-play-390x844.webp"
+   },
+   {
+    "label": "Handy, größte Schrift",
+    "before": "changes/2026-11-16-eroberung631-karte/03-before-offline-play-390x844-t1.3.webp",
+    "after": "changes/2026-11-16-eroberung631-karte/04-after-offline-play-390x844-t1.3.webp"
+   },
+   {
+    "label": "Desktop 1920×1080",
+    "before": "changes/2026-11-16-eroberung631-karte/05-before-offline-play-1920x1080.webp",
+    "after": "changes/2026-11-16-eroberung631-karte/06-after-offline-play-1920x1080.webp"
+   },
+   {
+    "label": "Neu: Landschaft antippen zeigt ihre Ämter",
+    "img": "changes/2026-11-16-eroberung631-karte/07-img-offline-showland0-390x844.webp"
+   },
+   {
+    "img": "changes/2026-11-16-eroberung631-karte/08-img-offline-showland0-1280x800.webp"
+   }
+  ],
+  "sha": "6a935d02"
  }
 ]
