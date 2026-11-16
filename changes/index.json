@@ -16990,5 +16990,25 @@
    }
   ],
   "sha": "6edbba4c"
+ },
+ {
+  "id": "657-satzkauf",
+  "date": "2026-11-16T19:54:06.213Z",
+  "title": "Entwurf: Sätze mit zu wenig Talern – klare Zeile, Summe mit Satzpreis",
+  "text": "Entwurf – noch nicht im Spiel. Auf der Satz-Karte rechnet „Alle fehlenden Teile zusammen“ jetzt mit dem Satzpreis (−10 %) wie der Preis daneben, und bei zu wenig Talern steht, wie viele Taler für die kaufbaren Teile fehlen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Mein Raum, Fürst-Satz, Desktop",
+    "before": "changes/2026-11-16-657-satzkauf/01-before-r7a-657-setshort-wirtshaus-desktop.webp",
+    "after": "changes/2026-11-16-657-satzkauf/02-after-r7a-657-setshort-wirtshaus-desktop.webp"
+   },
+   {
+    "label": "Handy 390×844, Look Klar",
+    "before": "changes/2026-11-16-657-satzkauf/03-before-r7a-657-setshort-klar-phone.webp",
+    "after": "changes/2026-11-16-657-satzkauf/04-after-r7a-657-setshort-klar-phone.webp"
+   }
+  ],
+  "sha": "6edbba4c"
  }
 ]
