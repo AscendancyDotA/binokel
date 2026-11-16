@@ -16349,5 +16349,59 @@
    }
   ],
   "sha": "861ffe5f"
+ },
+ {
+  "id": "hinterzimmer-switcher",
+  "date": "2026-11-16T12:25:54.305Z",
+  "title": "Entwurf: Weitere Spiele – Auswahl der App statt Sprung in den Store; neue App „Hinterzimmer“",
+  "text": "Entwurf – noch nicht im Spiel. Ein Spiel, das diese App nicht hat, öffnet jetzt eine kleine Auswahl mit höchstens zwei Apps: beim normalen Spiel das Wirtshaus mit allen Spielen und die eigene App, bei Poker und Blackjack die eigene App und das Hinterzimmer. Ist die App schon installiert, steht „Öffnen“ auf dem Knopf.",
+  "issue": "wirtshaus#397",
+  "rows": [
+   {
+    "label": "Handy: Skat aus der Schnapsen-App",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/01-img-schnapsen-phone-skat.webp"
+   },
+   {
+    "label": "Handy: App installiert → Öffnen",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/02-img-schnapsen-phone-installed.webp"
+   },
+   {
+    "label": "Handy: Poker aus dem Wirtshaus ohne Casino-Spiele",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/03-img-hubstore-phone-poker.webp"
+   },
+   {
+    "label": "Handy: Blackjack ohne eigene App – nur Hinterzimmer",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/04-img-hubstore-phone-blackjack.webp"
+   },
+   {
+    "label": "Handy, größte Schrift",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/05-img-schnapsen-phone-maxtext-skat.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/06-img-schnapsen-desk-skat.webp"
+   },
+   {
+    "label": "Desktop: Poker",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/07-img-hubstore-desk-poker.webp"
+   },
+   {
+    "label": "Aus Einstellungen → Weitere Spiele",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/08-img-schnapsen-phone-settings.webp"
+   },
+   {
+    "label": "Hinterzimmer: Spiele-Umschalter mit Poker und Blackjack",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/09-img-hinterzimmer-phone-menu.webp"
+   },
+   {
+    "label": "Hinterzimmer: Titelbild (de)",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/10-img-feature-graphic-de.webp"
+   },
+   {
+    "label": "Alle App-Symbole",
+    "img": "changes/2026-11-16-hinterzimmer-switcher/11-img-icon-sheet.webp"
+   }
+  ],
+  "sha": "23e952a3"
  }
 ]
