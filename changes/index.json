@@ -16495,8 +16495,8 @@
  {
   "id": "item645-ein-profil",
   "date": "2026-11-16T14:53:44.771Z",
-  "title": "Entwurf: Ein Profil für alle",
-  "text": "Entwurf – noch nicht im Spiel. Das eigene Bild oben öffnet jetzt das Profil mit seinen Reitern, Profile anderer Spieler sehen genauso aus (mit Freund, Blockieren und Melden), und das Profilbild änderst du mit einem Tipp aufs Bild.",
+  "title": "Ein Profil für alle",
+  "text": "Ein Klick aufs eigene Bild öffnet das Profil; die Profile anderer sehen genauso aus. Das Bild änderst du per Klick darauf.",
   "issue": "binokel#30",
   "rows": [
    {
