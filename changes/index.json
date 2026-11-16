@@ -16634,8 +16634,8 @@
  {
   "id": "vortisch644",
   "date": "2026-11-16T15:15:25.264Z",
-  "title": "Entwurf: Vortisch – gewählter Einsatz deutlich an, alles auf einem Bildschirm",
-  "text": "Entwurf – noch nicht im Spiel. Vor der Partie ist der gewählte Taler-Chip gefüllt, ein eigener Betrag bleibt markiert im Feld stehen, und eine Zeile sagt „Du setzt … Taler“ oder „Kein Einsatz“. In breiten, niedrigen Fenstern stehen die Plätze zwei mal zwei, so passt alles ohne Scrollen auf den Bildschirm.",
+  "title": "Vortisch passt auf einen Bildschirm",
+  "text": "Vor der Partie passt der Vortisch auch in niedrige Fenster, und der gewählte Einsatz ist deutlich als gewählt markiert.",
   "issue": "binokel#30",
   "rows": [
    {
