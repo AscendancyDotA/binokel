@@ -17090,5 +17090,34 @@
    }
   ],
   "sha": "0294e637"
+ },
+ {
+  "id": "roulette-rad-handy",
+  "date": "2026-11-16T20:10:42.433Z",
+  "title": "Entwurf: Roulette – großes Rad am Handy, deckende Auswahl, lesbare Quoten",
+  "text": "Entwurf – noch nicht im Spiel. Am Handy kommt das Rad beim Drehen groß über den Tisch, die Kugel fällt sichtbar in ihr Fach, danach rahmt der Tisch Gewinnzahl und Gewinnfelder. Die Auswahl der Felder einer Zahl ist deckend und passt quer ganz auf den Schirm, die Quoten der Außenfelder sind lesbar.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy hoch: Drehung in vier Bildern (aufsteigen, drehen, Kugel liegt, zurück mit Gewinnrahmen)",
+    "img": "changes/2026-11-16-roulette-rad-handy/01-img-spin4.webp"
+   },
+   {
+    "label": "Handy hoch: vorher kleines Rad oben links, jetzt groß über dem Tisch (sechs Plätze)",
+    "before": "changes/2026-11-16-roulette-rad-handy/02-before-spin-before.webp",
+    "after": "changes/2026-11-16-roulette-rad-handy/03-after-spin-after-6.webp"
+   },
+   {
+    "label": "Handy quer: Auswahl vorher durchsichtig und unten abgeschnitten, Quoten 7 px",
+    "before": "changes/2026-11-16-roulette-rad-handy/04-before-ch-before.webp",
+    "after": "changes/2026-11-16-roulette-rad-handy/05-after-ch-after.webp"
+   },
+   {
+    "label": "Desktop nach zehn Runden: Rad und letzte Zahlen bleiben zwischen den Plätzen",
+    "before": "changes/2026-11-16-roulette-rad-handy/06-before-desk-before.webp",
+    "after": "changes/2026-11-16-roulette-rad-handy/07-after-desk-after.webp"
+   }
+  ],
+  "sha": "ca8ae9b8"
  }
 ]
