@@ -16302,5 +16302,52 @@
    }
   ],
   "sha": "15751a66"
+ },
+ {
+  "id": "kosmetik-runde2-623-klar",
+  "date": "2026-11-16T12:13:09.135Z",
+  "title": "Entwurf: „Mein Raum“ im Stil Klar – Knöpfe wieder lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Im Stil Klar standen in „Mein Raum“ die Knöpfe der Vorschau (Zeitraffer, Abspielen, Sprüche), „Partie-Verlauf“, „Filter“, die Leiste unten und das Menü oben dunkel auf dunklem Grund. Jetzt stehen sie hell auf dem dunklen Raum, wie in Wirtshaus und Arena.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Klar, Handy 412×915, Einsatz-Fach",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-klar/01-before-m-stash-kartenbox-full-phone412.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-klar/02-after-f-stash-kartenbox-full-phone412.webp"
+   },
+   {
+    "label": "Klar, Desktop 1280×800, Tischplatz",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-klar/03-before-m-spot-champagner-full-desktop.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-klar/04-after-f-spot-champagner-full-desktop.webp"
+   },
+   {
+    "label": "Klar, Bogen Einsatz-Fach",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-klar/05-before-after-stash-klar.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-klar/06-after-after-stash-klar.webp"
+   },
+   {
+    "label": "Klar, Bogen Tischplatz",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-klar/07-before-after-spot-klar.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-klar/08-after-after-spot-klar.webp"
+   },
+   {
+    "label": "Klar, Bogen Sprüche",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-klar/09-before-after-emotes-klar.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-klar/10-after-after-emotes-klar.webp"
+   },
+   {
+    "label": "Arena, Bogen Einsatz-Fach",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-klar/11-img-after-stash-arena.webp"
+   },
+   {
+    "label": "Arena, Bogen Tischplatz",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-klar/12-img-after-spot-arena.webp"
+   },
+   {
+    "label": "Arena, Bogen Sprüche",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-klar/13-img-after-emotes-arena.webp"
+   }
+  ],
+  "sha": "861ffe5f"
  }
 ]
