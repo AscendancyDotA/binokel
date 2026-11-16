@@ -16555,5 +16555,30 @@
    }
   ],
   "sha": "5b6f34c6"
+ },
+ {
+  "id": "i643-reizduell",
+  "date": "2026-11-16T15:12:52.805Z",
+  "title": "Entwurf: Reizen – die zwei Gegner leuchten",
+  "text": "Entwurf – noch nicht im Spiel. Beim Reizen bekommen die beiden Plätze, die gerade gegeneinander reizen (wer das Gebot hält und wer antworten muss), einen hellen Ring ums Bild und ein Licht auf dem Namen – auch der eigene Platz.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Fenster 1707×760 (150 %)",
+    "before": "changes/2026-11-16-i643-reizduell/01-before-a-owner1707.webp",
+    "after": "changes/2026-11-16-i643-reizduell/02-after-a-owner1707.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-16-i643-reizduell/03-before-a-desk1280.webp",
+    "after": "changes/2026-11-16-i643-reizduell/04-after-a-desk1280.webp"
+   },
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-16-i643-reizduell/05-before-a-phone390.webp",
+    "after": "changes/2026-11-16-i643-reizduell/06-after-a-phone390.webp"
+   }
+  ],
+  "sha": "a383dfd8"
  }
 ]
