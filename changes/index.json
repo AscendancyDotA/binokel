@@ -16392,14 +16392,6 @@
    {
     "label": "Hinterzimmer: Spiele-Umschalter mit Poker und Blackjack",
     "img": "changes/2026-11-16-hinterzimmer-switcher/09-img-hinterzimmer-phone-menu.webp"
-   },
-   {
-    "label": "Hinterzimmer: Titelbild (de)",
-    "img": "changes/2026-11-16-hinterzimmer-switcher/10-img-feature-graphic-de.webp"
-   },
-   {
-    "label": "Alle App-Symbole",
-    "img": "changes/2026-11-16-hinterzimmer-switcher/11-img-icon-sheet.webp"
    }
   ],
   "sha": "23e952a3"
