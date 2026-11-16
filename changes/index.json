@@ -16897,8 +16897,8 @@
  {
   "id": "i656-bk-roundend",
   "date": "2026-11-16T19:47:26.373Z",
-  "title": "Entwurf: Rundenende am Tablet quer – alle Zeilen im Blick",
-  "text": "Entwurf – noch nicht im Spiel. Auf kurzen Querformat-Bildschirmen wie einem 7-Zoll-Tablet nutzt das Rundenende die Breite: letzter Stich und Dabb nebeneinander, Summe und Ergebnis des Spielmachers in einer Zeile – drei Spieler passen ohne Scrollen. Geht es weiter nach unten, blendet der Rand sanft aus, und „Weiter“ hat in allen Spielen wieder Abstand zum Rand.",
+  "title": "Rundenende auf kurzen Querformat-Bildschirmen",
+  "text": "Rundenende auf kurzen Querformat-Bildschirmen (7-Zoll-Tablet): letzter Stich und Dabb nebeneinander, „Weiter“ hat wieder Abstand zum Rand.",
   "issue": "binokel#29",
   "rows": [
    {
