@@ -16067,5 +16067,27 @@
    }
   ],
   "sha": "37985e6a"
+ },
+ {
+  "id": "ent-schach-raetsel626b",
+  "date": "2026-11-16T00:01:52.105Z",
+  "title": "Entwurf: Schach-Rätsel – die Auflösung sagt, was ein Zug erreicht",
+  "text": "Entwurf – noch nicht im Spiel. Nach der Antwort steht bei jedem Zug, was er erreicht: bei Matt-Aufgaben „Matt in 2“ oder „kein Matt in 2“, bei Figuren-Aufgaben das Material in Bauern („+3 Bauern“).",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy: Matt in 2 – richtig",
+    "img": "changes/2026-11-16-ent-schach-raetsel626b/01-img-puzzle-schach-black-explain-phone.webp"
+   },
+   {
+    "label": "Handy: Figur gewinnen – richtig",
+    "img": "changes/2026-11-16-ent-schach-raetsel626b/02-img-puzzle-schach-white-explain-phone.webp"
+   },
+   {
+    "label": "Handy: Figur gewinnen – falsch",
+    "img": "changes/2026-11-16-ent-schach-raetsel626b/03-img-puzzle-schach-white-wrong-phone.webp"
+   }
+  ],
+  "sha": "03737dd1"
  }
 ]
