@@ -16877,8 +16877,8 @@
  {
   "id": "i656-sn-replay",
   "date": "2026-11-16T19:47:04.490Z",
-  "title": "Entwurf: Schnapsen-Wiederholung am Handy aufgeräumt",
-  "text": "Entwurf – noch nicht im Spiel. In der Wiederholung mit Auswertung am Handy liegt der Bummerl-Kasten nicht mehr unter der Augen-Anzeige, und das Trumpf-Schild endet vor den Stichkarten. Ist bei sehr großer Schrift kein Platz, bleibt der Kasten weg – die Bummerl-Tafel oben zeigt dieselben Zahlen.",
+  "title": "Schnapsen: Wiederholung am Handy aufgeräumt",
+  "text": "Schnapsen: In der Wiederholung mit Auswertung am Handy liegt der Bummerl-Kasten nicht mehr unter der Augen-Anzeige, das Trumpf-Schild endet vor den Stichkarten.",
   "issue": "binokel#29",
   "rows": [
    {
