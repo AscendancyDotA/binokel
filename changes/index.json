@@ -17025,5 +17025,25 @@
    }
   ],
   "sha": "6edbba4c"
+ },
+ {
+  "id": "657-vortisch-handy",
+  "date": "2026-11-16T19:54:25.625Z",
+  "title": "Entwurf: Vortisch passt am Handy auch mit Einsatz auf einen Bildschirm",
+  "text": "Entwurf – noch nicht im Spiel. Mit gewähltem Einsatz scrollt der Vortisch am Handy nicht mehr: knappere Zeilen, eigener Betrag neben den Chips, die Sprüche in einer Reihe und eine flachere Antwortleiste unten.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "390×844, Einsatz 50 gewählt",
+    "before": "changes/2026-11-16-657-vortisch-handy/01-before-queue-p390-wirtshaus-2-chip50.webp",
+    "after": "changes/2026-11-16-657-vortisch-handy/02-after-queue-p390-wirtshaus-2-chip50.webp"
+   },
+   {
+    "label": "360×740, Einsatz 50 gewählt",
+    "before": "changes/2026-11-16-657-vortisch-handy/03-before-queue-p360-wirtshaus-2-chip50.webp",
+    "after": "changes/2026-11-16-657-vortisch-handy/04-after-queue-p360-wirtshaus-2-chip50.webp"
+   }
+  ],
+  "sha": "6edbba4c"
  }
 ]
