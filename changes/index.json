@@ -16609,8 +16609,8 @@
  {
   "id": "i643-wunsch4er",
   "date": "2026-11-16T15:13:43.742Z",
-  "title": "Entwurf: Warteschlange – Rundenzahl passend zur Tischgröße",
-  "text": "Entwurf – noch nicht im Spiel. Beim Wunsch für die Partielänge gibt es zu viert 4, 6, 8, 10 oder 12 Runden (wie beim Tisch aufmachen), zu dritt weiter 3, 6, 9 oder 12. Ein gemerkter Wunsch, den es bei der gewählten Größe nicht gibt, gilt als „egal“.",
+  "title": "Rundenzahlen für vier Spieler in der Warteschlange",
+  "text": "In der Solo-Warteschlange gibt es bei vier Spielern die passenden Rundenzahlen 4, 6, 8, 10 und 12.",
   "issue": "binokel#30",
   "rows": [
    {
