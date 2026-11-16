@@ -16759,5 +16759,25 @@
    }
   ],
   "sha": "55891161"
+ },
+ {
+  "id": "i648-schnapsen-stich",
+  "date": "2026-11-16T17:05:07.298Z",
+  "title": "Entwurf: Schnapsen am Handy – Letzter Stich frei",
+  "text": "Entwurf – noch nicht im Spiel. Bei großer Schrift lag der Knopf Letzter Stich halb auf dem unteren Augen-Zähler. Er steht jetzt direkt über den beiden Zählern.",
+  "issue": "wirtshaus#406",
+  "rows": [
+   {
+    "label": "Handy 390×844, größte Schrift",
+    "before": "changes/2026-11-16-i648-schnapsen-stich/01-before-before-schnapsen-390x844-max.webp",
+    "after": "changes/2026-11-16-i648-schnapsen-stich/02-after-after-schnapsen-390x844-max.webp"
+   },
+   {
+    "label": "Handy 360×740, größte Schrift",
+    "before": "changes/2026-11-16-i648-schnapsen-stich/03-before-before-schnapsen-360x740-max.webp",
+    "after": "changes/2026-11-16-i648-schnapsen-stich/04-after-after-schnapsen-360x740-max.webp"
+   }
+  ],
+  "sha": "55891161"
  }
 ]
