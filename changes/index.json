@@ -16584,8 +16584,8 @@
  {
   "id": "i643-meldungen",
   "date": "2026-11-16T15:13:26.180Z",
-  "title": "Entwurf: Rundenende – Meldungen ansehen",
-  "text": "Entwurf – noch nicht im Spiel. Im Rundenende ist „+… Meldungen“ ein Knopf: Maus drüber oder Antippen zeigt jede Meldung der Partei mit Karten und Punkten. Nochmal tippen, daneben tippen oder Esc schließt die Übersicht.",
+  "title": "Meldungen im Rundenende ansehen",
+  "text": "Im Rundenende zeigt „+… Meldungen“ beim Drüberfahren oder Antippen, welche Meldungen es waren.",
   "issue": "binokel#30",
   "rows": [
    {
