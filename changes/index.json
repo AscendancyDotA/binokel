@@ -16143,5 +16143,58 @@
    }
   ],
   "sha": "b6941de5"
+ },
+ {
+  "id": "kosmetik-runde2-623-boegen",
+  "date": "2026-11-16T01:35:13.963Z",
+  "title": "Entwurf: Kontaktbögen zu Einsatz-Fach, Tischplatz und Sprüchen",
+  "text": "Entwurf – noch nicht im Spiel. Jedes Stück der drei Fächer als Kachel, in der Vorschau und in „Mein Raum“, am Handy und am Desktop, vorher und nachher, dazu die drei Stile Wirtshaus, Arena und Klar.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Einsatz-Fach, Wirtshaus",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-boegen/01-before-before-stash.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-boegen/02-after-after-stash-wirtshaus.webp"
+   },
+   {
+    "label": "Tischplatz, Wirtshaus",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-boegen/03-before-before-spot.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-boegen/04-after-after-spot-wirtshaus.webp"
+   },
+   {
+    "label": "Sprüche, Wirtshaus",
+    "before": "changes/2026-11-16-kosmetik-runde2-623-boegen/05-before-before-emotes.webp",
+    "after": "changes/2026-11-16-kosmetik-runde2-623-boegen/06-after-after-emotes-wirtshaus.webp"
+   },
+   {
+    "label": "Einsatz-Fach, Arena",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/07-img-after-stash-arena.webp"
+   },
+   {
+    "label": "Tischplatz, Arena",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/08-img-after-spot-arena.webp"
+   },
+   {
+    "label": "Sprüche, Arena",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/09-img-after-emotes-arena.webp"
+   },
+   {
+    "label": "Einsatz-Fach, Klar",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/10-img-after-stash-klar.webp"
+   },
+   {
+    "label": "Tischplatz, Klar",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/11-img-after-spot-klar.webp"
+   },
+   {
+    "label": "Sprüche, Klar",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/12-img-after-emotes-klar.webp"
+   },
+   {
+    "label": "Die 15 gezeichneten Bilder der Sprüche",
+    "img": "changes/2026-11-16-kosmetik-runde2-623-boegen/13-img-stickers.webp"
+   }
+  ],
+  "sha": "b6941de5"
  }
 ]
