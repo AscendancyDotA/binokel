@@ -16605,5 +16605,30 @@
    }
   ],
   "sha": "a383dfd8"
+ },
+ {
+  "id": "i643-wunsch4er",
+  "date": "2026-11-16T15:13:43.742Z",
+  "title": "Entwurf: Warteschlange – Rundenzahl passend zur Tischgröße",
+  "text": "Entwurf – noch nicht im Spiel. Beim Wunsch für die Partielänge gibt es zu viert 4, 6, 8, 10 oder 12 Runden (wie beim Tisch aufmachen), zu dritt weiter 3, 6, 9 oder 12. Ein gemerkter Wunsch, den es bei der gewählten Größe nicht gibt, gilt als „egal“.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Fenster 1707×760 (150 %)",
+    "before": "changes/2026-11-16-i643-wunsch4er/01-before-c-owner1707.webp",
+    "after": "changes/2026-11-16-i643-wunsch4er/02-after-c-owner1707.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-16-i643-wunsch4er/03-before-c-desk1280.webp",
+    "after": "changes/2026-11-16-i643-wunsch4er/04-after-c-desk1280.webp"
+   },
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-16-i643-wunsch4er/05-before-c-phone390.webp",
+    "after": "changes/2026-11-16-i643-wunsch4er/06-after-c-phone390.webp"
+   }
+  ],
+  "sha": "a383dfd8"
  }
 ]
