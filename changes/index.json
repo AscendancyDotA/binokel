@@ -16655,5 +16655,27 @@
    }
   ],
   "sha": "70d8cae9"
+ },
+ {
+  "id": "item650-apps",
+  "date": "2026-11-16T16:22:12.569Z",
+  "title": "Entwurf: Vier weitere Einzel-Apps – Symbole und Titelbilder",
+  "text": "Entwurf – noch nicht im Spiel und nicht im Store: Mau-Mau, Rommé, Backgammon und Mühle bekommen eigene App-Symbole und Titelbilder für den Play Store. Mau-Mau zeigt jetzt eine Sprechblase „Mau!“, Rommé einen Joker.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Alle App-Symbole (rund, eckig, Handy-Größe, Schild)",
+    "img": "changes/2026-11-16-item650-apps/01-img-icons-final-small.webp"
+   },
+   {
+    "label": "Titelbilder de / en",
+    "img": "changes/2026-11-16-item650-apps/02-img-features.webp"
+   },
+   {
+    "label": "Store-Symbole 512",
+    "img": "changes/2026-11-16-item650-apps/03-img-icons512.webp"
+   }
+  ],
+  "sha": "ee8b0496"
  }
 ]
