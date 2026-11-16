@@ -17119,5 +17119,25 @@
    }
   ],
   "sha": "ca8ae9b8"
+ },
+ {
+  "id": "poker-showdown-handy",
+  "date": "2026-11-16T20:15:44.429Z",
+  "title": "Poker am schmalen Handy: Blattname liegt nicht mehr auf den Karten",
+  "text": "Beim Aufdecken steht der Name des Blatts (z. B. „Zwei Paare“) jetzt in der Zeile unter dem Spielernamen. Auf schmalen Handys lag er vorher auf den Karten in der Mitte.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Handy 360×740, große Schrift",
+    "before": "changes/2026-11-16-poker-showdown-handy/01-before-showall-wirtshaus-360x740-t1.3.webp",
+    "after": "changes/2026-11-16-poker-showdown-handy/02-after-showall-wirtshaus-360x740-t1.3.webp"
+   },
+   {
+    "label": "Handy 360×740, Stil Arena",
+    "before": "changes/2026-11-16-poker-showdown-handy/03-before-showdown-arena-360x740-t1.webp",
+    "after": "changes/2026-11-16-poker-showdown-handy/04-after-showdown-arena-360x740-t1.webp"
+   }
+  ],
+  "sha": "178a4c11"
  }
 ]
