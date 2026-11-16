@@ -16425,5 +16425,43 @@
    }
   ],
   "sha": "40687ad0"
+ },
+ {
+  "id": "roulette-641",
+  "date": "2026-11-16T12:49:57.573Z",
+  "title": "Entwurf: Roulette am Tisch",
+  "text": "Entwurf – noch nicht im Spiel. Roulette (im Bau): ein Kessel, bis zu sechs Spieler setzen gleichzeitig gegen die Bank, mit Spielchips ohne Geldwert.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy 390×844: setzen",
+    "img": "changes/2026-11-16-roulette-641/01-img-sweep-390x844-bet.webp"
+   },
+   {
+    "label": "Handy: Felder einer Zahl wählen",
+    "img": "changes/2026-11-16-roulette-641/02-img-sweep-390x844-chooser.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "img": "changes/2026-11-16-roulette-641/03-img-sweep-844x390-bet.webp"
+   },
+   {
+    "label": "Desktop 1280×800: setzen",
+    "img": "changes/2026-11-16-roulette-641/04-img-sweep-1280x800-bet.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Ergebnis",
+    "img": "changes/2026-11-16-roulette-641/05-img-sweep-1280x800-result.webp"
+   },
+   {
+    "label": "Desktop 1920×1080",
+    "img": "changes/2026-11-16-roulette-641/06-img-sweep-1920x1080-bet.webp"
+   },
+   {
+    "label": "Online: Zuschauer sieht die Einsätze",
+    "img": "changes/2026-11-16-roulette-641/07-img-online-spectator-open-bets.webp"
+   }
+  ],
+  "sha": "332f82f6"
  }
 ]
