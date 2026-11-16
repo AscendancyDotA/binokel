@@ -16986,8 +16986,8 @@
  {
   "id": "657-satzkauf",
   "date": "2026-11-16T19:54:06.213Z",
-  "title": "Entwurf: Sätze mit zu wenig Talern – klare Zeile, Summe mit Satzpreis",
-  "text": "Entwurf – noch nicht im Spiel. Auf der Satz-Karte rechnet „Alle fehlenden Teile zusammen“ jetzt mit dem Satzpreis (−10 %) wie der Preis daneben, und bei zu wenig Talern steht, wie viele Taler für die kaufbaren Teile fehlen.",
+  "title": "Sätze: klare Zeile bei zu wenig Talern, Summe mit Satzpreis",
+  "text": "Sätze in „Mein Raum“: „Alle fehlenden Teile zusammen“ rechnet mit dem Satzpreis, und bei zu wenig Talern steht klar, wie viele fehlen.",
   "issue": "binokel#29",
   "rows": [
    {
