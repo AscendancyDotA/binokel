@@ -17151,5 +17151,29 @@
    }
   ],
   "sha": "3158716a"
+ },
+ {
+  "id": "i660-lupfen7",
+  "date": "2026-11-16T20:29:25.796Z",
+  "title": "Lupfen zu sechst und zu siebt am Handy",
+  "text": "Mit sechs oder sieben Leuten stehen die Namensschilder am Handy nicht mehr aufeinander, jeder Chip-Stapel steht bei seinem Platz, und das Lupf-Feld deckt den Pott nicht mehr zu.",
+  "rows": [
+   {
+    "label": "Hochformat 360×740, sieben Leute",
+    "before": "changes/2026-11-16-i660-lupfen7/01-before-lfplay-p7-360x740.webp",
+    "after": "changes/2026-11-16-i660-lupfen7/02-after-lfplay-p7-360x740.webp"
+   },
+   {
+    "label": "Querformat 844×390, Lupfen-Frage",
+    "before": "changes/2026-11-16-i660-lupfen7/03-before-lflift-p7-844x390.webp",
+    "after": "changes/2026-11-16-i660-lupfen7/04-after-lflift-p7-844x390.webp"
+   },
+   {
+    "label": "Querformat 844×390, sechs Leute: Lupf-Feld und Pott",
+    "before": "changes/2026-11-16-i660-lupfen7/05-before-lflift-p6-844x390.webp",
+    "after": "changes/2026-11-16-i660-lupfen7/06-after-lflift-p6-844x390.webp"
+   }
+  ],
+  "sha": "b5f7da1b"
  }
 ]
