@@ -16580,5 +16580,30 @@
    }
   ],
   "sha": "a383dfd8"
+ },
+ {
+  "id": "i643-meldungen",
+  "date": "2026-11-16T15:13:26.180Z",
+  "title": "Entwurf: Rundenende – Meldungen ansehen",
+  "text": "Entwurf – noch nicht im Spiel. Im Rundenende ist „+… Meldungen“ ein Knopf: Maus drüber oder Antippen zeigt jede Meldung der Partei mit Karten und Punkten. Nochmal tippen, daneben tippen oder Esc schließt die Übersicht.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Fenster 1707×760 (150 %)",
+    "before": "changes/2026-11-16-i643-meldungen/01-before-b-owner1707.webp",
+    "after": "changes/2026-11-16-i643-meldungen/02-after-b-owner1707.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-16-i643-meldungen/03-before-b-desk1280.webp",
+    "after": "changes/2026-11-16-i643-meldungen/04-after-b-desk1280.webp"
+   },
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-16-i643-meldungen/05-before-b-phone390.webp",
+    "after": "changes/2026-11-16-i643-meldungen/06-after-b-phone390.webp"
+   }
+  ],
+  "sha": "a383dfd8"
  }
 ]
