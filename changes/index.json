@@ -17045,5 +17045,50 @@
    }
   ],
   "sha": "6edbba4c"
+ },
+ {
+  "id": "item654-wertungen",
+  "date": "2026-11-16T20:00:14.489Z",
+  "title": "Entwurf: Ranglisten je Spiel – Solo- und Party-Wertung statt Wertung je Tischgröße",
+  "text": "Jedes Spiel außer Binokel hatte eine Wertung je Tischgröße, manche Reiter ohne Namen. Jetzt hat jedes Spiel eine Solo- und eine Party-Wertung für alle Tischgrößen; Lupfen zu siebt wird gewertet. Binokel bleibt unverändert.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Lupfen, Handy 390×844",
+    "before": "changes/2026-11-16-item654-wertungen/01-before-lupfen-390x844.webp",
+    "after": "changes/2026-11-16-item654-wertungen/02-after-lupfen-390x844.webp"
+   },
+   {
+    "label": "Lupfen, 1280×800",
+    "before": "changes/2026-11-16-item654-wertungen/03-before-lupfen-1280x800.webp",
+    "after": "changes/2026-11-16-item654-wertungen/04-after-lupfen-1280x800.webp"
+   },
+   {
+    "label": "Fünf Würfel, 1707×760",
+    "before": "changes/2026-11-16-item654-wertungen/05-before-wuerfel-1707x760.webp",
+    "after": "changes/2026-11-16-item654-wertungen/06-after-wuerfel-1707x760.webp"
+   },
+   {
+    "label": "Schocken, 1280×800",
+    "before": "changes/2026-11-16-item654-wertungen/07-before-schocken-1280x800.webp",
+    "after": "changes/2026-11-16-item654-wertungen/08-after-schocken-1280x800.webp"
+   },
+   {
+    "label": "Mau-Mau, Handy 390×844",
+    "before": "changes/2026-11-16-item654-wertungen/09-before-maumau-390x844.webp",
+    "after": "changes/2026-11-16-item654-wertungen/10-after-maumau-390x844.webp"
+   },
+   {
+    "label": "Skat, 1707×760",
+    "before": "changes/2026-11-16-item654-wertungen/11-before-skat-1707x760.webp",
+    "after": "changes/2026-11-16-item654-wertungen/12-after-skat-1707x760.webp"
+   },
+   {
+    "label": "Binokel (unverändert), 1280×800",
+    "before": "changes/2026-11-16-item654-wertungen/13-before-binokel-1280x800.webp",
+    "after": "changes/2026-11-16-item654-wertungen/14-after-binokel-1280x800.webp"
+   }
+  ],
+  "sha": "0294e637"
  }
 ]
