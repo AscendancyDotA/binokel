@@ -16841,5 +16841,45 @@
    }
   ],
   "sha": "6a935d02"
+ },
+ {
+  "id": "tinfo-quer-balken",
+  "date": "2026-11-16T18:41:34.411Z",
+  "title": "Entwurf: Tisch-Info als ein Feld auch quer, Punkte-Balken mit Ziel",
+  "text": "Entwurf – noch nicht im Spiel. Trumpf, Punkte gegen das Gebot und Spielmacher stehen jetzt in jeder Fenstergröße in einem Feld (ein Tipp zeigt alles ausgeschrieben). Der Balken unter jeder Zeile der Punkte-Tafel zeigt sein Ziel („120 / 1000“), wo die Überschrift keinen Platz hat; Partien über eine feste Rundenzahl haben keinen Balken mehr.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-16-tinfo-quer-balken/01-before-r2play-p4-1280x800d.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/02-after-r2play-p4-1280x800d.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "before": "changes/2026-11-16-tinfo-quer-balken/03-before-r2play-p4-844x390m.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/04-after-r2play-p4-844x390m.webp"
+   },
+   {
+    "label": "Fenster 538×758",
+    "before": "changes/2026-11-16-tinfo-quer-balken/05-before-r2play-p4-538x758d.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/06-after-r2play-p4-538x758d.webp"
+   },
+   {
+    "label": "Fenster 623×758",
+    "before": "changes/2026-11-16-tinfo-quer-balken/07-before-r2play-p4-623x758d.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/08-after-r2play-p4-623x758d.webp"
+   },
+   {
+    "label": "Tablet hochkant 768×1024",
+    "before": "changes/2026-11-16-tinfo-quer-balken/09-before-r2play-p4-768x1024d.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/10-after-r2play-p4-768x1024d.webp"
+   },
+   {
+    "label": "Handy hochkant 390×844",
+    "before": "changes/2026-11-16-tinfo-quer-balken/11-before-r2play-p4-390x844m.webp",
+    "after": "changes/2026-11-16-tinfo-quer-balken/12-after-r2play-p4-390x844m.webp"
+   }
+  ],
+  "sha": "206d2f42"
  }
 ]
