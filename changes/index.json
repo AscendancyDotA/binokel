@@ -17194,5 +17194,19 @@
    }
   ],
   "sha": "b5f7da1b"
+ },
+ {
+  "id": "i660-startknopf",
+  "date": "2026-11-16T20:29:55.165Z",
+  "title": "Tisch-Knopf bei größter Schrift",
+  "text": "Bei größter Schrift bricht die Aufschrift des Knopfs zum Tisch-Aufmachen um, statt über den Knopf hinauszulaufen.",
+  "rows": [
+   {
+    "label": "Hochformat 360×740, größte Schrift",
+    "before": "changes/2026-11-16-i660-startknopf/01-before-p4-360x740-dialog-end.webp",
+    "after": "changes/2026-11-16-i660-startknopf/02-after-p4-360x740-dialog-end.webp"
+   }
+  ],
+  "sha": "b5f7da1b"
  }
 ]
