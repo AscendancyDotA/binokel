@@ -16709,5 +16709,25 @@
    }
   ],
   "sha": "ee15b07d"
+ },
+ {
+  "id": "i648-arena-knoepfe",
+  "date": "2026-11-16T17:04:28.850Z",
+  "title": "Entwurf: Arena – gefüllte Knöpfe mit dunkler Schrift",
+  "text": "Entwurf – noch nicht im Spiel. Im Arena-Stil stehen die roten Knöpfe (Jetzt spielen, Kaufen, Gebote am Tisch) jetzt in dunkler Schrift auf demselben Rot und sind damit deutlich besser lesbar.",
+  "issue": "wirtshaus#406",
+  "rows": [
+   {
+    "label": "Willkommen am Handy",
+    "before": "changes/2026-11-16-i648-arena-knoepfe/01-before-acbefore-lobbyp.webp",
+    "after": "changes/2026-11-16-i648-arena-knoepfe/02-after-acafter-lobbyp.webp"
+   },
+   {
+    "label": "Am Tisch beim Reizen",
+    "before": "changes/2026-11-16-i648-arena-knoepfe/03-before-acbefore-table.webp",
+    "after": "changes/2026-11-16-i648-arena-knoepfe/04-after-acafter-table.webp"
+   }
+  ],
+  "sha": "55891161"
  }
 ]
