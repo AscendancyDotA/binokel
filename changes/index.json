@@ -16353,8 +16353,8 @@
  {
   "id": "hinterzimmer-switcher",
   "date": "2026-11-16T12:25:54.305Z",
-  "title": "Entwurf: Weitere Spiele – Auswahl der App statt Sprung in den Store; neue App „Hinterzimmer“",
-  "text": "Entwurf – noch nicht im Spiel. Ein Spiel, das diese App nicht hat, öffnet jetzt eine kleine Auswahl mit höchstens zwei Apps: beim normalen Spiel das Wirtshaus mit allen Spielen und die eigene App, bei Poker und Blackjack die eigene App und das Hinterzimmer. Ist die App schon installiert, steht „Öffnen“ auf dem Knopf.",
+  "title": "Spiele-Auswahl statt Sprung in den Store",
+  "text": "Ein Spiel, das es in dieser App nicht gibt, zeigt eine kleine Auswahl, in welcher App du es spielen kannst.",
   "issue": "wirtshaus#397",
   "rows": [
    {
