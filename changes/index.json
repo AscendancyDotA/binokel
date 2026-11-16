@@ -16705,8 +16705,8 @@
  {
   "id": "i648-arena-knoepfe",
   "date": "2026-11-16T17:04:28.850Z",
-  "title": "Entwurf: Arena – gefüllte Knöpfe mit dunkler Schrift",
-  "text": "Entwurf – noch nicht im Spiel. Im Arena-Stil stehen die roten Knöpfe (Jetzt spielen, Kaufen, Gebote am Tisch) jetzt in dunkler Schrift auf demselben Rot und sind damit deutlich besser lesbar.",
+  "title": "Arena: gefüllte Knöpfe mit dunkler Schrift",
+  "text": "Im Arena-Stil haben die roten Knöpfe jetzt dunkle Schrift und sind besser lesbar.",
   "issue": "wirtshaus#406",
   "rows": [
    {
