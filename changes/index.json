@@ -16677,5 +16677,37 @@
    }
   ],
   "sha": "ee8b0496"
+ },
+ {
+  "id": "entwurf-647-devall",
+  "date": "2026-11-16T16:43:12.007Z",
+  "title": "Entwurf: Entwickler-Schalter „Alles zeigen“ (nur intern)",
+  "text": "Entwurf – noch nicht im Spiel. Nur für Entwickler-Konten: alle Spiele und alle Laden-Stücke mit „Dev“-Marke. Spieler sehen nichts davon.",
+  "rows": [
+   {
+    "label": "Schalter (Desktop / Handy)",
+    "before": "changes/2026-11-16-entwurf-647-devall/01-before-A-settings-on-desktop.webp",
+    "after": "changes/2026-11-16-entwurf-647-devall/02-after-A-settings-on-phone.webp"
+   },
+   {
+    "label": "Spielwechsler mit Dev-Marken",
+    "img": "changes/2026-11-16-entwurf-647-devall/03-img-A-switcher-desktop.webp"
+   },
+   {
+    "label": "Laden: gesperrtes Stück mit Dev-Marke (Desktop / Handy)",
+    "before": "changes/2026-11-16-entwurf-647-devall/04-before-A-shop-desktop.webp",
+    "after": "changes/2026-11-16-entwurf-647-devall/05-after-A-shop-phone.webp"
+   },
+   {
+    "label": "Verstecktes Spiel gegen Bot am Dev-Tisch",
+    "img": "changes/2026-11-16-entwurf-647-devall/06-img-A-schach-table-desktop.webp"
+   },
+   {
+    "label": "Normales Konto: kein Schalter, keine Dev-Marke",
+    "before": "changes/2026-11-16-entwurf-647-devall/07-before-B-settings-phone.webp",
+    "after": "changes/2026-11-16-entwurf-647-devall/08-after-B-shop-phone.webp"
+   }
+  ],
+  "sha": "ee15b07d"
  }
 ]
