@@ -17385,5 +17385,37 @@
    }
   ],
   "sha": "2b0a329e"
+ },
+ {
+  "id": "item672-farben",
+  "date": "2026-11-17T10:26:08.373Z",
+  "title": "Entwurf: Jeder Platz eine eigene Spielerfarbe",
+  "text": "Entwurf – noch nicht im Spiel. An Tischen mit sieben und mehr Plätzen wiederholten sich Spielerfarben. Jetzt trägt jeder Platz einen eigenen, auch bei Farbfehlsichtigkeit unterscheidbaren Farbton; für sehr große Tische sind zweifarbige Marken vorbereitet.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Lupfen mit 7 Plätzen, Handy 360 breit",
+    "before": "changes/2026-11-17-item672-farben/01-before-lupfen7-360x740.webp",
+    "after": "changes/2026-11-17-item672-farben/02-after-lupfen7-360x740.webp"
+   },
+   {
+    "label": "Schocken mit 8 Plätzen, Desktop",
+    "before": "changes/2026-11-17-item672-farben/03-before-schocken8-1280x800.webp",
+    "after": "changes/2026-11-17-item672-farben/04-after-schocken8-1280x800.webp"
+   },
+   {
+    "label": "Lupfen mit 7, Stil Klar, sanfte Farben",
+    "img": "changes/2026-11-17-item672-farben/05-img-lupfen7-390x844.webp"
+   },
+   {
+    "label": "Musterbogen: Kandidaten für sehr große Tische (gewählt: zweifarbig)",
+    "img": "changes/2026-11-17-item672-farben/06-img-candidates.webp"
+   },
+   {
+    "label": "Musterbogen: alle Formen bei 32 Plätzen",
+    "img": "changes/2026-11-17-item672-farben/07-img-looks32-std.webp"
+   }
+  ],
+  "sha": "a5301431"
  }
 ]
