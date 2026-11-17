@@ -17237,5 +17237,31 @@
    }
   ],
   "sha": "75081a36"
+ },
+ {
+  "id": "bj667-bank",
+  "date": "2026-11-17T08:55:21.696Z",
+  "title": "Entwurf: Blackjack – gegen die Bank um Taler",
+  "text": "Entwurf – noch nicht im Spiel. Am Blackjack-Tisch um Taler kann jeder für sich gegen die Bank spielen: eigener Einsatz, eigene Chips (1 Taler = 5 Chips), beim Gehen kommen die Chips sofort als Taler zurück.",
+  "issue": "wirtshaus#330",
+  "rows": [
+   {
+    "label": "Vortisch am Handy",
+    "img": "changes/2026-11-17-bj667-bank/01-img-bank-check-B.webp"
+   },
+   {
+    "label": "Am Tisch, Handy 390×844",
+    "img": "changes/2026-11-17-bj667-bank/02-img-bank-390x844-A.webp"
+   },
+   {
+    "label": "Am Tisch, Desktop 1280×800",
+    "img": "changes/2026-11-17-bj667-bank/03-img-bank-running-A.webp"
+   },
+   {
+    "label": "Partie-Ende",
+    "img": "changes/2026-11-17-bj667-bank/04-img-bank-matchend-A.webp"
+   }
+  ],
+  "sha": "c69442d0"
  }
 ]
