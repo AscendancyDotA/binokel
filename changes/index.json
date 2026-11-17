@@ -17208,5 +17208,34 @@
    }
   ],
   "sha": "b5f7da1b"
+ },
+ {
+  "id": "roulette663a-rad",
+  "date": "2026-11-17T03:04:18.688Z",
+  "title": "Entwurf: Roulette – Rad im Notizbuch und in den Regeln",
+  "text": "Entwurf – noch nicht im Spiel. Das Rad im Notizbuch passt ganz in sein Bild, die Regelhilfe zeigt das Rad neben den Auszahlungen.",
+  "rows": [
+   {
+    "label": "Notizbuch, Handy 390×844",
+    "before": "changes/2026-11-17-roulette663a-rad/01-before-phone-de-game-roulette-1.webp",
+    "after": "changes/2026-11-17-roulette663a-rad/02-after-phone-de-game-roulette-1.webp"
+   },
+   {
+    "label": "Notizbuch, Desktop",
+    "before": "changes/2026-11-17-roulette663a-rad/03-before-desk-de-game-roulette-1.webp",
+    "after": "changes/2026-11-17-roulette663a-rad/04-after-desk-de-game-roulette-1.webp"
+   },
+   {
+    "label": "Regeln, Handy 444×987",
+    "before": "changes/2026-11-17-roulette663a-rad/05-before-rules-phone.webp",
+    "after": "changes/2026-11-17-roulette663a-rad/06-after-roulette-444x987-0.webp"
+   },
+   {
+    "label": "Regeln, Desktop 1280×800",
+    "before": "changes/2026-11-17-roulette663a-rad/07-before-rules-desk.webp",
+    "after": "changes/2026-11-17-roulette663a-rad/08-after-roulette-1280x800-0.webp"
+   }
+  ],
+  "sha": "75081a36"
  }
 ]
