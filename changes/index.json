@@ -17485,5 +17485,20 @@
    }
   ],
   "sha": "bf3b2c30"
+ },
+ {
+  "id": "item669-lupfen-sechs",
+  "date": "2026-11-17T12:31:04.965Z",
+  "title": "Lupfen zu sechst: Namen nicht mehr übereinander",
+  "text": "Mit großen Karten standen am Handy die Namen links und rechts auf der zweiten Zeile der Plätze darüber. Jetzt beginnen sie erst darunter.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "6 Spieler, 360×740, große Karten",
+    "before": "changes/2026-11-17-item669-lupfen-sechs/01-before-b669-lfplay-p6-360x740-s1.35.webp",
+    "after": "changes/2026-11-17-item669-lupfen-sechs/02-after-pa-lfplay-p6-360x740-s1.35.webp"
+   }
+  ],
+  "sha": "bf3b2c30"
  }
 ]
