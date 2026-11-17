@@ -17281,5 +17281,55 @@
    }
   ],
   "sha": "c69442d0"
+ },
+ {
+  "id": "roulette-ablauf-entwurf",
+  "date": "2026-11-17T09:07:44.196Z",
+  "title": "Entwurf: Roulette – großer Kessel auf jeder Größe, Chips wandern, ruhigere Abfolge",
+  "text": "Entwurf – noch nicht im Spiel. Der Kessel kommt beim Drehen auf jeder Bildschirmgröße groß in die Mitte, der Tisch wird dunkler. Danach werden verlorene Chips zur Bank gefegt, Gewinne kommen von der Bank dazu und alles wandert zu seinem Platz; die Abfolge lässt mehr Zeit zum Lesen.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy hochkant, Wirtshaus: Einsätze · Nichts geht mehr · Drehen · Zahl · verloren · Gewinn · nach Hause · danach",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/01-img-sheet-frames-390x844-wirtshaus-full.webp"
+   },
+   {
+    "label": "Handy hochkant, Arena",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/02-img-sheet-frames-390x844-arena-full.webp"
+   },
+   {
+    "label": "Handy hochkant, Klar",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/03-img-sheet-frames-390x844-klar-full.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/04-img-sheet-frames-844x390-wirtshaus-full.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/05-img-sheet-frames-1280x800-wirtshaus-full.webp"
+   },
+   {
+    "label": "Breites Fenster 1707×760",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/06-img-sheet-frames-1707x760-wirtshaus-full.webp"
+   },
+   {
+    "label": "Animationen Sanft (Handy)",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/07-img-sheet-frames-390x844-wirtshaus-gentle.webp"
+   },
+   {
+    "label": "Animationen Sanft (Desktop)",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/08-img-sheet-frames-1280x800-wirtshaus-gentle.webp"
+   },
+   {
+    "label": "Animationen Aus: Ergebnis sofort (Handy)",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/09-img-sheet-frames-390x844-wirtshaus-off.webp"
+   },
+   {
+    "label": "Animationen Aus (Desktop)",
+    "img": "changes/2026-11-17-roulette-ablauf-entwurf/10-img-sheet-frames-1280x800-wirtshaus-off.webp"
+   }
+  ],
+  "sha": "54977be0"
  }
 ]
