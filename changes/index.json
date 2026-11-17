@@ -17470,5 +17470,20 @@
    }
   ],
   "sha": "bf3b2c30"
+ },
+ {
+  "id": "item669-schocken-anfuehrer",
+  "date": "2026-11-17T12:30:57.870Z",
+  "title": "Schocken: Schild „Anführer“ ganz zu sehen",
+  "text": "Bei fünf Spielern auf dem Handy war das Schild „▶ Anführer“ ein paar Pixel zu breit und links abgeschnitten. Jetzt passt es in seine Spalte.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "5 Spieler, 360×740, große Karten",
+    "before": "changes/2026-11-17-item669-schocken-anfuehrer/01-before-b669-scplay-p5-360x740-s1.35.webp",
+    "after": "changes/2026-11-17-item669-schocken-anfuehrer/02-after-a669-scplay-p5-360x740-s1.35.webp"
+   }
+  ],
+  "sha": "bf3b2c30"
  }
 ]
