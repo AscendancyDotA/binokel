@@ -17331,5 +17331,59 @@
    }
   ],
   "sha": "54977be0"
+ },
+ {
+  "id": "anim-bestand",
+  "date": "2026-11-17T09:29:33.185Z",
+  "title": "Entwurf: Animationen - Bestandsaufnahme",
+  "text": "Entwurf – noch nicht im Spiel. Filmstreifen des heutigen Stands: ab dem Spielmoment Bilder in festen Abständen, die Zeit steht unter jedem Bild. Grundlage für den Ausbauplan der Animationen.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Heimlauf: Würfeln (heute)",
+    "img": "changes/2026-11-17-anim-bestand/01-img-heimlauf-throw-1280x800.webp"
+   },
+   {
+    "label": "Heimlauf: Ziehen und Rauswerfen (heute)",
+    "img": "changes/2026-11-17-anim-bestand/02-img-heimlauf-capture-1280x800.webp"
+   },
+   {
+    "label": "Eroberung: Angriff mit Würfeln (heute)",
+    "img": "changes/2026-11-17-anim-bestand/03-img-eroberung-battle-1280x800.webp"
+   },
+   {
+    "label": "Eroberung: Truppen verschieben (heute)",
+    "img": "changes/2026-11-17-anim-bestand/04-img-eroberung-march-1280x800.webp"
+   },
+   {
+    "label": "Handel: Figur ziehen (heute)",
+    "img": "changes/2026-11-17-anim-bestand/05-img-handel-move-1280x800.webp"
+   },
+   {
+    "label": "Blackjack: Bank deckt auf, Abrechnung (heute)",
+    "img": "changes/2026-11-17-anim-bestand/06-img-blackjack-score-390x844.webp"
+   },
+   {
+    "label": "Binokel: Stich fliegt zum Gewinner (heute)",
+    "img": "changes/2026-11-17-anim-bestand/07-img-binokel-capture-390x844.webp"
+   },
+   {
+    "label": "Fünf Würfel: Würfeln (heute)",
+    "img": "changes/2026-11-17-anim-bestand/08-img-wuerfel-throw-390x844.webp"
+   },
+   {
+    "label": "Roulette: Kugel läuft (heute)",
+    "img": "changes/2026-11-17-anim-bestand/09-img-roulette-throw-390x844.webp"
+   },
+   {
+    "label": "Poker: Aufdecken (heute)",
+    "img": "changes/2026-11-17-anim-bestand/10-img-poker-score-1280x800.webp"
+   },
+   {
+    "label": "Backgammon: Stein ziehen (heute)",
+    "img": "changes/2026-11-17-anim-bestand/11-img-backgammon-move-1280x800.webp"
+   }
+  ],
+  "sha": "2b0a329e"
  }
 ]
