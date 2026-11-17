@@ -17500,5 +17500,20 @@
    }
   ],
   "sha": "bf3b2c30"
+ },
+ {
+  "id": "item669-rundenende-name",
+  "date": "2026-11-17T12:31:12.760Z",
+  "title": "Binokel: langer Paarname am Rundenende ganz zu lesen",
+  "text": "Bei größter Schrift wurde ein langer Paarname am Rundenende mit „…“ gekürzt. Jetzt wächst sein Platz mit der Schrift; bei normaler Schrift bleibt alles, wie es war.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "960×540, größte Schrift",
+    "before": "changes/2026-11-17-item669-rundenende-name/01-before-before-re-960x540-p4-max.webp",
+    "after": "changes/2026-11-17-item669-rundenende-name/02-after-after-re-960x540-p4-max.webp"
+   }
+  ],
+  "sha": "bf3b2c30"
  }
 ]
