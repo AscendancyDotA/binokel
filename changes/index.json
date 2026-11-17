@@ -17610,5 +17610,30 @@
    }
   ],
   "sha": "bdf380ad"
+ },
+ {
+  "id": "solo-tagesspiel-wertung",
+  "date": "2026-11-17T19:22:46.476Z",
+  "title": "Entwurf: Austeilung des Tages – gewertet oder nicht, klar gesagt",
+  "text": "Entwurf – noch nicht im Spiel. Die Austeilung des Tages bleibt gewertet, auch wenn man vor dem ersten Zug in die Lobby geht oder die App neu lädt. Die Lobby sagt bei einer gelösten Austeilung, ob sie gewertet wurde; ohne Verbindung gestartet steht am Tisch „Offline · zählt nicht“. Eine gewertete Lösung zählt außerdem für die Aufgaben „Spiel … Partien“ und „verschiedene Spiele“.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Lobby Handy: gelöst, aber ohne Wertung",
+    "before": "changes/2026-11-17-solo-tagesspiel-wertung/01-before-phone-lobby-daily.webp",
+    "after": "changes/2026-11-17-solo-tagesspiel-wertung/02-after-phone-lobby-daily.webp"
+   },
+   {
+    "label": "Lobby Desktop 1280×800",
+    "before": "changes/2026-11-17-solo-tagesspiel-wertung/03-before-desk-lobby-daily.webp",
+    "after": "changes/2026-11-17-solo-tagesspiel-wertung/04-after-desk-lobby-daily.webp"
+   },
+   {
+    "label": "Tisch: ohne Verbindung gestartet",
+    "before": "changes/2026-11-17-solo-tagesspiel-wertung/05-before-phone-offline-badge.webp",
+    "after": "changes/2026-11-17-solo-tagesspiel-wertung/06-after-phone-offline-badge.webp"
+   }
+  ],
+  "sha": "fd8b9342"
  }
 ]
