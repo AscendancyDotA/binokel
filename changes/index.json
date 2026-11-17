@@ -17437,5 +17437,23 @@
    }
   ],
   "sha": "a5301431"
+ },
+ {
+  "id": "item668-poker-showdown",
+  "date": "2026-11-17T12:01:28.869Z",
+  "title": "Entwurf: Poker – Ergebnis am Handende frei von Schild und Karten",
+  "text": "Am Ende einer Hand liegt der Kasten mit dem Ergebnis nicht mehr auf dem eigenen Namen oder den eigenen Karten, und die Gewinn-Chips landen nicht mehr auf dem Schild eines anderen Platzes – am schmalen Handy mit größter Schrift und quer mit sechs Plätzen.",
+  "issue": "wirtshaus#319",
+  "rows": [
+   {
+    "label": "Handy hochkant 360×740, größte Schrift, sechs Plätze",
+    "img": "changes/2026-11-17-item668-poker-showdown/01-img-pk668-360x740-wirtshaus-t1.3-6p-showall.webp"
+   },
+   {
+    "label": "Handy quer 844×390, Arena, größte Schrift",
+    "img": "changes/2026-11-17-item668-poker-showdown/02-img-pk668-844x390-arena-t1.3-6p-showall.webp"
+   }
+  ],
+  "sha": "bc4d9f1b"
  }
 ]
