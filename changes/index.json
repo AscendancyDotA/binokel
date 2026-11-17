@@ -17417,5 +17417,25 @@
    }
   ],
   "sha": "a5301431"
+ },
+ {
+  "id": "item672-saetze",
+  "date": "2026-11-17T10:26:32.108Z",
+  "title": "Entwurf: „Sätze“ in Mein Raum wie die anderen Einträge",
+  "text": "Entwurf – noch nicht im Spiel. Der Eintrag „Sätze“ hat jetzt ein gezeichnetes Symbol und dieselbe Größe wie die anderen Einträge, die Liste der Sätze beginnt oben mit ihrer Einleitung.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Fenster 1707×760",
+    "before": "changes/2026-11-17-item672-saetze/01-before-before-owner-wirtshaus-sets.webp",
+    "after": "changes/2026-11-17-item672-saetze/02-after-after-owner-wirtshaus-sets.webp"
+   },
+   {
+    "label": "Handy 390×844, Stil Klar",
+    "before": "changes/2026-11-17-item672-saetze/03-before-before-phone-klar-sets.webp",
+    "after": "changes/2026-11-17-item672-saetze/04-after-after-phone-klar-sets.webp"
+   }
+  ],
+  "sha": "a5301431"
  }
 ]
