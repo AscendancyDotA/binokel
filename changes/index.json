@@ -17545,5 +17545,55 @@
    }
   ],
   "sha": "118a3eac"
+ },
+ {
+  "id": "wuerfelwurf",
+  "date": "2026-11-17T13:07:07.115Z",
+  "title": "Entwurf: Würfelwurf",
+  "text": "Entwurf – noch nicht im Spiel. Würfel werden jetzt vom Platz des Werfers aufs Brett geworfen: sie fliegen in einem flachen Bogen, springen zwei- bis dreimal auf, kippen dabei über die Kante und bleiben mit einem kleinen Nachfedern auf der gewürfelten Zahl liegen, mit Schatten. Videos: [Heimlauf](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/heimlauf-1280x800.webm), [Fünf Würfel](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/wuerfel-390x844.webm), [Schocken](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/schocken-390x844.webm), [Backgammon](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/backgammon-1280x800.webm).",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Heimlauf 1280×800 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/01-before-heimlauf-throw-1280x800.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/02-after-heimlauf-throw-1280x800.webp"
+   },
+   {
+    "label": "Heimlauf Handy 390×844 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/03-before-heimlauf-throw-390x844.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/04-after-heimlauf-throw-390x844.webp"
+   },
+   {
+    "label": "Fünf Würfel Handy 390×844 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/05-before-wuerfel-throw-390x844.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/06-after-wuerfel-throw-390x844.webp"
+   },
+   {
+    "label": "Fünf Würfel 1280×800 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/07-before-wuerfel-throw-1280x800.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/08-after-wuerfel-throw-1280x800.webp"
+   },
+   {
+    "label": "Schocken Handy 390×844 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/09-before-schocken-throw-390x844.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/10-after-schocken-throw-390x844.webp"
+   },
+   {
+    "label": "Schocken 1280×800 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/11-before-schocken-throw-1280x800.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/12-after-schocken-throw-1280x800.webp"
+   },
+   {
+    "label": "Backgammon 1280×800 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/13-before-backgammon-throw-1280x800.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/14-after-backgammon-throw-1280x800.webp"
+   },
+   {
+    "label": "Backgammon Handy 390×844 – vorher | nachher (Filmstreifen ab dem Wurf)",
+    "before": "changes/2026-11-17-wuerfelwurf/15-before-backgammon-throw-390x844.webp",
+    "after": "changes/2026-11-17-wuerfelwurf/16-after-backgammon-throw-390x844.webp"
+   }
+  ],
+  "sha": "5501a820"
  }
 ]
