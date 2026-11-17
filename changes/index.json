@@ -17595,5 +17595,20 @@
    }
   ],
   "sha": "5501a820"
+ },
+ {
+  "id": "item669-lobby-kopf",
+  "date": "2026-11-17T14:06:35.971Z",
+  "title": "Lobby: keine Lücke oben, wenn die Glocke ausbleibt",
+  "text": "Kam die Glocke für Mitteilungen nicht, blieb oben zwischen den Reitern und den Knöpfen eine Lücke, bis sich das Fenster änderte. Jetzt rücken die Knöpfe nach, ohne dass die Reiter springen.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "1340×670, Glocke bleibt aus",
+    "before": "changes/2026-11-17-item669-lobby-kopf/01-before-b-bell-1340x670.webp",
+    "after": "changes/2026-11-17-item669-lobby-kopf/02-after-a-bell-1340x670.webp"
+   }
+  ],
+  "sha": "bdf380ad"
  }
 ]
