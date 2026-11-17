@@ -17421,8 +17421,8 @@
  {
   "id": "item672-saetze",
   "date": "2026-11-17T10:26:32.108Z",
-  "title": "Entwurf: „Sätze“ in Mein Raum wie die anderen Einträge",
-  "text": "Entwurf – noch nicht im Spiel. Der Eintrag „Sätze“ hat jetzt ein gezeichnetes Symbol und dieselbe Größe wie die anderen Einträge, die Liste der Sätze beginnt oben mit ihrer Einleitung.",
+  "title": "Mein Raum: „Sätze“ wie die anderen Einträge",
+  "text": "Der Eintrag „Sätze“ hat ein gezeichnetes Symbol in der Größe der anderen Einträge, und jeder Reiter beginnt oben.",
   "issue": "binokel#30",
   "rows": [
    {
