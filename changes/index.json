@@ -16837,8 +16837,8 @@
  {
   "id": "tinfo-quer-balken",
   "date": "2026-11-16T18:41:34.411Z",
-  "title": "Entwurf: Tisch-Info als ein Feld auch quer, Punkte-Balken mit Ziel",
-  "text": "Entwurf – noch nicht im Spiel. Trumpf, Punkte gegen das Gebot und Spielmacher stehen jetzt in jeder Fenstergröße in einem Feld (ein Tipp zeigt alles ausgeschrieben). Der Balken unter jeder Zeile der Punkte-Tafel zeigt sein Ziel („120 / 1000“), wo die Überschrift keinen Platz hat; Partien über eine feste Rundenzahl haben keinen Balken mehr.",
+  "title": "Tisch-Info als ein Feld in jeder Fenstergröße",
+  "text": "Die Tisch-Info (Trumpf, Punkte gegen das Gebot, Spielmacher) ist jetzt in jeder Fenstergröße ein Feld – auch im Querformat; der Balken der Punkte-Tafel zeigt sein Ziel.",
   "issue": "binokel#30",
   "rows": [
    {
