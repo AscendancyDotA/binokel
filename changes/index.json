@@ -16932,8 +16932,8 @@
  {
   "id": "2026-11-16-aufgaben-je-app-659",
   "date": "2026-11-16T19:50:26.320Z",
-  "title": "Entwurf: Aufgaben und Kopfgeld je App",
-  "text": "Entwurf – noch nicht im Spiel. Jede App zeigt ihre eigenen Aufgaben und ihr eigenes Kopfgeld des Tages: die Schnapsen-App nur Schnapsen und allgemeine Aufgaben, das Hinterzimmer die Casino-Spiele. Die Taler bleiben ein gemeinsames Konto.",
+  "title": "Aufgaben und Kopfgeld je App",
+  "text": "Jede App hat jetzt ihre eigenen Aufgaben und ihr eigenes Kopfgeld des Tages; die Taler bleiben ein gemeinsames Konto.",
   "issue": "wirtshaus#398",
   "rows": [
    {
