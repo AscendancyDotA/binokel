@@ -17455,5 +17455,20 @@
    }
   ],
   "sha": "bc4d9f1b"
+ },
+ {
+  "id": "item669-schwimmen-stapel",
+  "date": "2026-11-17T12:30:49.956Z",
+  "title": "Schwimmen: Stapel neben den Namen",
+  "text": "Bei sechs Spielern in niedrigen Fenstern lag der Stapel auf dem Namen eines Mitspielers. Jetzt rückt er unter den Platz, wenn er sonst darauf läge – am Tisch und in der Wiederholung.",
+  "issue": "binokel#29",
+  "rows": [
+   {
+    "label": "Wiederholung, 6 Spieler, 1280×600",
+    "before": "changes/2026-11-17-item669-schwimmen-stapel/01-before-before-swim-n6-1280x600.webp",
+    "after": "changes/2026-11-17-item669-schwimmen-stapel/02-after-after-swim-n6-1280x600.webp"
+   }
+  ],
+  "sha": "bf3b2c30"
  }
 ]
