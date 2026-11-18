@@ -17511,8 +17511,8 @@
  {
   "id": "heimlauf-huepfen",
   "date": "2026-11-17T13:06:49.930Z",
-  "title": "Entwurf: Heimlauf – Figuren hüpfen, Rauswurf fliegt heim",
-  "text": "Entwurf – noch nicht im Spiel. Eine Figur hüpft Feld für Feld in kleinen Bögen und landet mit kurzem Nachfedern; beim Rauskommen und vor der Zielreihe gibt es einen eigenen kleinen Takt. Wird eine Figur rausgeworfen, springt sie hoch und fliegt im Bogen in ihr Haus, dazu ein Schlag-Ton und ein kleines Funkeln. Links vorher, rechts nachher (Filmstreifen, ab dem Zug alle 100 ms). Als Video: [Rauswurf vorher](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-heimlauf-huepfen/rauswurf-vorher.webm), [Rauswurf nachher](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-heimlauf-huepfen/rauswurf-nachher.webm), [in die Zielreihe](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-heimlauf-huepfen/ziel-nachher.webm).",
+  "title": "Heimlauf: Figuren hüpfen, Rauswurf fliegt heim",
+  "text": "Eine Figur hüpft Feld für Feld in kleinen Bögen und landet mit kurzem Nachfedern; eine rausgeworfene Figur fliegt im Bogen zurück in ihr Haus.",
   "issue": "wirtshaus#374",
   "rows": [
    {
