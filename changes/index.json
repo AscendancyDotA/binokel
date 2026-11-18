@@ -17824,5 +17824,19 @@
    }
   ],
   "sha": "b70280d7"
+ },
+ {
+  "id": "siegermoment",
+  "date": "2026-11-18T11:27:01.304Z",
+  "title": "Entwurf: Partieende mit goldenem Funkenregen für den Sieger",
+  "text": "Entwurf – noch nicht im Spiel. Sind die Plätze am Partieende eingerollt, steigt aus der Zeile des Siegers ein goldener Funkenregen auf. Wer verloren hat, sieht keinen. Taler-Ergebnis und Wertungsänderung zählen dabei hoch. Ein Tipp beendet beides sofort. Gilt für jedes Spiel.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Watten am Computer, kurz nach dem Einrollen der Plätze",
+    "img": "changes/2026-11-18-siegermoment/01-img-watten-burst.webp"
+   }
+  ],
+  "sha": "e04a1a7d"
  }
 ]
