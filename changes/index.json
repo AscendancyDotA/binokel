@@ -17790,5 +17790,24 @@
    }
   ],
   "sha": "221e2cec"
+ },
+ {
+  "id": "rundenende-zaehlt",
+  "date": "2026-11-18T05:51:25.911Z",
+  "title": "Entwurf: Rundenende zählt hoch, Stempel zeigt das Ergebnis",
+  "text": "Entwurf – noch nicht im Spiel. Am Rundenende zählen die Punkte, Augen und Karten Zeile für Zeile hoch, danach folgt der Stand. Zum Schluss zeigt ein Stempel kurz, ob die Runde gewonnen oder verloren ist. „Weiter“ geht sofort, ein Tipp zeigt gleich die Endwerte. Gilt für Skat, Doppelkopf, Schafkopf, Watten, Gaigel, Bauernschnapsen, Bid Whist, Schnapsen, Mau-Mau, Rommé, Schwimmen und Jass.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Skat am Computer: vorher steht die Tabelle sofort da, jetzt zählen die Zahlen hoch",
+    "before": "changes/2026-11-18-rundenende-zaehlt/01-before-skat-before.webp",
+    "after": "changes/2026-11-18-rundenende-zaehlt/02-after-skat-after-count.webp"
+   },
+   {
+    "label": "Handy: der Stempel nach dem Zählen",
+    "img": "changes/2026-11-18-rundenende-zaehlt/03-img-maumau-stamp-phone.webp"
+   }
+  ],
+  "sha": "e04a1a7d"
  }
 ]
