@@ -17695,8 +17695,8 @@
  {
   "id": "683-kopfgeld-moment",
   "date": "2026-11-18T00:14:13.434Z",
-  "title": "Entwurf: Belohnungsmoment für Kopfgeld und Aufgaben",
-  "text": "Entwurf – noch nicht im Spiel. Wer ein Kopfgeld holt oder eine Aufgabe schafft, sieht das jetzt einmal groß: am Partie-Ende über dem Ergebnis oder beim nächsten Besuch der Lobby, mit allen Gewinnen der Partie in einer Karte und den Talern, die bis zur Summe hochzählen. Tippen schließt, „Zum Brett“ öffnet die Aufgaben. Der Reiter „Aufgaben“ zählt neue Gewinne im Abzeichen mit; die Glocke behält sie als Verlauf.",
+  "title": "Belohnungsmoment für Kopfgeld und Aufgaben",
+  "text": "Wer ein Kopfgeld holt oder eine Aufgabe schafft, sieht das jetzt einmal groß: am Partie-Ende über dem Ergebnis oder beim Zurückkommen in die Lobby. Der Reiter „Aufgaben“ zählt neue Gewinne mit.",
   "issue": "binokel#30",
   "rows": [
    {
