@@ -17635,5 +17635,35 @@
    }
   ],
   "sha": "fd8b9342"
+ },
+ {
+  "id": "cidx681-strip",
+  "date": "2026-11-18T00:11:08.427Z",
+  "title": "Übereinanderliegende Karten: Eckzeichen immer ganz sichtbar",
+  "text": "Wo Karten übereinander oder gefächert liegen (Solitär- und Spider-Spalten, Ablagestapel, Regelbilder, kleine Karten bei Meldungen und in der Rundenabrechnung), bleibt jetzt von jeder verdeckten Karte das ganze Eckzeichen sichtbar – auch bei großem Eckzeichen. Sehr lange Solitär-Spalten werden dafür bei Bedarf mit etwas kleineren Karten gezeigt; nur auf einem quer gehaltenen Handy mit sehr langer Spalte reicht der Platz dafür nicht ganz.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Solitär-Regeln (Handy)",
+    "before": "changes/2026-11-18-cidx681-strip/01-before-solitaire-rules-390-844.webp",
+    "after": "changes/2026-11-18-cidx681-strip/02-after-solitaire-rules-390-844.webp"
+   },
+   {
+    "label": "Lange Solitär-Spalte (1280×800)",
+    "before": "changes/2026-11-18-cidx681-strip/03-before-solitaire-long-1280-800.webp",
+    "after": "changes/2026-11-18-cidx681-strip/04-after-solitaire-long-1280-800.webp"
+   },
+   {
+    "label": "Rundenabrechnung Binokel (Handy)",
+    "before": "changes/2026-11-18-cidx681-strip/05-before-binokel-roundend-390-844.webp",
+    "after": "changes/2026-11-18-cidx681-strip/06-after-binokel-roundend-390-844.webp"
+   },
+   {
+    "label": "Meldungen Binokel (Handy)",
+    "before": "changes/2026-11-18-cidx681-strip/07-before-binokel-melds-390-844.webp",
+    "after": "changes/2026-11-18-cidx681-strip/08-after-binokel-melds-390-844.webp"
+   }
+  ],
+  "sha": "775c68f7"
  }
 ]
