@@ -17744,5 +17744,59 @@
    }
   ],
   "sha": "221e2cec"
+ },
+ {
+  "id": "meldelauf-m1-bilder",
+  "date": "2026-11-18T00:37:50.510Z",
+  "title": "Entwurf: Meldelauf - Hausierer, Laufende und Lauf des Tages",
+  "text": "Entwurf – noch nicht im Spiel. Der Hausierer mit Kraftkarten (Name, Wirkung, Seltenheit; Antippen zeigt, womit eine Karte zusammenpasst), die Übersicht am Ende eines Laufs und der Lauf des Tages, auf dem Handy und am großen Bildschirm.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy: Lauf des Tages",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/01-img-ml-phone-daily-start.webp"
+   },
+   {
+    "label": "Handy: der Hausierer",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/02-img-ml-phone-pedlar.webp"
+   },
+   {
+    "label": "Handy: eine Kraftkarte und womit sie zusammenpasst",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/03-img-ml-phone-card.webp"
+   },
+   {
+    "label": "Handy: Rundenende",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/04-img-ml-phone-round-end.webp"
+   },
+   {
+    "label": "Handy: Ende des Laufs mit Platz in der Tagesliste",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/05-img-ml-phone-run-end.webp"
+   },
+   {
+    "label": "Handy: Lobby danach",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/06-img-ml-phone-lobby-after.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Lobby mit Weiterspielen und Lauf des Tages",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/07-img-ml-desk-lobby-resume.webp"
+   },
+   {
+    "label": "Desktop: der Hausierer",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/08-img-ml-desk-pedlar.webp"
+   },
+   {
+    "label": "Desktop: eine Kraftkarte",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/09-img-ml-desk-card.webp"
+   },
+   {
+    "label": "Desktop: Ende des Laufs",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/10-img-ml-desk-run-end.webp"
+   },
+   {
+    "label": "Handy quer 844×390",
+    "img": "changes/2026-11-18-meldelauf-m1-bilder/11-img-ml-844x390-play.webp"
+   }
+  ],
+  "sha": "221e2cec"
  }
 ]
