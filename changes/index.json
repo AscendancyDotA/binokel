@@ -17665,5 +17665,39 @@
    }
   ],
   "sha": "775c68f7"
+ },
+ {
+  "id": "cidx681-looks",
+  "date": "2026-11-18T00:11:44.303Z",
+  "title": "Entwurf: Eckzeichen - Varianten",
+  "text": "Entwurf – noch nicht im Spiel. Sechs Möglichkeiten, wie das Eckzeichen auf dem Kartenbild sitzen kann: A heute (deckendes Schild), B ohne Schild mit hellem Schein, C durchscheinendes Schild, D Aufkleber, E Ecke blendet aus, F Bild weicht zurück. Je Stil Handygröße, Tischgröße und groß, einzeln und als Stapel; darunter die Handygröße doppelt vergrößert.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Wirtshaus – alle Größen",
+    "img": "changes/2026-11-18-cidx681-looks/01-img-sheet-wirtshaus.webp"
+   },
+   {
+    "label": "Arena – alle Größen",
+    "img": "changes/2026-11-18-cidx681-looks/02-img-sheet-arena.webp"
+   },
+   {
+    "label": "Klar – alle Größen",
+    "img": "changes/2026-11-18-cidx681-looks/03-img-sheet-klar.webp"
+   },
+   {
+    "label": "Wirtshaus – Handygröße, doppelt vergrößert",
+    "img": "changes/2026-11-18-cidx681-looks/04-img-phone-wirtshaus.webp"
+   },
+   {
+    "label": "Arena – Handygröße, doppelt vergrößert",
+    "img": "changes/2026-11-18-cidx681-looks/05-img-phone-arena.webp"
+   },
+   {
+    "label": "Klar – Handygröße, doppelt vergrößert",
+    "img": "changes/2026-11-18-cidx681-looks/06-img-phone-klar.webp"
+   }
+  ],
+  "sha": "775c68f7"
  }
 ]
