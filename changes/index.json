@@ -17809,5 +17809,20 @@
    }
   ],
   "sha": "e04a1a7d"
+ },
+ {
+  "id": "tastatur687",
+  "date": "2026-11-18T10:39:28.592Z",
+  "title": "Handy: Tippen im Chat bei kurzem, breitem Fenster",
+  "text": "Auf Geräten mit kurzem, breitem Fenster nahm die Tastatur so viel Höhe, dass die App ins Querformat-Layout wechselte und das Textfeld den Fokus verlor. Solange ein Textfeld aktiv ist, bleibt das Layout jetzt stehen.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Tastatur offen, 508×330",
+    "before": "changes/2026-11-18-tastatur687/01-before-2-keyboard-508x330.webp",
+    "after": "changes/2026-11-18-tastatur687/02-after-2-keyboard-508x330.webp"
+   }
+  ],
+  "sha": "b70280d7"
  }
 ]
