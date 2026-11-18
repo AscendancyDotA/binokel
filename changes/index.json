@@ -17730,5 +17730,19 @@
    }
   ],
   "sha": "02a5fce5"
+ },
+ {
+  "id": "meldelauf-m1-wertung",
+  "date": "2026-11-18T00:37:36.326Z",
+  "title": "Entwurf: Meldelauf - eine Meldung wird gewertet",
+  "text": "Entwurf – noch nicht im Spiel. Die Karten der Meldung leuchten auf, Meldwert und Augen erscheinen Zeile für Zeile, die Summe zählt hoch und füllt den Balken zur Zeche.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy 390×844, alle 150 ms ein Bild",
+    "img": "changes/2026-11-18-meldelauf-m1-wertung/01-img-strip-phone.webp"
+   }
+  ],
+  "sha": "221e2cec"
  }
 ]
