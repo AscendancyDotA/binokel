@@ -17541,8 +17541,8 @@
  {
   "id": "wuerfelwurf",
   "date": "2026-11-17T13:07:07.115Z",
-  "title": "Entwurf: Würfelwurf",
-  "text": "Entwurf – noch nicht im Spiel. Würfel werden jetzt vom Platz des Werfers aufs Brett geworfen: sie fliegen in einem flachen Bogen, springen zwei- bis dreimal auf, kippen dabei über die Kante und bleiben mit einem kleinen Nachfedern auf der gewürfelten Zahl liegen, mit Schatten. Videos: [Heimlauf](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/heimlauf-1280x800.webm), [Fünf Würfel](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/wuerfel-390x844.webm), [Schocken](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/schocken-390x844.webm), [Backgammon](https://raw.githubusercontent.com/AscendancyDotA/binokel/media/changes/2026-11-17-wuerfelwurf/backgammon-1280x800.webm).",
+  "title": "Würfelwurf",
+  "text": "Würfel werden jetzt vom Platz des Werfers aufs Brett geworfen: sie fliegen in einem flachen Bogen, springen auf, überschlagen sich und bleiben mit einem kleinen Nachfedern auf der gewürfelten Zahl liegen.",
   "issue": "wirtshaus#374",
   "rows": [
    {
