@@ -17838,5 +17838,27 @@
    }
   ],
   "sha": "e04a1a7d"
+ },
+ {
+  "id": "eckzeichen-aufkleber",
+  "date": "2026-11-18T20:51:07.915Z",
+  "title": "Karten: Eckzeichen als Aufkleber",
+  "text": "Das Eckzeichen sitzt jetzt wie ein kleiner Aufkleber auf der Karte. In den Einstellungen lässt sich unter „Aussehen der Eckzeichen“ stattdessen ein weicher Rand wählen.",
+  "issue": "binokel#30",
+  "rows": [
+   {
+    "label": "Binokel, Handy",
+    "img": "changes/2026-11-18-eckzeichen-aufkleber/01-img-phone-table.webp"
+   },
+   {
+    "label": "Solitär, Handy",
+    "img": "changes/2026-11-18-eckzeichen-aufkleber/02-img-solitaire-long-390-844.webp"
+   },
+   {
+    "label": "Binokel-Rundenende, Handy",
+    "img": "changes/2026-11-18-eckzeichen-aufkleber/03-img-binokel-roundend-390-844.webp"
+   }
+  ],
+  "sha": "ba2e7efe"
  }
 ]
