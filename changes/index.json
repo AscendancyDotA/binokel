@@ -17606,8 +17606,8 @@
  {
   "id": "solo-tagesspiel-wertung",
   "date": "2026-11-17T19:22:46.476Z",
-  "title": "Entwurf: Austeilung des Tages – gewertet oder nicht, klar gesagt",
-  "text": "Entwurf – noch nicht im Spiel. Die Austeilung des Tages bleibt gewertet, auch wenn man vor dem ersten Zug in die Lobby geht oder die App neu lädt. Die Lobby sagt bei einer gelösten Austeilung, ob sie gewertet wurde; ohne Verbindung gestartet steht am Tisch „Offline · zählt nicht“. Eine gewertete Lösung zählt außerdem für die Aufgaben „Spiel … Partien“ und „verschiedene Spiele“.",
+  "title": "Solitär und Spider: Austeilung des Tages bleibt gewertet",
+  "text": "Die Austeilung des Tages bleibt gewertet, auch wenn man vor dem ersten Zug in die Lobby geht oder die App neu lädt. Die Lobby sagt klar, ob eine Lösung gewertet wurde, und eine gelöste Austeilung zählt für die Aufgaben mit gespielten Spielen.",
   "issue": "binokel#30",
   "rows": [
    {
