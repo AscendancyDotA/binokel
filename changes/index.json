@@ -17906,19 +17906,9 @@
   "id": "ssp693-gruppentisch",
   "date": "2026-11-19T15:47:46.342Z",
   "title": "Schere, Stein, Papier: Gruppentisch für 3 bis 6",
-  "text": "Entwurf – noch nicht im Spiel. Am Gruppentisch sitzt der eigene Platz jetzt unten unter den Händen statt oben über dem Titel, die Wertungsliste deckt am Handy keine Knöpfe mehr zu, am Rechner sitzen die Plätze links und rechts neben dem Tisch statt übereinander in der Ecke, und die Namen unter den Händen stehen zweizeilig, damit man sie auseinanderhält.",
+  "text": "Schere, Stein, Papier geht jetzt auch zu dritt bis zu sechst: alle mit der Sieger-Geste punkten. Der eigene Platz sitzt unten unter den Händen, die anderen im Kreis.",
   "issue": "wirtshaus#378",
   "rows": [
-   {
-    "label": "Handy, zu dritt, beim Aufdecken",
-    "before": "changes/2026-11-19-ssp693-gruppentisch/01-before-offline-reveal-n3-p.webp",
-    "after": "changes/2026-11-19-ssp693-gruppentisch/02-after-offline-reveal-n3-p.webp"
-   },
-   {
-    "label": "Handy, zu sechst, beim Aufdecken",
-    "before": "changes/2026-11-19-ssp693-gruppentisch/03-before-offline-reveal-n6-p.webp",
-    "after": "changes/2026-11-19-ssp693-gruppentisch/04-after-offline-reveal-n6-pT.webp"
-   },
    {
     "label": "Rechner 1280×800, zu sechst",
     "img": "changes/2026-11-19-ssp693-gruppentisch/05-img-offline-reveal-n6-d.webp"
