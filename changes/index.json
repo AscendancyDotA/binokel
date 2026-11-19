@@ -17860,5 +17860,20 @@
    }
   ],
   "sha": "ba2e7efe"
+ },
+ {
+  "id": "kopfleiste-mehr-menue",
+  "date": "2026-11-19T12:59:12.221Z",
+  "title": "Lobby quer am Handy: Kopfleiste bleibt beim Öffnen des Menüs, wie sie ist",
+  "text": "Auf einem quer gehaltenen Handy mit Kamera-Aussparung schrumpfte die Kopfleiste der Lobby, sobald das Menü „Mehr“ (⋯) offen war, und blieb danach klein. Jetzt bleibt sie unverändert.",
+  "issue": "binokel#31",
+  "rows": [
+   {
+    "label": "Menü offen, 1130×324",
+    "before": "changes/2026-11-19-kopfleiste-mehr-menue/01-before-owner-1130x324-cutout-open.webp",
+    "after": "changes/2026-11-19-kopfleiste-mehr-menue/02-after-owner-1130x324-cutout-open.webp"
+   }
+  ],
+  "sha": "44783544"
  }
 ]
