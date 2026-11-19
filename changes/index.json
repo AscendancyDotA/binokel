@@ -17875,5 +17875,31 @@
    }
   ],
   "sha": "44783544"
+ },
+ {
+  "id": "item697-store-einzelapps",
+  "date": "2026-11-19T15:07:00.792Z",
+  "title": "Entwurf: Neue Store-Bilder für Skat, Doppelkopf, Schafkopf und Gaigel",
+  "text": "Entwurf – noch nicht im Store. Statt drei Handybildern und einem Tablet-Bild zeigt jede der vier Apps künftig acht Handybilder (drei schlichte Tische in drei Stilen, Taverne, Partie-Analyse, Live-Tisch, Mein Raum, Rätsel) und Tablet-Bilder mit Ranglisten, Liga, Turnieren und Shop.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Skat: bisher / neu Handy / neu Tablet",
+    "img": "changes/2026-11-19-item697-store-einzelapps/01-img-sheet-skat-de.webp"
+   },
+   {
+    "label": "Doppelkopf: bisher / neu Handy / neu Tablet",
+    "img": "changes/2026-11-19-item697-store-einzelapps/02-img-sheet-doppelkopf-de.webp"
+   },
+   {
+    "label": "Schafkopf: bisher / neu Handy / neu Tablet",
+    "img": "changes/2026-11-19-item697-store-einzelapps/03-img-sheet-schafkopf-de.webp"
+   },
+   {
+    "label": "Gaigel: bisher / neu Handy / neu Tablet",
+    "img": "changes/2026-11-19-item697-store-einzelapps/04-img-sheet-gaigel-de.webp"
+   }
+  ],
+  "sha": "4f88b6a4"
  }
 ]
