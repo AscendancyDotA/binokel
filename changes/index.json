@@ -17933,5 +17933,31 @@
    }
   ],
   "sha": "5b31c15d"
+ },
+ {
+  "id": "item700-extra-topf",
+  "date": "2026-11-19T20:22:18.763Z",
+  "title": "Entwurf: Extra-Topf vom Wirtshaus und Lokalrunde",
+  "text": "Entwurf – noch nicht im Spiel. Nach einer Partie zählt der Topf manchmal ein Stück höher: der Extra-Topf vom Wirtshaus, verteilt wie der Topf selbst. Wer etwas beigetragen hat, steht in seiner Spielerfarbe darunter. In der Kasse kann man eine Lokalrunde ausgeben, die die nächsten 10 Partien mitlegt.",
+  "issue": "wirtshaus#447",
+  "rows": [
+   {
+    "label": "Partie-Ende Binokel mit Einsatz, Desktop",
+    "img": "changes/2026-11-19-item700-extra-topf/01-img-binokel-1280x800.webp"
+   },
+   {
+    "label": "Partie-Ende Lupfen, Handy hochkant",
+    "img": "changes/2026-11-19-item700-extra-topf/02-img-lupfen-390x844.webp"
+   },
+   {
+    "label": "Partie-Ende Binokel, Handy quer",
+    "img": "changes/2026-11-19-item700-extra-topf/03-img-binokel-844x390.webp"
+   },
+   {
+    "label": "Kasse: Lokalrunde, Handy",
+    "img": "changes/2026-11-19-item700-extra-topf/04-img-kasse-lokalrunde-390x844.webp"
+   }
+  ],
+  "sha": "eb526d19"
  }
 ]
