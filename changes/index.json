@@ -17959,5 +17959,51 @@
    }
   ],
   "sha": "eb526d19"
+ },
+ {
+  "id": "meldelauf-schauwert-entwurf",
+  "date": "2026-11-19T20:53:00.654Z",
+  "title": "Entwurf: Meldelauf mit Krug, Kraftkarten und Wirtshausschildern",
+  "text": "Entwurf – noch nicht im Spiel. Die Zeche ist ein Bierkrug, der sich mit jeder Meldung füllt; die Rechnung einer Meldung baut sich Schritt für Schritt auf; Kraftkarten sind richtige Karten, die drei Leben Striche auf dem Bierdeckel, der Weg acht Wirtshausschilder, der Hausierer hat seinen Stand.",
+  "issue": "wirtshaus#440",
+  "rows": [
+   {
+    "label": "Handy: eine Meldung wird gezählt",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/01-img-m-390x844-1-meldung-03.webp"
+   },
+   {
+    "label": "Handy: Zeche bezahlt",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/02-img-m-390x844-2-zeche-bezahlt-09.webp"
+   },
+   {
+    "label": "Handy: Tisch mit Kraftkarten",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/03-img-m-390x844-9-tisch-grosse-schrift.webp"
+   },
+   {
+    "label": "Handy: beim Hausierer",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/04-img-m-390x844-4-hausierer.webp"
+   },
+   {
+    "label": "Handy: Zeche verfehlt, ein Strich",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/05-img-m-390x844-7-strich-06.webp"
+   },
+   {
+    "label": "Handy: Ende des Laufs",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/06-img-m-390x844-9-laufende.webp"
+   },
+   {
+    "label": "Handy quer: eine Meldung wird gezählt",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/07-img-m-844x390-1-meldung-03.webp"
+   },
+   {
+    "label": "Desktop: beim Hausierer",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/08-img-m-1280x800-4-hausierer.webp"
+   },
+   {
+    "label": "Desktop: eine Meldung wird gezählt",
+    "img": "changes/2026-11-19-meldelauf-schauwert-entwurf/09-img-m-1280x800-1-meldung-03.webp"
+   }
+  ],
+  "sha": "3a4da691"
  }
 ]
