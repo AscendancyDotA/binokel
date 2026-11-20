@@ -17995,5 +17995,30 @@
    }
   ],
   "sha": "3a4da691"
+ },
+ {
+  "id": "item697c-livetische",
+  "date": "2026-11-20T01:10:34.866Z",
+  "title": "Entwurf: Live-Tisch-Bilder ohne Überdeckungen (Skat, Doppelkopf, Gaigel)",
+  "text": "Entwurf – noch nicht im Spiel und nicht im Store. Am schmalen Handy liegen die runden Knöpfe am Tischrand nicht mehr auf Stichkarten, Talon oder Trumpfkarte, die Doppelkopf-Ansagen nicht mehr auf „Letzter Stich“, und bei Skat verdeckt der Bilderrahmen der Mitspieler die Kürzel VH/MH/HH nicht mehr.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Skat: Live-Tisch",
+    "before": "changes/2026-11-20-item697c-livetische/01-before-old-skat-de-phone6.webp",
+    "after": "changes/2026-11-20-item697c-livetische/02-after-phone-6-live.webp"
+   },
+   {
+    "label": "Doppelkopf: Live-Tisch",
+    "before": "changes/2026-11-20-item697c-livetische/03-before-old-doppelkopf-de-phone6.webp",
+    "after": "changes/2026-11-20-item697c-livetische/04-after-phone-6-live.webp"
+   },
+   {
+    "label": "Gaigel: Live-Tisch",
+    "before": "changes/2026-11-20-item697c-livetische/05-before-old-gaigel-de-phone6.webp",
+    "after": "changes/2026-11-20-item697c-livetische/06-after-phone-6-live.webp"
+   }
+  ],
+  "sha": "5d7ecc4e"
  }
 ]
