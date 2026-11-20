@@ -18107,5 +18107,25 @@
    }
   ],
   "sha": "963ec3aa"
+ },
+ {
+  "id": "item706-langenamen",
+  "date": "2026-11-20T13:10:10.078Z",
+  "title": "Entwurf: Lange Namen am vollen Tisch umbrochen statt abgeschnitten",
+  "text": "Entwurf – noch nicht im Spiel. Bei Schere, Stein, Papier zu sechst und an Tischen mit sieben oder acht Plätzen stehen lange Spielernamen am Handy jetzt ganz da, auf zwei Zeilen statt mit Pünktchen.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Schere, Stein, Papier zu sechst, 360×640",
+    "before": "changes/2026-11-20-item706-langenamen/01-before-ssp6-360x640-t1.webp",
+    "after": "changes/2026-11-20-item706-langenamen/02-after-ssp6-360x640-t1.webp"
+   },
+   {
+    "label": "Quer 640×360",
+    "before": "changes/2026-11-20-item706-langenamen/03-before-ssp6-640x360-t1.webp",
+    "after": "changes/2026-11-20-item706-langenamen/04-after-ssp6-640x360-t1.webp"
+   }
+  ],
+  "sha": "c0552f08"
  }
 ]
