@@ -18127,5 +18127,43 @@
    }
   ],
   "sha": "c0552f08"
+ },
+ {
+  "id": "item702-grosse-runden",
+  "date": "2026-11-20T13:18:21.173Z",
+  "title": "Entwurf: Binokel zu fünft, sechst und acht",
+  "text": "Entwurf – noch nicht im Spiel. Am eigenen Tisch lassen sich 5, 6 oder 8 Plätze wählen. Die Meldungen aller stehen in einer Tafel, ein Zeichen vor jedem Namen zeigt die Partei, der Stich liegt als Bogen über der eigenen Karte.",
+  "issue": "wirtshaus#439",
+  "rows": [
+   {
+    "label": "Zu sechst am Handy: Meldetafel nach Parteien",
+    "img": "changes/2026-11-20-item702-grosse-runden/01-img-scene-6-melds-390x844.webp"
+   },
+   {
+    "label": "Zu acht am Handy: Stich und Punktetafel je Paar",
+    "img": "changes/2026-11-20-item702-grosse-runden/02-img-scene-8-playing-390x844.webp"
+   },
+   {
+    "label": "Zu fünft am Handy: Reizen",
+    "img": "changes/2026-11-20-item702-grosse-runden/03-img-scene-5-bidding-390x844.webp"
+   },
+   {
+    "label": "Zu acht am Rechner",
+    "img": "changes/2026-11-20-item702-grosse-runden/04-img-scene-8-playing-1280x800.webp"
+   },
+   {
+    "label": "Zu sechst am Rechner: Meldetafel",
+    "img": "changes/2026-11-20-item702-grosse-runden/05-img-scene-6-melds-1280x800.webp"
+   },
+   {
+    "label": "Zu sechst: Rundenende mit drei Paaren",
+    "img": "changes/2026-11-20-item702-grosse-runden/06-img-scene-6-roundEnd-390x844.webp"
+   },
+   {
+    "label": "Zu acht online: Partie-Ende, Wertung „Binokel – Varianten“",
+    "img": "changes/2026-11-20-item702-grosse-runden/07-img-match-8-matchend.webp"
+   }
+  ],
+  "sha": "1f9ff30c"
  }
 ]
