@@ -18165,5 +18165,27 @@
    }
   ],
   "sha": "1f9ff30c"
+ },
+ {
+  "id": "stufe-konzept",
+  "date": "2026-11-20T15:55:55.236Z",
+  "title": "Entwurf: Spiele-Umschalter mit den Gruppen Spiele, Im Bau und Konzept",
+  "text": "Entwurf – noch nicht im Spiel. Der Spiele-Umschalter trennt die freien Spiele, die Spiele im Bau und eine neue Stufe „Konzept“ für Ideen, deren Regeln und Aussehen noch nicht feststehen; Konzept-Spiele laufen ohne Wertung und ohne Taler.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Handy: Ende des Umschalters",
+    "img": "changes/2026-11-20-stufe-konzept/01-img-stufen712-390x844-umschalter-ende.webp"
+   },
+   {
+    "label": "Desktop: Ende des Umschalters",
+    "img": "changes/2026-11-20-stufe-konzept/02-img-stufen712-1280x800-umschalter-ende.webp"
+   },
+   {
+    "label": "Kurve aus der Gruppe Konzept, nur mit erzeugten Kurven",
+    "img": "changes/2026-11-20-stufe-konzept/03-img-stufen712-390x844-kurve.webp"
+   }
+  ],
+  "sha": "a20d08d8"
  }
 ]
