@@ -18064,7 +18064,7 @@
  {
   "id": "item705-taverne-liste",
   "date": "2026-11-20T07:10:51.949Z",
-  "title": "Entwurf: Taverne merkt sich die offene Liste „Im Raum“",
+  "title": "Taverne: Liste „Im Raum“ merkt sich auf/zu",
   "text": "Entwurf – noch nicht im Spiel. Wer die Liste „Im Raum“ in der Taverne aufklappt, findet sie beim nächsten Besuch wieder offen vor. Zugeklappt bleibt sie zu.",
   "issue": "wirtshaus#449",
   "rows": [
