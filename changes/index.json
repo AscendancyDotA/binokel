@@ -18078,5 +18078,34 @@
    }
   ],
   "sha": "1ba97e5e"
+ },
+ {
+  "id": "item704-erste-minuten",
+  "date": "2026-11-20T12:52:24.906Z",
+  "title": "Entwurf: Erste Minuten am Handy – Kasse-Reiter, „?“ am Tisch, Vortisch-Text",
+  "text": "Entwurf – noch nicht im Spiel. Am 390-px-Handy passen die vier Kasse-Reiter ohne Wischen in eine Zeile; das „?“ neben einem Tisch-Schild liegt nicht mehr auf dem Bild eines Spielers; der Vortisch sagt klar, dass geschenkte Taler erst nach 5 gewerteten Partien gesetzt werden können.",
+  "issue": "wirtshaus#389",
+  "rows": [
+   {
+    "label": "Kasse, Seite Taler (390×844)",
+    "before": "changes/2026-11-20-item704-erste-minuten/01-before-06-tabs-taler.webp",
+    "after": "changes/2026-11-20-item704-erste-minuten/02-after-02-tabs-taler.webp"
+   },
+   {
+    "label": "Tisch: „?“ am Rollen-Schild (390×844)",
+    "before": "changes/2026-11-20-item704-erste-minuten/03-before-04-ask-0.webp",
+    "after": "changes/2026-11-20-item704-erste-minuten/04-after-04-ask-1.webp"
+   },
+   {
+    "label": "Vortisch (390×844)",
+    "before": "changes/2026-11-20-item704-erste-minuten/05-before-03-queue-2.webp",
+    "after": "changes/2026-11-20-item704-erste-minuten/06-after-03-queue-2.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Kasse unverändert",
+    "img": "changes/2026-11-20-item704-erste-minuten/07-img-02-tabs-taler.webp"
+   }
+  ],
+  "sha": "963ec3aa"
  }
 ]
