@@ -18060,5 +18060,23 @@
    }
   ],
   "sha": "1ba97e5e"
+ },
+ {
+  "id": "item705-taverne-liste",
+  "date": "2026-11-20T07:10:51.949Z",
+  "title": "Entwurf: Taverne merkt sich die offene Liste „Im Raum“",
+  "text": "Entwurf – noch nicht im Spiel. Wer die Liste „Im Raum“ in der Taverne aufklappt, findet sie beim nächsten Besuch wieder offen vor. Zugeklappt bleibt sie zu.",
+  "issue": "wirtshaus#449",
+  "rows": [
+   {
+    "label": "Handy 412×915: nach dem Neuladen noch offen",
+    "img": "changes/2026-11-20-item705-taverne-liste/01-img-taverne-members-remembered-phone.webp"
+   },
+   {
+    "label": "Handy 412×915: Sprachleiste mit Mikro und Kamera, nichts abgeschnitten",
+    "img": "changes/2026-11-20-item705-taverne-liste/02-img-taverne-phone-wirtshaus.webp"
+   }
+  ],
+  "sha": "1ba97e5e"
  }
 ]
