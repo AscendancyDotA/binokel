@@ -18020,5 +18020,45 @@
    }
   ],
   "sha": "5d7ecc4e"
+ },
+ {
+  "id": "item705-analyse-desktop",
+  "date": "2026-11-20T07:10:22.017Z",
+  "title": "Entwurf: Wiederholung am PC – mehr Platz für die Auswertung",
+  "text": "Entwurf – noch nicht im Spiel. In der Wiederholung eines Kartenspiels am PC ist das Tischfenster jetzt fast quadratisch, die Auswertung daneben bekommt die übrige Breite und läuft bei viel Platz in zwei Spalten. Am Handy bleibt alles wie bisher.",
+  "issue": "wirtshaus#449",
+  "rows": [
+   {
+    "label": "Binokel, 1280×800",
+    "before": "changes/2026-11-20-item705-analyse-desktop/01-before-binokel3-win-1280x800.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/02-after-binokel3-win-1280x800.webp"
+   },
+   {
+    "label": "Binokel, 1920×1080",
+    "before": "changes/2026-11-20-item705-analyse-desktop/03-before-binokel3-win-1920x1080.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/04-after-binokel3-win-1920x1080.webp"
+   },
+   {
+    "label": "Binokel, 2560×1080",
+    "before": "changes/2026-11-20-item705-analyse-desktop/05-before-binokel3-win-2560x1080.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/06-after-binokel3-win-2560x1080.webp"
+   },
+   {
+    "label": "Skat, 1366×768",
+    "before": "changes/2026-11-20-item705-analyse-desktop/07-before-skat-win-1366x768.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/08-after-skat-win-1366x768.webp"
+   },
+   {
+    "label": "Doppelkopf, 1707×760",
+    "before": "changes/2026-11-20-item705-analyse-desktop/09-before-doppelkopf-win-1707x760.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/10-after-doppelkopf-win-1707x760.webp"
+   },
+   {
+    "label": "Schnapsen, 1920×1080",
+    "before": "changes/2026-11-20-item705-analyse-desktop/11-before-schnapsen-win-1920x1080.webp",
+    "after": "changes/2026-11-20-item705-analyse-desktop/12-after-schnapsen-win-1920x1080.webp"
+   }
+  ],
+  "sha": "1ba97e5e"
  }
 ]
