@@ -18187,5 +18187,39 @@
    }
   ],
   "sha": "a20d08d8"
+ },
+ {
+  "id": "meldelauf-gesperrt-entwurf",
+  "date": "2026-11-20T23:03:44.391Z",
+  "title": "Entwurf: Meldelauf – gesperrte Meldungen durchgestrichen, Hausierer füllt den Bildschirm",
+  "text": "Entwurf – noch nicht im Spiel. Was die Hausregel des Wirts sperrt, steht jetzt durchgestrichen mit der Regel daneben in der Liste der Meldungen, statt zu fehlen. Beim Hausierer geht der Stand am Desktop über die ganze Breite, die Waren werden mit dem Fenster größer.",
+  "issue": "wirtshaus#440",
+  "rows": [
+   {
+    "label": "Beim Wirt, Paare zählen nix (1280×800)",
+    "before": "changes/2026-11-20-meldelauf-gesperrt-entwurf/01-before-g-1280x800-1-gesperrt.webp",
+    "after": "changes/2026-11-20-meldelauf-gesperrt-entwurf/02-after-g-1280x800-1-gesperrt.webp"
+   },
+   {
+    "label": "Hausierer (1280×800)",
+    "before": "changes/2026-11-20-meldelauf-gesperrt-entwurf/03-before-g-1280x800-3-hausierer-gekauft.webp",
+    "after": "changes/2026-11-20-meldelauf-gesperrt-entwurf/04-after-g-1280x800-3-hausierer-gekauft.webp"
+   },
+   {
+    "label": "Hausierer (1920×1080)",
+    "before": "changes/2026-11-20-meldelauf-gesperrt-entwurf/05-before-g-1920x1080-3-hausierer-gekauft.webp",
+    "after": "changes/2026-11-20-meldelauf-gesperrt-entwurf/06-after-g-1920x1080-3-hausierer-gekauft.webp"
+   },
+   {
+    "label": "Hausierer (1707×760)",
+    "before": "changes/2026-11-20-meldelauf-gesperrt-entwurf/07-before-g-1707x760-2-hausierer.webp",
+    "after": "changes/2026-11-20-meldelauf-gesperrt-entwurf/08-after-g-1707x760-2-hausierer.webp"
+   },
+   {
+    "label": "Handy 390×844: gesperrte Meldungen",
+    "img": "changes/2026-11-20-meldelauf-gesperrt-entwurf/09-img-g-390x844-1-gesperrt.webp"
+   }
+  ],
+  "sha": "03933a7a"
  }
 ]
