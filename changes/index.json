@@ -18261,5 +18261,25 @@
    }
   ],
   "sha": "4a84199a"
+ },
+ {
+  "id": "item715-spieleliste-zugzeile",
+  "date": "2026-11-20T23:20:04.253Z",
+  "title": "Entwurf: Spieleliste im niedrigen PC-Fenster, Zug-Zeile der Wiederholung",
+  "text": "Entwurf – noch nicht im Spiel. Im breiten, niedrigen PC-Fenster stehen die Spiele in vier Spalten und passen ganz auf den Schirm. In der Wiederholung bricht eine lange Zug-Zeile im Tischfenster um, statt über den Rand zu laufen.",
+  "issue": "wirtshaus#458",
+  "rows": [
+   {
+    "label": "Spieleliste 1707×760",
+    "before": "changes/2026-11-20-item715-spieleliste-zugzeile/01-before-chooser-1707x760.webp",
+    "after": "changes/2026-11-20-item715-spieleliste-zugzeile/02-after-chooser-1707x760.webp"
+   },
+   {
+    "label": "Bid Whist, Wiederholung 1366×768",
+    "before": "changes/2026-11-20-item715-spieleliste-zugzeile/03-before-replay-bidwhist4-1366x768.webp",
+    "after": "changes/2026-11-20-item715-spieleliste-zugzeile/04-after-replay-bidwhist4-1366x768.webp"
+   }
+  ],
+  "sha": "2449cada"
  }
 ]
