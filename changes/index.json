@@ -18221,5 +18221,25 @@
    }
   ],
   "sha": "03933a7a"
+ },
+ {
+  "id": "meldelauf-trumpf-kontrast-entwurf",
+  "date": "2026-11-20T23:04:13.992Z",
+  "title": "Entwurf: Meldelauf – Trumpf immer sichtbar, Verkaufen gut lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Während der Runde steht der Trumpf mit seinem Zeichen neben dem Meldegang. Die Knöpfe zum Verkaufen beim Hausierer stehen in der neuen Darstellung hell auf dem dunklen Tisch und sind gut lesbar.",
+  "issue": "wirtshaus#455",
+  "rows": [
+   {
+    "label": "Runde beim Wirt, Handy 390×844 (Trumpf: Herz)",
+    "before": "changes/2026-11-20-meldelauf-trumpf-kontrast-entwurf/01-before-g-390x844-1-gesperrt.webp",
+    "after": "changes/2026-11-20-meldelauf-trumpf-kontrast-entwurf/02-after-g-390x844-1-gesperrt.webp"
+   },
+   {
+    "label": "Hausierer nach dem Kauf, 1280×800 (Verkaufen +2)",
+    "before": "changes/2026-11-20-meldelauf-trumpf-kontrast-entwurf/03-before-g-1280x800-3-hausierer-gekauft.webp",
+    "after": "changes/2026-11-20-meldelauf-trumpf-kontrast-entwurf/04-after-g-1280x800-3-hausierer-gekauft.webp"
+   }
+  ],
+  "sha": "03933a7a"
  }
 ]
