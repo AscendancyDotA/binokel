@@ -18311,5 +18311,32 @@
    }
   ],
   "sha": "39802af9"
+ },
+ {
+  "id": "eroberung-figuren717",
+  "date": "2026-11-21T01:13:02.597Z",
+  "title": "Entwurf: Eroberung – Figuren statt Zahl und kurze Kämpfe",
+  "text": "Entwurf – noch nicht im Spiel. Auf jedem Amt stehen Figuren in der Farbe des Besitzers (Fußvolk 1, Reiter 5, Kanone 10), die genaue Zahl steht klein daneben. Ein Angriff zeigt die Würfel über dem Ziel, Verluste kippen um, bei einer Einnahme marschieren die Sieger ein – höchstens 1,2 Sekunden, mit Animationen „Aus“ ohne Bewegung.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Handy 390×844, gleicher Spielstand",
+    "before": "changes/2026-11-21-eroberung-figuren717/01-before-offline-fight-390x844.webp",
+    "after": "changes/2026-11-21-eroberung-figuren717/02-after-offline-fight-390x844.webp"
+   },
+   {
+    "label": "Einnahme am Handy: Würfel, Verteidiger fallen, Einmarsch (6 Einzelbilder)",
+    "img": "changes/2026-11-21-eroberung-figuren717/03-img-strip-390-conquest.webp"
+   },
+   {
+    "label": "Einnahme am Desktop 1280×800 (6 Einzelbilder)",
+    "img": "changes/2026-11-21-eroberung-figuren717/04-img-strip-1280-conquest.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-21-eroberung-figuren717/05-img-offline-play-1280x800.webp"
+   }
+  ],
+  "sha": "8cd5e7fe"
  }
 ]
