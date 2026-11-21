@@ -18281,5 +18281,35 @@
    }
   ],
   "sha": "2449cada"
+ },
+ {
+  "id": "item706b-namen",
+  "date": "2026-11-21T00:41:04.324Z",
+  "title": "Entwurf: Lange Namen am vollen Tisch auf zwei Zeilen",
+  "text": "Entwurf – noch nicht im Spiel. Kurze Namen bleiben einzeilig; ein langer Name bricht zwischen den Wörtern um, ein einzelnes zu langes Wort mit Trennstrich, höchstens zwei Zeilen.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Schere, Stein, Papier zu sechst, 390×844, lange Namen",
+    "img": "changes/2026-11-21-item706b-namen/01-img-ssp6-390x844-t1.webp"
+   },
+   {
+    "label": "Lupfen zu siebt, 390×844, kurze Namen",
+    "img": "changes/2026-11-21-item706b-namen/02-img-lupfen7-390x844-t1-own.webp"
+   },
+   {
+    "label": "Lupfen zu siebt, 390×844, lange Namen",
+    "img": "changes/2026-11-21-item706b-namen/03-img-lupfen7-390x844-t1.webp"
+   },
+   {
+    "label": "Schere, Stein, Papier zu fünft quer, 844×390",
+    "img": "changes/2026-11-21-item706b-namen/04-img-ssp5-844x390-t1.webp"
+   },
+   {
+    "label": "Poker zu sechst, 360×640, lange Namen",
+    "img": "changes/2026-11-21-item706b-namen/05-img-poker6-360x640-t1.webp"
+   }
+  ],
+  "sha": "39802af9"
  }
 ]
