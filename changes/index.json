@@ -18265,7 +18265,7 @@
  {
   "id": "item715-spieleliste-zugzeile",
   "date": "2026-11-20T23:20:04.253Z",
-  "title": "Entwurf: Spieleliste im niedrigen PC-Fenster, Zug-Zeile der Wiederholung",
+  "title": "Spieleliste passt ins niedrige Fenster, Zug-Zeile der Wiederholung bricht um",
   "text": "Entwurf – noch nicht im Spiel. Im breiten, niedrigen PC-Fenster stehen die Spiele in vier Spalten und passen ganz auf den Schirm. In der Wiederholung bricht eine lange Zug-Zeile im Tischfenster um, statt über den Rand zu laufen.",
   "issue": "wirtshaus#458",
   "rows": [
