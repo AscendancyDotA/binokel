@@ -18358,5 +18358,35 @@
    }
   ],
   "sha": "1885f86e"
+ },
+ {
+  "id": "store-ueberdeckungen-handy",
+  "date": "2026-11-21T05:49:24.755Z",
+  "title": "Entwurf: Am Handy liegt nichts mehr über Knöpfen, Karten und Zugliste",
+  "text": "Entwurf – noch nicht im Spiel. Mau-Mau: der Spielstand weicht dem Knopf „2 Karten ziehen“ aus. Rommé (Ansicht Klar): die ausgelegten Kombinationen stehen ganz über der Hinweiszeile. Backgammon und Mühle: die Liste der besten Züge bleibt in ihrem Kasten, der Zughinweis am Online-Tisch macht den runden Knöpfen Platz.",
+  "issue": "wirtshaus#466",
+  "rows": [
+   {
+    "label": "Mau-Mau, Handy",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/01-before-maumau-de-phone-1-table.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/02-after-phone-1-table.webp"
+   },
+   {
+    "label": "Rommé, Ansicht Klar",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/03-before-romme-de-phone-3-romme.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/04-after-phone-3-romme.webp"
+   },
+   {
+    "label": "Backgammon, Auswertung",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/05-before-backgammon-de-phone-5-analysis.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/06-after-phone-5-analysis.webp"
+   },
+   {
+    "label": "Backgammon, online",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/07-before-backgammon-de-phone-6-live.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/08-after-phone-6-live.webp"
+   }
+  ],
+  "sha": "d1dab89d"
  }
 ]
