@@ -18418,5 +18418,43 @@
    }
   ],
   "sha": "040a0fb3"
+ },
+ {
+  "id": "raetsel-kontext-732",
+  "date": "2026-11-21T20:26:38.107Z",
+  "title": "Entwurf: Rätsel des Tages mit Zusammenhang und „Partie ansehen“",
+  "text": "Entwurf – noch nicht im Spiel. Über der Hand steht jetzt, was du in dem Moment wissen konntest: was eine Seite braucht und schon hat, der wievielte Stich es ist und welche Karten schon gespielt sind. Nach der Antwort erklärt ein Satz die Zahlen, und „Partie ansehen“ öffnet die echte Partie ohne Namen an genau dieser Stelle.",
+  "issue": "wirtshaus#468",
+  "rows": [
+   {
+    "label": "Binokel, Handy 360×640",
+    "img": "changes/2026-11-21-raetsel-kontext-732/01-img-puzzle732-binokel-ask-360.webp"
+   },
+   {
+    "label": "Skat, Handy 444×987",
+    "img": "changes/2026-11-21-raetsel-kontext-732/02-img-puzzle732-skat-ask-phone.webp"
+   },
+   {
+    "label": "Schnapsen, Desktop 1280×800",
+    "img": "changes/2026-11-21-raetsel-kontext-732/03-img-puzzle732-schnapsen-ask-desktop.webp"
+   },
+   {
+    "label": "Doppelkopf, Handy 360×640",
+    "img": "changes/2026-11-21-raetsel-kontext-732/04-img-puzzle732-doppelkopf-ask-360.webp"
+   },
+   {
+    "label": "Auflösung mit „Partie ansehen“, Desktop",
+    "img": "changes/2026-11-21-raetsel-kontext-732/05-img-puzzle732-binokel-replaybtn-desktop.webp"
+   },
+   {
+    "label": "Die echte Partie, anonym, an der Rätsel-Stelle (Handy 444)",
+    "img": "changes/2026-11-21-raetsel-kontext-732/06-img-puzzle732-binokel-replay-phone.webp"
+   },
+   {
+    "label": "Die echte Partie, Desktop",
+    "img": "changes/2026-11-21-raetsel-kontext-732/07-img-puzzle732-binokel-replay-desktop.webp"
+   }
+  ],
+  "sha": "f4c35a0f"
  }
 ]
