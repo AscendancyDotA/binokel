@@ -18315,8 +18315,8 @@
  {
   "id": "eroberung-figuren717",
   "date": "2026-11-21T01:13:02.597Z",
-  "title": "Entwurf: Eroberung – Figuren statt Zahl und kurze Kämpfe",
-  "text": "Entwurf – noch nicht im Spiel. Auf jedem Amt stehen Figuren in der Farbe des Besitzers (Fußvolk 1, Reiter 5, Kanone 10), die genaue Zahl steht klein daneben. Ein Angriff zeigt die Würfel über dem Ziel, Verluste kippen um, bei einer Einnahme marschieren die Sieger ein – höchstens 1,2 Sekunden, mit Animationen „Aus“ ohne Bewegung.",
+  "title": "Eroberung: Figuren statt Zahl und kurze Kämpfe",
+  "text": "Auf jedem Amt stehen Figuren in der Farbe des Besitzers (Fußvolk 1, Reiter 5, Kanone 10), die genaue Zahl steht klein daneben. Ein Angriff zeigt die Würfel über dem Ziel, Verluste kippen um, bei einer Einnahme marschieren die Sieger ein – höchstens 1,2 Sekunden, mit Animationen „Aus“ ohne Bewegung.",
   "issue": "wirtshaus#374",
   "rows": [
    {
