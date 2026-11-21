@@ -18360,66 +18360,6 @@
   "sha": "1885f86e"
  },
  {
-  "id": "store-ueberdeckungen-handy",
-  "date": "2026-11-21T05:49:24.755Z",
-  "title": "Am Handy liegt nichts mehr über Knöpfen, Karten und Zugliste",
-  "text": "Mau-Mau: der Spielstand weicht dem Knopf „2 Karten ziehen“ aus. Rommé (Ansicht Klar): die ausgelegten Kombinationen stehen ganz über der Hinweiszeile. Backgammon und Mühle: die Liste der besten Züge bleibt in ihrem Kasten, der Zughinweis am Online-Tisch macht den runden Knöpfen Platz.",
-  "issue": "wirtshaus#466",
-  "rows": [
-   {
-    "label": "Mau-Mau, Handy",
-    "before": "changes/2026-11-21-store-ueberdeckungen-handy/01-before-maumau-de-phone-1-table.webp",
-    "after": "changes/2026-11-21-store-ueberdeckungen-handy/02-after-phone-1-table.webp"
-   },
-   {
-    "label": "Rommé, Ansicht Klar",
-    "before": "changes/2026-11-21-store-ueberdeckungen-handy/03-before-romme-de-phone-3-romme.webp",
-    "after": "changes/2026-11-21-store-ueberdeckungen-handy/04-after-phone-3-romme.webp"
-   },
-   {
-    "label": "Backgammon, Auswertung",
-    "before": "changes/2026-11-21-store-ueberdeckungen-handy/05-before-backgammon-de-phone-5-analysis.webp",
-    "after": "changes/2026-11-21-store-ueberdeckungen-handy/06-after-phone-5-analysis.webp"
-   },
-   {
-    "label": "Backgammon, online",
-    "before": "changes/2026-11-21-store-ueberdeckungen-handy/07-before-backgammon-de-phone-6-live.webp",
-    "after": "changes/2026-11-21-store-ueberdeckungen-handy/08-after-phone-6-live.webp"
-   }
-  ],
-  "sha": "d1dab89d"
- },
- {
-  "id": "item728-queue-buttons",
-  "date": "2026-11-21T09:04:34.801Z",
-  "title": "Warteschlange: „Mit Bots auffüllen“ und „Abbrechen“ immer sichtbar",
-  "text": "Solange man in der Warteschlange steht, stehen „Jetzt mit Bots auffüllen“ und „Abbrechen“ am Handy in der Leiste über den Reitern und in breiten Fenstern fest am unteren Rand der Karte; beim Beitreten rückt die Wartezeit ins Bild. Im Warteraum am eigenen Tisch bleibt der Start-Knopf genauso am unteren Rand.",
-  "issue": "wirtshaus#467",
-  "rows": [
-   {
-    "label": "Handy 411×454, direkt nach dem Beitreten",
-    "before": "changes/2026-11-21-item728-queue-buttons/01-before-queue-buttons-wirtshaus-t1-411x454.webp",
-    "after": "changes/2026-11-21-item728-queue-buttons/02-after-queue-joined-wirtshaus-t1-411x454.webp"
-   },
-   {
-    "label": "Handy 360×640, Seite oben",
-    "before": "changes/2026-11-21-item728-queue-buttons/03-before-queue-buttons-wirtshaus-t1-360x640.webp",
-    "after": "changes/2026-11-21-item728-queue-buttons/04-after-queue-buttons-wirtshaus-t1-360x640.webp"
-   },
-   {
-    "label": "Laptop 1280×600, Aussehen Klar",
-    "before": "changes/2026-11-21-item728-queue-buttons/05-before-queue-buttons-klar-t1-1280x600.webp",
-    "after": "changes/2026-11-21-item728-queue-buttons/06-after-queue-buttons-klar-t1-1280x600.webp"
-   },
-   {
-    "label": "Warteraum, eigener Tisch zu viert, 411×454",
-    "before": "changes/2026-11-21-item728-queue-buttons/07-before-wroom-start-411x454.webp",
-    "after": "changes/2026-11-21-item728-queue-buttons/08-after-wroom-start-411x454.webp"
-   }
-  ],
-  "sha": "040a0fb3"
- },
- {
   "id": "raetsel-kontext-732",
   "date": "2026-11-21T20:26:38.107Z",
   "title": "Rätsel des Tages mit Zusammenhang und „Partie ansehen“",
@@ -18456,5 +18396,65 @@
    }
   ],
   "sha": "f4c35a0f"
+ },
+ {
+  "id": "store-ueberdeckungen-handy",
+  "date": "2026-11-21T22:16:21.833Z",
+  "title": "Am Handy liegt nichts mehr über Knöpfen, Karten und Zugliste",
+  "text": "Mau-Mau: der Spielstand weicht dem Knopf „2 Karten ziehen“ aus. Rommé (Ansicht Klar): die ausgelegten Kombinationen stehen ganz über der Hinweiszeile. Backgammon und Mühle: die Liste der besten Züge bleibt in ihrem Kasten, der Zughinweis am Online-Tisch macht den runden Knöpfen Platz.",
+  "issue": "wirtshaus#466",
+  "rows": [
+   {
+    "label": "Mau-Mau, Handy",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/01-before-maumau-de-phone-1-table.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/02-after-phone-1-table.webp"
+   },
+   {
+    "label": "Rommé, Ansicht Klar",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/03-before-romme-de-phone-3-romme.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/04-after-phone-3-romme.webp"
+   },
+   {
+    "label": "Backgammon, Auswertung",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/05-before-backgammon-de-phone-5-analysis.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/06-after-phone-5-analysis.webp"
+   },
+   {
+    "label": "Backgammon, online",
+    "before": "changes/2026-11-21-store-ueberdeckungen-handy/07-before-backgammon-de-phone-6-live.webp",
+    "after": "changes/2026-11-21-store-ueberdeckungen-handy/08-after-phone-6-live.webp"
+   }
+  ],
+  "sha": "d1dab89d"
+ },
+ {
+  "id": "item728-queue-buttons",
+  "date": "2026-11-21T22:16:21.833Z",
+  "title": "Warteschlange: „Mit Bots auffüllen“ und „Abbrechen“ immer sichtbar",
+  "text": "Solange man in der Warteschlange steht, stehen „Jetzt mit Bots auffüllen“ und „Abbrechen“ am Handy in der Leiste über den Reitern und in breiten Fenstern fest am unteren Rand der Karte; beim Beitreten rückt die Wartezeit ins Bild. Im Warteraum am eigenen Tisch bleibt der Start-Knopf genauso am unteren Rand.",
+  "issue": "wirtshaus#467",
+  "rows": [
+   {
+    "label": "Handy 411×454, direkt nach dem Beitreten",
+    "before": "changes/2026-11-21-item728-queue-buttons/01-before-queue-buttons-wirtshaus-t1-411x454.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/02-after-queue-joined-wirtshaus-t1-411x454.webp"
+   },
+   {
+    "label": "Handy 360×640, Seite oben",
+    "before": "changes/2026-11-21-item728-queue-buttons/03-before-queue-buttons-wirtshaus-t1-360x640.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/04-after-queue-buttons-wirtshaus-t1-360x640.webp"
+   },
+   {
+    "label": "Laptop 1280×600, Aussehen Klar",
+    "before": "changes/2026-11-21-item728-queue-buttons/05-before-queue-buttons-klar-t1-1280x600.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/06-after-queue-buttons-klar-t1-1280x600.webp"
+   },
+   {
+    "label": "Warteraum, eigener Tisch zu viert, 411×454",
+    "before": "changes/2026-11-21-item728-queue-buttons/07-before-wroom-start-411x454.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/08-after-wroom-start-411x454.webp"
+   }
+  ],
+  "sha": "040a0fb3"
  }
 ]
