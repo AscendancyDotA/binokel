@@ -18343,7 +18343,7 @@
   "id": "i723-layout-reste",
   "date": "2026-11-21T02:46:15.172Z",
   "title": "Spieleliste endet auf ganzer Zeile, Sitzschilder überlappen nicht mehr",
-  "text": "Entwurf – noch nicht im Spiel. Die Spieleliste hört im niedrigen Fenster nach einer ganzen Zeile auf und zeigt mit einer farbigen Unterkante, dass es weitergeht. Am Sechsertisch nimmt ein Name, der an den Nachbarn stößt, seinen Kurznamen.",
+  "text": "Die Spieleliste hört im niedrigen Fenster nach einer ganzen Zeile auf und zeigt mit einer farbigen Unterkante, dass es weitergeht. Am Sechsertisch nimmt ein Name, der an den Nachbarn stößt, seinen Kurznamen.",
   "issue": "wirtshaus#374",
   "rows": [
    {
