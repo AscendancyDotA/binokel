@@ -18456,5 +18456,63 @@
    }
   ],
   "sha": "040a0fb3"
+ },
+ {
+  "id": "item725-einzelapps",
+  "date": "2026-11-21T22:37:23.806Z",
+  "title": "Entwurf: Sechs weitere Einzel-Apps – Store-Bilder",
+  "text": "Entwurf – noch nicht im Spiel. Pinochle, Roulette, Bauernschnapsen, Schocken, Schwimmen und Watten bekommen je eine eigene App; je App ein Bild vom Tisch und eines vom Live-Tisch (alle Bilder je 8 Handy + 4 Tablet, deutsch und englisch).",
+  "issue": "wirtshaus#456",
+  "rows": [
+   {
+    "label": "Pinochle",
+    "img": "changes/2026-11-21-item725-einzelapps/01-img-phone-1-table.webp"
+   },
+   {
+    "label": "Pinochle live",
+    "img": "changes/2026-11-21-item725-einzelapps/02-img-phone-6-live.webp"
+   },
+   {
+    "label": "Roulette",
+    "img": "changes/2026-11-21-item725-einzelapps/03-img-phone-1-bet.webp"
+   },
+   {
+    "label": "Roulette live",
+    "img": "changes/2026-11-21-item725-einzelapps/04-img-phone-5-live.webp"
+   },
+   {
+    "label": "Bauernschnapsen",
+    "img": "changes/2026-11-21-item725-einzelapps/05-img-phone-1-table.webp"
+   },
+   {
+    "label": "Bauernschnapsen live",
+    "img": "changes/2026-11-21-item725-einzelapps/06-img-phone-6-live.webp"
+   },
+   {
+    "label": "Schocken",
+    "img": "changes/2026-11-21-item725-einzelapps/07-img-phone-1-table.webp"
+   },
+   {
+    "label": "Schocken live",
+    "img": "changes/2026-11-21-item725-einzelapps/08-img-phone-6-live.webp"
+   },
+   {
+    "label": "Schwimmen",
+    "img": "changes/2026-11-21-item725-einzelapps/09-img-phone-1-table.webp"
+   },
+   {
+    "label": "Schwimmen live",
+    "img": "changes/2026-11-21-item725-einzelapps/10-img-phone-6-live.webp"
+   },
+   {
+    "label": "Watten",
+    "img": "changes/2026-11-21-item725-einzelapps/11-img-phone-1-table.webp"
+   },
+   {
+    "label": "Watten live",
+    "img": "changes/2026-11-21-item725-einzelapps/12-img-phone-6-live.webp"
+   }
+  ],
+  "sha": "59ea8d30"
  }
 ]
