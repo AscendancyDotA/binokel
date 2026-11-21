@@ -18245,8 +18245,8 @@
  {
   "id": "eckzeichen-hand-fit",
   "date": "2026-11-20T23:16:03.131Z",
-  "title": "Entwurf: Große Eckzeichen verdecken sich bei voller Hand nicht mehr",
-  "text": "Entwurf – noch nicht im Spiel. Wer große Eckzeichen eingestellt hat, sieht sie in der eigenen Hand jetzt nur so groß, wie der sichtbare Streifen jeder Karte es erlaubt. Bei voller Hand (Dabb aufgenommen) werden sie etwas kleiner und wachsen beim Ausspielen fließend wieder auf die eingestellte Größe. Das gilt für alle Kartenspiele, normale Eckzeichen bleiben unverändert.",
+  "title": "Große Eckzeichen verdecken sich bei voller Hand nicht mehr",
+  "text": "Wer große Eckzeichen eingestellt hat, sieht sie in der eigenen Hand jetzt nur so groß, wie der sichtbare Streifen jeder Karte es erlaubt. Bei voller Hand (Dabb aufgenommen) werden sie etwas kleiner und wachsen beim Ausspielen fließend wieder auf die eingestellte Größe. Das gilt für alle Kartenspiele, normale Eckzeichen bleiben unverändert.",
   "issue": "binokel#32",
   "rows": [
    {
