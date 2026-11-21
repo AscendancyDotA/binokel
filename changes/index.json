@@ -18388,5 +18388,35 @@
    }
   ],
   "sha": "d1dab89d"
+ },
+ {
+  "id": "item728-queue-buttons",
+  "date": "2026-11-21T09:04:34.801Z",
+  "title": "Entwurf: Warteschlange – „Mit Bots auffüllen“ und „Abbrechen“ immer sichtbar",
+  "text": "Entwurf – noch nicht im Spiel. Solange man in der Warteschlange steht, stehen „Jetzt mit Bots auffüllen“ und „Abbrechen“ am Handy in der Leiste über den Reitern und in breiten Fenstern fest am unteren Rand der Karte; beim Beitreten rückt die Wartezeit ins Bild. Im Warteraum am eigenen Tisch bleibt der Start-Knopf genauso am unteren Rand.",
+  "issue": "wirtshaus#467",
+  "rows": [
+   {
+    "label": "Handy 411×454, direkt nach dem Beitreten",
+    "before": "changes/2026-11-21-item728-queue-buttons/01-before-queue-buttons-wirtshaus-t1-411x454.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/02-after-queue-joined-wirtshaus-t1-411x454.webp"
+   },
+   {
+    "label": "Handy 360×640, Seite oben",
+    "before": "changes/2026-11-21-item728-queue-buttons/03-before-queue-buttons-wirtshaus-t1-360x640.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/04-after-queue-buttons-wirtshaus-t1-360x640.webp"
+   },
+   {
+    "label": "Laptop 1280×600, Aussehen Klar",
+    "before": "changes/2026-11-21-item728-queue-buttons/05-before-queue-buttons-klar-t1-1280x600.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/06-after-queue-buttons-klar-t1-1280x600.webp"
+   },
+   {
+    "label": "Warteraum, eigener Tisch zu viert, 411×454",
+    "before": "changes/2026-11-21-item728-queue-buttons/07-before-wroom-start-411x454.webp",
+    "after": "changes/2026-11-21-item728-queue-buttons/08-after-wroom-start-411x454.webp"
+   }
+  ],
+  "sha": "040a0fb3"
  }
 ]
