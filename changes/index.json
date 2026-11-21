@@ -18514,5 +18514,30 @@
    }
   ],
   "sha": "59ea8d30"
+ },
+ {
+  "id": "item725-tischfix",
+  "date": "2026-11-21T22:37:55.240Z",
+  "title": "Entwurf: Bauernschnapsen, Watten, Schwimmen – nichts mehr doppelt oder verdeckt",
+  "text": "Entwurf – noch nicht im Spiel. „Letzter Stich“ steht nur noch einmal am Tisch (auch bei Jass und Bid Whist), bei Watten liegt „Gehst?“ nicht mehr auf dem Trumpf, bei Schwimmen die Wertung nicht mehr auf „Dein Blatt“.",
+  "issue": "wirtshaus#456",
+  "rows": [
+   {
+    "label": "Bauernschnapsen",
+    "before": "changes/2026-11-21-item725-tischfix/01-before-bauernschnapsen.webp",
+    "after": "changes/2026-11-21-item725-tischfix/02-after-phone-1-table.webp"
+   },
+   {
+    "label": "Watten",
+    "before": "changes/2026-11-21-item725-tischfix/03-before-watten.webp",
+    "after": "changes/2026-11-21-item725-tischfix/04-after-phone-1-table.webp"
+   },
+   {
+    "label": "Schwimmen",
+    "before": "changes/2026-11-21-item725-tischfix/05-before-schwimmen.webp",
+    "after": "changes/2026-11-21-item725-tischfix/06-after-phone-1-table.webp"
+   }
+  ],
+  "sha": "59ea8d30"
  }
 ]
