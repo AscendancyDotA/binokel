@@ -18392,8 +18392,8 @@
  {
   "id": "item728-queue-buttons",
   "date": "2026-11-21T09:04:34.801Z",
-  "title": "Entwurf: Warteschlange – „Mit Bots auffüllen“ und „Abbrechen“ immer sichtbar",
-  "text": "Entwurf – noch nicht im Spiel. Solange man in der Warteschlange steht, stehen „Jetzt mit Bots auffüllen“ und „Abbrechen“ am Handy in der Leiste über den Reitern und in breiten Fenstern fest am unteren Rand der Karte; beim Beitreten rückt die Wartezeit ins Bild. Im Warteraum am eigenen Tisch bleibt der Start-Knopf genauso am unteren Rand.",
+  "title": "Warteschlange: „Mit Bots auffüllen“ und „Abbrechen“ immer sichtbar",
+  "text": "Solange man in der Warteschlange steht, stehen „Jetzt mit Bots auffüllen“ und „Abbrechen“ am Handy in der Leiste über den Reitern und in breiten Fenstern fest am unteren Rand der Karte; beim Beitreten rückt die Wartezeit ins Bild. Im Warteraum am eigenen Tisch bleibt der Start-Knopf genauso am unteren Rand.",
   "issue": "wirtshaus#467",
   "rows": [
    {
