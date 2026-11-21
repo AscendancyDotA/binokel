@@ -18285,8 +18285,8 @@
  {
   "id": "item706b-namen",
   "date": "2026-11-21T00:41:04.324Z",
-  "title": "Entwurf: Lange Namen am vollen Tisch auf zwei Zeilen",
-  "text": "Entwurf – noch nicht im Spiel. Kurze Namen bleiben einzeilig; ein langer Name bricht zwischen den Wörtern um, ein einzelnes zu langes Wort mit Trennstrich, höchstens zwei Zeilen.",
+  "title": "Lange Namen am vollen Tisch auf zwei Zeilen",
+  "text": "Kurze Namen bleiben einzeilig; ein langer Name bricht zwischen den Wörtern um, ein einzelnes zu langes Wort mit Trennstrich, höchstens zwei Zeilen.",
   "issue": "wirtshaus#374",
   "rows": [
    {
