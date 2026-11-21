@@ -18338,5 +18338,25 @@
    }
   ],
   "sha": "8cd5e7fe"
+ },
+ {
+  "id": "i723-layout-reste",
+  "date": "2026-11-21T02:46:15.172Z",
+  "title": "Entwurf: Spieleliste endet bei ganzen Zeilen, Sechser-Schilder stoßen nicht mehr an",
+  "text": "Entwurf – noch nicht im Spiel. Die Spieleliste hört im niedrigen Fenster nach einer ganzen Zeile auf und zeigt mit einer farbigen Unterkante, dass es weitergeht. Am Sechsertisch nimmt ein Name, der an den Nachbarn stößt, seinen Kurznamen.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Spieleliste 1280×600",
+    "before": "changes/2026-11-21-i723-layout-reste/01-before-chooser-1280x600.webp",
+    "after": "changes/2026-11-21-i723-layout-reste/02-after-chooser-1280x600.webp"
+   },
+   {
+    "label": "Rommé zu sechst, Wiederholung 1366×768",
+    "before": "changes/2026-11-21-i723-layout-reste/03-before-replay-romme6-1366x768.webp",
+    "after": "changes/2026-11-21-i723-layout-reste/04-after-replay-romme6-1366x768.webp"
+   }
+  ],
+  "sha": "1885f86e"
  }
 ]
