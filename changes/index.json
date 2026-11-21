@@ -18362,8 +18362,8 @@
  {
   "id": "store-ueberdeckungen-handy",
   "date": "2026-11-21T05:49:24.755Z",
-  "title": "Entwurf: Am Handy liegt nichts mehr über Knöpfen, Karten und Zugliste",
-  "text": "Entwurf – noch nicht im Spiel. Mau-Mau: der Spielstand weicht dem Knopf „2 Karten ziehen“ aus. Rommé (Ansicht Klar): die ausgelegten Kombinationen stehen ganz über der Hinweiszeile. Backgammon und Mühle: die Liste der besten Züge bleibt in ihrem Kasten, der Zughinweis am Online-Tisch macht den runden Knöpfen Platz.",
+  "title": "Am Handy liegt nichts mehr über Knöpfen, Karten und Zugliste",
+  "text": "Mau-Mau: der Spielstand weicht dem Knopf „2 Karten ziehen“ aus. Rommé (Ansicht Klar): die ausgelegten Kombinationen stehen ganz über der Hinweiszeile. Backgammon und Mühle: die Liste der besten Züge bleibt in ihrem Kasten, der Zughinweis am Online-Tisch macht den runden Knöpfen Platz.",
   "issue": "wirtshaus#466",
   "rows": [
    {
