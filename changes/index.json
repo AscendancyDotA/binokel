@@ -18902,5 +18902,30 @@
    }
   ],
   "sha": "a367acee"
+ },
+ {
+  "id": "rp-shortphone-748",
+  "date": "2026-11-22T17:30:36.083Z",
+  "title": "Entwurf: Wiederholung am kleinen Handy – Rommé und Schwimmen frei, Hinweis auf weitere Reihen",
+  "text": "Entwurf – noch nicht im Spiel. In der Wiederholung am kleinen Handy mit offener Auswertung liegt die Rommé-Auslage nicht mehr auf dem eigenen Platz und die Schwimmen-Mitte nicht mehr auf dem Platz oben. Scrollt die Rommé-Auslage, zeigt ein ruhiger Chip unter der letzten Reihe, wie viele Reihen noch kommen; Tippen blättert eine Reihe weiter.",
+  "issue": "wirtshaus#456",
+  "rows": [
+   {
+    "label": "Rommé-Wiederholung 360×640",
+    "before": "changes/2026-11-22-rp-shortphone-748/01-before-romme-p360-13.webp",
+    "after": "changes/2026-11-22-rp-shortphone-748/02-after-romme-p360.webp"
+   },
+   {
+    "label": "Schwimmen-Wiederholung 360×640",
+    "before": "changes/2026-11-22-rp-shortphone-748/03-before-schwimmen-p360-10.webp",
+    "after": "changes/2026-11-22-rp-shortphone-748/04-after-schwimmen-p360.webp"
+   },
+   {
+    "label": "Rommé am Tisch 360×640: Hinweis auf weitere Reihen",
+    "before": "changes/2026-11-22-rp-shortphone-748/05-before-rm-melds-360x640.webp",
+    "after": "changes/2026-11-22-rp-shortphone-748/06-after-rm-melds-360x640.webp"
+   }
+  ],
+  "sha": "160119bf"
  }
 ]
