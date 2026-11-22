@@ -19020,5 +19020,75 @@
    }
   ],
   "sha": "ee909cf1"
+ },
+ {
+  "id": "farben-492",
+  "date": "2026-11-22T23:27:21.028Z",
+  "title": "Entwurf: Farbvorschläge statt Gelb",
+  "text": "Entwurf – nur Vorschau, nicht im Spiel.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Jetzt: Gold #d9a648 (Schrift #2a1a08, Kontrast 7.6:1)",
+    "img": "changes/2026-11-22-farben-492/01-img-jetzt.webp"
+   },
+   {
+    "label": "1. Kupfer #d98a5b (Schrift #2a1408, Kontrast 6.4:1)",
+    "img": "changes/2026-11-22-farben-492/02-img-kupfer.webp"
+   },
+   {
+    "label": "2. Terrakotta #d4775e (Schrift #2a0e06, Kontrast 5.7:1)",
+    "img": "changes/2026-11-22-farben-492/03-img-terrakotta.webp"
+   },
+   {
+    "label": "3. Weinrot #c96a7a (Schrift #24070e, Kontrast 5.2:1)",
+    "img": "changes/2026-11-22-farben-492/04-img-weinrot.webp"
+   },
+   {
+    "label": "4. Messing #bfa860 (Schrift #211b06, Kontrast 7.3:1)",
+    "img": "changes/2026-11-22-farben-492/05-img-messing.webp"
+   },
+   {
+    "label": "5. Bernstein #e8923a (Schrift #2a1404, Kontrast 7.2:1)",
+    "img": "changes/2026-11-22-farben-492/06-img-bernstein.webp"
+   },
+   {
+    "label": "6. Elfenbein #e6dcc2 (Schrift #2a1a08, Kontrast 12.3:1)",
+    "img": "changes/2026-11-22-farben-492/07-img-elfenbein.webp"
+   },
+   {
+    "label": "7. Salbeigrün #9cc596 (Schrift #0f220f, Kontrast 8.6:1)",
+    "img": "changes/2026-11-22-farben-492/08-img-salbei.webp"
+   },
+   {
+    "label": "8. Schieferblau #8fb0d0 (Schrift #0d1a28, Kontrast 7.8:1)",
+    "img": "changes/2026-11-22-farben-492/09-img-schiefer.webp"
+   },
+   {
+    "label": "9. Petrol #6cbfb6 (Schrift #07211e, Kontrast 7.8:1)",
+    "img": "changes/2026-11-22-farben-492/10-img-petrol.webp"
+   },
+   {
+    "label": "10. Flieder #b9a3d8 (Schrift #1b1130, Kontrast 7.9:1)",
+    "img": "changes/2026-11-22-farben-492/11-img-flieder.webp"
+   },
+   {
+    "label": "Tisch am Computer (1280×800): Jetzt: Gold #d9a648",
+    "img": "changes/2026-11-22-farben-492/12-img-desk-jetzt.webp"
+   },
+   {
+    "label": "Tisch am Computer (1280×800): Kupfer #d98a5b",
+    "img": "changes/2026-11-22-farben-492/13-img-desk-kupfer.webp"
+   },
+   {
+    "label": "Tisch am Computer (1280×800): Elfenbein #e6dcc2",
+    "img": "changes/2026-11-22-farben-492/14-img-desk-elfenbein.webp"
+   },
+   {
+    "label": "Tisch am Computer (1280×800): Schieferblau #8fb0d0",
+    "img": "changes/2026-11-22-farben-492/15-img-desk-schiefer.webp"
+   }
+  ],
+  "sha": "41c298d8"
  }
 ]
