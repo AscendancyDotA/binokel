@@ -18816,5 +18816,27 @@
    }
   ],
   "sha": "c15b2f9b"
+ },
+ {
+  "id": "item751-readytab",
+  "date": "2026-11-22T17:12:33.688Z",
+  "title": "Entwurf: Reiter zeigt den wartenden Bereit-Check",
+  "text": "Entwurf – noch nicht im Spiel. Mit mehreren Tischen zeigt der Reiter eines Tischs, dessen Bereit-Check auf dich wartet, die restlichen Sekunden in einem kleinen Quadrat und „Bereit drücken!“ – deutlich anders als „Du bist dran“ mit dem runden Zeitring.",
+  "issue": "wirtshaus#325",
+  "rows": [
+   {
+    "label": "Entwurf: Handy – Reiterleiste mit wartendem Bereit-Check (links) und „Du bist dran“ (rechts)",
+    "img": "changes/2026-11-22-item751-readytab/01-img-readytab751-de-phone-tabs.webp"
+   },
+   {
+    "label": "Entwurf: Desktop – dieselbe Reiterleiste",
+    "img": "changes/2026-11-22-item751-readytab/02-img-readytab751-de-desk-tabs.webp"
+   },
+   {
+    "label": "Entwurf: Handy – Reiter angetippt, der Tisch mit der Bereit-Leiste vorne",
+    "img": "changes/2026-11-22-item751-readytab/03-img-readytab751-de-phone-forward.webp"
+   }
+  ],
+  "sha": "64487237"
  }
 ]
