@@ -18868,5 +18868,39 @@
    }
   ],
   "sha": "8f47571d"
+ },
+ {
+  "id": "item749-erste-tipps",
+  "date": "2026-11-22T17:26:40.554Z",
+  "title": "Entwurf: Tipps für die ersten Partien in Schnapsen, Solitär, Spider und Roulette",
+  "text": "Entwurf – noch nicht im Spiel. In den ersten drei Partien erklärt eine Sprechblase das Ziel, die Bedienung und die wichtigsten Regeln – mit „Verstanden“ weg, mit „Keine Tipps mehr“ ganz aus.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Schnapsen, Handy 405×720",
+    "img": "changes/2026-11-22-item749-erste-tipps/01-img-schnapsen-first-phone405-wirtshaus-0.webp"
+   },
+   {
+    "label": "Schnapsen, Computer 1280×800",
+    "img": "changes/2026-11-22-item749-erste-tipps/02-img-schnapsen-first-desk-wirtshaus-1.webp"
+   },
+   {
+    "label": "Roulette, Handy 405×720: über Kessel und Plätzen, nie auf einem Feld",
+    "img": "changes/2026-11-22-item749-erste-tipps/03-img-roulette-first-phone405-wirtshaus-1.webp"
+   },
+   {
+    "label": "Roulette, Computer 1280×800",
+    "img": "changes/2026-11-22-item749-erste-tipps/04-img-roulette-first-desk-wirtshaus-0.webp"
+   },
+   {
+    "label": "Solitär, Handy: unten über der Werkzeugleiste",
+    "img": "changes/2026-11-22-item749-erste-tipps/05-img-phone-daily-start.webp"
+   },
+   {
+    "label": "Spider, Handy",
+    "img": "changes/2026-11-22-item749-erste-tipps/06-img-sp-phone-daily-start.webp"
+   }
+  ],
+  "sha": "a367acee"
  }
 ]
