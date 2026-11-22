@@ -18927,5 +18927,25 @@
    }
   ],
   "sha": "a367acee"
+ },
+ {
+  "id": "item759-trumpf-schein",
+  "date": "2026-11-22T22:30:41.215Z",
+  "title": "Trumpf leuchtet sanft in der Punktetafel",
+  "text": "Das Trumpfzeichen in der Punktetafel hat einen ruhigen goldenen Schein, etwas schwächer als die Hervorhebung dessen, was gerade dran ist. So sieht man ohne Suchen, welche Farbe Trumpf ist. Gilt für Binokel und Pinochle.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Punktetafel (Handy)",
+    "before": "changes/2026-11-22-item759-trumpf-schein/01-before-before-panel.webp",
+    "after": "changes/2026-11-22-item759-trumpf-schein/02-after-after-panel.webp"
+   },
+   {
+    "label": "Ganzer Tisch 405×720",
+    "before": "changes/2026-11-22-item759-trumpf-schein/03-before-before-table.webp",
+    "after": "changes/2026-11-22-item759-trumpf-schein/04-after-after-table.webp"
+   }
+  ],
+  "sha": "0a2e4177"
  }
 ]
