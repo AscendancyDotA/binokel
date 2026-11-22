@@ -19000,7 +19000,7 @@
  {
   "id": "pub34-standard",
   "date": "2026-11-22T23:24:52.044Z",
-  "title": "Entwurf: Standard-Wahl bei den Einstellungen markiert",
+  "title": "Standard-Wahl bei den Einstellungen markiert",
   "text": "Entwurf – noch nicht im Spiel. Unter der Standard-Wahl einer Einstellung steht klein „Standard“, auch wenn etwas anderes gewählt ist: bei der Partielänge der Warteschlange (6 Runden zu dritt) und beim eigenen Tisch.",
   "issue": "binokel#34",
   "rows": [
