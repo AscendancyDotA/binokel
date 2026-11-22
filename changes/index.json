@@ -18998,30 +18998,6 @@
   "sha": "530212d1"
  },
  {
-  "id": "pub34-standard",
-  "date": "2026-11-22T23:24:52.044Z",
-  "title": "Standard-Wahl bei den Einstellungen markiert",
-  "text": "Entwurf – noch nicht im Spiel. Unter der Standard-Wahl einer Einstellung steht klein „Standard“, auch wenn etwas anderes gewählt ist: bei der Partielänge der Warteschlange (6 Runden zu dritt) und beim eigenen Tisch.",
-  "issue": "binokel#34",
-  "rows": [
-   {
-    "label": "Wunschkarte, 9 Runden gewählt (1707×760)",
-    "before": "changes/2026-11-22-pub34-standard/01-before-760e-before-report-wish-9.webp",
-    "after": "changes/2026-11-22-pub34-standard/02-after-760e-after-report-wish-9.webp"
-   },
-   {
-    "label": "Eigener Tisch (1280×800)",
-    "before": "changes/2026-11-22-pub34-standard/03-before-760e-before-desktop-create.webp",
-    "after": "changes/2026-11-22-pub34-standard/04-after-760e-after-desktop-create.webp"
-   },
-   {
-    "label": "Handy 444×987",
-    "img": "changes/2026-11-22-pub34-standard/05-img-760e-after-phone-wish-9.webp"
-   }
-  ],
-  "sha": "ee909cf1"
- },
- {
   "id": "farben-492",
   "date": "2026-11-22T23:27:21.028Z",
   "title": "Entwurf: Farbvorschläge statt Gelb",
@@ -19126,5 +19102,29 @@
    }
   ],
   "sha": "86d338d3"
+ },
+ {
+  "id": "pub34-standard",
+  "date": "2026-11-22T23:50:41.298Z",
+  "title": "Standard-Wahl bei den Einstellungen markiert",
+  "text": "Bei den Tisch-Einstellungen steht unter der Standard-Wahl klein „Standard“ – auch wenn du gerade etwas anderes gewählt hast. So findest du jederzeit zurück zur üblichen Einstellung.",
+  "issue": "binokel#34",
+  "rows": [
+   {
+    "label": "Wunschkarte, 9 Runden gewählt (1707×760)",
+    "before": "changes/2026-11-22-pub34-standard/01-before-760e-before-report-wish-9.webp",
+    "after": "changes/2026-11-22-pub34-standard/02-after-760e-after-report-wish-9.webp"
+   },
+   {
+    "label": "Eigener Tisch (1280×800)",
+    "before": "changes/2026-11-22-pub34-standard/03-before-760e-before-desktop-create.webp",
+    "after": "changes/2026-11-22-pub34-standard/04-after-760e-after-desktop-create.webp"
+   },
+   {
+    "label": "Handy 444×987",
+    "img": "changes/2026-11-22-pub34-standard/05-img-760e-after-phone-wish-9.webp"
+   }
+  ],
+  "sha": "ee909cf1"
  }
 ]
