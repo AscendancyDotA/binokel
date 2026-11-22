@@ -18705,36 +18705,6 @@
   "sha": "047a3884"
  },
  {
-  "id": "item750-stich-handy",
-  "date": "2026-11-22T17:22:19.856Z",
-  "title": "Entwurf: Stich am Handy – beide Karten lesbar, Weis neben dem Stich",
-  "text": "Entwurf – noch nicht im Spiel. Schnapsen am Handy: die zwei Stichkarten liegen nebeneinander statt übereinander, beide Eckzeichen sind lesbar. Jass: die gezeigten Weis suchen sich einen freien Platz neben dem Stich und verdecken keine Stichkarte mehr.",
-  "issue": "wirtshaus#476",
-  "rows": [
-   {
-    "label": "Schnapsen, Handy hochkant 405×720",
-    "before": "changes/2026-11-22-item750-stich-handy/01-before-before-sn-405x720.webp",
-    "after": "changes/2026-11-22-item750-stich-handy/02-after-after-sn-405x720.webp"
-   },
-   {
-    "label": "Schnapsen, Handy quer 720×405",
-    "before": "changes/2026-11-22-item750-stich-handy/03-before-before-sn-720x405.webp",
-    "after": "changes/2026-11-22-item750-stich-handy/04-after-after-sn-720x405.webp"
-   },
-   {
-    "label": "Jass Weis, Handy hochkant 405×720 (andere Runde)",
-    "before": "changes/2026-11-22-item750-stich-handy/05-before-before-js-405x720.webp",
-    "after": "changes/2026-11-22-item750-stich-handy/06-after-after-js-405x720.webp"
-   },
-   {
-    "label": "Jass Weis, Desktop 1280×800 (andere Runde)",
-    "before": "changes/2026-11-22-item750-stich-handy/07-before-before-js-1280x800.webp",
-    "after": "changes/2026-11-22-item750-stich-handy/08-after-after-js-1280x800.webp"
-   }
-  ],
-  "sha": "8f47571d"
- },
- {
   "id": "item749-erste-tipps",
   "date": "2026-11-22T17:26:40.554Z",
   "title": "Entwurf: Tipps für die ersten Partien in Schnapsen, Solitär, Spider und Roulette",
@@ -18927,5 +18897,35 @@
    }
   ],
   "sha": "64487237"
+ },
+ {
+  "id": "item750-stich-handy",
+  "date": "2026-11-22T19:47:25.715Z",
+  "title": "Stich am Handy – beide Karten lesbar, Weis neben dem Stich",
+  "text": "Schnapsen am Handy: die zwei Stichkarten liegen nebeneinander statt übereinander, beide Eckzeichen sind lesbar. Jass: die gezeigten Weis suchen sich einen freien Platz neben dem Stich und verdecken keine Stichkarte mehr.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Schnapsen, Handy hochkant 405×720",
+    "before": "changes/2026-11-22-item750-stich-handy/01-before-before-sn-405x720.webp",
+    "after": "changes/2026-11-22-item750-stich-handy/02-after-after-sn-405x720.webp"
+   },
+   {
+    "label": "Schnapsen, Handy quer 720×405",
+    "before": "changes/2026-11-22-item750-stich-handy/03-before-before-sn-720x405.webp",
+    "after": "changes/2026-11-22-item750-stich-handy/04-after-after-sn-720x405.webp"
+   },
+   {
+    "label": "Jass Weis, Handy hochkant 405×720 (andere Runde)",
+    "before": "changes/2026-11-22-item750-stich-handy/05-before-before-js-405x720.webp",
+    "after": "changes/2026-11-22-item750-stich-handy/06-after-after-js-405x720.webp"
+   },
+   {
+    "label": "Jass Weis, Desktop 1280×800 (andere Runde)",
+    "before": "changes/2026-11-22-item750-stich-handy/07-before-before-js-1280x800.webp",
+    "after": "changes/2026-11-22-item750-stich-handy/08-after-after-js-1280x800.webp"
+   }
+  ],
+  "sha": "8f47571d"
  }
 ]
