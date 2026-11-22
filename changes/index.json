@@ -18748,5 +18748,40 @@
    }
   ],
   "sha": "dfae3e6e"
+ },
+ {
+  "id": "stich-fokus745",
+  "date": "2026-11-22T13:25:13.701Z",
+  "title": "Entwurf: Ausgespielte und stechende Karte im Stich",
+  "text": "Entwurf – noch nicht im Spiel. In allen Stichspielen leuchtet die ausgespielte Karte in der Akzentfarbe und trägt oben einen Reiter; die Karte, die den Stich gerade hält, hat einen Goldrand, liegt etwas höher und trägt eine Krone. Bots legen ihre Karten jetzt sichtbar nacheinander statt mehrere auf einmal.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Binokel · Computer",
+    "before": "changes/2026-11-22-stich-fokus745/01-before-binokel-desk-before.webp",
+    "after": "changes/2026-11-22-stich-fokus745/02-after-binokel-desk-after.webp"
+   },
+   {
+    "label": "Gaigel · Handy",
+    "before": "changes/2026-11-22-stich-fokus745/03-before-gaigel-phone-before.webp",
+    "after": "changes/2026-11-22-stich-fokus745/04-after-gaigel-phone-after.webp"
+   },
+   {
+    "label": "Bauernschnapsen · Handy",
+    "before": "changes/2026-11-22-stich-fokus745/05-before-bauernschnapsen-phone-before.webp",
+    "after": "changes/2026-11-22-stich-fokus745/06-after-bauernschnapsen-phone-after.webp"
+   },
+   {
+    "label": "Doppelkopf · Handy",
+    "before": "changes/2026-11-22-stich-fokus745/07-before-doppelkopf-phone-before.webp",
+    "after": "changes/2026-11-22-stich-fokus745/08-after-doppelkopf-phone-after.webp"
+   },
+   {
+    "label": "Watten · Computer",
+    "before": "changes/2026-11-22-stich-fokus745/09-before-watten-desk-before.webp",
+    "after": "changes/2026-11-22-stich-fokus745/10-after-watten-desk-after.webp"
+   }
+  ],
+  "sha": "047a3884"
  }
 ]
