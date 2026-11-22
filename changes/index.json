@@ -18645,81 +18645,6 @@
   "sha": "bc07cafd"
  },
  {
-  "id": "stufen746",
-  "date": "2026-11-22T12:37:11.868Z",
-  "title": "Entwurf: Am Binokel-Tisch leuchtet nur noch, was du gerade tun kannst",
-  "text": "Entwurf – noch nicht im Spiel. Pro Moment trägt genau ein Ort den hellen Schein: die Reizleiste, die Ablage beim Drücken, „Ansagen“, „Fertig“, deine spielbaren Karten, „Weiter“, „Nochmal“. Bist du nicht dran, leuchtet nichts – der Platz, der dran ist, trägt seinen Ring. Nicht spielbare Karten treten deutlich zurück, „Du bist dran“ ist eine ruhige Zeile statt einer zweiten goldenen Fläche.",
-  "issue": "wirtshaus#476",
-  "rows": [
-   {
-    "label": "Du reizt (Handy)",
-    "before": "changes/2026-11-22-stufen746/01-before-405x720p-p3-02-bid-mine.webp",
-    "after": "changes/2026-11-22-stufen746/02-after-405x720p-p3-02-bid-mine.webp"
-   },
-   {
-    "label": "Du reizt (Desktop)",
-    "before": "changes/2026-11-22-stufen746/03-before-1280x800d-p3-02-bid-mine.webp",
-    "after": "changes/2026-11-22-stufen746/04-after-1280x800d-p3-02-bid-mine.webp"
-   },
-   {
-    "label": "Dabb drücken",
-    "before": "changes/2026-11-22-stufen746/07-before-405x720p-p3-05-dabb-mine-lay.webp",
-    "after": "changes/2026-11-22-stufen746/08-after-405x720p-p3-05-dabb-mine-lay.webp"
-   },
-   {
-    "label": "Trumpf wählen und ansagen",
-    "before": "changes/2026-11-22-stufen746/09-before-405x720p-p3-05b-dabb-mine-ready.webp",
-    "after": "changes/2026-11-22-stufen746/10-after-405x720p-p3-05b-dabb-mine-ready.webp"
-   },
-   {
-    "label": "Deine Meldungen",
-    "before": "changes/2026-11-22-stufen746/11-before-405x720p-p3-06b-meld-choice-mine.webp",
-    "after": "changes/2026-11-22-stufen746/12-after-405x720p-p3-06b-meld-choice-mine.webp"
-   },
-   {
-    "label": "Meldungen aller",
-    "before": "changes/2026-11-22-stufen746/13-before-405x720p-p3-07-melds-spread.webp",
-    "after": "changes/2026-11-22-stufen746/14-after-405x720p-p3-07-melds-spread.webp"
-   },
-   {
-    "label": "Du spielst aus (Handy)",
-    "before": "changes/2026-11-22-stufen746/15-before-405x720p-p3-08-play-mine.webp",
-    "after": "changes/2026-11-22-stufen746/16-after-405x720p-p3-08-play-mine.webp"
-   },
-   {
-    "label": "Du spielst aus (Desktop)",
-    "before": "changes/2026-11-22-stufen746/17-before-1280x800d-p3-08-play-mine.webp",
-    "after": "changes/2026-11-22-stufen746/18-after-1280x800d-p3-08-play-mine.webp"
-   },
-   {
-    "label": "Zu viert: du spielst aus",
-    "before": "changes/2026-11-22-stufen746/19-before-405x720p-p4-08-play-mine.webp",
-    "after": "changes/2026-11-22-stufen746/20-after-405x720p-p4-08-play-mine.webp"
-   },
-   {
-    "label": "Online: du spielst aus, Meldungen noch offen",
-    "before": "changes/2026-11-22-stufen746/21-before-1280x800d-on-08-play-mine.webp",
-    "after": "changes/2026-11-22-stufen746/22-after-1280x800d-on-08-play-mine.webp"
-   },
-   {
-    "label": "Die anderen spielen",
-    "before": "changes/2026-11-22-stufen746/23-before-405x720p-p3-09-play-others.webp",
-    "after": "changes/2026-11-22-stufen746/24-after-405x720p-p3-09-play-others.webp"
-   },
-   {
-    "label": "Rundenende",
-    "before": "changes/2026-11-22-stufen746/25-before-405x720p-p3-11-roundend.webp",
-    "after": "changes/2026-11-22-stufen746/26-after-405x720p-p3-11-roundend.webp"
-   },
-   {
-    "label": "Partieende",
-    "before": "changes/2026-11-22-stufen746/27-before-1280x800d-p3-12-matchend.webp",
-    "after": "changes/2026-11-22-stufen746/28-after-1280x800d-p3-12-matchend.webp"
-   }
-  ],
-  "sha": "b7162cbb"
- },
- {
   "id": "romme-schwimmen-741",
   "date": "2026-11-22T14:41:20.127Z",
   "title": "Rommé zeigt ganze Reihen, Schwimmen-Knöpfe frei",
@@ -18927,5 +18852,80 @@
    }
   ],
   "sha": "160119bf"
+ },
+ {
+  "id": "stufen746",
+  "date": "2026-11-22T19:09:50.063Z",
+  "title": "Am Binokel-Tisch leuchtet nur noch, was du gerade tun kannst",
+  "text": "Pro Moment trägt genau ein Ort den hellen Schein: die Reizleiste, die Ablage beim Drücken, „Ansagen“, „Fertig“, deine spielbaren Karten, „Weiter“, „Nochmal“. Bist du nicht dran, leuchtet nichts – der Platz, der dran ist, trägt seinen Ring. Nicht spielbare Karten treten deutlich zurück, „Du bist dran“ ist eine ruhige Zeile statt einer zweiten goldenen Fläche.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Du reizt (Handy)",
+    "before": "changes/2026-11-22-stufen746/01-before-405x720p-p3-02-bid-mine.webp",
+    "after": "changes/2026-11-22-stufen746/02-after-405x720p-p3-02-bid-mine.webp"
+   },
+   {
+    "label": "Du reizt (Desktop)",
+    "before": "changes/2026-11-22-stufen746/03-before-1280x800d-p3-02-bid-mine.webp",
+    "after": "changes/2026-11-22-stufen746/04-after-1280x800d-p3-02-bid-mine.webp"
+   },
+   {
+    "label": "Dabb drücken",
+    "before": "changes/2026-11-22-stufen746/07-before-405x720p-p3-05-dabb-mine-lay.webp",
+    "after": "changes/2026-11-22-stufen746/08-after-405x720p-p3-05-dabb-mine-lay.webp"
+   },
+   {
+    "label": "Trumpf wählen und ansagen",
+    "before": "changes/2026-11-22-stufen746/09-before-405x720p-p3-05b-dabb-mine-ready.webp",
+    "after": "changes/2026-11-22-stufen746/10-after-405x720p-p3-05b-dabb-mine-ready.webp"
+   },
+   {
+    "label": "Deine Meldungen",
+    "before": "changes/2026-11-22-stufen746/11-before-405x720p-p3-06b-meld-choice-mine.webp",
+    "after": "changes/2026-11-22-stufen746/12-after-405x720p-p3-06b-meld-choice-mine.webp"
+   },
+   {
+    "label": "Meldungen aller",
+    "before": "changes/2026-11-22-stufen746/13-before-405x720p-p3-07-melds-spread.webp",
+    "after": "changes/2026-11-22-stufen746/14-after-405x720p-p3-07-melds-spread.webp"
+   },
+   {
+    "label": "Du spielst aus (Handy)",
+    "before": "changes/2026-11-22-stufen746/15-before-405x720p-p3-08-play-mine.webp",
+    "after": "changes/2026-11-22-stufen746/16-after-405x720p-p3-08-play-mine.webp"
+   },
+   {
+    "label": "Du spielst aus (Desktop)",
+    "before": "changes/2026-11-22-stufen746/17-before-1280x800d-p3-08-play-mine.webp",
+    "after": "changes/2026-11-22-stufen746/18-after-1280x800d-p3-08-play-mine.webp"
+   },
+   {
+    "label": "Zu viert: du spielst aus",
+    "before": "changes/2026-11-22-stufen746/19-before-405x720p-p4-08-play-mine.webp",
+    "after": "changes/2026-11-22-stufen746/20-after-405x720p-p4-08-play-mine.webp"
+   },
+   {
+    "label": "Online: du spielst aus, Meldungen noch offen",
+    "before": "changes/2026-11-22-stufen746/21-before-1280x800d-on-08-play-mine.webp",
+    "after": "changes/2026-11-22-stufen746/22-after-1280x800d-on-08-play-mine.webp"
+   },
+   {
+    "label": "Die anderen spielen",
+    "before": "changes/2026-11-22-stufen746/23-before-405x720p-p3-09-play-others.webp",
+    "after": "changes/2026-11-22-stufen746/24-after-405x720p-p3-09-play-others.webp"
+   },
+   {
+    "label": "Rundenende",
+    "before": "changes/2026-11-22-stufen746/25-before-405x720p-p3-11-roundend.webp",
+    "after": "changes/2026-11-22-stufen746/26-after-405x720p-p3-11-roundend.webp"
+   },
+   {
+    "label": "Partieende",
+    "before": "changes/2026-11-22-stufen746/27-before-1280x800d-p3-12-matchend.webp",
+    "after": "changes/2026-11-22-stufen746/28-after-1280x800d-p3-12-matchend.webp"
+   }
+  ],
+  "sha": "b7162cbb"
  }
 ]
