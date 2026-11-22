@@ -18977,5 +18977,24 @@
    }
   ],
   "sha": "530212d1"
+ },
+ {
+  "id": "pub34-aufgaben",
+  "date": "2026-11-22T23:06:24.676Z",
+  "title": "Aufgaben und Kopfgelder: andere Spiele eingeklappt",
+  "text": "Im Browser zeigt das Aufgabenbrett in der Lobby eines Spiels oben die Aufgaben und Kopfgelder dieses Spiels und die spielunabhängigen. Die der anderen Spiele liegen darunter eingeklappt unter „Andere Spiele“. Was zählt und was es dafür gibt, bleibt gleich.",
+  "issue": "binokel#34",
+  "rows": [
+   {
+    "label": "Lupfen-Lobby, Kopfgeld des Tages (1707×760)",
+    "before": "changes/2026-11-22-pub34-aufgaben/01-before-760-before-report-lupfen-bounty.webp",
+    "after": "changes/2026-11-22-pub34-aufgaben/02-after-760-after-report-lupfen-bounty.webp"
+   },
+   {
+    "label": "Aufgeklappt: Andere Spiele",
+    "img": "changes/2026-11-22-pub34-aufgaben/03-img-760-after-desktop-lupfen-bounty-open.webp"
+   }
+  ],
+  "sha": "530212d1"
  }
 ]
