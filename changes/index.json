@@ -18541,35 +18541,6 @@
   "sha": "59ea8d30"
  },
  {
-  "id": "imbau740",
-  "date": "2026-11-22T05:24:13.387Z",
-  "title": "Entwurf: Spiele im Bau – Ländle-Tipps, Poker-Verlauf, Tablet hochkant",
-  "text": "Entwurf – noch nicht im Spiel. Ländle zeigt in den ersten Partien kurze Tipps zu Ziel, Gründung, Würfeln, Vogt und Bauen. Beim Poker ist der Knopf „Verlauf“ wieder erreichbar (er lag unter der Titelleiste), und am Handy steht die Turnierstufe unter den Blinds statt unter den Karten der Nachbarn. Bei Ländle steht die Kasse nicht mehr unter den runden Knöpfen der Zuschauer, und auf dem Tablet hochkant wachsen Rohstoffe, Kasse und Zoom-Knöpfe mit.",
-  "issue": "wirtshaus#390",
-  "rows": [
-   {
-    "label": "Poker, Handy 390×844, Zuschauer",
-    "before": "changes/2026-11-22-imbau740/01-before-spectate-poker6-390x844.webp",
-    "after": "changes/2026-11-22-imbau740/02-after-spectate-poker6-390x844.webp"
-   },
-   {
-    "label": "Ländle, Tablet hochkant 800×1280, Zuschauer",
-    "before": "changes/2026-11-22-imbau740/03-before-spectate-laendle4-800x1280.webp",
-    "after": "changes/2026-11-22-imbau740/04-after-spectate-laendle4-800x1280.webp"
-   },
-   {
-    "label": "Ländle, Tablet hochkant 800×1280, eigener Tisch",
-    "before": "changes/2026-11-22-imbau740/05-before-play-laendle4-800x1280.webp",
-    "after": "changes/2026-11-22-imbau740/06-after-play-laendle4-800x1280.webp"
-   },
-   {
-    "label": "Neu: Ländle-Tipp für den Anfang, Handy 390×844",
-    "img": "changes/2026-11-22-imbau740/07-img-laendle-first-phone390-wirtshaus-0.webp"
-   }
-  ],
-  "sha": "81b8a2b5"
- },
- {
   "id": "item738-ganze-zeilen",
   "date": "2026-11-22T07:55:12.929Z",
   "title": "Entwurf: Ganze Zeilen statt halber – Auswertung, Taverne, Backgammon, Rommé, Schwimmen",
@@ -18613,5 +18584,34 @@
    }
   ],
   "sha": "bc07cafd"
+ },
+ {
+  "id": "imbau740",
+  "date": "2026-11-22T08:09:10.223Z",
+  "title": "Spiele im Bau: Ländle-Tipps, Poker-Verlauf, Tablet hochkant",
+  "text": "Ländle zeigt in den ersten Partien kurze Tipps zu Ziel, Gründung, Würfeln, Vogt und Bauen. Beim Poker ist der Knopf „Verlauf“ wieder erreichbar (er lag unter der Titelleiste), und am Handy steht die Turnierstufe unter den Blinds statt unter den Karten der Nachbarn. Bei Ländle steht die Kasse nicht mehr unter den runden Knöpfen der Zuschauer, und auf dem Tablet hochkant wachsen Rohstoffe, Kasse und Zoom-Knöpfe mit.",
+  "issue": "wirtshaus#390",
+  "rows": [
+   {
+    "label": "Poker, Handy 390×844, Zuschauer",
+    "before": "changes/2026-11-22-imbau740/01-before-spectate-poker6-390x844.webp",
+    "after": "changes/2026-11-22-imbau740/02-after-spectate-poker6-390x844.webp"
+   },
+   {
+    "label": "Ländle, Tablet hochkant 800×1280, Zuschauer",
+    "before": "changes/2026-11-22-imbau740/03-before-spectate-laendle4-800x1280.webp",
+    "after": "changes/2026-11-22-imbau740/04-after-spectate-laendle4-800x1280.webp"
+   },
+   {
+    "label": "Ländle, Tablet hochkant 800×1280, eigener Tisch",
+    "before": "changes/2026-11-22-imbau740/05-before-play-laendle4-800x1280.webp",
+    "after": "changes/2026-11-22-imbau740/06-after-play-laendle4-800x1280.webp"
+   },
+   {
+    "label": "Neu: Ländle-Tipp für den Anfang, Handy 390×844",
+    "img": "changes/2026-11-22-imbau740/07-img-laendle-first-phone390-wirtshaus-0.webp"
+   }
+  ],
+  "sha": "81b8a2b5"
  }
 ]
