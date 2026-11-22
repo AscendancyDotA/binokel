@@ -19090,5 +19090,41 @@
    }
   ],
   "sha": "41c298d8"
+ },
+ {
+  "id": "ld-neues-tal",
+  "date": "2026-11-22T23:48:47.276Z",
+  "title": "Entwurf: Ländle – neues Tal",
+  "text": "Entwurf – noch nicht im Spiel. Der Fluss windet sich jede Partie anders durchs Tal, das Wirtshaus steht an einer Biegung, ein Waldrand umgibt das Tal. Beide Hänge haben gleich viele Felder und jede Sorte liegt an beiden Hängen. Am Handy füllt das Tal die Breite, der Tipp steht darunter.",
+  "issue": "wirtshaus#485",
+  "rows": [
+   {
+    "label": "Computer 1280×800, zu viert",
+    "before": "changes/2026-11-22-ld-neues-tal/01-before-offline-play-1280x800.webp",
+    "after": "changes/2026-11-22-ld-neues-tal/02-after-offline-play-1280x800.webp"
+   },
+   {
+    "label": "Handy 444×987, Gründung zu viert",
+    "before": "changes/2026-11-22-ld-neues-tal/03-before-offline-setup-444x987.webp",
+    "after": "changes/2026-11-22-ld-neues-tal/04-after-offline-setup-444x987.webp"
+   },
+   {
+    "label": "Drei Partien, drei Täler: Partie 1",
+    "img": "changes/2026-11-22-ld-neues-tal/05-img-offline-setup-1280x800.webp"
+   },
+   {
+    "label": "Partie 2",
+    "img": "changes/2026-11-22-ld-neues-tal/06-img-offline-setup-1280x800.webp"
+   },
+   {
+    "label": "Partie 3",
+    "img": "changes/2026-11-22-ld-neues-tal/07-img-offline-setup-1280x800.webp"
+   },
+   {
+    "label": "Zu zweit: das kleine Tal am Handy",
+    "img": "changes/2026-11-22-ld-neues-tal/08-img-offline-play-444x987.webp"
+   }
+  ],
+  "sha": "86d338d3"
  }
 ]
