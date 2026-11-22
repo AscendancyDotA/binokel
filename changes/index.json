@@ -18783,5 +18783,43 @@
    }
   ],
   "sha": "047a3884"
+ },
+ {
+  "id": "stufen746b",
+  "date": "2026-11-22T17:07:03.785Z",
+  "title": "Entwurf: Reiz-Duell, Trumpf und Punktezähler am Binokel-Tisch deutlicher",
+  "text": "Entwurf – noch nicht im Spiel. Wer gegen wen reizt, ist wieder auf einen Blick zu sehen: beide Plätze im Duell tragen einen klaren Rand, der aktuelle Reizwert steht am Platz. Im Feld mit Trumpf und Zähler führt der Trumpf mit großem Farbzeichen, bei Partien nach Runden steht die Runde dabei. Die Punkte des Spielmachers rollen wie eine Walze hoch und blitzen kurz auf, wenn das Gereizte erreicht ist. Kein Stich liegt mehr auf dem Feld.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Die anderen reizen (Desktop)",
+    "before": "changes/2026-11-22-stufen746b/01-before-1280x800d-p3-03-bid-others.webp",
+    "after": "changes/2026-11-22-stufen746b/02-after-1280x800d-p3-03-bid-others.webp"
+   },
+   {
+    "label": "Trumpf und Zähler (Desktop)",
+    "before": "changes/2026-11-22-stufen746b/03-before-1280x800d-p3-09-play-others.webp",
+    "after": "changes/2026-11-22-stufen746b/04-after-1280x800d-p3-09-play-others.webp"
+   },
+   {
+    "label": "Trumpf, Runde und Zähler (Handy 360×640)",
+    "before": "changes/2026-11-22-stufen746b/05-before-360x640p-p3-09-play-others.webp",
+    "after": "changes/2026-11-22-stufen746b/06-after-360x640p-p3-09-play-others.webp"
+   },
+   {
+    "label": "Zu viert (Handy)",
+    "before": "changes/2026-11-22-stufen746b/07-before-405x720p-p4-09-play-others.webp",
+    "after": "changes/2026-11-22-stufen746b/08-after-405x720p-p4-09-play-others.webp"
+   },
+   {
+    "label": "Neu: der Zähler rollt",
+    "img": "changes/2026-11-22-stufen746b/09-img-360x640p-p3-12-roll.webp"
+   },
+   {
+    "label": "Neu: Reizwert erreicht",
+    "img": "changes/2026-11-22-stufen746b/10-img-360x640p-p4-13-made.webp"
+   }
+  ],
+  "sha": "c15b2f9b"
  }
 ]
