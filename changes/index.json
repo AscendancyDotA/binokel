@@ -18947,5 +18947,20 @@
    }
   ],
   "sha": "0a2e4177"
+ },
+ {
+  "id": "zaehler-treffer",
+  "date": "2026-11-22T22:57:15.129Z",
+  "title": "Punktezähler: Zahl bleibt beim Treffer ganz",
+  "text": "Wenn der Spielmacher seinen Reizwert erreicht, leuchtet die Zahl jetzt kurz grün auf, statt größer zu werden – vorher wurden dabei am Handy kurz die erste und letzte Ziffer abgeschnitten.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Handy, 0,1 s nach dem Erreichen von 160",
+    "before": "changes/2026-11-22-zaehler-treffer/01-before-vorher.webp",
+    "after": "changes/2026-11-22-zaehler-treffer/02-after-nachher.webp"
+   }
+  ],
+  "sha": "1f2683dd"
  }
 ]
