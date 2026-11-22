@@ -18725,31 +18725,6 @@
   "sha": "b7162cbb"
  },
  {
-  "id": "romme-schwimmen-741",
-  "date": "2026-11-22T13:09:19.567Z",
-  "title": "Entwurf: Rommé zeigt ganze Reihen, Schwimmen-Knöpfe frei",
-  "text": "Entwurf – noch nicht im Spiel. Rommé auf dem Handy: die ausgelegten Karten stehen nur noch in ganzen Reihen, weitere Reihen scrollen; Knöpfe und Stapel rücken näher an die Punktetafel. Schwimmen: die Knopfreihe rückt nach links, kein runder Knopf liegt mehr auf „Klopfen“.",
-  "issue": "wirtshaus#456",
-  "rows": [
-   {
-    "label": "Rommé, Handy 405×720",
-    "before": "changes/2026-11-22-romme-schwimmen-741/01-before-before-romme-405.webp",
-    "after": "changes/2026-11-22-romme-schwimmen-741/02-after-after-romme-405.webp"
-   },
-   {
-    "label": "Rommé, kleines Handy 360×640",
-    "before": "changes/2026-11-22-romme-schwimmen-741/03-before-before-romme-360.webp",
-    "after": "changes/2026-11-22-romme-schwimmen-741/04-after-after-romme-360.webp"
-   },
-   {
-    "label": "Schwimmen, Handy 405×720",
-    "before": "changes/2026-11-22-romme-schwimmen-741/05-before-before-sw-405.webp",
-    "after": "changes/2026-11-22-romme-schwimmen-741/06-after-after-sw-405.webp"
-   }
-  ],
-  "sha": "dfae3e6e"
- },
- {
   "id": "stich-fokus745",
   "date": "2026-11-22T13:25:13.701Z",
   "title": "Entwurf: Ausgespielte und stechende Karte im Stich",
@@ -18783,5 +18758,30 @@
    }
   ],
   "sha": "047a3884"
+ },
+ {
+  "id": "romme-schwimmen-741",
+  "date": "2026-11-22T14:41:20.127Z",
+  "title": "Rommé zeigt ganze Reihen, Schwimmen-Knöpfe frei",
+  "text": "Rommé auf dem Handy: die ausgelegten Karten stehen nur noch in ganzen Reihen, weitere Reihen scrollen; Knöpfe und Stapel rücken näher an die Punktetafel. Schwimmen: die Knopfreihe rückt nach links, kein runder Knopf liegt mehr auf „Klopfen“.",
+  "issue": "wirtshaus#456",
+  "rows": [
+   {
+    "label": "Rommé, Handy 405×720",
+    "before": "changes/2026-11-22-romme-schwimmen-741/01-before-before-romme-405.webp",
+    "after": "changes/2026-11-22-romme-schwimmen-741/02-after-after-romme-405.webp"
+   },
+   {
+    "label": "Rommé, kleines Handy 360×640",
+    "before": "changes/2026-11-22-romme-schwimmen-741/03-before-before-romme-360.webp",
+    "after": "changes/2026-11-22-romme-schwimmen-741/04-after-after-romme-360.webp"
+   },
+   {
+    "label": "Schwimmen, Handy 405×720",
+    "before": "changes/2026-11-22-romme-schwimmen-741/05-before-before-sw-405.webp",
+    "after": "changes/2026-11-22-romme-schwimmen-741/06-after-after-sw-405.webp"
+   }
+  ],
+  "sha": "dfae3e6e"
  }
 ]
