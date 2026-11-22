@@ -18613,5 +18613,35 @@
    }
   ],
   "sha": "81b8a2b5"
+ },
+ {
+  "id": "shopfenster742",
+  "date": "2026-11-22T09:59:28.560Z",
+  "title": "Entwurf: Jeder Weg in den Shop führt in die Kasse (Nachprüfung)",
+  "text": "Entwurf – noch nicht im Spiel, ändert nichts Sichtbares. Nachgeprüft: gesperrter Stil, „So verdienst du Taler“ und „Aussehen“ im Warteraum öffnen alle die Kasse; das alte Shop-Fenster gibt es nicht mehr.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Handy 405×720: gesperrtes Arena → Kasse, Stil-Dialog",
+    "img": "changes/2026-11-22-shopfenster742/01-img-after-phone-1-arena.webp"
+   },
+   {
+    "label": "Handy: „So verdienst du Taler“ → Kasse „Taler“",
+    "img": "changes/2026-11-22-shopfenster742/02-img-after-phone-2-earn.webp"
+   },
+   {
+    "label": "Handy: Warteraum „Aussehen“ → Mein Raum",
+    "img": "changes/2026-11-22-shopfenster742/03-img-after-phone-3-aussehen.webp"
+   },
+   {
+    "label": "Desktop 1280×800: gesperrtes Arena → Kasse, Stil-Dialog",
+    "img": "changes/2026-11-22-shopfenster742/04-img-after-desktop-1-arena.webp"
+   },
+   {
+    "label": "Desktop: „So verdienst du Taler“ → Kasse „Taler“",
+    "img": "changes/2026-11-22-shopfenster742/05-img-after-desktop-2-earn.webp"
+   }
+  ],
+  "sha": "7d0db811"
  }
 ]
