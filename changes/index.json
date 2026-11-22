@@ -18541,51 +18541,6 @@
   "sha": "59ea8d30"
  },
  {
-  "id": "item738-ganze-zeilen",
-  "date": "2026-11-22T07:55:12.929Z",
-  "title": "Entwurf: Ganze Zeilen statt halber – Auswertung, Taverne, Backgammon, Rommé, Schwimmen",
-  "text": "Entwurf – noch nicht im Spiel. Beim Nachspielen endet die Liste „Die besten Züge“ auf einer ganzen Zeile, der Gegner bei Backgammon steht frei unter der Kopfleiste, bei Rommé liegen die Meldungen auf kleinen Handys nicht mehr unter den Knöpfen und bei Schwimmen steht „hat geklopft“ frei neben dem eigenen Bild.",
-  "issue": "wirtshaus#456",
-  "rows": [
-   {
-    "label": "Nachspielen mit Auswertung (Backgammon)",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/01-before-backgammon_screenshots_de_phone-5-analysis.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/02-after-phone-5-analysis.webp"
-   },
-   {
-    "label": "Nachspielen mit Auswertung (Mühle)",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/03-before-muehle_screenshots_de_phone-5-analysis.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/04-after-phone-5-analysis.webp"
-   },
-   {
-    "label": "Taverne: die Kacheln enden ganz über der Leiste",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/05-before-backgammon_screenshots_de_phone-4-lobby.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/06-after-phone-4-lobby.webp"
-   },
-   {
-    "label": "Backgammon am Tisch: Gegner frei unter der Kopfleiste",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/07-before-backgammon_screenshots_de_phone-6-live.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/08-after-phone-6-live.webp"
-   },
-   {
-    "label": "Rommé auf einem kleinen Handy (360×640)",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/09-before-rm-play-klar-360.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/10-after-romme-rm_play-360x640.webp"
-   },
-   {
-    "label": "Schwimmen nach dem Klopfen",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/11-before-schwimmen_screenshots_de_phone-3-schwimmen.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/12-after-phone-3-schwimmen.webp"
-   },
-   {
-    "label": "Ranglisten (Tablet): keine halbe Zeile unter „Du“",
-    "before": "changes/2026-11-22-item738-ganze-zeilen/13-before-backgammon_screenshots_de_tablet-1-ranks.webp",
-    "after": "changes/2026-11-22-item738-ganze-zeilen/14-after-tablet-1-ranks.webp"
-   }
-  ],
-  "sha": "bc07cafd"
- },
- {
   "id": "imbau740",
   "date": "2026-11-22T08:09:10.223Z",
   "title": "Spiele im Bau: Ländle-Tipps, Poker-Verlauf, Tablet hochkant",
@@ -18643,5 +18598,50 @@
    }
   ],
   "sha": "7d0db811"
+ },
+ {
+  "id": "item738-ganze-zeilen",
+  "date": "2026-11-22T10:22:40.719Z",
+  "title": "Ganze Zeilen statt halber – Auswertung, Taverne, Backgammon, Rommé, Schwimmen",
+  "text": "Beim Nachspielen endet die Liste „Die besten Züge“ auf einer ganzen Zeile, der Gegner bei Backgammon steht frei unter der Kopfleiste, bei Rommé liegen die Meldungen auf kleinen Handys nicht mehr unter den Knöpfen und bei Schwimmen steht „hat geklopft“ frei neben dem eigenen Bild.",
+  "issue": "wirtshaus#456",
+  "rows": [
+   {
+    "label": "Nachspielen mit Auswertung (Backgammon)",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/01-before-backgammon_screenshots_de_phone-5-analysis.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/02-after-phone-5-analysis.webp"
+   },
+   {
+    "label": "Nachspielen mit Auswertung (Mühle)",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/03-before-muehle_screenshots_de_phone-5-analysis.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/04-after-phone-5-analysis.webp"
+   },
+   {
+    "label": "Taverne: die Kacheln enden ganz über der Leiste",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/05-before-backgammon_screenshots_de_phone-4-lobby.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/06-after-phone-4-lobby.webp"
+   },
+   {
+    "label": "Backgammon am Tisch: Gegner frei unter der Kopfleiste",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/07-before-backgammon_screenshots_de_phone-6-live.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/08-after-phone-6-live.webp"
+   },
+   {
+    "label": "Rommé auf einem kleinen Handy (360×640)",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/09-before-rm-play-klar-360.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/10-after-romme-rm_play-360x640.webp"
+   },
+   {
+    "label": "Schwimmen nach dem Klopfen",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/11-before-schwimmen_screenshots_de_phone-3-schwimmen.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/12-after-phone-3-schwimmen.webp"
+   },
+   {
+    "label": "Ranglisten (Tablet): keine halbe Zeile unter „Du“",
+    "before": "changes/2026-11-22-item738-ganze-zeilen/13-before-backgammon_screenshots_de_tablet-1-ranks.webp",
+    "after": "changes/2026-11-22-item738-ganze-zeilen/14-after-tablet-1-ranks.webp"
+   }
+  ],
+  "sha": "bc07cafd"
  }
 ]
