@@ -19209,5 +19209,39 @@
    }
   ],
   "sha": "710157d3"
+ },
+ {
+  "id": "auto-botstufe",
+  "date": "2026-11-23T11:34:50.397Z",
+  "title": "Eigener Tisch: Bot-Stärke „Automatisch“",
+  "text": "Ein neuer eigener Tisch sucht seine Bots jetzt automatisch nach der Party-Wertung der Leute am Tisch aus – bei festen Teams (zum Beispiel Binokel zu viert) so, dass beide Teams etwa gleich stark sind. Der Warteraum zeigt bei jedem freien Platz, welcher Bot mit welcher Wertung kommt; setzt sich jemand dazu oder geht, wird neu gewählt. Feste Bot-Stufen bleiben wählbar, „Auf Standard zurücksetzen“ stellt wieder Automatisch ein.",
+  "issue": "binokel#34",
+  "rows": [
+   {
+    "label": "Tisch aufmachen – Computer",
+    "before": "changes/2026-11-23-auto-botstufe/01-before-a770-before-desk-create.webp",
+    "after": "changes/2026-11-23-auto-botstufe/02-after-a770-desk-create.webp"
+   },
+   {
+    "label": "Tisch aufmachen – Handy",
+    "before": "changes/2026-11-23-auto-botstufe/03-before-a770-before-phone-create.webp",
+    "after": "changes/2026-11-23-auto-botstufe/04-after-a770-phone-create.webp"
+   },
+   {
+    "label": "Warteraum zu viert – Computer",
+    "before": "changes/2026-11-23-auto-botstufe/05-before-a770-before-desk-room.webp",
+    "after": "changes/2026-11-23-auto-botstufe/06-after-a770-desk-room.webp"
+   },
+   {
+    "label": "Warteraum – Handy",
+    "before": "changes/2026-11-23-auto-botstufe/07-before-a770-before-phone-room.webp",
+    "after": "changes/2026-11-23-auto-botstufe/08-after-a770-phone-room.webp"
+   },
+   {
+    "label": "Neu: Automatisch oben in der Bot-Liste",
+    "img": "changes/2026-11-23-auto-botstufe/09-img-a770-desk-list.webp"
+   }
+  ],
+  "sha": "65b6f2c3"
  }
 ]
