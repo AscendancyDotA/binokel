@@ -19126,5 +19126,38 @@
    }
   ],
   "sha": "ee909cf1"
+ },
+ {
+  "id": "tisch-standard769",
+  "date": "2026-11-23T09:51:19.317Z",
+  "title": "Eigener Tisch startet wie die Warteschlange",
+  "text": "Ein neuer Tisch spielt dieselben Regeln wie die Solo-Warteschlange – bei Binokel zu dritt 6 Runden. In den Tischeinstellungen stellt „Auf Standard zurücksetzen“ alle Regeln zurück, und die Marke „Standard“ steht in jedem Spiel.",
+  "issue": "binokel#34",
+  "rows": [
+   {
+    "label": "Handy: Binokel zu dritt",
+    "before": "changes/2026-11-23-tisch-standard769/01-before-before-phone-fresh.webp",
+    "after": "changes/2026-11-23-tisch-standard769/02-after-after-phone-fresh.webp"
+   },
+   {
+    "label": "Desktop: Binokel zu dritt",
+    "before": "changes/2026-11-23-tisch-standard769/03-before-before-desk-fresh.webp",
+    "after": "changes/2026-11-23-tisch-standard769/04-after-after-desk-fresh.webp"
+   },
+   {
+    "label": "Neu: „Auf Standard zurücksetzen“, sobald eine Regel abweicht (Handy)",
+    "img": "changes/2026-11-23-tisch-standard769/05-img-after-phone-changed2.webp"
+   },
+   {
+    "label": "Neu: der Knopf am Desktop",
+    "img": "changes/2026-11-23-tisch-standard769/06-img-after-desk-changed.webp"
+   },
+   {
+    "label": "„Standard“-Marke jetzt in jedem Spiel (Beispiel Dame)",
+    "before": "changes/2026-11-23-tisch-standard769/07-before-before-dame-phone.webp",
+    "after": "changes/2026-11-23-tisch-standard769/08-after-after-dame-phone.webp"
+   }
+  ],
+  "sha": "fe971a5d"
  }
 ]
