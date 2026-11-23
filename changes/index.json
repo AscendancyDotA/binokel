@@ -19159,5 +19159,55 @@
    }
   ],
   "sha": "fe971a5d"
+ },
+ {
+  "id": "tischknoepfe-grund",
+  "date": "2026-11-23T11:17:03.581Z",
+  "title": "Entwurf: Helle Knöpfe am Tisch stehen auf einem ruhigen Grund",
+  "text": "Entwurf – noch nicht im Spiel. Die hellen Knöpfe am Tisch (z. B. „Alle drei tauschen“, „Schieben“, „Aufschlagen“) bekommen denselben Glas-Grund wie die Anzeigen „Dein Blatt“, damit ihre Schrift auch über Tischdecken und Böden gut lesbar bleibt. Der gefüllte Hauptknopf bleibt vorne.",
+  "issue": "wirtshaus#374",
+  "rows": [
+   {
+    "label": "Schwimmen, Handy, Lava-Decke",
+    "before": "changes/2026-11-23-tischknoepfe-grund/01-before-before-schwimmen-hoelle-wirtshaus-phone.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/02-after-after-schwimmen-hoelle-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Schwimmen, Computer, Spitzendecke",
+    "before": "changes/2026-11-23-tischknoepfe-grund/03-before-before-schwimmen-spitze-wirtshaus-desktop.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/04-after-after-schwimmen-spitze-wirtshaus-desktop.webp"
+   },
+   {
+    "label": "Schwimmen, Spitzendecke (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/05-before-before-schwimmen-spitze-wirtshaus-phone-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/06-after-after-schwimmen-spitze-wirtshaus-phone-row.webp"
+   },
+   {
+    "label": "Schwimmen, Schachbrett-Decke (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/07-before-before-schwimmen-schach-wirtshaus-phone-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/08-after-after-schwimmen-schach-wirtshaus-phone-row.webp"
+   },
+   {
+    "label": "Klar-Look, Lava-Decke (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/09-before-before-schwimmen-hoelle-klar-phone-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/10-after-after-schwimmen-hoelle-klar-phone-row.webp"
+   },
+   {
+    "label": "Klar, hoher Kontrast (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/11-before-before-schwimmen-spitze-hc-phone-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/12-after-after-schwimmen-spitze-hc-phone-row.webp"
+   },
+   {
+    "label": "Bauernschnapsen: Aufschlagen (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/13-before-before-bauernschnapsen-hoelle-wirtshaus-phone-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/14-after-after-bauernschnapsen-hoelle-wirtshaus-phone-row.webp"
+   },
+   {
+    "label": "Poker: Einsatz − / + (Ausschnitt)",
+    "before": "changes/2026-11-23-tischknoepfe-grund/15-before-before-poker-spitze-wirtshaus-desktop-row.webp",
+    "after": "changes/2026-11-23-tischknoepfe-grund/16-after-after-poker-spitze-wirtshaus-desktop-row.webp"
+   }
+  ],
+  "sha": "710157d3"
  }
 ]
