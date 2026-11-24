@@ -19243,5 +19243,25 @@
    }
   ],
   "sha": "710157d3"
+ },
+ {
+  "id": "zuschauer-weg774",
+  "date": "2026-11-24T22:35:33.311Z",
+  "title": "Zuschauer mit Verzögerung: kein „weg“ mehr bei Spielern",
+  "text": "Wer einen Tisch mit Verzögerung anschaut, sieht die Sitze jetzt so, wie sie in der gezeigten Runde waren. Ein „weg“ oder eine Autopilot-Marke erscheint erst, wenn die gezeigte Runde sie wirklich hatte – nicht schon, weil der Spieler am echten Tisch inzwischen gegangen ist. Zuschauer ohne Verzögerung und Mitspieler sehen alles wie bisher.",
+  "issue": "binokel#37",
+  "rows": [
+   {
+    "label": "Computer: Name und Wertung des Spielers",
+    "before": "changes/2026-11-24-zuschauer-weg774/01-before-before-seat-crop.webp",
+    "after": "changes/2026-11-24-zuschauer-weg774/02-after-after-seat-crop.webp"
+   },
+   {
+    "label": "Handy",
+    "before": "changes/2026-11-24-zuschauer-weg774/03-before-presence774-before-phone.webp",
+    "after": "changes/2026-11-24-zuschauer-weg774/04-after-presence774-after-phone.webp"
+   }
+  ],
+  "sha": "6c523344"
  }
 ]
