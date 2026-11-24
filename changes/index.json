@@ -19263,5 +19263,33 @@
    }
   ],
   "sha": "6c523344"
+ },
+ {
+  "id": "handel-lesbar",
+  "date": "2026-11-24T23:29:45.105Z",
+  "title": "Entwurf: Handel – Vermögen am Schild, Landschaften gestreift",
+  "text": "Entwurf – noch nicht im Spiel. Am Schild steht jetzt das Vermögen, nach dem gewonnen wird, dazu das Bargeld. Landschaften haben ein gestreiftes Band und einen blassen Ton, der Besitzer zeigt sich als Rahmen mit Eckfähnchen in seiner Farbe. Auf einem kleinen Handy (405×720) sind die Felder jetzt mindestens 44 px groß.",
+  "issue": "wirtshaus#485",
+  "rows": [
+   {
+    "label": "Handy 444×987",
+    "before": "changes/2026-11-24-handel-lesbar/01-before-offline-play.webp",
+    "after": "changes/2026-11-24-handel-lesbar/02-after-offline-play.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-24-handel-lesbar/03-before-offline-play.webp",
+    "after": "changes/2026-11-24-handel-lesbar/04-after-offline-play.webp"
+   },
+   {
+    "label": "Kleines Handy 405×720, neu",
+    "img": "changes/2026-11-24-handel-lesbar/05-img-offline-play.webp"
+   },
+   {
+    "label": "Kleines Handy 405×720: Ort angetippt, die Knöpfe lassen sich seitlich schieben",
+    "img": "changes/2026-11-24-handel-lesbar/06-img-offline-fieldcard.webp"
+   }
+  ],
+  "sha": "385c788d"
  }
 ]
