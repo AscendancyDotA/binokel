@@ -19576,5 +19576,27 @@
    }
   ],
   "sha": "e6139a49"
+ },
+ {
+  "id": "schiffe-online780",
+  "date": "2026-11-25T21:01:11.954Z",
+  "title": "Schiffe versenken (im Bau): online 1 gegen 1",
+  "text": "Schiffe versenken gibt es jetzt auch online: am eigenen Tisch oder über die Warteschlange zu zweit. Zuschauer sehen nur Treffer und Wasser, am Ende liegen beide Flotten offen, und die Partie lässt sich danach Schuss für Schuss auswerten.",
+  "issue": "wirtshaus#502",
+  "rows": [
+   {
+    "label": "Online am Desktop (1280×800)",
+    "img": "changes/2026-11-25-schiffe-online780/01-img-online-table.webp"
+   },
+   {
+    "label": "Als Zuschauer: keine Schiffe, nur Treffer und Wasser",
+    "img": "changes/2026-11-25-schiffe-online780/02-img-online-spectator.webp"
+   },
+   {
+    "label": "Partie-Ende mit Wertung, Wiederholung und Auswertung",
+    "img": "changes/2026-11-25-schiffe-online780/03-img-online-matchend.webp"
+   }
+  ],
+  "sha": "4c4a8515"
  }
 ]
