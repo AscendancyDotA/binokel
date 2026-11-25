@@ -19355,5 +19355,41 @@
    }
   ],
   "sha": "e6139a49"
+ },
+ {
+  "id": "eroberung-handy776",
+  "date": "2026-11-25T00:38:00.448Z",
+  "title": "Entwurf: Eroberung am Handy – Rückgängig, Zoom-Tipp, höhere Karte, Ziel-Hinweis",
+  "text": "Entwurf – noch nicht im Spiel. Zu viert stehen die Gegner in einer Reihe, die Karte wird höher. Mannen werden erst ausgelegt und lassen sich zurücknehmen. Ein Fingertipp auf ein kleines Amt in der Mitte zoomt erst dorthin. Ein Hinweis nennt die Landschaft, die bald ganz ist.",
+  "issue": "wirtshaus#485",
+  "rows": [
+   {
+    "label": "Handy 405×720, zu viert: Gegner in einer Reihe, Karte höher",
+    "before": "changes/2026-11-25-eroberung-handy776/01-before-offline-setup-405x720-p4.webp",
+    "after": "changes/2026-11-25-eroberung-handy776/02-after-offline-setup-405x720-p4.webp"
+   },
+   {
+    "label": "Handy 444×987, zu viert",
+    "before": "changes/2026-11-25-eroberung-handy776/03-before-offline-setup-444x987-p4.webp",
+    "after": "changes/2026-11-25-eroberung-handy776/04-after-offline-setup-444x987-p4.webp"
+   },
+   {
+    "label": "Mannen ausgelegt: ↶ nimmt zurück, ✓ stellt auf",
+    "img": "changes/2026-11-25-eroberung-handy776/05-img-offline-draft-405x720-p4.webp"
+   },
+   {
+    "label": "Fingertipp auf Weinsberg: die Mitte zoomt, der nächste Tipp wählt",
+    "img": "changes/2026-11-25-eroberung-handy776/06-img-offline-tapzoom-405x720-p4.webp"
+   },
+   {
+    "label": "Ziel-Hinweis am Handy",
+    "img": "changes/2026-11-25-eroberung-handy776/07-img-offline-goal-405x720.webp"
+   },
+   {
+    "label": "Ziel-Hinweis am Desktop 1280×800",
+    "img": "changes/2026-11-25-eroberung-handy776/08-img-offline-goal-1280x800.webp"
+   }
+  ],
+  "sha": "dea87852"
  }
 ]
