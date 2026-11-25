@@ -19257,32 +19257,6 @@
   "sha": "385c788d"
  },
  {
-  "id": "ld-hangwahl",
-  "date": "2026-11-24T23:57:24.619Z",
-  "title": "Entwurf: Ländle – Hang-Wahl sichtbar, Tipp-Karte neben dem Tal",
-  "text": "Entwurf – noch nicht im Spiel. Beim Wählen des Hangs leuchten die Felder, die ernten würden, und die Knöpfe zeigen, was jeder bekommt (du +2 · Bene +1). Am Computer steht die Tipp-Karte rechts neben dem Tal, am Handy darunter; auf kurzen Handys liegt das Tal quer über die ganze Breite.",
-  "issue": "wirtshaus#485",
-  "rows": [
-   {
-    "label": "Handy 405×720: Hang-Wahl",
-    "img": "changes/2026-11-24-ld-hangwahl/01-img-offline-choose-405x720.webp"
-   },
-   {
-    "label": "Handy 444×987: Tipp-Karte unter dem Tal",
-    "img": "changes/2026-11-24-ld-hangwahl/02-img-offline-play-444x987.webp"
-   },
-   {
-    "label": "Computer 1280×800: Hang-Wahl, Tipp-Karte rechts",
-    "img": "changes/2026-11-24-ld-hangwahl/03-img-offline-choose-1280x800.webp"
-   },
-   {
-    "label": "Computer 1920×1080",
-    "img": "changes/2026-11-24-ld-hangwahl/04-img-offline-choose-1920x1080.webp"
-   }
-  ],
-  "sha": "8062c189"
- },
- {
   "id": "schiffe-teil1",
   "date": "2026-11-25T00:27:46.147Z",
   "title": "Entwurf: Schiffe versenken – der Tisch gegen Bots",
@@ -19391,5 +19365,31 @@
    }
   ],
   "sha": "86d338d3"
+ },
+ {
+  "id": "ld-hangwahl",
+  "date": "2026-11-25T01:20:10.972Z",
+  "title": "Ländle – Hang-Wahl sichtbar, Tipp-Karte neben dem Tal",
+  "text": "Beim Wählen des Hangs leuchten die Felder, die ernten würden, und die Knöpfe zeigen, was jeder bekommt (du +2 · Bene +1). Am Computer steht die Tipp-Karte rechts neben dem Tal, am Handy darunter; auf kurzen Handys liegt das Tal quer über die ganze Breite.",
+  "issue": "wirtshaus#485",
+  "rows": [
+   {
+    "label": "Handy 405×720: Hang-Wahl",
+    "img": "changes/2026-11-24-ld-hangwahl/01-img-offline-choose-405x720.webp"
+   },
+   {
+    "label": "Handy 444×987: Tipp-Karte unter dem Tal",
+    "img": "changes/2026-11-24-ld-hangwahl/02-img-offline-play-444x987.webp"
+   },
+   {
+    "label": "Computer 1280×800: Hang-Wahl, Tipp-Karte rechts",
+    "img": "changes/2026-11-24-ld-hangwahl/03-img-offline-choose-1280x800.webp"
+   },
+   {
+    "label": "Computer 1920×1080",
+    "img": "changes/2026-11-24-ld-hangwahl/04-img-offline-choose-1920x1080.webp"
+   }
+  ],
+  "sha": "8062c189"
  }
 ]
