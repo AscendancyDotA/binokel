@@ -19229,44 +19229,6 @@
   "sha": "6c523344"
  },
  {
-  "id": "schiffe-teil1",
-  "date": "2026-11-25T00:27:46.147Z",
-  "title": "Entwurf: Schiffe versenken – der Tisch gegen Bots",
-  "text": "Neues Spiel im Bau: Flotte geheim aufstellen, dann abwechselnd aufs fremde Meer schießen. Kartenmodus mit 13 offenen Zufallskarten, KI-Gedanken als Wärmekarte, drei Bot-Stufen.",
-  "issue": "wirtshaus#502",
-  "rows": [
-   {
-    "label": "Aufstellen (Handy)",
-    "img": "changes/2026-11-25-schiffe-teil1/01-img-2-aufstellen-handy.webp"
-   },
-   {
-    "label": "Aufstellen (Desktop)",
-    "img": "changes/2026-11-25-schiffe-teil1/02-img-1-aufstellen-desktop.webp"
-   },
-   {
-    "label": "Mitten in der Schlacht mit Karten und KI-Gedanken (Desktop)",
-    "img": "changes/2026-11-25-schiffe-teil1/03-img-3-schlacht-desktop.webp"
-   },
-   {
-    "label": "Mitten in der Schlacht (Handy)",
-    "img": "changes/2026-11-25-schiffe-teil1/04-img-4-schlacht-handy.webp"
-   },
-   {
-    "label": "Partie-Ende (Desktop)",
-    "img": "changes/2026-11-25-schiffe-teil1/05-img-5-ende-desktop.webp"
-   },
-   {
-    "label": "Partie-Ende (Handy)",
-    "img": "changes/2026-11-25-schiffe-teil1/06-img-6-ende-handy.webp"
-   },
-   {
-    "label": "Abzeichen",
-    "img": "changes/2026-11-25-schiffe-teil1/07-img-badge.webp"
-   }
-  ],
-  "sha": "e6139a49"
- },
- {
   "id": "eroberung-handy776",
   "date": "2026-11-25T00:58:40.221Z",
   "title": "Eroberung am Handy – Rückgängig, Zoom-Tipp, höhere Karte, Ziel-Hinweis",
@@ -19576,5 +19538,43 @@
    }
   ],
   "sha": "fcf87f5f"
+ },
+ {
+  "id": "schiffe-teil1",
+  "date": "2026-11-25T12:13:20.151Z",
+  "title": "Schiffe versenken – der Tisch gegen Bots",
+  "text": "Neues Spiel im Bau: Flotte geheim aufstellen, dann abwechselnd aufs fremde Meer schießen. Kartenmodus mit 13 offenen Zufallskarten, KI-Gedanken als Wärmekarte, drei Bot-Stufen.",
+  "issue": "wirtshaus#502",
+  "rows": [
+   {
+    "label": "Aufstellen (Handy)",
+    "img": "changes/2026-11-25-schiffe-teil1/01-img-2-aufstellen-handy.webp"
+   },
+   {
+    "label": "Aufstellen (Desktop)",
+    "img": "changes/2026-11-25-schiffe-teil1/02-img-1-aufstellen-desktop.webp"
+   },
+   {
+    "label": "Mitten in der Schlacht mit Karten und KI-Gedanken (Desktop)",
+    "img": "changes/2026-11-25-schiffe-teil1/03-img-3-schlacht-desktop.webp"
+   },
+   {
+    "label": "Mitten in der Schlacht (Handy)",
+    "img": "changes/2026-11-25-schiffe-teil1/04-img-4-schlacht-handy.webp"
+   },
+   {
+    "label": "Partie-Ende (Desktop)",
+    "img": "changes/2026-11-25-schiffe-teil1/05-img-5-ende-desktop.webp"
+   },
+   {
+    "label": "Partie-Ende (Handy)",
+    "img": "changes/2026-11-25-schiffe-teil1/06-img-6-ende-handy.webp"
+   },
+   {
+    "label": "Abzeichen",
+    "img": "changes/2026-11-25-schiffe-teil1/07-img-badge.webp"
+   }
+  ],
+  "sha": "e6139a49"
  }
 ]
