@@ -19509,5 +19509,42 @@
    }
   ],
   "sha": "8f92d04f"
+ },
+ {
+  "id": "namensschild-r2",
+  "date": "2026-11-25T09:59:12.259Z",
+  "title": "Entwurf: Namensschilder – Zunftzeichen, Schmiedeeisen und Goldenes Zunftwappen",
+  "text": "Entwurf – noch nicht im Spiel. Das Zunftschild zeigt jetzt ein echtes Zunftzeichen (sechs Stile: Brezel, Hackbeil, Säge, Schere, Ähre, Hufeisen). Neu: Schmiedeeisen-Schild mit Ranken und Goldenes Zunftwappen mit Lorbeer; beide glänzen kurz, wenn man dran ist. Die Kreidetafel hat einen Holzrahmen.",
+  "issue": "wirtshaus#296",
+  "rows": [
+   {
+    "label": "Alle Schilder, Handy 360",
+    "before": "changes/2026-11-25-namensschild-r2/01-before-before-platesheet-phone360.webp",
+    "after": "changes/2026-11-25-namensschild-r2/02-after-after-platesheet-phone360.webp"
+   },
+   {
+    "label": "Mein Raum, Namensschild-Fach",
+    "before": "changes/2026-11-25-namensschild-r2/03-before-before-plate-room-grid-desktop.webp",
+    "after": "changes/2026-11-25-namensschild-r2/04-after-after-plate-room-grid-desktop.webp"
+   },
+   {
+    "label": "Am Tisch, Handy 444",
+    "before": "changes/2026-11-25-namensschild-r2/05-before-before-binokel-o1-phone360.webp",
+    "after": "changes/2026-11-25-namensschild-r2/06-after-after-binokel-o1-phone.webp"
+   },
+   {
+    "label": "Vorschau Goldenes Zunftwappen (Handy)",
+    "img": "changes/2026-11-25-namensschild-r2/07-img-after-plate-zunftgold-stage-phone412.webp"
+   },
+   {
+    "label": "Vorschau Zunftschild, Stil-Wahl (Handy)",
+    "img": "changes/2026-11-25-namensschild-r2/08-img-after-plate-zunft-stage-phone412.webp"
+   },
+   {
+    "label": "Glanz, wenn man dran ist",
+    "img": "changes/2026-11-25-namensschild-r2/09-img-after-platesheet-phone-glint.webp"
+   }
+  ],
+  "sha": "fcf87f5f"
  }
 ]
