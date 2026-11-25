@@ -19546,5 +19546,35 @@
    }
   ],
   "sha": "fcf87f5f"
+ },
+ {
+  "id": "kraftroulette-entwurf",
+  "date": "2026-11-25T10:00:47.124Z",
+  "title": "Entwurf: Kraft-Roulette – Roulette ohne Bank, mit Kraftkarten",
+  "text": "Entwurf – noch nicht im Spiel. Alle Einsätze gehen in einen Topf, die Gewinner werden daraus bezahlt. Unter dem Tableau liegen die eigenen Kraftkarten: antippen legt eine verdeckt hin, aufgedeckt wird, wenn alle fertig sind.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy: Karte verdeckt gelegt",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/01-img-sweep-444x987-laid.webp"
+   },
+   {
+    "label": "Handy: nach dem Drehen – wer welche Karte hatte und wen sie traf",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/02-img-sweep-444x987-revealed.webp"
+   },
+   {
+    "label": "Online am Handy: die anderen sehen nur, dass eine Karte liegt",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/03-img-online-B-betting.webp"
+   },
+   {
+    "label": "Desktop nach dem Drehen",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/04-img-sweep-1280x800-revealed.webp"
+   },
+   {
+    "label": "Handy quer",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/05-img-sweep-844x390-laid.webp"
+   }
+  ],
+  "sha": "c59dfc88"
  }
 ]
