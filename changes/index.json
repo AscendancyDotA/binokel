@@ -19465,5 +19465,27 @@
    }
   ],
   "sha": "62067350"
+ },
+ {
+  "id": "roulette-tv-tipp",
+  "date": "2026-11-25T09:11:49.275Z",
+  "title": "Roulette: letzte Zahlen im Wirtshaus-TV, Tipp-Titel ganz lesbar",
+  "text": "Ein Roulette-Tisch im Wirtshaus-TV zeigt jetzt die letzten fünf Zahlen des Kessels, die neueste größer. Am Handy mit großer Schrift steht der Titel „Tipp für den Anfang“ wieder vollständig da.",
+  "issue": "wirtshaus#390",
+  "rows": [
+   {
+    "label": "Wirtshaus-TV am Handy",
+    "img": "changes/2026-11-25-roulette-tv-tipp/01-img-tv-roulette-360.webp"
+   },
+   {
+    "label": "Wirtshaus-TV am Desktop",
+    "img": "changes/2026-11-25-roulette-tv-tipp/02-img-tv-roulette-1280.webp"
+   },
+   {
+    "before": "changes/2026-11-25-roulette-tv-tipp/03-before-sweep-390x844-maxtext-bet.webp",
+    "after": "changes/2026-11-25-roulette-tv-tipp/04-after-sweep-390x844-maxtext-bet.webp"
+   }
+  ],
+  "sha": "f63ddc2a"
  }
 ]
