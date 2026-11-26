@@ -19849,21 +19849,6 @@
   "sha": "c28ec17e"
  },
  {
-  "id": "ansage-bricht-um",
-  "date": "2026-11-26T14:12:40.136Z",
-  "title": "Lange Tisch-Ansagen brechen am schmalen Handy um",
-  "text": "Entwurf – noch nicht im Spiel. Beim Jass lief „Was spielst du? Trumpf ansagen – oder schieben“ mit größter Schrift links und rechts aus dem Bild; die Ansage bricht jetzt in zwei Zeilen um – an allen Kartentischen.",
-  "issue": "wirtshaus#521",
-  "rows": [
-   {
-    "label": "Jass, Handy 360×740, größte Schrift",
-    "before": "changes/2026-11-26-ansage-bricht-um/01-before-jass-360x740-wirtshaus-t1.3-trumpf.webp",
-    "after": "changes/2026-11-26-ansage-bricht-um/02-after-jass-360x740-wirtshaus-t1.3-trumpf.webp"
-   }
-  ],
-  "sha": "86f755ad"
- },
- {
   "id": "kraftroulette-plakette",
   "date": "2026-11-26T14:12:48.678Z",
   "title": "Kraft-Roulette am Handy – die gefallene Zahl liegt nicht mehr auf einem Schild",
@@ -20043,6 +20028,21 @@
    {
     "label": "1024×768 mit offener Feldkarte",
     "img": "changes/2026-11-26-handel-tipp-desktop/03-img-desk-tip-1024x768-main.webp"
+   }
+  ],
+  "sha": "86f755ad"
+ },
+ {
+  "id": "ansage-bricht-um",
+  "date": "2026-11-26T16:01:59.525Z",
+  "title": "Lange Tisch-Ansagen brechen am schmalen Handy um",
+  "text": "Beim Jass lief „Was spielst du? Trumpf ansagen – oder schieben“ mit größter Schrift links und rechts aus dem Bild; die Ansage bricht jetzt in zwei Zeilen um – an allen Kartentischen.",
+  "issue": "wirtshaus#521",
+  "rows": [
+   {
+    "label": "Jass, Handy 360×740, größte Schrift",
+    "before": "changes/2026-11-26-ansage-bricht-um/01-before-jass-360x740-wirtshaus-t1.3-trumpf.webp",
+    "after": "changes/2026-11-26-ansage-bricht-um/02-after-jass-360x740-wirtshaus-t1.3-trumpf.webp"
    }
   ],
   "sha": "86f755ad"
