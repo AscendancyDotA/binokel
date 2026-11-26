@@ -20073,121 +20073,6 @@
   "sha": "41dc41b2"
  },
  {
-  "id": "stil-flaechen798",
-  "date": "2026-11-26T18:20:07.877Z",
-  "title": "Entwurf: Flächen und Knöpfe aus einem Guss",
-  "text": "Entwurf – noch nicht im Spiel. Flächen trennen sich durch zwei Holztöne und einen weichen Schatten statt durch dünne Goldlinien; Eingabefelder liegen vertieft, gewählte Schalter sind helleres Holz mit Messingkante, Kacheln in der Kasse ohne bunte Rahmen. Knöpfe sind abgerundete Rechtecke: der nächste Schritt golden, die anderen dunkel mit feinem Messingrand, „Weg“ dunkelrot. Am Tisch bleibt alles durchscheinend.",
-  "issue": "wirtshaus#492",
-  "rows": [
-   {
-    "label": "Reiz-Leiste am Handy (405×720)",
-    "before": "changes/2026-11-26-stil-flaechen798/01-before-strip-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/02-after-strip-after.webp"
-   },
-   {
-    "label": "Willkommen – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/03-before-willkommen-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/04-after-willkommen-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Willkommen – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/05-before-willkommen-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/06-after-willkommen-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Spielen – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/07-before-spielen-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/08-after-spielen-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Spielen – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/09-before-spielen-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/10-after-spielen-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Reizen am Tisch – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/11-before-steigern-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/12-after-steigern-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Reizen am Tisch – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/13-before-steigern-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/14-after-steigern-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Stich – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/15-before-stich-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/16-after-stich-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Stich – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/17-before-stich-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/18-after-stich-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Tisch mit Katze und Krug – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/19-before-kosmetik-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/20-after-kosmetik-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Tisch mit Katze und Krug – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/21-before-kosmetik-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/22-after-kosmetik-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Kasse – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/23-before-shop-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/24-after-shop-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Kasse – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/25-before-shop-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/26-after-shop-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Spieleliste – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/27-before-spieleliste-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/28-after-spieleliste-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Spieleliste – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/29-before-spieleliste-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/30-after-spieleliste-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Einstellungen – Handy",
-    "before": "changes/2026-11-26-stil-flaechen798/31-before-einstellungen-wirtshaus-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/32-after-einstellungen-wirtshaus-phone-after.webp"
-   },
-   {
-    "label": "Einstellungen – Bildschirm",
-    "before": "changes/2026-11-26-stil-flaechen798/33-before-einstellungen-wirtshaus-desk-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/34-after-einstellungen-wirtshaus-desk-after.webp"
-   },
-   {
-    "label": "Arena – Willkommen",
-    "before": "changes/2026-11-26-stil-flaechen798/35-before-willkommen-arena-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/36-after-willkommen-arena-phone-after.webp"
-   },
-   {
-    "label": "Arena – Reizen",
-    "before": "changes/2026-11-26-stil-flaechen798/37-before-steigern-arena-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/38-after-steigern-arena-phone-after.webp"
-   },
-   {
-    "label": "Klar – Willkommen",
-    "before": "changes/2026-11-26-stil-flaechen798/39-before-willkommen-klar-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/40-after-willkommen-klar-phone-after.webp"
-   },
-   {
-    "label": "Klar – Reizen",
-    "before": "changes/2026-11-26-stil-flaechen798/41-before-steigern-klar-phone-before.webp",
-    "after": "changes/2026-11-26-stil-flaechen798/42-after-steigern-klar-phone-after.webp"
-   }
-  ],
-  "sha": "b9476e83"
- },
- {
   "id": "kurve-achse-strom",
   "date": "2026-11-26T19:57:05.400Z",
   "title": "Kurve – Strom-Bänder in Euro, Kerzen immer gut lesbar",
@@ -20298,5 +20183,120 @@
    }
   ],
   "sha": "1b94ba4f"
+ },
+ {
+  "id": "stil-flaechen798",
+  "date": "2026-11-26T23:02:08.582Z",
+  "title": "Flächen und Knöpfe aus einem Guss: Holz statt Goldlinien",
+  "text": "Flächen trennen sich durch zwei Holztöne und einen weichen Schatten statt durch dünne Goldlinien; Eingabefelder liegen vertieft, gewählte Schalter sind helleres Holz mit Messingkante, Kacheln in der Kasse ohne bunte Rahmen. Knöpfe sind abgerundete Rechtecke: der nächste Schritt golden, die anderen dunkel mit feinem Messingrand, „Weg“ dunkelrot. Am Tisch bleibt alles durchscheinend.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Reiz-Leiste am Handy (405×720)",
+    "before": "changes/2026-11-26-stil-flaechen798/01-before-strip-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/02-after-strip-after.webp"
+   },
+   {
+    "label": "Willkommen – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/03-before-willkommen-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/04-after-willkommen-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Willkommen – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/05-before-willkommen-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/06-after-willkommen-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Spielen – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/07-before-spielen-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/08-after-spielen-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Spielen – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/09-before-spielen-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/10-after-spielen-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Reizen am Tisch – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/11-before-steigern-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/12-after-steigern-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Reizen am Tisch – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/13-before-steigern-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/14-after-steigern-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Stich – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/15-before-stich-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/16-after-stich-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Stich – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/17-before-stich-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/18-after-stich-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Tisch mit Katze und Krug – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/19-before-kosmetik-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/20-after-kosmetik-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Tisch mit Katze und Krug – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/21-before-kosmetik-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/22-after-kosmetik-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Kasse – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/23-before-shop-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/24-after-shop-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Kasse – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/25-before-shop-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/26-after-shop-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Spieleliste – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/27-before-spieleliste-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/28-after-spieleliste-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Spieleliste – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/29-before-spieleliste-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/30-after-spieleliste-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Einstellungen – Handy",
+    "before": "changes/2026-11-26-stil-flaechen798/31-before-einstellungen-wirtshaus-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/32-after-einstellungen-wirtshaus-phone-after.webp"
+   },
+   {
+    "label": "Einstellungen – Bildschirm",
+    "before": "changes/2026-11-26-stil-flaechen798/33-before-einstellungen-wirtshaus-desk-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/34-after-einstellungen-wirtshaus-desk-after.webp"
+   },
+   {
+    "label": "Arena – Willkommen",
+    "before": "changes/2026-11-26-stil-flaechen798/35-before-willkommen-arena-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/36-after-willkommen-arena-phone-after.webp"
+   },
+   {
+    "label": "Arena – Reizen",
+    "before": "changes/2026-11-26-stil-flaechen798/37-before-steigern-arena-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/38-after-steigern-arena-phone-after.webp"
+   },
+   {
+    "label": "Klar – Willkommen",
+    "before": "changes/2026-11-26-stil-flaechen798/39-before-willkommen-klar-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/40-after-willkommen-klar-phone-after.webp"
+   },
+   {
+    "label": "Klar – Reizen",
+    "before": "changes/2026-11-26-stil-flaechen798/41-before-steigern-klar-phone-before.webp",
+    "after": "changes/2026-11-26-stil-flaechen798/42-after-steigern-klar-phone-after.webp"
+   }
+  ],
+  "sha": "b9476e83"
  }
 ]
