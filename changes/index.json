@@ -20008,5 +20008,43 @@
    }
   ],
   "sha": "53ee1335"
+ },
+ {
+  "id": "kurve794-tisch",
+  "date": "2026-11-26T16:00:01.937Z",
+  "title": "Entwurf: Kurve – das Chart-Ratespiel am Tisch",
+  "text": "Entwurf – noch nicht im Spiel. Kurve am Tisch: alle tippen gleichzeitig und verdeckt einen Punkt in die acht verdeckten Kerzen, dann deckt die Auflösung die echte Kurve auf – mit Punkten, Paar-Duellen und der Karte, was es war und wann. Gespielt werden nur echte Kurven (fast 2000 Ausschnitte aus Strom- und Aktienkursen).",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Tippen am Handy (vier am Tisch)",
+    "img": "changes/2026-11-26-kurve794-tisch/01-img-offline-tip-444x987-p4.webp"
+   },
+   {
+    "label": "Tippen am Desktop",
+    "img": "changes/2026-11-26-kurve794-tisch/02-img-offline-tip-1280x800-p2.webp"
+   },
+   {
+    "label": "Auflösung am Handy",
+    "img": "changes/2026-11-26-kurve794-tisch/03-img-online-reveal-phone.webp"
+   },
+   {
+    "label": "Auflösung am Desktop",
+    "img": "changes/2026-11-26-kurve794-tisch/04-img-online-reveal.webp"
+   },
+   {
+    "label": "Ergebnis am Handy: die acht Kurven",
+    "img": "changes/2026-11-26-kurve794-tisch/05-img-online-matchend-phone.webp"
+   },
+   {
+    "label": "Ergebnis am Desktop",
+    "img": "changes/2026-11-26-kurve794-tisch/06-img-online-matchend.webp"
+   },
+   {
+    "label": "Handy quer: Auflösung neben dem Chart",
+    "img": "changes/2026-11-26-kurve794-tisch/07-img-offline-reveal-844x390-p4.webp"
+   }
+  ],
+  "sha": "41dc41b2"
  }
 ]
