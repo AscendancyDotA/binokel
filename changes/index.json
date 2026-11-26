@@ -19598,5 +19598,40 @@
    }
   ],
   "sha": "2623de76"
+ },
+ {
+  "id": "gold492-poliert",
+  "date": "2026-11-26T11:50:43.606Z",
+  "title": "Entwurf: Goldknöpfe wie poliertes Gold, Glanz-Streif auf dem Hauptknopf",
+  "text": "Entwurf – noch nicht im Spiel. Die goldenen Knöpfe im Wirtshaus-Stil glänzen jetzt wie poliertes Gold: helle Lichtkante oben, Spiegelband in der Mitte, warmer Schimmer unten. Über den einen Hauptknopf („Jetzt spielen“, „Tisch aufmachen“) wischt alle paar Sekunden ein schmaler Lichtstreif; bei Animationen „Sanft“ langsamer, bei „Aus“ gar nicht. Farben und Knopfgrößen bleiben gleich, Arena und Klar bleiben flach.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Handy 405×720: „Jetzt spielen“ vergrößert (Lichtstreif angehalten)",
+    "before": "changes/2026-11-26-gold492-poliert/01-before-before-lobby-zoom.webp",
+    "after": "changes/2026-11-26-gold492-poliert/02-after-after-lobby-zoom.webp"
+   },
+   {
+    "label": "Handy 405×720: Willkommen",
+    "before": "changes/2026-11-26-gold492-poliert/03-before-before-lobby.webp",
+    "after": "changes/2026-11-26-gold492-poliert/04-after-after-lobby.webp"
+   },
+   {
+    "label": "Handy 405×720: Tisch beim Reizen",
+    "before": "changes/2026-11-26-gold492-poliert/05-before-before-table.webp",
+    "after": "changes/2026-11-26-gold492-poliert/06-after-after-table.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Spielen",
+    "before": "changes/2026-11-26-gold492-poliert/07-before-before-desk-play.webp",
+    "after": "changes/2026-11-26-gold492-poliert/08-after-after-desk-play.webp"
+   },
+   {
+    "label": "Desktop 1280×800: Tisch beim Reizen",
+    "before": "changes/2026-11-26-gold492-poliert/09-before-before-desk-table.webp",
+    "after": "changes/2026-11-26-gold492-poliert/10-after-after-desk-table.webp"
+   }
+  ],
+  "sha": "a97cdd68"
  }
 ]
