@@ -19355,40 +19355,6 @@
   "sha": "385c788d"
  },
  {
-  "id": "meldelauf-auslage-entwurf",
-  "date": "2026-11-25T09:06:43.549Z",
-  "title": "Entwurf: Meldelauf – Auslage, Gemütlich und Bestwerte",
-  "text": "Entwurf – noch nicht im Spiel. Meldungen lassen sich in drei Plätze auslegen, wachsen dort und zählen beim Einlösen. Der Haken „Gemütlich“ macht die ersten beiden Wirtshäuser milder, und der Endbildschirm zeigt vier Werte mit Bestwert.",
-  "issue": "wirtshaus#440",
-  "rows": [
-   {
-    "label": "Handy: Auslage mit ausgelegtem Binokel",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/01-img-ml784-390x844-auslage.webp"
-   },
-   {
-    "label": "Kleines Handy 360×740: Auslage kompakt",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/02-img-ml-360x740-play.webp"
-   },
-   {
-    "label": "Ende des Laufs: vier Werte mit Bestwert",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/03-img-ml784-390x844-run-end.webp"
-   },
-   {
-    "label": "Startkarte: Haken „Gemütlich“ und bester Lauf",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/04-img-ml784-390x844-lobby-after.webp"
-   },
-   {
-    "label": "Tipp für die ersten Läufe",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/05-img-ml784-390x844-firsttip.webp"
-   },
-   {
-    "label": "Desktop: Auslage links unter den Kraftkarten",
-    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/06-img-ml784-1280x800-auslage.webp"
-   }
-  ],
-  "sha": "62067350"
- },
- {
   "id": "roulette-tv-tipp",
   "date": "2026-11-25T09:11:49.275Z",
   "title": "Roulette: letzte Zahlen im Wirtshaus-TV, Tipp-Titel ganz lesbar",
@@ -19633,5 +19599,39 @@
    }
   ],
   "sha": "a97cdd68"
+ },
+ {
+  "id": "meldelauf-auslage-entwurf",
+  "date": "2026-11-26T12:41:17.275Z",
+  "title": "Meldelauf – Auslage, Gemütlich und Bestwerte",
+  "text": "Im Meldelauf (im Bau) gibt es jetzt drei Tausche je Runde, auch hintereinander, und eine Auslage: Meldungen auslegen, wachsen lassen und später einlösen. Dazu die Spielweise „Gemütlich“ und Bestwerte am Ende des Laufs. Zusammengeführt, kommt mit dem nächsten Release.",
+  "issue": "wirtshaus#440",
+  "rows": [
+   {
+    "label": "Handy: Auslage mit ausgelegtem Binokel",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/01-img-ml784-390x844-auslage.webp"
+   },
+   {
+    "label": "Kleines Handy 360×740: Auslage kompakt",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/02-img-ml-360x740-play.webp"
+   },
+   {
+    "label": "Ende des Laufs: vier Werte mit Bestwert",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/03-img-ml784-390x844-run-end.webp"
+   },
+   {
+    "label": "Startkarte: Haken „Gemütlich“ und bester Lauf",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/04-img-ml784-390x844-lobby-after.webp"
+   },
+   {
+    "label": "Tipp für die ersten Läufe",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/05-img-ml784-390x844-firsttip.webp"
+   },
+   {
+    "label": "Desktop: Auslage links unter den Kraftkarten",
+    "img": "changes/2026-11-25-meldelauf-auslage-entwurf/06-img-ml784-1280x800-auslage.webp"
+   }
+  ],
+  "sha": "62067350"
  }
 ]
