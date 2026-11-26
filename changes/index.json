@@ -19377,28 +19377,6 @@
   "sha": "f63ddc2a"
  },
  {
-  "id": "handel-imbau-tipps",
-  "date": "2026-11-25T09:54:21.494Z",
-  "title": "Entwurf: Handel – Tipps fürs erste Spiel und Tausch mit Aufgeld",
-  "text": "Entwurf – noch nicht im Spiel. Handel ist jetzt im Bau. In den ersten Partien erklärt eine Tippkarte in der Brettmitte jeden Schritt und verdeckt dabei kein Feld. Beim Tauschen kann, wer den teureren Ort bekommt, ein Viertel, die Hälfte oder den ganzen Preisunterschied drauflegen.",
-  "issue": "wirtshaus#341",
-  "rows": [
-   {
-    "label": "Handy hochkant: Tipp beim ersten Kauf",
-    "img": "changes/2026-11-25-handel-imbau-tipps/01-img-offline-tip-buy.webp"
-   },
-   {
-    "label": "Handy quer: derselbe Tipp",
-    "img": "changes/2026-11-25-handel-imbau-tipps/02-img-offline-tip-buy.webp"
-   },
-   {
-    "label": "Tauschen mit Aufgeld: ½ gewählt, die Knöpfe zeigen den Betrag",
-    "img": "changes/2026-11-25-handel-imbau-tipps/03-img-offline-aufgeld.webp"
-   }
-  ],
-  "sha": "8f92d04f"
- },
- {
   "id": "kraftroulette-entwurf",
   "date": "2026-11-25T10:00:47.124Z",
   "title": "Entwurf: Kraft-Roulette – Roulette ohne Bank, mit Kraftkarten",
@@ -19792,5 +19770,27 @@
    }
   ],
   "sha": "19ce4142"
+ },
+ {
+  "id": "handel-imbau-tipps",
+  "date": "2026-11-26T13:29:34.284Z",
+  "title": "Handel – Tipps fürs erste Spiel und Tausch mit Aufgeld",
+  "text": "Handel (im Bau) ist jetzt gewertet und hat eine Warteschlange zu zweit, zu dritt und zu viert, eine Lernrunde und Tipps fürs erste Spiel. Beim Tauschen kann man ein Aufgeld drauflegen: ein Viertel, die Hälfte oder den ganzen Preisunterschied. Zusammengeführt, kommt mit dem nächsten Release.",
+  "issue": "wirtshaus#341",
+  "rows": [
+   {
+    "label": "Handy hochkant: Tipp beim ersten Kauf",
+    "img": "changes/2026-11-25-handel-imbau-tipps/01-img-offline-tip-buy.webp"
+   },
+   {
+    "label": "Handy quer: derselbe Tipp",
+    "img": "changes/2026-11-25-handel-imbau-tipps/02-img-offline-tip-buy.webp"
+   },
+   {
+    "label": "Tauschen mit Aufgeld: ½ gewählt, die Knöpfe zeigen den Betrag",
+    "img": "changes/2026-11-25-handel-imbau-tipps/03-img-offline-aufgeld.webp"
+   }
+  ],
+  "sha": "8f92d04f"
  }
 ]
