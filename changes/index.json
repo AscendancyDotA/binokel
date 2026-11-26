@@ -19849,21 +19849,6 @@
   "sha": "c28ec17e"
  },
  {
-  "id": "handel-gulden-fl",
-  "date": "2026-11-26T14:12:14.715Z",
-  "title": "Handel sagt, dass „fl“ Gulden heißt",
-  "text": "Entwurf – noch nicht im Spiel. Der Anfangstipp und der erste Satz der Regelhilfe sagen jetzt „gezahlt wird in Gulden (fl)“; zeigst du am Computer auf dein Vermögen, steht es dort ausgeschrieben.",
-  "issue": "wirtshaus#519",
-  "rows": [
-   {
-    "label": "Handy 390×844, erste Partie",
-    "before": "changes/2026-11-26-handel-gulden-fl/01-before-fl-vorher-390x844.webp",
-    "after": "changes/2026-11-26-handel-gulden-fl/02-after-fl-nachher-390x844.webp"
-   }
-  ],
-  "sha": "86f755ad"
- },
- {
   "id": "handel-tipp-desktop",
   "date": "2026-11-26T14:12:22.810Z",
   "title": "Handel am Computer – der Anfangstipp verdeckt keine Felder mehr",
@@ -20046,5 +20031,20 @@
    }
   ],
   "sha": "41dc41b2"
+ },
+ {
+  "id": "handel-gulden-fl",
+  "date": "2026-11-26T16:01:50.565Z",
+  "title": "Handel sagt, dass „fl“ Gulden heißt",
+  "text": "Der Anfangstipp und der erste Satz der Regelhilfe sagen jetzt „gezahlt wird in Gulden (fl)“; zeigst du am Computer auf dein Vermögen, steht es dort ausgeschrieben.",
+  "issue": "wirtshaus#519",
+  "rows": [
+   {
+    "label": "Handy 390×844, erste Partie",
+    "before": "changes/2026-11-26-handel-gulden-fl/01-before-fl-vorher-390x844.webp",
+    "after": "changes/2026-11-26-handel-gulden-fl/02-after-fl-nachher-390x844.webp"
+   }
+  ],
+  "sha": "86f755ad"
  }
 ]
