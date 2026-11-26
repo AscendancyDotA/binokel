@@ -19688,5 +19688,109 @@
    }
   ],
   "sha": "c226620f"
+ },
+ {
+  "id": "stil-vorschau796",
+  "date": "2026-11-26T13:09:59.347Z",
+  "title": "Entwurf: Stil-Vorschau – ruhigere Flächen, ein goldener Hauptknopf je Bildschirm",
+  "text": "Entwurf – noch nicht im Spiel. Vorher und nachher zeigen denselben Moment der echten App; nur Farben, Ränder und Ecken sind vorübergehend anders, Größen und Plätze bleiben gleich.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Überblick am Handy: oben heute, unten die Richtung (Willkommen, Spielen, Reizen, Shop)",
+    "img": "changes/2026-11-26-stil-vorschau796/01-img-00-ueberblick-handy.webp"
+   },
+   {
+    "label": "Lobby „Willkommen“ mit Chat – Handy: nur „Jetzt spielen“ bleibt voll golden, Karten ohne Goldrand",
+    "before": "changes/2026-11-26-stil-vorschau796/02-before-willkommen-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/03-after-willkommen-phone-after.webp"
+   },
+   {
+    "label": "Lobby „Willkommen“ – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/04-before-willkommen-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/05-after-willkommen-desk-after.webp"
+   },
+   {
+    "label": "Lobby „Spielen“ – Handy: „Tisch aufmachen“ ist der Hauptknopf, die gewählte Spielart hat einen Messingrand",
+    "before": "changes/2026-11-26-stil-vorschau796/06-before-spielen-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/07-after-spielen-phone-after.webp"
+   },
+   {
+    "label": "Lobby „Spielen“ – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/08-before-spielen-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/09-after-spielen-desk-after.webp"
+   },
+   {
+    "label": "Binokel-Tisch beim Reizen – Handy: das nächste Gebot ist golden, die anderen dunkel mit Messingrand, „Weg“ dunkelrot",
+    "before": "changes/2026-11-26-stil-vorschau796/10-before-steigern-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/11-after-steigern-phone-after.webp"
+   },
+   {
+    "label": "Binokel-Tisch beim Reizen – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/12-before-steigern-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/13-after-steigern-desk-after.webp"
+   },
+   {
+    "label": "Binokel-Tisch beim Stechen – Handy: hier führen die spielbaren Karten, Leiste und Punktetafel werden ruhiger",
+    "before": "changes/2026-11-26-stil-vorschau796/14-before-stich-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/15-after-stich-phone-after.webp"
+   },
+   {
+    "label": "Binokel-Tisch beim Stechen – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/16-before-stich-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/17-after-stich-desk-after.webp"
+   },
+   {
+    "label": "Kasse → Shop – Handy: Seltenheit nur noch als kleines Eckzeichen, keine bunten Rahmen um die Kacheln",
+    "before": "changes/2026-11-26-stil-vorschau796/18-before-shop-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/19-after-shop-phone-after.webp"
+   },
+   {
+    "label": "Kasse → Shop – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/20-before-shop-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/21-after-shop-desk-after.webp"
+   },
+   {
+    "label": "Spieleliste – Handy: das aktuelle Spiel mit goldenem Strich statt Goldrahmen",
+    "before": "changes/2026-11-26-stil-vorschau796/22-before-spieleliste-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/23-after-spieleliste-phone-after.webp"
+   },
+   {
+    "label": "Spieleliste – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/24-before-spieleliste-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/25-after-spieleliste-desk-after.webp"
+   },
+   {
+    "label": "Einstellungen – Handy: die gewählte Option dunkel mit Messingrand statt goldener Fläche",
+    "before": "changes/2026-11-26-stil-vorschau796/26-before-einstellungen-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/27-after-einstellungen-phone-after.webp"
+   },
+   {
+    "label": "Einstellungen – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/28-before-einstellungen-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/29-after-einstellungen-desk-after.webp"
+   },
+   {
+    "label": "Aussehen „Arena“ – Handy: dieselben Regeln, nur andere Werte",
+    "before": "changes/2026-11-26-stil-vorschau796/30-before-arena-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/31-after-arena-phone-after.webp"
+   },
+   {
+    "label": "Aussehen „Arena“ – Computer",
+    "before": "changes/2026-11-26-stil-vorschau796/32-before-arena-desk-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/33-after-arena-desk-after.webp"
+   },
+   {
+    "label": "Nicht übernommen: Knöpfe in der schlichten Schrift (Regel „Fraunces nur für Überschriften und Zahlen“) – die Knöpfe werden schmaler, der Hauptknopf wirkt schwächer",
+    "before": "changes/2026-11-26-stil-vorschau796/34-before-willkommen-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/35-after-willkommen-phone-after.webp"
+   },
+   {
+    "label": "Nicht übernommen, am Tisch: Namen in der schlichten Schrift werden kleiner, Schilder rücken zusammen",
+    "before": "changes/2026-11-26-stil-vorschau796/36-before-steigern-phone-before.webp",
+    "after": "changes/2026-11-26-stil-vorschau796/37-after-steigern-phone-after.webp"
+   }
+  ],
+  "sha": "19ce4142"
  }
 ]
