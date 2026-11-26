@@ -19911,5 +19911,23 @@
    }
   ],
   "sha": "86f755ad"
+ },
+ {
+  "id": "meer-schilder781",
+  "date": "2026-11-26T15:09:16.296Z",
+  "title": "Schiffe versenken: Schilder im Gemeinsamen Meer stehen frei",
+  "text": "Im Gemeinsamen Meer mit bis zu acht Leuten stehen die Namensschilder am Handy in Reihen über dem Meer und am Computer in zwei Spalten daneben – nichts liegt mehr auf dem Meer. Tipps und die Zugzeile bleiben im Fenster.",
+  "issue": "wirtshaus#502",
+  "rows": [
+   {
+    "label": "Handy 405×720, acht Spieler",
+    "img": "changes/2026-11-26-meer-schilder781/01-img-meer-battle.webp"
+   },
+   {
+    "label": "Computer 1280×800, acht Spieler",
+    "img": "changes/2026-11-26-meer-schilder781/02-img-meer-battle.webp"
+   }
+  ],
+  "sha": "4dec7edf"
  }
 ]
