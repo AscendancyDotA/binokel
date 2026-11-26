@@ -19849,25 +19849,6 @@
   "sha": "c28ec17e"
  },
  {
-  "id": "handel-tipp-desktop",
-  "date": "2026-11-26T14:12:22.810Z",
-  "title": "Handel am Computer – der Anfangstipp verdeckt keine Felder mehr",
-  "text": "Entwurf – noch nicht im Spiel. In breiten Fenstern steht die Tippkarte neben dem Spielfeld statt auf den oberen Feldern der rechten Spalte; Feldkarte und Knöpfe bleiben frei.",
-  "issue": "wirtshaus#519",
-  "rows": [
-   {
-    "label": "1280×800, erster Wurf",
-    "before": "changes/2026-11-26-handel-tipp-desktop/01-before-desk-tip-1280x800-roll.webp",
-    "after": "changes/2026-11-26-handel-tipp-desktop/02-after-desk-tip-1280x800-roll.webp"
-   },
-   {
-    "label": "1024×768 mit offener Feldkarte",
-    "img": "changes/2026-11-26-handel-tipp-desktop/03-img-desk-tip-1024x768-main.webp"
-   }
-  ],
-  "sha": "86f755ad"
- },
- {
   "id": "ansage-bricht-um",
   "date": "2026-11-26T14:12:40.136Z",
   "title": "Lange Tisch-Ansagen brechen am schmalen Handy um",
@@ -20043,6 +20024,25 @@
     "label": "Handy 390×844, erste Partie",
     "before": "changes/2026-11-26-handel-gulden-fl/01-before-fl-vorher-390x844.webp",
     "after": "changes/2026-11-26-handel-gulden-fl/02-after-fl-nachher-390x844.webp"
+   }
+  ],
+  "sha": "86f755ad"
+ },
+ {
+  "id": "handel-tipp-desktop",
+  "date": "2026-11-26T16:01:55.183Z",
+  "title": "Handel am Computer – der Anfangstipp verdeckt keine Felder mehr",
+  "text": "In breiten Fenstern steht die Tippkarte neben dem Spielfeld statt auf den oberen Feldern der rechten Spalte; Feldkarte und Knöpfe bleiben frei.",
+  "issue": "wirtshaus#519",
+  "rows": [
+   {
+    "label": "1280×800, erster Wurf",
+    "before": "changes/2026-11-26-handel-tipp-desktop/01-before-desk-tip-1280x800-roll.webp",
+    "after": "changes/2026-11-26-handel-tipp-desktop/02-after-desk-tip-1280x800-roll.webp"
+   },
+   {
+    "label": "1024×768 mit offener Feldkarte",
+    "img": "changes/2026-11-26-handel-tipp-desktop/03-img-desk-tip-1024x768-main.webp"
    }
   ],
   "sha": "86f755ad"
