@@ -19568,8 +19568,8 @@
  {
   "id": "gold492-poliert",
   "date": "2026-11-26T11:50:43.606Z",
-  "title": "Entwurf: Goldknöpfe wie poliertes Gold, Glanz-Streif auf dem Hauptknopf",
-  "text": "Entwurf – noch nicht im Spiel. Die goldenen Knöpfe im Wirtshaus-Stil glänzen jetzt wie poliertes Gold: helle Lichtkante oben, Spiegelband in der Mitte, warmer Schimmer unten. Über den einen Hauptknopf („Jetzt spielen“, „Tisch aufmachen“) wischt alle paar Sekunden ein schmaler Lichtstreif; bei Animationen „Sanft“ langsamer, bei „Aus“ gar nicht. Farben und Knopfgrößen bleiben gleich, Arena und Klar bleiben flach.",
+  "title": "Entwurf (überholt): Goldknöpfe wie poliertes Gold, Glanz-Streif auf dem Hauptknopf",
+  "text": "Entwurf – noch nicht im Spiel, überholt durch die vier Knopf-Vorlagen weiter unten (dort ist dieser Stand die Vorlage „gold“).",
   "issue": "wirtshaus#492",
   "rows": [
    {
