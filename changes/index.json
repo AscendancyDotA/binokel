@@ -19377,36 +19377,6 @@
   "sha": "f63ddc2a"
  },
  {
-  "id": "kraftroulette-entwurf",
-  "date": "2026-11-25T10:00:47.124Z",
-  "title": "Entwurf: Kraft-Roulette – Roulette ohne Bank, mit Kraftkarten",
-  "text": "Entwurf – noch nicht im Spiel. Alle Einsätze gehen in einen Topf, die Gewinner werden daraus bezahlt. Unter dem Tableau liegen die eigenen Kraftkarten: antippen legt eine verdeckt hin, aufgedeckt wird, wenn alle fertig sind.",
-  "issue": "wirtshaus#398",
-  "rows": [
-   {
-    "label": "Handy: Karte verdeckt gelegt",
-    "img": "changes/2026-11-25-kraftroulette-entwurf/01-img-sweep-444x987-laid.webp"
-   },
-   {
-    "label": "Handy: nach dem Drehen – wer welche Karte hatte und wen sie traf",
-    "img": "changes/2026-11-25-kraftroulette-entwurf/02-img-sweep-444x987-revealed.webp"
-   },
-   {
-    "label": "Online am Handy: die anderen sehen nur, dass eine Karte liegt",
-    "img": "changes/2026-11-25-kraftroulette-entwurf/03-img-online-B-betting.webp"
-   },
-   {
-    "label": "Desktop nach dem Drehen",
-    "img": "changes/2026-11-25-kraftroulette-entwurf/04-img-sweep-1280x800-revealed.webp"
-   },
-   {
-    "label": "Handy quer",
-    "img": "changes/2026-11-25-kraftroulette-entwurf/05-img-sweep-844x390-laid.webp"
-   }
-  ],
-  "sha": "c59dfc88"
- },
- {
   "id": "namensschild-r2",
   "date": "2026-11-25T11:49:37.380Z",
   "title": "Namensschilder – Zunftzeichen, Schmiedeeisen und Goldenes Zunftwappen",
@@ -19792,5 +19762,35 @@
    }
   ],
   "sha": "8f92d04f"
+ },
+ {
+  "id": "kraftroulette-entwurf",
+  "date": "2026-11-26T13:29:39.538Z",
+  "title": "Kraft-Roulette – Roulette ohne Bank, mit Kraftkarten",
+  "text": "Neu im Bau: Kraft-Roulette. Alle Einsätze gehen in einen Topf, die Bank gibt es nicht; jede Runde zieht jeder eine Kraftkarte und legt beliebig viele verdeckt, aufgedeckt wird, wenn alle gesetzt haben. Gespielt wird mit Chips. Zusammengeführt, kommt mit dem nächsten Release.",
+  "issue": "wirtshaus#398",
+  "rows": [
+   {
+    "label": "Handy: Karte verdeckt gelegt",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/01-img-sweep-444x987-laid.webp"
+   },
+   {
+    "label": "Handy: nach dem Drehen – wer welche Karte hatte und wen sie traf",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/02-img-sweep-444x987-revealed.webp"
+   },
+   {
+    "label": "Online am Handy: die anderen sehen nur, dass eine Karte liegt",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/03-img-online-B-betting.webp"
+   },
+   {
+    "label": "Desktop nach dem Drehen",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/04-img-sweep-1280x800-revealed.webp"
+   },
+   {
+    "label": "Handy quer",
+    "img": "changes/2026-11-25-kraftroulette-entwurf/05-img-sweep-844x390-laid.webp"
+   }
+  ],
+  "sha": "c59dfc88"
  }
 ]
