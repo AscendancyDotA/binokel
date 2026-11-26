@@ -20188,36 +20188,6 @@
   "sha": "b9476e83"
  },
  {
-  "id": "bj-split-seiten",
-  "date": "2026-11-26T18:50:19.487Z",
-  "title": "Entwurf: Blackjack hochkant – geteilte Hände am Seitenplatz",
-  "text": "Entwurf – noch nicht im Spiel. Teilt ein Mitspieler am linken oder rechten Platz, stehen seine Hände schmal zu zweit neben der Bank statt in ihr oder auf dem eigenen Platz. Auf dem kurzen Handy steht die Ansage der Bank unter den Karten, wenn Platz ist.",
-  "issue": "wirtshaus#525",
-  "rows": [
-   {
-    "label": "Links, vier Hände (444×987)",
-    "before": "changes/2026-11-26-bj-split-seiten/01-before-forced-side-w4-444x987.webp",
-    "after": "changes/2026-11-26-bj-split-seiten/02-after-forced-side-w4-444x987.webp"
-   },
-   {
-    "label": "Rechts, zwei Hände (444×987)",
-    "before": "changes/2026-11-26-bj-split-seiten/03-before-forced-side-e2-444x987.webp",
-    "after": "changes/2026-11-26-bj-split-seiten/04-after-forced-side-e2-444x987.webp"
-   },
-   {
-    "label": "Links, vier Hände (390×844)",
-    "before": "changes/2026-11-26-bj-split-seiten/05-before-forced-side-w4-390x844.webp",
-    "after": "changes/2026-11-26-bj-split-seiten/06-after-forced-side-w4-390x844.webp"
-   },
-   {
-    "label": "Kurzes Handy: Ansage der Bank (405×720)",
-    "before": "changes/2026-11-26-bj-split-seiten/07-before-p-1-1-405x720.webp",
-    "after": "changes/2026-11-26-bj-split-seiten/08-after-p-1-1-405x720.webp"
-   }
-  ],
-  "sha": "232c56e8"
- },
- {
   "id": "kurve-achse-strom",
   "date": "2026-11-26T19:57:05.400Z",
   "title": "Kurve – Strom-Bänder in Euro, Kerzen immer gut lesbar",
@@ -20256,5 +20226,35 @@
    }
   ],
   "sha": "5da9bbd7"
+ },
+ {
+  "id": "bj-split-seiten",
+  "date": "2026-11-26T19:59:13.425Z",
+  "title": "Blackjack hochkant – geteilte Hände am Seitenplatz",
+  "text": "Teilt ein Mitspieler am linken oder rechten Platz, stehen seine Hände schmal zu zweit neben der Bank statt in ihr oder auf dem eigenen Platz. Auf dem kurzen Handy steht die Ansage der Bank unter den Karten, wenn Platz ist.",
+  "issue": "wirtshaus#525",
+  "rows": [
+   {
+    "label": "Links, vier Hände (444×987)",
+    "before": "changes/2026-11-26-bj-split-seiten/01-before-forced-side-w4-444x987.webp",
+    "after": "changes/2026-11-26-bj-split-seiten/02-after-forced-side-w4-444x987.webp"
+   },
+   {
+    "label": "Rechts, zwei Hände (444×987)",
+    "before": "changes/2026-11-26-bj-split-seiten/03-before-forced-side-e2-444x987.webp",
+    "after": "changes/2026-11-26-bj-split-seiten/04-after-forced-side-e2-444x987.webp"
+   },
+   {
+    "label": "Links, vier Hände (390×844)",
+    "before": "changes/2026-11-26-bj-split-seiten/05-before-forced-side-w4-390x844.webp",
+    "after": "changes/2026-11-26-bj-split-seiten/06-after-forced-side-w4-390x844.webp"
+   },
+   {
+    "label": "Kurzes Handy: Ansage der Bank (405×720)",
+    "before": "changes/2026-11-26-bj-split-seiten/07-before-p-1-1-405x720.webp",
+    "after": "changes/2026-11-26-bj-split-seiten/08-after-p-1-1-405x720.webp"
+   }
+  ],
+  "sha": "232c56e8"
  }
 ]
