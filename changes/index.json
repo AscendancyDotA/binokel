@@ -19988,5 +19988,25 @@
    }
   ],
   "sha": "53ee1335"
+ },
+ {
+  "id": "pk-histbtn800",
+  "date": "2026-11-26T15:42:49.278Z",
+  "title": "Entwurf: Poker-Verlauf am Handy frei",
+  "text": "Entwurf – noch nicht im Spiel. Am Handy steht der Knopf „Verlauf“ unten links neben deinen Karten und liegt nicht mehr auf deinem Blatt oder dem Ergebnis; dein Blatt steht in deiner Zeile wie bei den anderen.",
+  "issue": "wirtshaus#522",
+  "rows": [
+   {
+    "label": "Showdown 390×844",
+    "before": "changes/2026-11-26-pk-histbtn800/01-before-showdown-phone-390x844-t1-6p.webp",
+    "after": "changes/2026-11-26-pk-histbtn800/02-after-showdown-phone-390x844-t1-6p.webp"
+   },
+   {
+    "label": "Showdown 405×720, größte Schrift",
+    "before": "changes/2026-11-26-pk-histbtn800/03-before-showdown-phone-405x720-tmax-6p.webp",
+    "after": "changes/2026-11-26-pk-histbtn800/04-after-showdown-phone-405x720-tmax-6p.webp"
+   }
+  ],
+  "sha": "53ee1335"
  }
 ]
