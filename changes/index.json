@@ -20301,5 +20301,54 @@
    }
   ],
   "sha": "fa15a292"
+ },
+ {
+  "id": "sinnbilder804",
+  "date": "2026-11-26T23:25:34.020Z",
+  "title": "Entwurf: Sinnbilder – ein Zeichen-Satz für die ganze App",
+  "text": "Entwurf – noch nicht im Spiel. Alle Zeichen der Oberfläche kommen aus einem Satz in einer Zeichenart und in der Schriftfarbe: Navigation, Spielarten-Kacheln, Turnier- und Regel-Leiste, Kasse, Einstellungen, Dialoge, Tisch-Rahmen und Abzeichen. Emoji stehen nur noch dort, wo Spieler sie benutzen (Emotes, Chat) oder wo ein Spiel sie als eigene Figuren braucht. Kein Kasten verschiebt sich außer den hier genannten Kleinigkeiten.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Spielen, Handy (Wirtshaus)",
+    "before": "changes/2026-11-26-sinnbilder804/01-before-play-wirtshaus-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/02-after-play-wirtshaus-405x720--.webp"
+   },
+   {
+    "label": "Spielen, Handy (Klar)",
+    "before": "changes/2026-11-26-sinnbilder804/03-before-play-klar-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/04-after-play-klar-405x720--.webp"
+   },
+   {
+    "label": "Kasse, Handy",
+    "before": "changes/2026-11-26-sinnbilder804/05-before-kasse-wirtshaus-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/06-after-kasse-wirtshaus-405x720--.webp"
+   },
+   {
+    "label": "Spieleliste, Handy",
+    "before": "changes/2026-11-26-sinnbilder804/07-before-games-wirtshaus-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/08-after-games-wirtshaus-405x720--.webp"
+   },
+   {
+    "label": "Mehr-Menü, Handy",
+    "before": "changes/2026-11-26-sinnbilder804/09-before-more-wirtshaus-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/10-after-more-wirtshaus-405x720--.webp"
+   },
+   {
+    "label": "Regeln-Dialog, Handy",
+    "before": "changes/2026-11-26-sinnbilder804/11-before-dialog-wirtshaus-405x720--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/12-after-dialog-wirtshaus-405x720--.webp"
+   },
+   {
+    "label": "Einstellungen, Desktop",
+    "before": "changes/2026-11-26-sinnbilder804/13-before-settings-wirtshaus-1280x800--.webp",
+    "after": "changes/2026-11-26-sinnbilder804/14-after-settings-wirtshaus-1280x800--.webp"
+   },
+   {
+    "label": "Alle 159 Zeichen (Stil B), dunkles Holz und Klar, 1× und 2×",
+    "img": "changes/2026-11-26-sinnbilder804/15-img-contact-sheet-804.webp"
+   }
+  ],
+  "sha": "fa15a292"
  }
 ]
