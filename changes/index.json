@@ -20276,5 +20276,27 @@
    }
   ],
   "sha": "0e61b890"
+ },
+ {
+  "id": "sinnbilder-stile804",
+  "date": "2026-11-26T22:26:12.314Z",
+  "title": "Entwurf: Sinnbilder – drei Stile zur Wahl",
+  "text": "Entwurf – noch nicht im Spiel. Die eigenen Zeichen der App (Navigation, Spielarten, Turnier, Notizbuch, Regeln, Taler, Einstellungen) neu gezeichnet, jedes in drei Stilen: A Linie (dünne Linie), B Messing (Linie mit weicher Füllung, etwas kräftiger), C Voll (gefüllte Form mit ausgesparten Details). Gezeigt als nummerierter Bogen auf dunklem Holz und auf hellem Klar, und im Spielen-Bildschirm am Handy.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Bogen: 14 Zeichen × 3 Stile (1×, 2×, Kachel) – oben dunkles Holz, unten Klar",
+    "img": "changes/2026-11-26-sinnbilder-stile804/01-img-sheet-key-v1.webp"
+   },
+   {
+    "label": "Spielen-Bildschirm am Handy (405×720): A Linie · B Messing · C Voll",
+    "img": "changes/2026-11-26-sinnbilder-stile804/02-img-lobby-styles.webp"
+   },
+   {
+    "label": "Ausschnitt: Spielarten und untere Leiste je Stil",
+    "img": "changes/2026-11-26-sinnbilder-stile804/03-img-nav-tiles-styles.webp"
+   }
+  ],
+  "sha": "1b94ba4f"
  }
 ]
