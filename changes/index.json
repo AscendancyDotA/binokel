@@ -20186,5 +20186,45 @@
    }
   ],
   "sha": "b9476e83"
+ },
+ {
+  "id": "kurve-achse-strom",
+  "date": "2026-11-26T18:27:07.894Z",
+  "title": "Entwurf: Kurve – Strom-Bänder in Euro, Kerzen immer gut lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Beim Strom rechnen die Bänder jetzt in Euro je Megawattstunde statt in Prozent; ein Preis nahe null blies sie vorher bis zum Elffachen des Kurses auf. Die sichtbaren Kerzen bekommen beim Tippen immer mindestens die halbe Höhe des Charts; reicht das Band weiter, ist die Preisachse darüber oder darunter gestaucht (Zickzack an der Achse), und jeder Preis lässt sich weiter antippen.",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Strom 1 Std, Handy 405×720, beim Tippen",
+    "before": "changes/2026-11-26-kurve-achse-strom/01-before-offline-tip.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/02-after-offline-tip.webp"
+   },
+   {
+    "label": "Strom 1 Std, Handy 405×720, Auflösung",
+    "before": "changes/2026-11-26-kurve-achse-strom/03-before-offline-reveal.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/04-after-offline-reveal.webp"
+   },
+   {
+    "label": "Strom 1 Std, Handy 360×740, beim Tippen",
+    "before": "changes/2026-11-26-kurve-achse-strom/05-before-offline-tip.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/06-after-offline-tip.webp"
+   },
+   {
+    "label": "Strom 1 Std, Desktop 1280×800, beim Tippen",
+    "before": "changes/2026-11-26-kurve-achse-strom/07-before-offline-tip.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/08-after-offline-tip.webp"
+   },
+   {
+    "label": "Aktie (Tageskerzen), Handy 405×720, beim Tippen",
+    "before": "changes/2026-11-26-kurve-achse-strom/09-before-offline-tip.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/10-after-offline-tip.webp"
+   },
+   {
+    "label": "Aktie (Tageskerzen), Desktop 1280×800, beim Tippen",
+    "before": "changes/2026-11-26-kurve-achse-strom/11-before-offline-tip.webp",
+    "after": "changes/2026-11-26-kurve-achse-strom/12-after-offline-tip.webp"
+   }
+  ],
+  "sha": "5da9bbd7"
  }
 ]
