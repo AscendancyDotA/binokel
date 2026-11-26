@@ -20046,5 +20046,30 @@
    }
   ],
   "sha": "86f755ad"
+ },
+ {
+  "id": "knopfstil792",
+  "date": "2026-11-26T16:17:28.691Z",
+  "title": "Neue Knöpfe im Wirtshaus-Stil: ein goldener Hauptknopf je Bildschirm",
+  "text": "Im Wirtshaus-Stil ist der eine wichtigste Knopf eines Bildschirms jetzt poliertes Gold – in der Lobby „Jetzt spielen“ und „Tisch aufmachen“ mit einem Lichtstreif, am Tisch beim Reizen das kleinste Gebot. Alle anderen goldenen Knöpfe sind dunkel mit Goldrand und goldener Schrift. Größen und Farben bleiben gleich, Arena und Klar bleiben, wie sie waren.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "Handy: Willkommen",
+    "before": "changes/2026-11-26-knopfstil792/01-before-flach-lobby.webp",
+    "after": "changes/2026-11-26-knopfstil792/02-after-rang-lobby.webp"
+   },
+   {
+    "label": "Handy: Tisch beim Reizen",
+    "before": "changes/2026-11-26-knopfstil792/03-before-flach-table.webp",
+    "after": "changes/2026-11-26-knopfstil792/04-after-rang-table.webp"
+   },
+   {
+    "label": "Computer: Spielen",
+    "before": "changes/2026-11-26-knopfstil792/05-before-flach-desk-play.webp",
+    "after": "changes/2026-11-26-knopfstil792/06-after-rang-desk-play.webp"
+   }
+  ],
+  "sha": "c4cab82f"
  }
 ]
