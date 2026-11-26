@@ -20256,5 +20256,25 @@
    }
   ],
   "sha": "232c56e8"
+ },
+ {
+  "id": "kurve-topf-chips",
+  "date": "2026-11-26T20:24:10.856Z",
+  "title": "Entwurf: Kurve – eine Partie bewegt jetzt sichtbar Chips",
+  "text": "Entwurf – noch nicht im Spiel. Jeder bringt 100 Chips je Gegner mit, je 10 Punkte Unterschied wandert ein Chip. Dieselbe Runde mit denselben Tipps: vorher 15 von 500 Chips, jetzt 77 von 100; am Ende der Partie 519 : 481 vorher, 172 : 28 jetzt.",
+  "issue": "wirtshaus#364",
+  "rows": [
+   {
+    "label": "Auflösung, Handy 405×720",
+    "before": "changes/2026-11-26-kurve-topf-chips/01-before-offline-reveal-before.webp",
+    "after": "changes/2026-11-26-kurve-topf-chips/02-after-offline-reveal-after.webp"
+   },
+   {
+    "label": "Partie-Ende, Handy 405×720",
+    "before": "changes/2026-11-26-kurve-topf-chips/03-before-offline-matchend-before.webp",
+    "after": "changes/2026-11-26-kurve-topf-chips/04-after-offline-matchend-after.webp"
+   }
+  ],
+  "sha": "0e61b890"
  }
 ]
