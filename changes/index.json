@@ -19792,5 +19792,60 @@
    }
   ],
   "sha": "c59dfc88"
+ },
+ {
+  "id": "gold492-vorlagen2",
+  "date": "2026-11-26T14:00:25.890Z",
+  "title": "Entwurf: Knopf-Stil aus einem Baustein, vier Vorlagen zum Vergleichen",
+  "text": "Entwurf – noch nicht im Spiel. Das Aussehen aller goldenen Knöpfe kommt jetzt aus einer einzigen Stelle und lässt sich als Ganzes umschalten. Vier Vorlagen: „flach“ (wie bisher, links in jeder Zeile), „gold“ (poliertes Gold, Lichtstreif auf dem Hauptknopf), „rand“ (dunkler Knopf mit Goldrand und goldener Schrift) und „rang“: nur der eine Hauptknopf eines Bildschirms ist poliertes Gold, in der Lobby mit Lichtstreif, am Tisch beim Reizen das kleinste Gebot; alle anderen haben den Goldrand. Zum Ausprobieren die App mit ?btnstyle=rang (oder flach, gold, rand) öffnen, das Gerät merkt sich die Wahl. Farben und Knopfgrößen bleiben gleich, Arena und Klar bleiben flach.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "„rang“ (Vorschlag als Standard) · Handy 405×720: Willkommen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/01-before-flach-lobby.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/02-after-rang-lobby.webp"
+   },
+   {
+    "label": "„rang“ (Vorschlag als Standard) · Handy 405×720: Tisch beim Reizen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/03-before-flach-table.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/04-after-rang-table.webp"
+   },
+   {
+    "label": "„rang“ (Vorschlag als Standard) · Desktop 1280×800: Spielen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/05-before-flach-desk-play.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/06-after-rang-desk-play.webp"
+   },
+   {
+    "label": "„gold“ · Handy 405×720: Willkommen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/07-before-flach-lobby.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/08-after-gold-lobby.webp"
+   },
+   {
+    "label": "„gold“ · Handy 405×720: Tisch beim Reizen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/09-before-flach-table.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/10-after-gold-table.webp"
+   },
+   {
+    "label": "„gold“ · Desktop 1280×800: Spielen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/11-before-flach-desk-play.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/12-after-gold-desk-play.webp"
+   },
+   {
+    "label": "„rand“ · Handy 405×720: Willkommen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/13-before-flach-lobby.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/14-after-rand-lobby.webp"
+   },
+   {
+    "label": "„rand“ · Handy 405×720: Tisch beim Reizen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/15-before-flach-table.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/16-after-rand-table.webp"
+   },
+   {
+    "label": "„rand“ · Desktop 1280×800: Spielen",
+    "before": "changes/2026-11-26-gold492-vorlagen2/17-before-flach-desk-play.webp",
+    "after": "changes/2026-11-26-gold492-vorlagen2/18-after-rand-desk-play.webp"
+   }
+  ],
+  "sha": "c28ec17e"
  }
 ]
