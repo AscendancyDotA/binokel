@@ -19796,7 +19796,7 @@
  {
   "id": "gold492-vorlagen2",
   "date": "2026-11-26T14:00:25.890Z",
-  "title": "Entwurf: Knopf-Stil aus einem Baustein, vier Vorlagen zum Vergleichen",
+  "title": "Entwurf (überholt): Knopf-Stil aus einem Baustein, vier Vorlagen zum Vergleichen",
   "text": "Entwurf – noch nicht im Spiel. Das Aussehen aller goldenen Knöpfe kommt jetzt aus einer einzigen Stelle und lässt sich als Ganzes umschalten. Vier Vorlagen: „flach“ (wie bisher, links in jeder Zeile), „gold“ (poliertes Gold, Lichtstreif auf dem Hauptknopf), „rand“ (dunkler Knopf mit Goldrand und goldener Schrift) und „rang“: nur der eine Hauptknopf eines Bildschirms ist poliertes Gold, in der Lobby mit Lichtstreif, am Tisch beim Reizen das kleinste Gebot; alle anderen haben den Goldrand. Zum Ausprobieren die App mit ?btnstyle=rang (oder flach, gold, rand) öffnen, das Gerät merkt sich die Wahl. Farben und Knopfgrößen bleiben gleich, Arena und Klar bleiben flach.",
   "issue": "wirtshaus#492",
   "rows": [
