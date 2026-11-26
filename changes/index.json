@@ -19963,5 +19963,30 @@
    }
   ],
   "sha": "4dec7edf"
+ },
+ {
+  "id": "bj-shortphone800",
+  "date": "2026-11-26T15:42:34.449Z",
+  "title": "Entwurf: Blackjack zu sechst auf kurzen Handys",
+  "text": "Entwurf – noch nicht im Spiel. Auf kurzen Handys hochkant stehen die Mitspieler als eine Leiste oben, die Bank darunter, die eigene Hand unten – nichts liegt mehr aufeinander, auch bei größter Schrift und wenn jemand in vier Hände teilt.",
+  "issue": "wirtshaus#522",
+  "rows": [
+   {
+    "label": "405×720, normale Schrift",
+    "before": "changes/2026-11-26-bj-shortphone800/01-before-p-405x720-6-n.webp",
+    "after": "changes/2026-11-26-bj-shortphone800/02-after-p-405x720-6-n.webp"
+   },
+   {
+    "label": "405×720, größte Schrift",
+    "before": "changes/2026-11-26-bj-shortphone800/03-before-p-405x720-6-max.webp",
+    "after": "changes/2026-11-26-bj-shortphone800/04-after-p-405x720-6-max.webp"
+   },
+   {
+    "label": "405×720, ein Mitspieler teilt in vier Hände",
+    "before": "changes/2026-11-26-bj-shortphone800/05-before-split-s3-405x720-n-k4.webp",
+    "after": "changes/2026-11-26-bj-shortphone800/06-after-split-s3-405x720-n-k4.webp"
+   }
+  ],
+  "sha": "53ee1335"
  }
 ]
