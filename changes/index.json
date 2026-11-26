@@ -19949,5 +19949,19 @@
    }
   ],
   "sha": "4dec7edf"
+ },
+ {
+  "id": "schach-zugleiste783",
+  "date": "2026-11-26T15:09:34.915Z",
+  "title": "Schach am Handy: die letzten Züge stehen neben dem eigenen Schild",
+  "text": "Hochkant zeigt der Schach-Tisch die letzten Züge rechts neben dem eigenen Namen, auch bei langem Namen und größter Schrift.",
+  "issue": "wirtshaus#390",
+  "rows": [
+   {
+    "label": "Handy 360×740, größte Schrift",
+    "img": "changes/2026-11-26-schach-zugleiste783/01-img-schach-360x740-wirtshaus-t1.3-longname.webp"
+   }
+  ],
+  "sha": "4dec7edf"
  }
 ]
