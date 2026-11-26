@@ -20163,28 +20163,6 @@
   "sha": "0e61b890"
  },
  {
-  "id": "sinnbilder-stile804",
-  "date": "2026-11-26T22:26:12.314Z",
-  "title": "Entwurf: Sinnbilder – drei Stile zur Wahl",
-  "text": "Entwurf – noch nicht im Spiel. Die eigenen Zeichen der App (Navigation, Spielarten, Turnier, Notizbuch, Regeln, Taler, Einstellungen) neu gezeichnet, jedes in drei Stilen: A Linie (dünne Linie), B Messing (Linie mit weicher Füllung, etwas kräftiger), C Voll (gefüllte Form mit ausgesparten Details). Gezeigt als nummerierter Bogen auf dunklem Holz und auf hellem Klar, und im Spielen-Bildschirm am Handy.",
-  "issue": "wirtshaus#492",
-  "rows": [
-   {
-    "label": "Bogen: 14 Zeichen × 3 Stile (1×, 2×, Kachel) – oben dunkles Holz, unten Klar",
-    "img": "changes/2026-11-26-sinnbilder-stile804/01-img-sheet-key-v1.webp"
-   },
-   {
-    "label": "Spielen-Bildschirm am Handy (405×720): A Linie · B Messing · C Voll",
-    "img": "changes/2026-11-26-sinnbilder-stile804/02-img-lobby-styles.webp"
-   },
-   {
-    "label": "Ausschnitt: Spielarten und untere Leiste je Stil",
-    "img": "changes/2026-11-26-sinnbilder-stile804/03-img-nav-tiles-styles.webp"
-   }
-  ],
-  "sha": "1b94ba4f"
- },
- {
   "id": "stil-flaechen798",
   "date": "2026-11-26T23:02:08.582Z",
   "title": "Flächen und Knöpfe aus einem Guss: Holz statt Goldlinien",
@@ -20298,5 +20276,30 @@
    }
   ],
   "sha": "b9476e83"
+ },
+ {
+  "id": "sinnbilder-stile804",
+  "date": "2026-11-26T23:23:54.744Z",
+  "title": "Entwurf: Sinnbilder – drei Stile zur Wahl",
+  "text": "Ein Zeichen-Satz für die ganze App in drei Stilen: A Linie (nur Linien), B Messing (Linien über einer halbkräftigen Fläche), C Voll (volle Form, Innenlinien ausgespart). Bis zur Wahl gilt „Misch“: C in den Kacheln und der Navigation, B neben Text. Kasse ist ein Geldbeutel mit Taler, Tagesblatt ein Kalenderblatt mit Kartenzeichen.",
+  "rows": [
+   {
+    "label": "Die 14 Hauptzeichen, nummeriert: je Stil 1×, 2× und als Kachel – dunkles Holz und Klar",
+    "img": "changes/2026-11-26-sinnbilder-stile804/01-img-sheet-key-v4c.webp"
+   },
+   {
+    "label": "Spielen am Handy (Wirtshaus): Kacheln und Navigation in A, B, C und Misch",
+    "img": "changes/2026-11-26-sinnbilder-stile804/02-img-nav-tiles-wirtshaus-v4.webp"
+   },
+   {
+    "label": "Dasselbe in Klar",
+    "img": "changes/2026-11-26-sinnbilder-stile804/03-img-nav-tiles-klar-v4.webp"
+   },
+   {
+    "label": "Ganzer Spielen-Bildschirm (Wirtshaus) in A, B, C und Misch",
+    "img": "changes/2026-11-26-sinnbilder-stile804/04-img-lobby-styles-wirtshaus-v4.webp"
+   }
+  ],
+  "sha": "fa15a292"
  }
 ]
