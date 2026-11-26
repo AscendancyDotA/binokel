@@ -19355,46 +19355,6 @@
   "sha": "385c788d"
  },
  {
-  "id": "stufen-alle785",
-  "date": "2026-11-25T07:56:20.169Z",
-  "title": "Entwurf: An jedem Tisch leuchtet nur, was du gerade tun kannst",
-  "text": "Entwurf – noch nicht im Spiel. Die drei Stufen vom Binokel-Tisch gelten an allen Tischen: Bist du dran, trägt genau ein Ort den hellen Schein – die Leiste zum Reizen oder Ansagen, der Knopf, mit dem dein Zug beginnt (Ziehen, Würfeln), sonst deine spielbaren Karten. Beim Skat sieht man, wer gegen wen reizt. „Du bist dran“ ist eine ruhige Zeile.",
-  "issue": "wirtshaus#476",
-  "rows": [
-   {
-    "label": "Skat: du reizt (Handy)",
-    "before": "changes/2026-11-25-stufen-alle785/01-before-before-skat-bid-phone.webp",
-    "after": "changes/2026-11-25-stufen-alle785/02-after-after-skat-bid-phone.webp"
-   },
-   {
-    "label": "Skat: du reizt (Computer)",
-    "before": "changes/2026-11-25-stufen-alle785/03-before-before-skat-bid-desk.webp",
-    "after": "changes/2026-11-25-stufen-alle785/04-after-after-skat-bid-desk.webp"
-   },
-   {
-    "label": "Doppelkopf: Gesund oder Vorbehalt",
-    "before": "changes/2026-11-25-stufen-alle785/05-before-before-dk-res-phone.webp",
-    "after": "changes/2026-11-25-stufen-alle785/06-after-after-dk-res-phone.webp"
-   },
-   {
-    "label": "Schafkopf: Spielst du?",
-    "before": "changes/2026-11-25-stufen-alle785/07-before-before-schafkopf-play-phone.webp",
-    "after": "changes/2026-11-25-stufen-alle785/08-after-after-schafkopf-play-phone.webp"
-   },
-   {
-    "label": "Canasta: Ziehen",
-    "before": "changes/2026-11-25-stufen-alle785/09-before-before-canasta-draw-phone.webp",
-    "after": "changes/2026-11-25-stufen-alle785/10-after-after-canasta-draw-phone.webp"
-   },
-   {
-    "label": "Fünf Würfel: Würfeln",
-    "before": "changes/2026-11-25-stufen-alle785/11-before-before-wuerfel-roll-phone.webp",
-    "after": "changes/2026-11-25-stufen-alle785/12-after-after-wuerfel-roll-phone.webp"
-   }
-  ],
-  "sha": "2623de76"
- },
- {
   "id": "meldelauf-auslage-entwurf",
   "date": "2026-11-25T09:06:43.549Z",
   "title": "Entwurf: Meldelauf – Auslage, Gemütlich und Bestwerte",
@@ -19598,5 +19558,45 @@
    }
   ],
   "sha": "4c4a8515"
+ },
+ {
+  "id": "stufen-alle785",
+  "date": "2026-11-26T11:26:54.812Z",
+  "title": "An jedem Tisch leuchtet nur, was du gerade tun kannst",
+  "text": "Die drei Stufen vom Binokel-Tisch gelten jetzt an allen Tischen: Bist du dran, trägt genau ein Ort den hellen Schein – die Leiste zum Reizen oder Ansagen, der Knopf, mit dem dein Zug beginnt (Ziehen, Würfeln), sonst deine spielbaren Karten. Beim Skat sieht man, wer gegen wen reizt. „Du bist dran“ ist eine ruhige Zeile.",
+  "issue": "wirtshaus#476",
+  "rows": [
+   {
+    "label": "Skat: du reizt (Handy)",
+    "before": "changes/2026-11-25-stufen-alle785/01-before-before-skat-bid-phone.webp",
+    "after": "changes/2026-11-25-stufen-alle785/02-after-after-skat-bid-phone.webp"
+   },
+   {
+    "label": "Skat: du reizt (Computer)",
+    "before": "changes/2026-11-25-stufen-alle785/03-before-before-skat-bid-desk.webp",
+    "after": "changes/2026-11-25-stufen-alle785/04-after-after-skat-bid-desk.webp"
+   },
+   {
+    "label": "Doppelkopf: Gesund oder Vorbehalt",
+    "before": "changes/2026-11-25-stufen-alle785/05-before-before-dk-res-phone.webp",
+    "after": "changes/2026-11-25-stufen-alle785/06-after-after-dk-res-phone.webp"
+   },
+   {
+    "label": "Schafkopf: Spielst du?",
+    "before": "changes/2026-11-25-stufen-alle785/07-before-before-schafkopf-play-phone.webp",
+    "after": "changes/2026-11-25-stufen-alle785/08-after-after-schafkopf-play-phone.webp"
+   },
+   {
+    "label": "Canasta: Ziehen",
+    "before": "changes/2026-11-25-stufen-alle785/09-before-before-canasta-draw-phone.webp",
+    "after": "changes/2026-11-25-stufen-alle785/10-after-after-canasta-draw-phone.webp"
+   },
+   {
+    "label": "Fünf Würfel: Würfeln",
+    "before": "changes/2026-11-25-stufen-alle785/11-before-before-wuerfel-roll-phone.webp",
+    "after": "changes/2026-11-25-stufen-alle785/12-after-after-wuerfel-roll-phone.webp"
+   }
+  ],
+  "sha": "2623de76"
  }
 ]
