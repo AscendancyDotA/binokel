@@ -19849,21 +19849,6 @@
   "sha": "c28ec17e"
  },
  {
-  "id": "kraftroulette-plakette",
-  "date": "2026-11-26T14:12:48.678Z",
-  "title": "Kraft-Roulette am Handy – die gefallene Zahl liegt nicht mehr auf einem Schild",
-  "text": "Entwurf – noch nicht im Spiel. Zahl und Topf stehen neben dem kleinen Rad in einer Reihe; vorher lag die Zahl auf den Chips des linken Mitspielers.",
-  "issue": "wirtshaus#521",
-  "rows": [
-   {
-    "label": "Handy 390×844, drei Spieler",
-    "before": "changes/2026-11-26-kraftroulette-plakette/01-before-strip-kraftroulette-390x844-p3.webp",
-    "after": "changes/2026-11-26-kraftroulette-plakette/02-after-strip-kraftroulette-390x844-p3.webp"
-   }
-  ],
-  "sha": "86f755ad"
- },
- {
   "id": "meer-schilder781",
   "date": "2026-11-26T15:09:16.296Z",
   "title": "Schiffe versenken: Schilder im Gemeinsamen Meer stehen frei",
@@ -20043,6 +20028,21 @@
     "label": "Jass, Handy 360×740, größte Schrift",
     "before": "changes/2026-11-26-ansage-bricht-um/01-before-jass-360x740-wirtshaus-t1.3-trumpf.webp",
     "after": "changes/2026-11-26-ansage-bricht-um/02-after-jass-360x740-wirtshaus-t1.3-trumpf.webp"
+   }
+  ],
+  "sha": "86f755ad"
+ },
+ {
+  "id": "kraftroulette-plakette",
+  "date": "2026-11-26T16:02:04.275Z",
+  "title": "Kraft-Roulette am Handy – die gefallene Zahl liegt nicht mehr auf einem Schild",
+  "text": "Zahl und Topf stehen neben dem kleinen Rad in einer Reihe; vorher lag die Zahl auf den Chips des linken Mitspielers.",
+  "issue": "wirtshaus#521",
+  "rows": [
+   {
+    "label": "Handy 390×844, drei Spieler",
+    "before": "changes/2026-11-26-kraftroulette-plakette/01-before-strip-kraftroulette-390x844-p3.webp",
+    "after": "changes/2026-11-26-kraftroulette-plakette/02-after-strip-kraftroulette-390x844-p3.webp"
    }
   ],
   "sha": "86f755ad"
