@@ -19929,5 +19929,25 @@
    }
   ],
   "sha": "4dec7edf"
+ },
+ {
+  "id": "blackjack-teilen799",
+  "date": "2026-11-26T15:09:23.968Z",
+  "title": "Blackjack zu sechst: geteilte Hände bleiben auf ihrem Platz",
+  "text": "Teilt am Tisch zu sechst ein Mitspieler oben seine Hand, rücken die Eckplätze unter seine Kartenreihe; im Querformat stehen drei oder vier Hände als zwei schmale Spalten. Vorher lagen Summen und Einsätze auf den Namen der Nachbarn.",
+  "issue": "wirtshaus#514",
+  "rows": [
+   {
+    "label": "Handy 444×987, oben vier Hände",
+    "before": "changes/2026-11-26-blackjack-teilen799/01-before-forced-corner-n-444x987-before.webp",
+    "after": "changes/2026-11-26-blackjack-teilen799/02-after-forced-corner-n-444x987-after.webp"
+   },
+   {
+    "label": "Quer 844×390",
+    "before": "changes/2026-11-26-blackjack-teilen799/03-before-forced-corner-n-844x390-before.webp",
+    "after": "changes/2026-11-26-blackjack-teilen799/04-after-forced-corner-n-844x390-after.webp"
+   }
+  ],
+  "sha": "4dec7edf"
  }
 ]
