@@ -20600,5 +20600,37 @@
    }
   ],
   "sha": "3533d203"
+ },
+ {
+  "id": "raetsel-heute-817",
+  "date": "2026-11-27T16:24:55.055Z",
+  "title": "Entwurf: Rätsel des Tages – Übersicht „Heute“ für alle Spiele",
+  "text": "Entwurf – noch nicht im Spiel. Statt einer langen Reiterleiste öffnet das Rätsel des Tages eine Übersicht: welche Spiele heute ein Rätsel haben und was du damit gemacht hast, deine Spiele zuerst, dann alle nach Familie. Die Karte auf Willkommen zeigt das Rätsel deines Spiels oder das nächste offene.",
+  "issue": "wirtshaus#538",
+  "rows": [
+   {
+    "label": "Handy 390×844",
+    "before": "changes/2026-11-27-raetsel-heute-817/01-before-puzzle-before-390x844.webp",
+    "after": "changes/2026-11-27-raetsel-heute-817/02-after-puzzle-overview-390x844.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "before": "changes/2026-11-27-raetsel-heute-817/03-before-puzzle-before-1280x800.webp",
+    "after": "changes/2026-11-27-raetsel-heute-817/04-after-puzzle-overview-1280x800.webp"
+   },
+   {
+    "label": "Übersicht, Handy 360×740, größte Schrift",
+    "img": "changes/2026-11-27-raetsel-heute-817/05-img-puzzle-overview-360x740-text13.webp"
+   },
+   {
+    "label": "Im Rätsel: zurück zur Übersicht, nächstes offenes Rätsel",
+    "img": "changes/2026-11-27-raetsel-heute-817/06-img-puzzle-nav-390x844.webp"
+   },
+   {
+    "label": "Willkommen: das hervorgehobene Rätsel",
+    "img": "changes/2026-11-27-raetsel-heute-817/07-img-puzzle-welcome-phone.webp"
+   }
+  ],
+  "sha": "c1a772f5"
  }
 ]
