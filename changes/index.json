@@ -20632,5 +20632,42 @@
    }
   ],
   "sha": "dec0f3c5"
+ },
+ {
+  "id": "raetsel-zaehlhilfe",
+  "date": "2026-11-27T18:55:34.409Z",
+  "title": "Entwurf: Rätsel des Tages – was schon gefallen ist, steht dabei",
+  "text": "Entwurf – noch nicht im Spiel. Bei jedem Stichspiel zeigt das Rätsel, welche Karten schon gefallen sind und was am Tisch angesagt oder gezeigt wurde; am Handy klappt die Zählhilfe mit einem Tipp auf. Bei Rommé und Canasta stehen die ausgelegten Karten und der Ablagestapel dabei.",
+  "issue": "wirtshaus#539",
+  "rows": [
+   {
+    "label": "Schnapsen am Handy",
+    "before": "changes/2026-11-27-raetsel-zaehlhilfe/01-before-before-schnapsen-390x844.webp",
+    "after": "changes/2026-11-27-raetsel-zaehlhilfe/02-after-after-schnapsen-390x844.webp"
+   },
+   {
+    "label": "Schnapsen: Zählhilfe aufgeklappt",
+    "img": "changes/2026-11-27-raetsel-zaehlhilfe/03-img-after-schnapsen-390x844-open.webp"
+   },
+   {
+    "label": "Schafkopf am Handy: die gerufene Sau steht dabei",
+    "before": "changes/2026-11-27-raetsel-zaehlhilfe/04-before-before-schafkopf-390x844.webp",
+    "after": "changes/2026-11-27-raetsel-zaehlhilfe/05-after-after-schafkopf-390x844.webp"
+   },
+   {
+    "label": "Schafkopf: Zählhilfe aufgeklappt",
+    "img": "changes/2026-11-27-raetsel-zaehlhilfe/06-img-after-schafkopf-390x844-open.webp"
+   },
+   {
+    "label": "Doppelkopf am Bildschirm",
+    "before": "changes/2026-11-27-raetsel-zaehlhilfe/07-before-before-doppelkopf-1280x800.webp",
+    "after": "changes/2026-11-27-raetsel-zaehlhilfe/08-after-after-doppelkopf-1280x800.webp"
+   },
+   {
+    "label": "Rommé: ausgelegte Karten und Ablagestapel",
+    "img": "changes/2026-11-27-raetsel-zaehlhilfe/09-img-after-romme-390x844-table.webp"
+   }
+  ],
+  "sha": "5bd815b2"
  }
 ]
