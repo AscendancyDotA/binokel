@@ -20669,5 +20669,43 @@
    }
   ],
   "sha": "5bd815b2"
+ },
+ {
+  "id": "zechpreller-819",
+  "date": "2026-11-27T19:39:41.740Z",
+  "title": "Entwurf: Zechpreller – ein Partyspiel mit verdeckten Rollen",
+  "text": "Neues Partyspiel für 5 bis 8 Gäste (Stufe Konzept, ohne Wertung und ohne Taler): Am Stammtisch zahlen alle ihre Zechen gemeinsam, aber zwei oder drei Gäste prellen heimlich. Der Schreiber schlägt die Einsammler vor, alle stimmen ab, die Einsammler legen verdeckt in den Hut, danach sagt jeder einen Satz aus einer festen Liste.",
+  "issue": "wirtshaus#540",
+  "rows": [
+   {
+    "label": "Handy 390×844: Vorschlag",
+    "img": "changes/2026-11-27-zechpreller-819/01-img-offline-proposea-390x844-n8-m1.webp"
+   },
+   {
+    "label": "Handy 390×844: Abstimmung",
+    "img": "changes/2026-11-27-zechpreller-819/02-img-offline-votea-390x844-n8-m1.webp"
+   },
+   {
+    "label": "Handy 390×844: Hut",
+    "img": "changes/2026-11-27-zechpreller-819/03-img-offline-paya-390x844-n8-m1.webp"
+   },
+   {
+    "label": "Handy 390×844: Sätze",
+    "img": "changes/2026-11-27-zechpreller-819/04-img-offline-talka-390x844-n8-m1.webp"
+   },
+   {
+    "label": "Acht Gäste, 405×720",
+    "img": "changes/2026-11-27-zechpreller-819/05-img-offline-voteb-405x720-n8-m1.webp"
+   },
+   {
+    "label": "Desktop 1280×800",
+    "img": "changes/2026-11-27-zechpreller-819/06-img-offline-votec-1280x800-n8-m1.webp"
+   },
+   {
+    "label": "Partie vorbei",
+    "img": "changes/2026-11-27-zechpreller-819/07-img-offline-matchenda-390x844-n8-m1.webp"
+   }
+  ],
+  "sha": "6df9641e"
  }
 ]
