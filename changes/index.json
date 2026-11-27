@@ -20303,64 +20303,6 @@
   "sha": "fa15a292"
  },
  {
-  "id": "hauptknopf-glanz-entwurf",
-  "date": "2026-11-27T00:13:08.240Z",
-  "title": "Entwurf: Ruhigerer Glanz auf dem goldenen Hauptknopf, Hauptknopf in Poker, Blackjack, Roulette",
-  "text": "Entwurf – noch nicht im Spiel. Der goldene Hauptknopf glänzt ruhiger: ein satinierter Verlauf statt des Spiegelstreifens, der Lichtstreif ist auf jedem Knopf gleich groß und blendet weich ein und aus. Am eigenen Zug zeigen jetzt auch Poker, Blackjack, Roulette, Kraft-Roulette, Schiffe versenken, Lupfen und Handel einen goldenen Hauptknopf; in Poker sind „Passen“ und „Erhöhen“ wieder lesbar.",
-  "issue": "wirtshaus#492",
-  "rows": [
-   {
-    "label": "Drei Vorschläge: heute · A weich · B satiniert (gebaut) · C Lichtkante – Lichtstreif in der Mitte",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/01-img-kandidaten.webp"
-   },
-   {
-    "label": "„Tisch aufmachen“ am Desktop (1280×800), Lichtstreif in der Mitte",
-    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/02-before-tisch-desk-mitte-vorher.webp",
-    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/03-after-tisch-desk-mitte-nachher.webp"
-   },
-   {
-    "label": "„Tisch aufmachen“ am Handy (405×720)",
-    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/04-before-tisch-phone-mitte-vorher.webp",
-    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/05-after-tisch-phone-mitte-nachher.webp"
-   },
-   {
-    "label": "„Jetzt spielen“ am Handy",
-    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/06-before-jetzt-phone-mitte-vorher.webp",
-    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/07-after-jetzt-phone-mitte-nachher.webp"
-   },
-   {
-    "label": "Kleinstes Gebot am Binokel-Tisch",
-    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/08-before-gebot-phone-still-vorher.webp",
-    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/09-after-gebot-phone-still-nachher.webp"
-   },
-   {
-    "label": "Poker: Mitgehen ist der Hauptknopf, Passen und Erhöhen lesbar",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/10-img-poker-check.webp"
-   },
-   {
-    "label": "Blackjack: Karte",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/11-img-pair-blackjack-blackjack-hit.webp"
-   },
-   {
-    "label": "Roulette: Fertig, sobald ein Chip liegt",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/12-img-pair-roulette-roulette-done.webp"
-   },
-   {
-    "label": "Schiffe versenken: Fertig",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/13-img-pair-schiffe-schiffe-ready.webp"
-   },
-   {
-    "label": "Lupfen: Weiter am Rundenende",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/14-img-lupfen.webp"
-   },
-   {
-    "label": "Handel: Zug beenden",
-    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/15-img-handel.webp"
-   }
-  ],
-  "sha": "8dc3e42a"
- },
- {
   "id": "binokel-gross-hochkant",
   "date": "2026-11-27T00:55:44.264Z",
   "title": "Entwurf: Binokel zu fünft, sechst und acht – kurzes Hochformat und Plätze am Tischrand",
@@ -20550,5 +20492,59 @@
    }
   ],
   "sha": "fa15a292"
+ },
+ {
+  "id": "hauptknopf-glanz-entwurf",
+  "date": "2026-11-27T03:10:33.075Z",
+  "title": "Ruhigerer Glanz auf dem goldenen Hauptknopf, Hauptknopf in Poker, Blackjack, Roulette",
+  "text": "Der goldene Hauptknopf glänzt ruhiger: ein satinierter Verlauf statt des Spiegelstreifens, der Lichtstreif ist auf jedem Knopf gleich groß und blendet weich ein und aus. Am eigenen Zug zeigen jetzt auch Poker, Blackjack, Roulette, Kraft-Roulette, Schiffe versenken, Lupfen und Handel einen goldenen Hauptknopf; in Poker sind „Passen“ und „Erhöhen“ wieder lesbar.",
+  "issue": "wirtshaus#492",
+  "rows": [
+   {
+    "label": "„Tisch aufmachen“ am Desktop (1280×800), Lichtstreif in der Mitte",
+    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/02-before-tisch-desk-mitte-vorher.webp",
+    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/03-after-tisch-desk-mitte-nachher.webp"
+   },
+   {
+    "label": "„Tisch aufmachen“ am Handy (405×720)",
+    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/04-before-tisch-phone-mitte-vorher.webp",
+    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/05-after-tisch-phone-mitte-nachher.webp"
+   },
+   {
+    "label": "„Jetzt spielen“ am Handy",
+    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/06-before-jetzt-phone-mitte-vorher.webp",
+    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/07-after-jetzt-phone-mitte-nachher.webp"
+   },
+   {
+    "label": "Kleinstes Gebot am Binokel-Tisch",
+    "before": "changes/2026-11-27-hauptknopf-glanz-entwurf/08-before-gebot-phone-still-vorher.webp",
+    "after": "changes/2026-11-27-hauptknopf-glanz-entwurf/09-after-gebot-phone-still-nachher.webp"
+   },
+   {
+    "label": "Poker: Mitgehen ist der Hauptknopf, Passen und Erhöhen lesbar",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/10-img-poker-check.webp"
+   },
+   {
+    "label": "Blackjack: Karte",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/11-img-pair-blackjack-blackjack-hit.webp"
+   },
+   {
+    "label": "Roulette: Fertig, sobald ein Chip liegt",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/12-img-pair-roulette-roulette-done.webp"
+   },
+   {
+    "label": "Schiffe versenken: Fertig",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/13-img-pair-schiffe-schiffe-ready.webp"
+   },
+   {
+    "label": "Lupfen: Weiter am Rundenende",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/14-img-lupfen.webp"
+   },
+   {
+    "label": "Handel: Zug beenden",
+    "img": "changes/2026-11-27-hauptknopf-glanz-entwurf/15-img-handel.webp"
+   }
+  ],
+  "sha": "8dc3e42a"
  }
 ]
