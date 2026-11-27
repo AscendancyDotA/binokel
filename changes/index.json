@@ -20627,26 +20627,6 @@
   "sha": "15a732c9"
  },
  {
-  "id": "zechpreller-819",
-  "date": "2026-11-27T20:59:44.232Z",
-  "title": "Entwurf: Zechpreller – Gäste und Brett aufgeräumt",
-  "text": "Entwurf – noch nicht im Spiel. Die Gäste sitzen jetzt ganz auf dem Filz, jeder Name ist ganz zu lesen, das Ja/Nein steht neben dem Namen statt darauf. Die Liste „Bisher“ scrollt in ihrem eigenen Kasten, die Vorschlags-Knöpfe nehmen die kurzen Namen.",
-  "issue": "wirtshaus#540",
-  "rows": [
-   {
-    "label": "Computer 1280×800: Vorschlag",
-    "before": "changes/2026-11-27-zechpreller-819/01-before-offline-proposec-1280x800-n8-m1.webp",
-    "after": "changes/2026-11-27-zechpreller-819/02-after-offline-propose-1280x800-n8-m1.webp"
-   },
-   {
-    "label": "Handy 390×844: Vorschlag",
-    "before": "changes/2026-11-27-zechpreller-819/03-before-offline-proposea-390x844-n8-m1.webp",
-    "after": "changes/2026-11-27-zechpreller-819/04-after-offline-propose-390x844-n8-m1.webp"
-   }
-  ],
-  "sha": "375840f3"
- },
- {
   "id": "item822-storefix",
   "date": "2026-11-27T21:34:17.869Z",
   "title": "Entwurf: Einzel-Apps – Fehler aus den Store-Bildern behoben (Item 822)",
@@ -20771,5 +20751,25 @@
    }
   ],
   "sha": "e8a4fba7"
+ },
+ {
+  "id": "zechpreller-819",
+  "date": "2026-11-27T23:56:00.917Z",
+  "title": "Zechpreller – neues Partyspiel im Bau",
+  "text": "Fünf bis acht Gäste zahlen ihre Zechen gemeinsam, zwei oder drei prellen heimlich. Der Schreiber schlägt die Einsammler vor, alle stimmen gleichzeitig ab, die Einsammler legen verdeckt „zahlen“ oder „prellen“ in den Hut. Leere Plätze füllen Bots; ohne Wertung und ohne Taler.",
+  "issue": "wirtshaus#540",
+  "rows": [
+   {
+    "label": "Computer 1280×800: Vorschlag",
+    "before": "changes/2026-11-27-zechpreller-819/01-before-offline-proposec-1280x800-n8-m1.webp",
+    "after": "changes/2026-11-27-zechpreller-819/02-after-offline-propose-1280x800-n8-m1.webp"
+   },
+   {
+    "label": "Handy 390×844: Vorschlag",
+    "before": "changes/2026-11-27-zechpreller-819/03-before-offline-proposea-390x844-n8-m1.webp",
+    "after": "changes/2026-11-27-zechpreller-819/04-after-offline-propose-390x844-n8-m1.webp"
+   }
+  ],
+  "sha": "375840f3"
  }
 ]
