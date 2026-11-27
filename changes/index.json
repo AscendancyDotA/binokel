@@ -20580,5 +20580,25 @@
    }
   ],
   "sha": "dec0f3c5"
+ },
+ {
+  "id": "i815-lobby",
+  "date": "2026-11-27T15:35:00.679Z",
+  "title": "Lobby am Handy – ein Rahmen am gewählten Reiter, Meldebild wie am Bildschirm",
+  "text": "Der gewählte Reiter der unteren Leiste hat nur noch den schrägen Goldrahmen. Das Bildschirmfoto einer Fehlermeldung zeigt die Lobby im Firefox-Modus „Desktop-Website“ so, wie sie am Bildschirm aussieht. Zusammengeführt, kommt mit dem nächsten Release.",
+  "issue": "wirtshaus#535",
+  "rows": [
+   {
+    "label": "Untere Leiste",
+    "before": "changes/2026-11-27-i815-lobby/01-before-cs-bar-base.webp",
+    "after": "changes/2026-11-27-i815-lobby/02-after-cs-bar-after.webp"
+   },
+   {
+    "label": "Meldebild (Firefox, Desktop-Website)",
+    "before": "changes/2026-11-27-i815-lobby/03-before-cs-cap-base.webp",
+    "after": "changes/2026-11-27-i815-lobby/04-after-cs-cap-after.webp"
+   }
+  ],
+  "sha": "3533d203"
  }
 ]
