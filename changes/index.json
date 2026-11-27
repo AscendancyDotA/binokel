@@ -20352,51 +20352,6 @@
   "sha": "ba11eb0a"
  },
  {
-  "id": "weihnachtsmarkt806",
-  "date": "2026-11-27T02:48:35.194Z",
-  "title": "Entwurf: Weihnachtsmarkt im Wirtshaus",
-  "text": "Entwurf – noch nicht im Spiel. Zum Weihnachtsmarkt gibt es beim Spielen Stück für Stück Nikolausmütze, Lebkuchenmann, Zuckerstange und Weihnachts-Sprüch; Schneebälle kann jeder werfen. Im Willkommen hängt eine Lichterkette.",
-  "issue": "wirtshaus#528",
-  "rows": [
-   {
-    "label": "Shop › Saison am Handy",
-    "before": "changes/2026-11-27-weihnachtsmarkt806/01-before-saison-phone.webp",
-    "after": "changes/2026-11-27-weihnachtsmarkt806/02-after-saison-phone.webp"
-   },
-   {
-    "label": "Shop › Saison am Rechner",
-    "before": "changes/2026-11-27-weihnachtsmarkt806/03-before-saison-desk.webp",
-    "after": "changes/2026-11-27-weihnachtsmarkt806/04-after-saison-desk.webp"
-   },
-   {
-    "label": "Willkommen am Handy: Lichterkette und einmaliger Hinweis",
-    "before": "changes/2026-11-27-weihnachtsmarkt806/05-before-welcome-phone.webp",
-    "after": "changes/2026-11-27-weihnachtsmarkt806/06-after-welcome-phone.webp"
-   },
-   {
-    "label": "Willkommen im hellen Look",
-    "img": "changes/2026-11-27-weihnachtsmarkt806/07-img-welcome-desk.webp"
-   },
-   {
-    "label": "Am Tisch (Handy): Nikolausmütze links – die Zeile unter dem Namen bleibt lesbar; Lebkuchenmann, Zuckerstange, Strohstern, roter Weihnachtsstern-Rücken",
-    "img": "changes/2026-11-27-weihnachtsmarkt806/08-img-after-table-phone.webp"
-   },
-   {
-    "label": "Am Tisch (Rechner)",
-    "img": "changes/2026-11-27-weihnachtsmarkt806/09-img-after-table-desktop.webp"
-   },
-   {
-    "label": "Der Lebkuchenmann: ein Bissen je gewonnener Runde",
-    "img": "changes/2026-11-27-weihnachtsmarkt806/10-img-bites-strip.webp"
-   },
-   {
-    "label": "Der Schneeball fliegt und platzt am Rand des Bilds",
-    "img": "changes/2026-11-27-weihnachtsmarkt806/11-img-snowball-strip.webp"
-   }
-  ],
-  "sha": "815921e2"
- },
- {
   "id": "sinnbilder804",
   "date": "2026-11-27T03:10:28.515Z",
   "title": "Sinnbilder – ein Zeichen-Satz für die ganze App",
@@ -20546,5 +20501,50 @@
    }
   ],
   "sha": "81638459"
+ },
+ {
+  "id": "weihnachtsmarkt806",
+  "date": "2026-11-27T04:10:26.413Z",
+  "title": "Weihnachtsmarkt im Wirtshaus",
+  "text": "Zum Weihnachtsmarkt gibt es beim Spielen Stück für Stück Nikolausmütze, Lebkuchenmann, Zuckerstange und Weihnachts-Sprüch; Schneebälle kann jeder werfen. Im Willkommen hängt eine Lichterkette.",
+  "issue": "wirtshaus#528",
+  "rows": [
+   {
+    "label": "Shop › Saison am Handy",
+    "before": "changes/2026-11-27-weihnachtsmarkt806/01-before-saison-phone.webp",
+    "after": "changes/2026-11-27-weihnachtsmarkt806/02-after-saison-phone.webp"
+   },
+   {
+    "label": "Shop › Saison am Rechner",
+    "before": "changes/2026-11-27-weihnachtsmarkt806/03-before-saison-desk.webp",
+    "after": "changes/2026-11-27-weihnachtsmarkt806/04-after-saison-desk.webp"
+   },
+   {
+    "label": "Willkommen am Handy: Lichterkette und einmaliger Hinweis",
+    "before": "changes/2026-11-27-weihnachtsmarkt806/05-before-welcome-phone.webp",
+    "after": "changes/2026-11-27-weihnachtsmarkt806/06-after-welcome-phone.webp"
+   },
+   {
+    "label": "Willkommen im hellen Look",
+    "img": "changes/2026-11-27-weihnachtsmarkt806/07-img-welcome-desk.webp"
+   },
+   {
+    "label": "Am Tisch (Handy): Nikolausmütze links – die Zeile unter dem Namen bleibt lesbar; Lebkuchenmann, Zuckerstange, Strohstern, roter Weihnachtsstern-Rücken",
+    "img": "changes/2026-11-27-weihnachtsmarkt806/08-img-after-table-phone.webp"
+   },
+   {
+    "label": "Am Tisch (Rechner)",
+    "img": "changes/2026-11-27-weihnachtsmarkt806/09-img-after-table-desktop.webp"
+   },
+   {
+    "label": "Der Lebkuchenmann: ein Bissen je gewonnener Runde",
+    "img": "changes/2026-11-27-weihnachtsmarkt806/10-img-bites-strip.webp"
+   },
+   {
+    "label": "Der Schneeball fliegt und platzt am Rand des Bilds",
+    "img": "changes/2026-11-27-weihnachtsmarkt806/11-img-snowball-strip.webp"
+   }
+  ],
+  "sha": "815921e2"
  }
 ]
