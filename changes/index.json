@@ -20627,45 +20627,6 @@
   "sha": "15a732c9"
  },
  {
-  "id": "item822-storefix",
-  "date": "2026-11-27T21:34:17.869Z",
-  "title": "Entwurf: Einzel-Apps – Fehler aus den Store-Bildern behoben (Item 822)",
-  "text": "Namensschild über „Gegner“, Ansage unter dem Stich, Tipp über dem Würfel, Karten-Satz im Würfelspiel, Rätsel ohne Frage, Bots vorn in der Rangliste – jeweils vorher / nachher.",
-  "rows": [
-   {
-    "label": "Canasta: Schilder über „Gegner“",
-    "before": "changes/2026-11-27-item822-storefix/01-before-canasta_screenshots_de_phone-1-table-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/02-after-canasta_screenshots_de_phone-1-table-after.webp"
-   },
-   {
-    "label": "Bid Whist: Ansage unter dem Stich",
-    "before": "changes/2026-11-27-item822-storefix/03-before-bidwhist_screenshots_de_phone-5-analysis-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/04-after-bidwhist_screenshots_de_phone-5-analysis-after.webp"
-   },
-   {
-    "label": "Heimlauf: Tipp über dem Würfel",
-    "before": "changes/2026-11-27-item822-storefix/05-before-heimlauf_screenshots_de_phone-2-learn-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/06-after-heimlauf_screenshots_de_phone-2-learn-after.webp"
-   },
-   {
-    "label": "Heimlauf: „Bot wusste“ ohne Karten",
-    "before": "changes/2026-11-27-item822-storefix/07-before-heimlauf_screenshots_de_phone-5-analysis-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/08-after-heimlauf_screenshots_de_phone-5-analysis-after.webp"
-   },
-   {
-    "label": "Mühle: Rätsel mit Frage",
-    "before": "changes/2026-11-27-item822-storefix/09-before-muehle_screenshots_de_phone-8-puzzle-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/10-after-muehle_screenshots_de_phone-8-puzzle-after.webp"
-   },
-   {
-    "label": "Dame: Menschen vorn",
-    "before": "changes/2026-11-27-item822-storefix/11-before-dame_screenshots_de_tablet-1-ranks-before.webp",
-    "after": "changes/2026-11-27-item822-storefix/12-after-dame_screenshots_de_tablet-1-ranks-after.webp"
-   }
-  ],
-  "sha": "48ee1a25"
- },
- {
   "id": "raetsel-heute-817",
   "date": "2026-11-27T22:07:10.758Z",
   "title": "Rätsel des Tages – Übersicht „Heute“ für alle Spiele",
@@ -20769,5 +20730,39 @@
    }
   ],
   "sha": "375840f3"
+ },
+ {
+  "id": "item822-storefix",
+  "date": "2026-11-27T23:56:26.337Z",
+  "title": "Canasta, Bid Whist, Heimlauf, Rätsel: Schilder, Tipps und Überschriften sitzen richtig",
+  "text": "Auf dem Handy lagen bei den neuen Spielen ein paar Dinge übereinander: Namensschilder über „Gegner“, die Ansage unter dem Stich, der Tipp der Lernrunde über dem Würfel. In der Auswertung von Würfel- und Brettspielen steht jetzt, was der Bot wusste, ohne von Karten zu reden, und im Rätsel bleibt die Frage oben stehen.",
+  "rows": [
+   {
+    "label": "Canasta: Schilder über „Gegner“",
+    "before": "changes/2026-11-27-item822-storefix/01-before-canasta_screenshots_de_phone-1-table-before.webp",
+    "after": "changes/2026-11-27-item822-storefix/02-after-canasta_screenshots_de_phone-1-table-after.webp"
+   },
+   {
+    "label": "Bid Whist: Ansage unter dem Stich",
+    "before": "changes/2026-11-27-item822-storefix/03-before-bidwhist_screenshots_de_phone-5-analysis-before.webp",
+    "after": "changes/2026-11-27-item822-storefix/04-after-bidwhist_screenshots_de_phone-5-analysis-after.webp"
+   },
+   {
+    "label": "Heimlauf: Tipp über dem Würfel",
+    "before": "changes/2026-11-27-item822-storefix/05-before-heimlauf_screenshots_de_phone-2-learn-before.webp",
+    "after": "changes/2026-11-27-item822-storefix/06-after-heimlauf_screenshots_de_phone-2-learn-after.webp"
+   },
+   {
+    "label": "Heimlauf: „Bot wusste“ ohne Karten",
+    "before": "changes/2026-11-27-item822-storefix/07-before-heimlauf_screenshots_de_phone-5-analysis-before.webp",
+    "after": "changes/2026-11-27-item822-storefix/08-after-heimlauf_screenshots_de_phone-5-analysis-after.webp"
+   },
+   {
+    "label": "Mühle: Rätsel mit Frage",
+    "before": "changes/2026-11-27-item822-storefix/09-before-muehle_screenshots_de_phone-8-puzzle-before.webp",
+    "after": "changes/2026-11-27-item822-storefix/10-after-muehle_screenshots_de_phone-8-puzzle-after.webp"
+   }
+  ],
+  "sha": "48ee1a25"
  }
 ]
