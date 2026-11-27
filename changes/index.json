@@ -20352,28 +20352,6 @@
   "sha": "ba11eb0a"
  },
  {
-  "id": "raetsel-alle-spiele",
-  "date": "2026-11-27T01:26:23.979Z",
-  "title": "Entwurf: Rätsel des Tages für jedes Spiel",
-  "text": "Entwurf – noch nicht im Spiel. Jedes Spiel bekommt jetzt jeden Tag ein Rätsel: passt keine echte Partie, kommt die Stellung aus einer Partie der Bots. Je Spiel drei Rätsel, jeweils Frage und Auflösung.",
-  "issue": "wirtshaus#532",
-  "rows": [
-   {
-    "label": "Skat, Schnapsen, Doppelkopf, Schafkopf, Binokel, Gaigel, Watten, Bid Whist",
-    "img": "changes/2026-11-27-raetsel-alle-spiele/01-img-wave1.webp"
-   },
-   {
-    "label": "Bauernschnapsen, Lupfen, Schwimmen, Mau-Mau, Rommé, Canasta",
-    "img": "changes/2026-11-27-raetsel-alle-spiele/02-img-wave2.webp"
-   },
-   {
-    "label": "Vier gewinnt, Backgammon, Würfelpoker, Schocken, Jass",
-    "img": "changes/2026-11-27-raetsel-alle-spiele/03-img-wave3.webp"
-   }
-  ],
-  "sha": "81638459"
- },
- {
   "id": "weihnachtsmarkt806",
   "date": "2026-11-27T02:48:35.194Z",
   "title": "Entwurf: Weihnachtsmarkt im Wirtshaus",
@@ -20546,5 +20524,27 @@
    }
   ],
   "sha": "1eb2ab07"
+ },
+ {
+  "id": "raetsel-alle-spiele",
+  "date": "2026-11-27T03:10:41.119Z",
+  "title": "Rätsel des Tages für jedes Spiel",
+  "text": "Jedes Rätsel-Spiel bekommt jetzt an fast jedem Tag ein Rätsel: passt keine echte Partie, kommt die Stellung aus einer Partie der Bots. Je Spiel drei Rätsel, jeweils Frage und Auflösung.",
+  "issue": "wirtshaus#532",
+  "rows": [
+   {
+    "label": "Skat, Schnapsen, Doppelkopf, Schafkopf, Binokel, Gaigel, Watten, Bid Whist",
+    "img": "changes/2026-11-27-raetsel-alle-spiele/01-img-wave1.webp"
+   },
+   {
+    "label": "Bauernschnapsen, Lupfen, Schwimmen, Mau-Mau, Rommé, Canasta",
+    "img": "changes/2026-11-27-raetsel-alle-spiele/02-img-wave2.webp"
+   },
+   {
+    "label": "Vier gewinnt, Backgammon, Würfelpoker, Schocken, Jass",
+    "img": "changes/2026-11-27-raetsel-alle-spiele/03-img-wave3.webp"
+   }
+  ],
+  "sha": "81638459"
  }
 ]
