@@ -20352,32 +20352,6 @@
   "sha": "ba11eb0a"
  },
  {
-  "id": "kopfgeld-gemeinsam-811",
-  "date": "2026-11-27T01:24:00.793Z",
-  "title": "Entwurf: Kopfgeld des Tages wieder ein Brett für alle Apps",
-  "text": "Entwurf: Das Kopfgeld des Tages ist wieder ein gemeinsames Brett – wer es in einer Einzel-App holt, steht auch im Wirtshaus als Sieger drauf und umgekehrt. Eine Einzel-App zeigt davon nur, was sie spielen kann, und hat oben einen kleinen Teil „Nur hier“, der nur mit Partien in dieser App zählt.",
-  "issue": "wirtshaus#531",
-  "rows": [
-   {
-    "label": "Wirtshaus (Handy): Große Runde 300, in der Binokel-App geholt",
-    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/01-img-tasks811-wirtshaus-phone.webp"
-   },
-   {
-    "label": "Binokel-App (Handy): „Nur hier“ oben, Siegesserie 3 im Wirtshaus geholt",
-    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/02-img-tasks811-binokel-phone.webp"
-   },
-   {
-    "label": "Schnapsen-App (Desktop): nur Schnapsen und allgemeine Kopfgelder",
-    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/03-img-tasks811-schnapsen-desktop.webp"
-   },
-   {
-    "label": "Hinterzimmer (Desktop): das ganze Brett und „Nur hier“",
-    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/04-img-tasks811-hinterzimmer-desktop.webp"
-   }
-  ],
-  "sha": "1eb2ab07"
- },
- {
   "id": "raetsel-alle-spiele",
   "date": "2026-11-27T01:26:23.979Z",
   "title": "Entwurf: Rätsel des Tages für jedes Spiel",
@@ -20546,5 +20520,31 @@
    }
   ],
   "sha": "8dc3e42a"
+ },
+ {
+  "id": "kopfgeld-gemeinsam-811",
+  "date": "2026-11-27T03:10:37.139Z",
+  "title": "Kopfgeld des Tages wieder ein Brett für alle Apps",
+  "text": "Das Kopfgeld des Tages ist wieder ein gemeinsames Brett – wer es in einer Einzel-App holt, steht auch im Wirtshaus als Sieger drauf und umgekehrt. Eine Einzel-App zeigt davon nur, was sie spielen kann, und hat oben einen kleinen Teil „Nur hier“, der nur mit Partien in dieser App zählt.",
+  "issue": "wirtshaus#531",
+  "rows": [
+   {
+    "label": "Wirtshaus (Handy): Große Runde 300, in der Binokel-App geholt",
+    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/01-img-tasks811-wirtshaus-phone.webp"
+   },
+   {
+    "label": "Binokel-App (Handy): „Nur hier“ oben, Siegesserie 3 im Wirtshaus geholt",
+    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/02-img-tasks811-binokel-phone.webp"
+   },
+   {
+    "label": "Schnapsen-App (Desktop): nur Schnapsen und allgemeine Kopfgelder",
+    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/03-img-tasks811-schnapsen-desktop.webp"
+   },
+   {
+    "label": "Hinterzimmer (Desktop): das ganze Brett und „Nur hier“",
+    "img": "changes/2026-11-27-kopfgeld-gemeinsam-811/04-img-tasks811-hinterzimmer-desktop.webp"
+   }
+  ],
+  "sha": "1eb2ab07"
  }
 ]
