@@ -20508,7 +20508,7 @@
  },
  {
   "id": "weihnachtsmarkt806",
-  "date": "2026-11-27T01:37:54.112Z",
+  "date": "2026-11-27T02:48:35.194Z",
   "title": "Entwurf: Weihnachtsmarkt im Wirtshaus",
   "text": "Entwurf – noch nicht im Spiel. Zum Weihnachtsmarkt gibt es beim Spielen Stück für Stück Nikolausmütze, Lebkuchenmann, Zuckerstange und Weihnachts-Sprüch; Schneebälle kann jeder werfen. Im Willkommen hängt eine Lichterkette.",
   "issue": "wirtshaus#528",
@@ -20533,7 +20533,7 @@
     "img": "changes/2026-11-27-weihnachtsmarkt806/07-img-welcome-desk.webp"
    },
    {
-    "label": "Am Tisch (Handy): Nikolausmütze, Lebkuchenmann, Zuckerstange, Strohstern, roter Weihnachtsstern-Rücken",
+    "label": "Am Tisch (Handy): Nikolausmütze links – die Zeile unter dem Namen bleibt lesbar; Lebkuchenmann, Zuckerstange, Strohstern, roter Weihnachtsstern-Rücken",
     "img": "changes/2026-11-27-weihnachtsmarkt806/08-img-after-table-phone.webp"
    },
    {
@@ -20549,6 +20549,6 @@
     "img": "changes/2026-11-27-weihnachtsmarkt806/11-img-snowball-strip.webp"
    }
   ],
-  "sha": "eedcd804"
+  "sha": "815921e2"
  }
 ]
