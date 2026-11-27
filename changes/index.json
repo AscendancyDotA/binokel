@@ -20760,14 +20760,12 @@
   "issue": "wirtshaus#540",
   "rows": [
    {
-    "label": "Computer 1280×800: Vorschlag",
-    "before": "changes/2026-11-27-zechpreller-819/01-before-offline-proposec-1280x800-n8-m1.webp",
-    "after": "changes/2026-11-27-zechpreller-819/02-after-offline-propose-1280x800-n8-m1.webp"
+    "label": "Computer 1280×800: die Einsammler vorschlagen",
+    "img": "changes/2026-11-27-zechpreller-819/02-after-offline-propose-1280x800-n8-m1.webp"
    },
    {
-    "label": "Handy 390×844: Vorschlag",
-    "before": "changes/2026-11-27-zechpreller-819/03-before-offline-proposea-390x844-n8-m1.webp",
-    "after": "changes/2026-11-27-zechpreller-819/04-after-offline-propose-390x844-n8-m1.webp"
+    "label": "Handy 390×844: die Einsammler vorschlagen",
+    "img": "changes/2026-11-27-zechpreller-819/04-after-offline-propose-390x844-n8-m1.webp"
    }
   ],
   "sha": "375840f3"
