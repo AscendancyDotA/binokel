@@ -20546,5 +20546,39 @@
    }
   ],
   "sha": "ba11eb0a"
+ },
+ {
+  "id": "pk814-plates",
+  "date": "2026-11-27T15:24:00.314Z",
+  "title": "Entwurf: Poker zu sechst am kurzen Handy – die Schilder liegen nicht mehr aufeinander",
+  "text": "Entwurf – noch nicht im Spiel. Bei fünf oder sechs Spielern auf einem kurzen Handy stehen die Plätze links und rechts jetzt unter der oberen Reihe; Namen, Chips, Karten, Einsätze und Sprechblasen liegen auf keinem anderen Schild mehr, auch bei größter Schrift.",
+  "issue": "wirtshaus#537",
+  "rows": [
+   {
+    "label": "Showdown 405×720, größte Schrift",
+    "before": "changes/2026-11-27-pk814-plates/01-before-plates-405x720-tmax-6p-showall.webp",
+    "after": "changes/2026-11-27-pk814-plates/02-after-plates-405x720-tmax-6p-showall.webp"
+   },
+   {
+    "label": "Showdown 405×720, normale Schrift",
+    "before": "changes/2026-11-27-pk814-plates/03-before-plates-405x720-t1-6p-showall.webp",
+    "after": "changes/2026-11-27-pk814-plates/04-after-plates-405x720-t1-6p-showall.webp"
+   },
+   {
+    "label": "Showdown 360×740, größte Schrift",
+    "before": "changes/2026-11-27-pk814-plates/05-before-plates-360x740-tmax-6p-showall.webp",
+    "after": "changes/2026-11-27-pk814-plates/06-after-plates-360x740-tmax-6p-showall.webp"
+   },
+   {
+    "label": "Eigener Zug 405×720, größte Schrift",
+    "before": "changes/2026-11-27-pk814-plates/07-before-plates-405x720-tmax-6p-flop.webp",
+    "after": "changes/2026-11-27-pk814-plates/08-after-plates-405x720-tmax-6p-flop.webp"
+   },
+   {
+    "label": "390×844: das Fragezeichen steht neben „D“, nicht mehr auf dem eigenen Bild",
+    "img": "changes/2026-11-27-pk814-plates/09-img-plates-390x844-t1-6p-wait.webp"
+   }
+  ],
+  "sha": "dec0f3c5"
  }
 ]
