@@ -20707,5 +20707,23 @@
    }
   ],
   "sha": "6df9641e"
+ },
+ {
+  "id": "h825-haptik",
+  "date": "2026-11-27T19:47:15.312Z",
+  "title": "Entwurf: Vibration nach Wichtigkeit mit Probe",
+  "text": "Entwurf – noch nicht im Spiel. In den Einstellungen unter Ton & Vibration: Aus, Nur Wichtiges oder Alles, die Stärke für „du bist dran“ und eine Probe, in der du jede Art mit „fühlen“ spürst.",
+  "issue": "wirtshaus#543",
+  "rows": [
+   {
+    "label": "Handy 405×720",
+    "img": "changes/2026-11-27-h825-haptik/01-img-h825-after-405x720.webp"
+   },
+   {
+    "label": "Großer Touch-Bildschirm 1280×800",
+    "img": "changes/2026-11-27-h825-haptik/02-img-h825-after-1280x800.webp"
+   }
+  ],
+  "sha": "e8a4fba7"
  }
 ]
