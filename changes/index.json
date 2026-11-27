@@ -20303,55 +20303,6 @@
   "sha": "fa15a292"
  },
  {
-  "id": "binokel-gross-hochkant",
-  "date": "2026-11-27T00:55:44.264Z",
-  "title": "Entwurf: Binokel zu fünft, sechst und acht – kurzes Hochformat und Plätze am Tischrand",
-  "text": "Entwurf – noch nicht im Spiel. Im kurzen Hochformat stehen die Mitspieler oben in zwei Reihen, Dabb, Stich, Punkte und Knöpfe liegen nicht mehr übereinander. Am Computer sitzen West und Ost außen am Tischrand und der Spieler gegenüber oben an der Kante. Die Meldungen bleiben bei sechs und acht Spielern als Liste.",
-  "issue": "wirtshaus#530",
-  "rows": [
-   {
-    "label": "Hochkant 500×633, sechs Spieler, Reizen",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/01-before-on6-bidding-500x633-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/02-after-on6-bidding-500x633-c1.35.webp"
-   },
-   {
-    "label": "Hochkant 500×633, sechs Spieler, Kartenspiel",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/03-before-on6-playing-500x633-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/04-after-on6-playing-500x633-c1.35.webp"
-   },
-   {
-    "label": "Hochkant 405×720, acht Spieler, Kartenspiel",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/05-before-on8-playing-405x720-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/06-after-on8-playing-405x720-c1.35.webp"
-   },
-   {
-    "label": "Computer 1707×760, sechs Spieler",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/07-before-6-playing-1707x760-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/08-after-6-playing-1707x760-c1.35.webp"
-   },
-   {
-    "label": "Computer 1280×800, acht Spieler",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/09-before-8-bidding-1280x800-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/10-after-8-bidding-1280x800-c1.35.webp"
-   },
-   {
-    "label": "Handy quer 1138×507, sechs Spieler, Reizen (unverändert)",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/11-before-6-bidding-1138x507-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/12-after-6-bidding-1138x507-c1.35.webp"
-   },
-   {
-    "label": "Handy quer 1138×507, sechs Spieler, Meldungen als Liste (unverändert)",
-    "before": "changes/2026-11-27-binokel-gross-hochkant/13-before-on6-melds-1138x507-c1.35.webp",
-    "after": "changes/2026-11-27-binokel-gross-hochkant/14-after-on6-melds-1138x507-c1.35.webp"
-   },
-   {
-    "label": "Versuch, nicht übernommen: Meldungen auf dem Tisch bei 1280×800 – die von Nord und die eigenen liegen weit weg vom Platz",
-    "img": "changes/2026-11-27-binokel-gross-hochkant/15-img-on6-melds-1280x800-c1.35.webp"
-   }
-  ],
-  "sha": "ba11eb0a"
- },
- {
   "id": "sinnbilder804",
   "date": "2026-11-27T03:10:28.515Z",
   "title": "Sinnbilder – ein Zeichen-Satz für die ganze App",
@@ -20546,5 +20497,54 @@
    }
   ],
   "sha": "815921e2"
+ },
+ {
+  "id": "binokel-gross-hochkant",
+  "date": "2026-11-27T15:09:13.670Z",
+  "title": "Binokel zu fünft, sechst und acht – kurzes Hochformat und Plätze am Tischrand",
+  "text": "Im kurzen Hochformat stehen die Mitspieler oben in zwei Reihen, Dabb, Stich, Punkte und Knöpfe liegen nicht mehr übereinander. Am Computer sitzen West und Ost außen am Tischrand und der Spieler gegenüber oben an der Kante. Die Meldungen bleiben bei sechs und acht Spielern als Liste.",
+  "issue": "wirtshaus#530",
+  "rows": [
+   {
+    "label": "Hochkant 500×633, sechs Spieler, Reizen",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/01-before-on6-bidding-500x633-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/02-after-on6-bidding-500x633-c1.35.webp"
+   },
+   {
+    "label": "Hochkant 500×633, sechs Spieler, Kartenspiel",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/03-before-on6-playing-500x633-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/04-after-on6-playing-500x633-c1.35.webp"
+   },
+   {
+    "label": "Hochkant 405×720, acht Spieler, Kartenspiel",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/05-before-on8-playing-405x720-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/06-after-on8-playing-405x720-c1.35.webp"
+   },
+   {
+    "label": "Computer 1707×760, sechs Spieler",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/07-before-6-playing-1707x760-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/08-after-6-playing-1707x760-c1.35.webp"
+   },
+   {
+    "label": "Computer 1280×800, acht Spieler",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/09-before-8-bidding-1280x800-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/10-after-8-bidding-1280x800-c1.35.webp"
+   },
+   {
+    "label": "Handy quer 1138×507, sechs Spieler, Reizen (unverändert)",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/11-before-6-bidding-1138x507-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/12-after-6-bidding-1138x507-c1.35.webp"
+   },
+   {
+    "label": "Handy quer 1138×507, sechs Spieler, Meldungen als Liste (unverändert)",
+    "before": "changes/2026-11-27-binokel-gross-hochkant/13-before-on6-melds-1138x507-c1.35.webp",
+    "after": "changes/2026-11-27-binokel-gross-hochkant/14-after-on6-melds-1138x507-c1.35.webp"
+   },
+   {
+    "label": "Versuch, nicht übernommen: Meldungen auf dem Tisch bei 1280×800 – die von Nord und die eigenen liegen weit weg vom Platz",
+    "img": "changes/2026-11-27-binokel-gross-hochkant/15-img-on6-melds-1280x800-c1.35.webp"
+   }
+  ],
+  "sha": "ba11eb0a"
  }
 ]
