@@ -20678,10 +20678,6 @@
   "issue": "wirtshaus#540",
   "rows": [
    {
-    "label": "Handy 390×844: Vorschlag",
-    "img": "changes/2026-11-27-zechpreller-819/01-img-offline-proposea-390x844-n8-m1.webp"
-   },
-   {
     "label": "Handy 390×844: Abstimmung",
     "img": "changes/2026-11-27-zechpreller-819/02-img-offline-votea-390x844-n8-m1.webp"
    },
@@ -20696,10 +20692,6 @@
    {
     "label": "Acht Gäste, 405×720",
     "img": "changes/2026-11-27-zechpreller-819/05-img-offline-voteb-405x720-n8-m1.webp"
-   },
-   {
-    "label": "Desktop 1280×800",
-    "img": "changes/2026-11-27-zechpreller-819/06-img-offline-votec-1280x800-n8-m1.webp"
    },
    {
     "label": "Partie vorbei",
