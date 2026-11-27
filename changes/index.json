@@ -20725,5 +20725,30 @@
    }
   ],
   "sha": "e8a4fba7"
+ },
+ {
+  "id": "vortisch823",
+  "date": "2026-11-27T20:30:24.923Z",
+  "title": "Allein mit Bots: der Tisch wartet auf „Bereit“, statt nach 4 Sekunden loszulegen",
+  "text": "An Tischen ohne Taler-Einsatz (Kurve, Poker, ungewertete Runden) blitzte der Vortisch allein mit Bots nur 4 Sekunden auf und gab dann von selbst. Jetzt wartet er überall gleich bis zu zwei Minuten auf „Bereit“ – ein Tipp darauf gibt sofort.",
+  "issue": "wirtshaus#541",
+  "rows": [
+   {
+    "label": "Kurve am Handy",
+    "before": "changes/2026-11-27-vortisch823/01-before-before-kurve-phone.webp",
+    "after": "changes/2026-11-27-vortisch823/02-after-after-kurve-phone.webp"
+   },
+   {
+    "label": "Poker am Handy",
+    "before": "changes/2026-11-27-vortisch823/03-before-before-poker-phone.webp",
+    "after": "changes/2026-11-27-vortisch823/04-after-after-poker-phone.webp"
+   },
+   {
+    "label": "Binokel ohne Wertung am Bildschirm",
+    "before": "changes/2026-11-27-vortisch823/05-before-before-binokel-unranked-desk.webp",
+    "after": "changes/2026-11-27-vortisch823/06-after-after-binokel-unranked-desk.webp"
+   }
+  ],
+  "sha": "15a732c9"
  }
 ]
