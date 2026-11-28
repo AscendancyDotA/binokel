@@ -20794,5 +20794,35 @@
    }
   ],
   "sha": "52763fe0"
+ },
+ {
+  "id": "raetsel-store",
+  "date": "2026-11-28T04:59:38.364Z",
+  "title": "Entwurf: Rätsel des Tages – Brett, Züge und Knopf passen aufs Handy",
+  "text": "Entwurf – noch nicht im Spiel. Auf kleinen Handys passen beim Rätsel des Tages Brett, Züge und der Knopf zum Bestätigen jetzt unter die Frage, beim Scrollen scheint über der Frage nichts mehr durch, und auf dem Tablet quer steht das Brett links neben der Antwort. Die Store-Bilder zeigen den neuen Rätsel-Bildschirm.",
+  "issue": "wirtshaus#547",
+  "rows": [
+   {
+    "label": "Mühle, Handy",
+    "before": "changes/2026-11-28-raetsel-store/01-before-muehle-before.webp",
+    "after": "changes/2026-11-28-raetsel-store/02-after-muehle-after.webp"
+   },
+   {
+    "label": "Schwimmen, Handy (gescrollt)",
+    "before": "changes/2026-11-28-raetsel-store/03-before-schwimmen-before.webp",
+    "after": "changes/2026-11-28-raetsel-store/04-after-schwimmen-after.webp"
+   },
+   {
+    "label": "Skat, Store-Bild",
+    "before": "changes/2026-11-28-raetsel-store/05-before-skat-before.webp",
+    "after": "changes/2026-11-28-raetsel-store/06-after-skat-after.webp"
+   },
+   {
+    "label": "Wirtshaus, Tablet quer",
+    "before": "changes/2026-11-28-raetsel-store/07-before-wh-before.webp",
+    "after": "changes/2026-11-28-raetsel-store/08-after-wh-after.webp"
+   }
+  ],
+  "sha": "ebac5e52"
  }
 ]
