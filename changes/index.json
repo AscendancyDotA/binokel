@@ -20764,5 +20764,35 @@
    }
   ],
   "sha": "48ee1a25"
+ },
+ {
+  "id": "canasta-melds-phone",
+  "date": "2026-11-28T04:18:23.055Z",
+  "title": "Entwurf: Canasta – Auslagen am Handy lesbar",
+  "text": "Entwurf – noch nicht im Spiel. Am Hochkant-Handy waren die ausgelegten Karten beider Seiten nur ein grauer Streifen, sobald die Hand zwei Reihen brauchte. Jetzt stehen die Seitenplätze oben, die Auslagen bekommen die Höhe, liegen bei wenigen Meldungen nebeneinander, und was nicht mehr passt, zeigt „▾ 1 weitere“.",
+  "issue": "wirtshaus#546",
+  "rows": [
+   {
+    "label": "Lernrunde 405×720",
+    "before": "changes/2026-11-28-canasta-melds-phone/01-before-beforeshots-learn-405x720.webp",
+    "after": "changes/2026-11-28-canasta-melds-phone/02-after-aftershots-learn-405x720.webp"
+   },
+   {
+    "label": "Späte Runde 405×720",
+    "before": "changes/2026-11-28-canasta-melds-phone/03-before-beforeshots-s13-5-6-c-405x720.webp",
+    "after": "changes/2026-11-28-canasta-melds-phone/04-after-aftershots-s13-5-6-c-405x720.webp"
+   },
+   {
+    "label": "Lernrunde 360×740",
+    "before": "changes/2026-11-28-canasta-melds-phone/05-before-beforeshots-learn-360x740.webp",
+    "after": "changes/2026-11-28-canasta-melds-phone/06-after-aftershots-learn-360x740.webp"
+   },
+   {
+    "label": "Späte Runde 360×740",
+    "before": "changes/2026-11-28-canasta-melds-phone/07-before-beforeshots-s13-5-6-c-360x740.webp",
+    "after": "changes/2026-11-28-canasta-melds-phone/08-after-aftershots-s13-5-6-c-360x740.webp"
+   }
+  ],
+  "sha": "52763fe0"
  }
 ]
